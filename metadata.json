@@ -1,13 +1,6 @@
 {
-  "version": "V9_three_quizzes_with_eu_competitor_buttons",
+  "version": "V8.1",
   "traditionsPool": 30,
   "culinaryPool": 50,
-  "euPool": 30,
-  "quizLength": 10,
-  "languages": [
-    "fr",
-    "en",
-    "nl"
-  ],
-  "generated": "2026-06-30T16:01:05.214370+00:00"
+  "quizLength": 10
 }

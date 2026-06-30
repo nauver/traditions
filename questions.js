@@ -3,9 +3,8 @@ const UI={
     "title": "Europe’s Traditions Challenge",
     "traditions": "Traditions of Europe",
     "culinary": "Curiosités culinaires",
-    "eu": "Quiz EU avec boutons concurrents",
     "homeTitle": "Choisissez votre quiz",
-    "homeSub": "Trois modes de jeu, 10 questions aléatoires par partie.",
+    "homeSub": "Deux modes de jeu, 10 questions aléatoires par partie.",
     "start": "Commencer",
     "question": "Question",
     "of": "sur",
@@ -22,23 +21,19 @@ const UI={
     "finalScore": "Score final",
     "restart": "Rejouer",
     "menu": "Retour au menu",
-    "expert": "Expert",
-    "enthusiast": "Très bon score",
-    "traveller": "Bon score",
-    "discoverer": "À améliorer",
-    "beginner": "Débutant",
-    "summary": "Votre niveau",
-    "buzzA": "Concurrent A",
-    "buzzB": "Concurrent B",
-    "buzz": "Buzzers concurrents"
+    "expert": "European Food Legend",
+    "enthusiast": "Gourmet Explorer",
+    "traveller": "Culinary Traveller",
+    "discoverer": "Curious Taster",
+    "beginner": "Safe Eater",
+    "summary": "Votre niveau"
   },
   "en": {
     "title": "Europe’s Traditions Challenge",
     "traditions": "Traditions of Europe",
     "culinary": "Culinary Curiosities",
-    "eu": "EU Quiz with competitor buttons",
     "homeTitle": "Choose your quiz",
-    "homeSub": "Three game modes, 10 random questions per game.",
+    "homeSub": "Two game modes, 10 random questions per game.",
     "start": "Start",
     "question": "Question",
     "of": "of",
@@ -55,23 +50,19 @@ const UI={
     "finalScore": "Final score",
     "restart": "Play again",
     "menu": "Return to menu",
-    "expert": "Expert",
-    "enthusiast": "Very good score",
-    "traveller": "Good score",
-    "discoverer": "Needs improvement",
-    "beginner": "Beginner",
-    "summary": "Your level",
-    "buzzA": "Competitor A",
-    "buzzB": "Competitor B",
-    "buzz": "Competitor buzzers"
+    "expert": "European Food Legend",
+    "enthusiast": "Gourmet Explorer",
+    "traveller": "Culinary Traveller",
+    "discoverer": "Curious Taster",
+    "beginner": "Safe Eater",
+    "summary": "Your level"
   },
   "nl": {
     "title": "Europe’s Traditions Challenge",
     "traditions": "Traditions of Europe",
     "culinary": "Culinaire curiositeiten",
-    "eu": "EU Quiz met concurrentknoppen",
     "homeTitle": "Kies je quiz",
-    "homeSub": "Drie spelmodi, 10 willekeurige vragen per spel.",
+    "homeSub": "Twee spelmodi, 10 willekeurige vragen per spel.",
     "start": "Start",
     "question": "Vraag",
     "of": "van",
@@ -88,15 +79,12 @@ const UI={
     "finalScore": "Eindscore",
     "restart": "Opnieuw spelen",
     "menu": "Terug naar menu",
-    "expert": "Expert",
-    "enthusiast": "Zeer goede score",
-    "traveller": "Goede score",
-    "discoverer": "Kan beter",
-    "beginner": "Beginner",
-    "summary": "Jouw niveau",
-    "buzzA": "Concurrent A",
-    "buzzB": "Concurrent B",
-    "buzz": "Concurrentknoppen"
+    "expert": "European Food Legend",
+    "enthusiast": "Gourmet Explorer",
+    "traveller": "Culinary Traveller",
+    "discoverer": "Curious Taster",
+    "beginner": "Safe Eater",
+    "summary": "Jouw niveau"
   }
 };
 const TRADITIONS_30=[
@@ -108,6 +96,16 @@ const TRADITIONS_30=[
       "en": "El Colacho",
       "nl": "El Colacho"
     },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
+    },
     "scenario": {
       "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
       "en": "Costumed participants jump over babies lying on mattresses.",
@@ -148,142 +146,25 @@ const TRADITIONS_30=[
       "en": "Costumed participants perform a symbolic jump during old local celebrations.",
       "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
     },
-    "country": {
-      "fr": "Espagne",
-      "en": "Espagne",
-      "nl": "Espagne"
-    },
-    "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia"
-    }
+    "kind": "country"
   },
   {
     "id": "t002",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Pêche aux crevettes à cheval",
-      "nl": "Pêche aux crevettes à cheval"
-    },
-    "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
-    },
-    "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
-    },
-    "answers": {
-      "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
-      ],
-      "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
-      ],
-      "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
-    },
-    "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
-      "en": "The horses pull nets through shallow water.",
-      "nl": "De paarden trekken netten door ondiep water."
-    },
-    "country": {
-      "fr": "Belgique",
-      "en": "Belgique",
-      "nl": "Belgique"
-    },
-    "region": {
-      "fr": "Oostduinkerke",
-      "en": "Oostduinkerke",
-      "nl": "Oostduinkerke"
-    }
-  },
-  {
-    "id": "t003",
-    "mode": "traditions",
-    "traditionName": {
-      "fr": "La Tomatina",
-      "en": "La Tomatina",
-      "nl": "La Tomatina"
-    },
-    "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates.",
-      "en": "Thousands of people throw tomatoes at each other.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar."
-    },
-    "question": {
-      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
-      "en": "In which country does this red battle take place?",
-      "nl": "In welk land vindt dit rode gevecht plaats?"
-    },
-    "answers": {
-      "fr": [
-        "Portugal",
-        "Espagne",
-        "Italie",
-        "Croatie"
-      ],
-      "en": [
-        "Portugal",
-        "Spain",
-        "Italy",
-        "Croatia"
-      ],
-      "nl": [
-        "Portugal",
-        "Spanje",
-        "Italië",
-        "Kroatië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "explanation": {
-      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
-      "en": "This festival turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
-    },
-    "country": {
-      "fr": "Espagne",
-      "en": "Espagne",
-      "nl": "Espagne"
-    },
-    "region": {
-      "fr": "Buñol",
-      "en": "Buñol",
-      "nl": "Buñol"
-    }
-  },
-  {
-    "id": "t004",
-    "mode": "traditions",
-    "traditionName": {
       "fr": "Championnat de portage de partenaire",
       "en": "Championnat de portage de partenaire",
       "nl": "Championnat de portage de partenaire"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Sonkajärvi",
+      "en": "Sonkajärvi",
+      "nl": "Sonkajärvi"
     },
     "scenario": {
       "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
@@ -325,16 +206,127 @@ const TRADITIONS_30=[
       "en": "The format combines speed, obstacles and balance.",
       "nl": "De formule combineert snelheid, hindernissen en evenwicht."
     },
+    "kind": "country"
+  },
+  {
+    "id": "t003",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Pêche aux crevettes à cheval",
+      "nl": "Pêche aux crevettes à cheval"
+    },
     "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Sonkajärvi",
-      "en": "Sonkajärvi",
-      "nl": "Sonkajärvi"
-    }
+      "fr": "Oostduinkerke",
+      "en": "Oostduinkerke",
+      "nl": "Oostduinkerke"
+    },
+    "scenario": {
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+    },
+    "question": {
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
+    },
+    "answers": {
+      "fr": [
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
+      ],
+      "en": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
+      ],
+      "nl": [
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "explanation": {
+      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
+      "en": "The horses pull nets through shallow water.",
+      "nl": "De paarden trekken netten door ondiep water."
+    },
+    "kind": "country"
+  },
+  {
+    "id": "t004",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "La Tomatina",
+      "en": "La Tomatina",
+      "nl": "La Tomatina"
+    },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Buñol",
+      "en": "Buñol",
+      "nl": "Buñol"
+    },
+    "scenario": {
+      "fr": "Des milliers de personnes se lancent des tomates.",
+      "en": "Thousands of people throw tomatoes at each other.",
+      "nl": "Duizenden mensen gooien tomaten naar elkaar."
+    },
+    "question": {
+      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
+      "en": "In which country does this red battle take place?",
+      "nl": "In welk land vindt dit rode gevecht plaats?"
+    },
+    "answers": {
+      "fr": [
+        "Portugal",
+        "Espagne",
+        "Italie",
+        "Croatie"
+      ],
+      "en": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "Croatia"
+      ],
+      "nl": [
+        "Portugal",
+        "Spanje",
+        "Italië",
+        "Kroatië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "explanation": {
+      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
+      "en": "This festival turns the streets into a huge tomato battle.",
+      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
+    },
+    "kind": "country"
   },
   {
     "id": "t005",
@@ -344,6 +336,16 @@ const TRADITIONS_30=[
       "en": "Bataille des oranges",
       "nl": "Bataille des oranges"
     },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Ivrea",
+      "en": "Ivrea",
+      "nl": "Ivrea"
+    },
     "scenario": {
       "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
       "en": "During a carnival, teams throw oranges at each other.",
@@ -384,16 +386,7 @@ const TRADITIONS_30=[
       "en": "Teams face each other in a carnival setting.",
       "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
     },
-    "country": {
-      "fr": "Italie",
-      "en": "Italie",
-      "nl": "Italie"
-    },
-    "region": {
-      "fr": "Ivrea",
-      "en": "Ivrea",
-      "nl": "Ivrea"
-    }
+    "kind": "country"
   },
   {
     "id": "t006",
@@ -403,6 +396,16 @@ const TRADITIONS_30=[
       "en": "El Colacho",
       "nl": "El Colacho"
     },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
+    },
     "scenario": {
       "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
       "en": "Costumed participants jump over babies lying on mattresses.",
@@ -443,142 +446,25 @@ const TRADITIONS_30=[
       "en": "Costumed participants perform a symbolic jump during old local celebrations.",
       "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
     },
-    "country": {
-      "fr": "Espagne",
-      "en": "Espagne",
-      "nl": "Espagne"
-    },
-    "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia"
-    }
+    "kind": "country"
   },
   {
     "id": "t007",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Pêche aux crevettes à cheval",
-      "nl": "Pêche aux crevettes à cheval"
-    },
-    "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
-    },
-    "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
-    },
-    "answers": {
-      "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
-      ],
-      "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
-      ],
-      "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
-    },
-    "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
-      "en": "The horses pull nets through shallow water.",
-      "nl": "De paarden trekken netten door ondiep water."
-    },
-    "country": {
-      "fr": "Belgique",
-      "en": "Belgique",
-      "nl": "Belgique"
-    },
-    "region": {
-      "fr": "Oostduinkerke",
-      "en": "Oostduinkerke",
-      "nl": "Oostduinkerke"
-    }
-  },
-  {
-    "id": "t008",
-    "mode": "traditions",
-    "traditionName": {
-      "fr": "La Tomatina",
-      "en": "La Tomatina",
-      "nl": "La Tomatina"
-    },
-    "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates.",
-      "en": "Thousands of people throw tomatoes at each other.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar."
-    },
-    "question": {
-      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
-      "en": "In which country does this red battle take place?",
-      "nl": "In welk land vindt dit rode gevecht plaats?"
-    },
-    "answers": {
-      "fr": [
-        "Portugal",
-        "Espagne",
-        "Italie",
-        "Croatie"
-      ],
-      "en": [
-        "Portugal",
-        "Spain",
-        "Italy",
-        "Croatia"
-      ],
-      "nl": [
-        "Portugal",
-        "Spanje",
-        "Italië",
-        "Kroatië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "explanation": {
-      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
-      "en": "This festival turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
-    },
-    "country": {
-      "fr": "Espagne",
-      "en": "Espagne",
-      "nl": "Espagne"
-    },
-    "region": {
-      "fr": "Buñol",
-      "en": "Buñol",
-      "nl": "Buñol"
-    }
-  },
-  {
-    "id": "t009",
-    "mode": "traditions",
-    "traditionName": {
       "fr": "Championnat de portage de partenaire",
       "en": "Championnat de portage de partenaire",
       "nl": "Championnat de portage de partenaire"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Sonkajärvi",
+      "en": "Sonkajärvi",
+      "nl": "Sonkajärvi"
     },
     "scenario": {
       "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
@@ -620,16 +506,127 @@ const TRADITIONS_30=[
       "en": "The format combines speed, obstacles and balance.",
       "nl": "De formule combineert snelheid, hindernissen en evenwicht."
     },
+    "kind": "country"
+  },
+  {
+    "id": "t008",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Pêche aux crevettes à cheval",
+      "nl": "Pêche aux crevettes à cheval"
+    },
     "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Sonkajärvi",
-      "en": "Sonkajärvi",
-      "nl": "Sonkajärvi"
-    }
+      "fr": "Oostduinkerke",
+      "en": "Oostduinkerke",
+      "nl": "Oostduinkerke"
+    },
+    "scenario": {
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+    },
+    "question": {
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
+    },
+    "answers": {
+      "fr": [
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
+      ],
+      "en": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
+      ],
+      "nl": [
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "explanation": {
+      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
+      "en": "The horses pull nets through shallow water.",
+      "nl": "De paarden trekken netten door ondiep water."
+    },
+    "kind": "country"
+  },
+  {
+    "id": "t009",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "La Tomatina",
+      "en": "La Tomatina",
+      "nl": "La Tomatina"
+    },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Buñol",
+      "en": "Buñol",
+      "nl": "Buñol"
+    },
+    "scenario": {
+      "fr": "Des milliers de personnes se lancent des tomates.",
+      "en": "Thousands of people throw tomatoes at each other.",
+      "nl": "Duizenden mensen gooien tomaten naar elkaar."
+    },
+    "question": {
+      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
+      "en": "In which country does this red battle take place?",
+      "nl": "In welk land vindt dit rode gevecht plaats?"
+    },
+    "answers": {
+      "fr": [
+        "Portugal",
+        "Espagne",
+        "Italie",
+        "Croatie"
+      ],
+      "en": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "Croatia"
+      ],
+      "nl": [
+        "Portugal",
+        "Spanje",
+        "Italië",
+        "Kroatië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "explanation": {
+      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
+      "en": "This festival turns the streets into a huge tomato battle.",
+      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
+    },
+    "kind": "country"
   },
   {
     "id": "t010",
@@ -639,6 +636,16 @@ const TRADITIONS_30=[
       "en": "Bataille des oranges",
       "nl": "Bataille des oranges"
     },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Ivrea",
+      "en": "Ivrea",
+      "nl": "Ivrea"
+    },
     "scenario": {
       "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
       "en": "During a carnival, teams throw oranges at each other.",
@@ -679,16 +686,7 @@ const TRADITIONS_30=[
       "en": "Teams face each other in a carnival setting.",
       "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
     },
-    "country": {
-      "fr": "Italie",
-      "en": "Italie",
-      "nl": "Italie"
-    },
-    "region": {
-      "fr": "Ivrea",
-      "en": "Ivrea",
-      "nl": "Ivrea"
-    }
+    "kind": "country"
   },
   {
     "id": "t011",
@@ -698,6 +696,16 @@ const TRADITIONS_30=[
       "en": "El Colacho",
       "nl": "El Colacho"
     },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
+    },
     "scenario": {
       "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
       "en": "Costumed participants jump over babies lying on mattresses.",
@@ -738,142 +746,25 @@ const TRADITIONS_30=[
       "en": "Costumed participants perform a symbolic jump during old local celebrations.",
       "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
     },
-    "country": {
-      "fr": "Espagne",
-      "en": "Espagne",
-      "nl": "Espagne"
-    },
-    "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia"
-    }
+    "kind": "country"
   },
   {
     "id": "t012",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Pêche aux crevettes à cheval",
-      "nl": "Pêche aux crevettes à cheval"
-    },
-    "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
-    },
-    "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
-    },
-    "answers": {
-      "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
-      ],
-      "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
-      ],
-      "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
-    },
-    "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
-      "en": "The horses pull nets through shallow water.",
-      "nl": "De paarden trekken netten door ondiep water."
-    },
-    "country": {
-      "fr": "Belgique",
-      "en": "Belgique",
-      "nl": "Belgique"
-    },
-    "region": {
-      "fr": "Oostduinkerke",
-      "en": "Oostduinkerke",
-      "nl": "Oostduinkerke"
-    }
-  },
-  {
-    "id": "t013",
-    "mode": "traditions",
-    "traditionName": {
-      "fr": "La Tomatina",
-      "en": "La Tomatina",
-      "nl": "La Tomatina"
-    },
-    "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates.",
-      "en": "Thousands of people throw tomatoes at each other.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar."
-    },
-    "question": {
-      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
-      "en": "In which country does this red battle take place?",
-      "nl": "In welk land vindt dit rode gevecht plaats?"
-    },
-    "answers": {
-      "fr": [
-        "Portugal",
-        "Espagne",
-        "Italie",
-        "Croatie"
-      ],
-      "en": [
-        "Portugal",
-        "Spain",
-        "Italy",
-        "Croatia"
-      ],
-      "nl": [
-        "Portugal",
-        "Spanje",
-        "Italië",
-        "Kroatië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "explanation": {
-      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
-      "en": "This festival turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
-    },
-    "country": {
-      "fr": "Espagne",
-      "en": "Espagne",
-      "nl": "Espagne"
-    },
-    "region": {
-      "fr": "Buñol",
-      "en": "Buñol",
-      "nl": "Buñol"
-    }
-  },
-  {
-    "id": "t014",
-    "mode": "traditions",
-    "traditionName": {
       "fr": "Championnat de portage de partenaire",
       "en": "Championnat de portage de partenaire",
       "nl": "Championnat de portage de partenaire"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Sonkajärvi",
+      "en": "Sonkajärvi",
+      "nl": "Sonkajärvi"
     },
     "scenario": {
       "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
@@ -915,16 +806,127 @@ const TRADITIONS_30=[
       "en": "The format combines speed, obstacles and balance.",
       "nl": "De formule combineert snelheid, hindernissen en evenwicht."
     },
+    "kind": "country"
+  },
+  {
+    "id": "t013",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Pêche aux crevettes à cheval",
+      "nl": "Pêche aux crevettes à cheval"
+    },
     "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Sonkajärvi",
-      "en": "Sonkajärvi",
-      "nl": "Sonkajärvi"
-    }
+      "fr": "Oostduinkerke",
+      "en": "Oostduinkerke",
+      "nl": "Oostduinkerke"
+    },
+    "scenario": {
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+    },
+    "question": {
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
+    },
+    "answers": {
+      "fr": [
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
+      ],
+      "en": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
+      ],
+      "nl": [
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "explanation": {
+      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
+      "en": "The horses pull nets through shallow water.",
+      "nl": "De paarden trekken netten door ondiep water."
+    },
+    "kind": "country"
+  },
+  {
+    "id": "t014",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "La Tomatina",
+      "en": "La Tomatina",
+      "nl": "La Tomatina"
+    },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Buñol",
+      "en": "Buñol",
+      "nl": "Buñol"
+    },
+    "scenario": {
+      "fr": "Des milliers de personnes se lancent des tomates.",
+      "en": "Thousands of people throw tomatoes at each other.",
+      "nl": "Duizenden mensen gooien tomaten naar elkaar."
+    },
+    "question": {
+      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
+      "en": "In which country does this red battle take place?",
+      "nl": "In welk land vindt dit rode gevecht plaats?"
+    },
+    "answers": {
+      "fr": [
+        "Portugal",
+        "Espagne",
+        "Italie",
+        "Croatie"
+      ],
+      "en": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "Croatia"
+      ],
+      "nl": [
+        "Portugal",
+        "Spanje",
+        "Italië",
+        "Kroatië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "explanation": {
+      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
+      "en": "This festival turns the streets into a huge tomato battle.",
+      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
+    },
+    "kind": "country"
   },
   {
     "id": "t015",
@@ -934,6 +936,16 @@ const TRADITIONS_30=[
       "en": "Bataille des oranges",
       "nl": "Bataille des oranges"
     },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Ivrea",
+      "en": "Ivrea",
+      "nl": "Ivrea"
+    },
     "scenario": {
       "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
       "en": "During a carnival, teams throw oranges at each other.",
@@ -974,16 +986,7 @@ const TRADITIONS_30=[
       "en": "Teams face each other in a carnival setting.",
       "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
     },
-    "country": {
-      "fr": "Italie",
-      "en": "Italie",
-      "nl": "Italie"
-    },
-    "region": {
-      "fr": "Ivrea",
-      "en": "Ivrea",
-      "nl": "Ivrea"
-    }
+    "kind": "country"
   },
   {
     "id": "t016",
@@ -993,6 +996,16 @@ const TRADITIONS_30=[
       "en": "El Colacho",
       "nl": "El Colacho"
     },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
+    },
     "scenario": {
       "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
       "en": "Costumed participants jump over babies lying on mattresses.",
@@ -1033,142 +1046,25 @@ const TRADITIONS_30=[
       "en": "Costumed participants perform a symbolic jump during old local celebrations.",
       "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
     },
-    "country": {
-      "fr": "Espagne",
-      "en": "Espagne",
-      "nl": "Espagne"
-    },
-    "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia"
-    }
+    "kind": "country"
   },
   {
     "id": "t017",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Pêche aux crevettes à cheval",
-      "nl": "Pêche aux crevettes à cheval"
-    },
-    "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
-    },
-    "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
-    },
-    "answers": {
-      "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
-      ],
-      "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
-      ],
-      "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
-    },
-    "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
-      "en": "The horses pull nets through shallow water.",
-      "nl": "De paarden trekken netten door ondiep water."
-    },
-    "country": {
-      "fr": "Belgique",
-      "en": "Belgique",
-      "nl": "Belgique"
-    },
-    "region": {
-      "fr": "Oostduinkerke",
-      "en": "Oostduinkerke",
-      "nl": "Oostduinkerke"
-    }
-  },
-  {
-    "id": "t018",
-    "mode": "traditions",
-    "traditionName": {
-      "fr": "La Tomatina",
-      "en": "La Tomatina",
-      "nl": "La Tomatina"
-    },
-    "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates.",
-      "en": "Thousands of people throw tomatoes at each other.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar."
-    },
-    "question": {
-      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
-      "en": "In which country does this red battle take place?",
-      "nl": "In welk land vindt dit rode gevecht plaats?"
-    },
-    "answers": {
-      "fr": [
-        "Portugal",
-        "Espagne",
-        "Italie",
-        "Croatie"
-      ],
-      "en": [
-        "Portugal",
-        "Spain",
-        "Italy",
-        "Croatia"
-      ],
-      "nl": [
-        "Portugal",
-        "Spanje",
-        "Italië",
-        "Kroatië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "explanation": {
-      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
-      "en": "This festival turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
-    },
-    "country": {
-      "fr": "Espagne",
-      "en": "Espagne",
-      "nl": "Espagne"
-    },
-    "region": {
-      "fr": "Buñol",
-      "en": "Buñol",
-      "nl": "Buñol"
-    }
-  },
-  {
-    "id": "t019",
-    "mode": "traditions",
-    "traditionName": {
       "fr": "Championnat de portage de partenaire",
       "en": "Championnat de portage de partenaire",
       "nl": "Championnat de portage de partenaire"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Sonkajärvi",
+      "en": "Sonkajärvi",
+      "nl": "Sonkajärvi"
     },
     "scenario": {
       "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
@@ -1210,16 +1106,127 @@ const TRADITIONS_30=[
       "en": "The format combines speed, obstacles and balance.",
       "nl": "De formule combineert snelheid, hindernissen en evenwicht."
     },
+    "kind": "country"
+  },
+  {
+    "id": "t018",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Pêche aux crevettes à cheval",
+      "nl": "Pêche aux crevettes à cheval"
+    },
     "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Sonkajärvi",
-      "en": "Sonkajärvi",
-      "nl": "Sonkajärvi"
-    }
+      "fr": "Oostduinkerke",
+      "en": "Oostduinkerke",
+      "nl": "Oostduinkerke"
+    },
+    "scenario": {
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+    },
+    "question": {
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
+    },
+    "answers": {
+      "fr": [
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
+      ],
+      "en": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
+      ],
+      "nl": [
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "explanation": {
+      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
+      "en": "The horses pull nets through shallow water.",
+      "nl": "De paarden trekken netten door ondiep water."
+    },
+    "kind": "country"
+  },
+  {
+    "id": "t019",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "La Tomatina",
+      "en": "La Tomatina",
+      "nl": "La Tomatina"
+    },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Buñol",
+      "en": "Buñol",
+      "nl": "Buñol"
+    },
+    "scenario": {
+      "fr": "Des milliers de personnes se lancent des tomates.",
+      "en": "Thousands of people throw tomatoes at each other.",
+      "nl": "Duizenden mensen gooien tomaten naar elkaar."
+    },
+    "question": {
+      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
+      "en": "In which country does this red battle take place?",
+      "nl": "In welk land vindt dit rode gevecht plaats?"
+    },
+    "answers": {
+      "fr": [
+        "Portugal",
+        "Espagne",
+        "Italie",
+        "Croatie"
+      ],
+      "en": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "Croatia"
+      ],
+      "nl": [
+        "Portugal",
+        "Spanje",
+        "Italië",
+        "Kroatië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "explanation": {
+      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
+      "en": "This festival turns the streets into a huge tomato battle.",
+      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
+    },
+    "kind": "country"
   },
   {
     "id": "t020",
@@ -1229,6 +1236,16 @@ const TRADITIONS_30=[
       "en": "Bataille des oranges",
       "nl": "Bataille des oranges"
     },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Ivrea",
+      "en": "Ivrea",
+      "nl": "Ivrea"
+    },
     "scenario": {
       "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
       "en": "During a carnival, teams throw oranges at each other.",
@@ -1269,16 +1286,7 @@ const TRADITIONS_30=[
       "en": "Teams face each other in a carnival setting.",
       "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
     },
-    "country": {
-      "fr": "Italie",
-      "en": "Italie",
-      "nl": "Italie"
-    },
-    "region": {
-      "fr": "Ivrea",
-      "en": "Ivrea",
-      "nl": "Ivrea"
-    }
+    "kind": "country"
   },
   {
     "id": "t021",
@@ -1288,6 +1296,16 @@ const TRADITIONS_30=[
       "en": "El Colacho",
       "nl": "El Colacho"
     },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
+    },
     "scenario": {
       "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
       "en": "Costumed participants jump over babies lying on mattresses.",
@@ -1328,142 +1346,25 @@ const TRADITIONS_30=[
       "en": "Costumed participants perform a symbolic jump during old local celebrations.",
       "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
     },
-    "country": {
-      "fr": "Espagne",
-      "en": "Espagne",
-      "nl": "Espagne"
-    },
-    "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia"
-    }
+    "kind": "country"
   },
   {
     "id": "t022",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Pêche aux crevettes à cheval",
-      "nl": "Pêche aux crevettes à cheval"
-    },
-    "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
-    },
-    "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
-    },
-    "answers": {
-      "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
-      ],
-      "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
-      ],
-      "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
-    },
-    "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
-      "en": "The horses pull nets through shallow water.",
-      "nl": "De paarden trekken netten door ondiep water."
-    },
-    "country": {
-      "fr": "Belgique",
-      "en": "Belgique",
-      "nl": "Belgique"
-    },
-    "region": {
-      "fr": "Oostduinkerke",
-      "en": "Oostduinkerke",
-      "nl": "Oostduinkerke"
-    }
-  },
-  {
-    "id": "t023",
-    "mode": "traditions",
-    "traditionName": {
-      "fr": "La Tomatina",
-      "en": "La Tomatina",
-      "nl": "La Tomatina"
-    },
-    "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates.",
-      "en": "Thousands of people throw tomatoes at each other.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar."
-    },
-    "question": {
-      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
-      "en": "In which country does this red battle take place?",
-      "nl": "In welk land vindt dit rode gevecht plaats?"
-    },
-    "answers": {
-      "fr": [
-        "Portugal",
-        "Espagne",
-        "Italie",
-        "Croatie"
-      ],
-      "en": [
-        "Portugal",
-        "Spain",
-        "Italy",
-        "Croatia"
-      ],
-      "nl": [
-        "Portugal",
-        "Spanje",
-        "Italië",
-        "Kroatië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "explanation": {
-      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
-      "en": "This festival turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
-    },
-    "country": {
-      "fr": "Espagne",
-      "en": "Espagne",
-      "nl": "Espagne"
-    },
-    "region": {
-      "fr": "Buñol",
-      "en": "Buñol",
-      "nl": "Buñol"
-    }
-  },
-  {
-    "id": "t024",
-    "mode": "traditions",
-    "traditionName": {
       "fr": "Championnat de portage de partenaire",
       "en": "Championnat de portage de partenaire",
       "nl": "Championnat de portage de partenaire"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Sonkajärvi",
+      "en": "Sonkajärvi",
+      "nl": "Sonkajärvi"
     },
     "scenario": {
       "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
@@ -1505,16 +1406,127 @@ const TRADITIONS_30=[
       "en": "The format combines speed, obstacles and balance.",
       "nl": "De formule combineert snelheid, hindernissen en evenwicht."
     },
+    "kind": "country"
+  },
+  {
+    "id": "t023",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Pêche aux crevettes à cheval",
+      "nl": "Pêche aux crevettes à cheval"
+    },
     "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Sonkajärvi",
-      "en": "Sonkajärvi",
-      "nl": "Sonkajärvi"
-    }
+      "fr": "Oostduinkerke",
+      "en": "Oostduinkerke",
+      "nl": "Oostduinkerke"
+    },
+    "scenario": {
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+    },
+    "question": {
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
+    },
+    "answers": {
+      "fr": [
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
+      ],
+      "en": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
+      ],
+      "nl": [
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "explanation": {
+      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
+      "en": "The horses pull nets through shallow water.",
+      "nl": "De paarden trekken netten door ondiep water."
+    },
+    "kind": "country"
+  },
+  {
+    "id": "t024",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "La Tomatina",
+      "en": "La Tomatina",
+      "nl": "La Tomatina"
+    },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Buñol",
+      "en": "Buñol",
+      "nl": "Buñol"
+    },
+    "scenario": {
+      "fr": "Des milliers de personnes se lancent des tomates.",
+      "en": "Thousands of people throw tomatoes at each other.",
+      "nl": "Duizenden mensen gooien tomaten naar elkaar."
+    },
+    "question": {
+      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
+      "en": "In which country does this red battle take place?",
+      "nl": "In welk land vindt dit rode gevecht plaats?"
+    },
+    "answers": {
+      "fr": [
+        "Portugal",
+        "Espagne",
+        "Italie",
+        "Croatie"
+      ],
+      "en": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "Croatia"
+      ],
+      "nl": [
+        "Portugal",
+        "Spanje",
+        "Italië",
+        "Kroatië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "explanation": {
+      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
+      "en": "This festival turns the streets into a huge tomato battle.",
+      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
+    },
+    "kind": "country"
   },
   {
     "id": "t025",
@@ -1524,6 +1536,16 @@ const TRADITIONS_30=[
       "en": "Bataille des oranges",
       "nl": "Bataille des oranges"
     },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Ivrea",
+      "en": "Ivrea",
+      "nl": "Ivrea"
+    },
     "scenario": {
       "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
       "en": "During a carnival, teams throw oranges at each other.",
@@ -1564,16 +1586,7 @@ const TRADITIONS_30=[
       "en": "Teams face each other in a carnival setting.",
       "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
     },
-    "country": {
-      "fr": "Italie",
-      "en": "Italie",
-      "nl": "Italie"
-    },
-    "region": {
-      "fr": "Ivrea",
-      "en": "Ivrea",
-      "nl": "Ivrea"
-    }
+    "kind": "country"
   },
   {
     "id": "t026",
@@ -1582,6 +1595,16 @@ const TRADITIONS_30=[
       "fr": "El Colacho",
       "en": "El Colacho",
       "nl": "El Colacho"
+    },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
     },
     "scenario": {
       "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
@@ -1623,142 +1646,25 @@ const TRADITIONS_30=[
       "en": "Costumed participants perform a symbolic jump during old local celebrations.",
       "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
     },
-    "country": {
-      "fr": "Espagne",
-      "en": "Espagne",
-      "nl": "Espagne"
-    },
-    "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia"
-    }
+    "kind": "country"
   },
   {
     "id": "t027",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Pêche aux crevettes à cheval",
-      "nl": "Pêche aux crevettes à cheval"
-    },
-    "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
-    },
-    "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
-    },
-    "answers": {
-      "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
-      ],
-      "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
-      ],
-      "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
-    },
-    "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
-      "en": "The horses pull nets through shallow water.",
-      "nl": "De paarden trekken netten door ondiep water."
-    },
-    "country": {
-      "fr": "Belgique",
-      "en": "Belgique",
-      "nl": "Belgique"
-    },
-    "region": {
-      "fr": "Oostduinkerke",
-      "en": "Oostduinkerke",
-      "nl": "Oostduinkerke"
-    }
-  },
-  {
-    "id": "t028",
-    "mode": "traditions",
-    "traditionName": {
-      "fr": "La Tomatina",
-      "en": "La Tomatina",
-      "nl": "La Tomatina"
-    },
-    "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates.",
-      "en": "Thousands of people throw tomatoes at each other.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar."
-    },
-    "question": {
-      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
-      "en": "In which country does this red battle take place?",
-      "nl": "In welk land vindt dit rode gevecht plaats?"
-    },
-    "answers": {
-      "fr": [
-        "Portugal",
-        "Espagne",
-        "Italie",
-        "Croatie"
-      ],
-      "en": [
-        "Portugal",
-        "Spain",
-        "Italy",
-        "Croatia"
-      ],
-      "nl": [
-        "Portugal",
-        "Spanje",
-        "Italië",
-        "Kroatië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "explanation": {
-      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
-      "en": "This festival turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
-    },
-    "country": {
-      "fr": "Espagne",
-      "en": "Espagne",
-      "nl": "Espagne"
-    },
-    "region": {
-      "fr": "Buñol",
-      "en": "Buñol",
-      "nl": "Buñol"
-    }
-  },
-  {
-    "id": "t029",
-    "mode": "traditions",
-    "traditionName": {
       "fr": "Championnat de portage de partenaire",
       "en": "Championnat de portage de partenaire",
       "nl": "Championnat de portage de partenaire"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Sonkajärvi",
+      "en": "Sonkajärvi",
+      "nl": "Sonkajärvi"
     },
     "scenario": {
       "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
@@ -1800,16 +1706,127 @@ const TRADITIONS_30=[
       "en": "The format combines speed, obstacles and balance.",
       "nl": "De formule combineert snelheid, hindernissen en evenwicht."
     },
+    "kind": "country"
+  },
+  {
+    "id": "t028",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Pêche aux crevettes à cheval",
+      "nl": "Pêche aux crevettes à cheval"
+    },
     "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Sonkajärvi",
-      "en": "Sonkajärvi",
-      "nl": "Sonkajärvi"
-    }
+      "fr": "Oostduinkerke",
+      "en": "Oostduinkerke",
+      "nl": "Oostduinkerke"
+    },
+    "scenario": {
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+    },
+    "question": {
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
+    },
+    "answers": {
+      "fr": [
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
+      ],
+      "en": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
+      ],
+      "nl": [
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "explanation": {
+      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
+      "en": "The horses pull nets through shallow water.",
+      "nl": "De paarden trekken netten door ondiep water."
+    },
+    "kind": "country"
+  },
+  {
+    "id": "t029",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "La Tomatina",
+      "en": "La Tomatina",
+      "nl": "La Tomatina"
+    },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Buñol",
+      "en": "Buñol",
+      "nl": "Buñol"
+    },
+    "scenario": {
+      "fr": "Des milliers de personnes se lancent des tomates.",
+      "en": "Thousands of people throw tomatoes at each other.",
+      "nl": "Duizenden mensen gooien tomaten naar elkaar."
+    },
+    "question": {
+      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
+      "en": "In which country does this red battle take place?",
+      "nl": "In welk land vindt dit rode gevecht plaats?"
+    },
+    "answers": {
+      "fr": [
+        "Portugal",
+        "Espagne",
+        "Italie",
+        "Croatie"
+      ],
+      "en": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "Croatia"
+      ],
+      "nl": [
+        "Portugal",
+        "Spanje",
+        "Italië",
+        "Kroatië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "explanation": {
+      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
+      "en": "This festival turns the streets into a huge tomato battle.",
+      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
+    },
+    "kind": "country"
   },
   {
     "id": "t030",
@@ -1818,6 +1835,16 @@ const TRADITIONS_30=[
       "fr": "Bataille des oranges",
       "en": "Bataille des oranges",
       "nl": "Bataille des oranges"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Ivrea",
+      "en": "Ivrea",
+      "nl": "Ivrea"
     },
     "scenario": {
       "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
@@ -1859,16 +1886,7 @@ const TRADITIONS_30=[
       "en": "Teams face each other in a carnival setting.",
       "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
     },
-    "country": {
-      "fr": "Italie",
-      "en": "Italie",
-      "nl": "Italie"
-    },
-    "region": {
-      "fr": "Ivrea",
-      "en": "Ivrea",
-      "nl": "Ivrea"
-    }
+    "kind": "country"
   }
 ];
 const CULINARY_50=[
@@ -1880,6 +1898,16 @@ const CULINARY_50=[
       "en": "Casu Marzu",
       "nl": "Casu Marzu"
     },
+    "country": {
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië"
+    },
+    "region": {
+      "fr": "Sardaigne",
+      "en": "Sardaigne",
+      "nl": "Sardaigne"
+    },
     "scenario": {
       "fr": "",
       "en": "",
@@ -1920,16 +1948,7 @@ const CULINARY_50=[
       "en": "A Sardinian cheese known for its unusual fermentation.",
       "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
     },
-    "country": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    }
+    "kind": "option"
   },
   {
     "id": "c002",
@@ -1939,6 +1958,16 @@ const CULINARY_50=[
       "en": "Haggis",
       "nl": "Haggis"
     },
+    "country": {
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
+    },
+    "region": {
+      "fr": "Écosse",
+      "en": "Écosse",
+      "nl": "Écosse"
+    },
     "scenario": {
       "fr": "",
       "en": "",
@@ -1979,16 +2008,7 @@ const CULINARY_50=[
       "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
       "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
     },
-    "country": {
-      "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
-    },
-    "region": {
-      "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
-    }
+    "kind": "option"
   },
   {
     "id": "c003",
@@ -1997,6 +2017,16 @@ const CULINARY_50=[
       "fr": "Surströmming",
       "en": "Surströmming",
       "nl": "Surströmming"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
+    },
+    "region": {
+      "fr": "Suède",
+      "en": "Suède",
+      "nl": "Suède"
     },
     "scenario": {
       "fr": "",
@@ -2038,16 +2068,7 @@ const CULINARY_50=[
       "en": "A fermented fish best known for its extremely strong smell.",
       "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
     },
-    "country": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
-    },
-    "region": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
-    }
+    "kind": "option"
   },
   {
     "id": "c004",
@@ -2056,6 +2077,16 @@ const CULINARY_50=[
       "fr": "Hákarl",
       "en": "Hákarl",
       "nl": "Hákarl"
+    },
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
+    },
+    "region": {
+      "fr": "Islande",
+      "en": "Islande",
+      "nl": "Islande"
     },
     "scenario": {
       "fr": "",
@@ -2097,16 +2128,7 @@ const CULINARY_50=[
       "en": "An Icelandic speciality with a very strong taste.",
       "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
     },
-    "country": {
-      "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
-    },
-    "region": {
-      "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
-    }
+    "kind": "option"
   },
   {
     "id": "c005",
@@ -2115,6 +2137,16 @@ const CULINARY_50=[
       "fr": "Smalahove",
       "en": "Smalahove",
       "nl": "Smalahove"
+    },
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen"
+    },
+    "region": {
+      "fr": "Norvège",
+      "en": "Norvège",
+      "nl": "Norvège"
     },
     "scenario": {
       "fr": "",
@@ -2156,16 +2188,7 @@ const CULINARY_50=[
       "en": "A Norwegian dish traditionally associated with festive periods.",
       "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
     },
-    "country": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
-    },
-    "region": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
-    }
+    "kind": "option"
   },
   {
     "id": "c006",
@@ -2174,6 +2197,16 @@ const CULINARY_50=[
       "fr": "Blodplättar",
       "en": "Blodplättar",
       "nl": "Blodplättar"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Finlande / Suède",
+      "en": "Finlande / Suède",
+      "nl": "Finlande / Suède"
     },
     "scenario": {
       "fr": "",
@@ -2215,16 +2248,7 @@ const CULINARY_50=[
       "en": "Pancakes made with blood, eaten in several northern European regions.",
       "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
     },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    },
-    "region": {
-      "fr": "Finlande / Suède",
-      "en": "Finlande / Suède",
-      "nl": "Finlande / Suède"
-    }
+    "kind": "option"
   },
   {
     "id": "c007",
@@ -2233,6 +2257,16 @@ const CULINARY_50=[
       "fr": "Andouillette",
       "en": "Andouillette",
       "nl": "Andouillette"
+    },
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk"
+    },
+    "region": {
+      "fr": "France",
+      "en": "France",
+      "nl": "France"
     },
     "scenario": {
       "fr": "",
@@ -2274,16 +2308,7 @@ const CULINARY_50=[
       "en": "A French charcuterie speciality known for its strong taste and smell.",
       "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
     },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
-    }
+    "kind": "option"
   },
   {
     "id": "c008",
@@ -2292,6 +2317,16 @@ const CULINARY_50=[
       "fr": "Mämmi",
       "en": "Mämmi",
       "nl": "Mämmi"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Finlande",
+      "en": "Finlande",
+      "nl": "Finlande"
     },
     "scenario": {
       "fr": "",
@@ -2333,16 +2368,7 @@ const CULINARY_50=[
       "en": "A Finnish dessert traditionally associated with Easter.",
       "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
     },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    }
+    "kind": "option"
   },
   {
     "id": "c009",
@@ -2351,6 +2377,16 @@ const CULINARY_50=[
       "fr": "Jellied eels",
       "en": "Jellied eels",
       "nl": "Jellied eels"
+    },
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
+    },
+    "region": {
+      "fr": "Londres",
+      "en": "Londres",
+      "nl": "Londres"
     },
     "scenario": {
       "fr": "",
@@ -2392,16 +2428,7 @@ const CULINARY_50=[
       "en": "A traditional speciality associated with London.",
       "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
     },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "Londres",
-      "nl": "Londres"
-    }
+    "kind": "option"
   },
   {
     "id": "c010",
@@ -2410,6 +2437,16 @@ const CULINARY_50=[
       "fr": "Czernina",
       "en": "Czernina",
       "nl": "Czernina"
+    },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen"
+    },
+    "region": {
+      "fr": "Pologne",
+      "en": "Pologne",
+      "nl": "Pologne"
     },
     "scenario": {
       "fr": "",
@@ -2451,16 +2488,7 @@ const CULINARY_50=[
       "en": "A traditional Polish sweet-and-sour soup.",
       "nl": "Een traditionele Poolse zoetzure soep."
     },
-    "country": {
-      "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
-    },
-    "region": {
-      "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
-    }
+    "kind": "option"
   },
   {
     "id": "c011",
@@ -2469,6 +2497,16 @@ const CULINARY_50=[
       "fr": "Casu Marzu",
       "en": "Casu Marzu",
       "nl": "Casu Marzu"
+    },
+    "country": {
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië"
+    },
+    "region": {
+      "fr": "Sardaigne",
+      "en": "Sardaigne",
+      "nl": "Sardaigne"
     },
     "scenario": {
       "fr": "",
@@ -2510,16 +2548,7 @@ const CULINARY_50=[
       "en": "A Sardinian cheese known for its unusual fermentation.",
       "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
     },
-    "country": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    }
+    "kind": "option"
   },
   {
     "id": "c012",
@@ -2528,6 +2557,16 @@ const CULINARY_50=[
       "fr": "Haggis",
       "en": "Haggis",
       "nl": "Haggis"
+    },
+    "country": {
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
+    },
+    "region": {
+      "fr": "Écosse",
+      "en": "Écosse",
+      "nl": "Écosse"
     },
     "scenario": {
       "fr": "",
@@ -2569,16 +2608,7 @@ const CULINARY_50=[
       "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
       "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
     },
-    "country": {
-      "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
-    },
-    "region": {
-      "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
-    }
+    "kind": "option"
   },
   {
     "id": "c013",
@@ -2587,6 +2617,16 @@ const CULINARY_50=[
       "fr": "Surströmming",
       "en": "Surströmming",
       "nl": "Surströmming"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
+    },
+    "region": {
+      "fr": "Suède",
+      "en": "Suède",
+      "nl": "Suède"
     },
     "scenario": {
       "fr": "",
@@ -2628,16 +2668,7 @@ const CULINARY_50=[
       "en": "A fermented fish best known for its extremely strong smell.",
       "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
     },
-    "country": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
-    },
-    "region": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
-    }
+    "kind": "option"
   },
   {
     "id": "c014",
@@ -2646,6 +2677,16 @@ const CULINARY_50=[
       "fr": "Hákarl",
       "en": "Hákarl",
       "nl": "Hákarl"
+    },
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
+    },
+    "region": {
+      "fr": "Islande",
+      "en": "Islande",
+      "nl": "Islande"
     },
     "scenario": {
       "fr": "",
@@ -2687,16 +2728,7 @@ const CULINARY_50=[
       "en": "An Icelandic speciality with a very strong taste.",
       "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
     },
-    "country": {
-      "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
-    },
-    "region": {
-      "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
-    }
+    "kind": "option"
   },
   {
     "id": "c015",
@@ -2705,6 +2737,16 @@ const CULINARY_50=[
       "fr": "Smalahove",
       "en": "Smalahove",
       "nl": "Smalahove"
+    },
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen"
+    },
+    "region": {
+      "fr": "Norvège",
+      "en": "Norvège",
+      "nl": "Norvège"
     },
     "scenario": {
       "fr": "",
@@ -2746,16 +2788,7 @@ const CULINARY_50=[
       "en": "A Norwegian dish traditionally associated with festive periods.",
       "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
     },
-    "country": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
-    },
-    "region": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
-    }
+    "kind": "option"
   },
   {
     "id": "c016",
@@ -2764,6 +2797,16 @@ const CULINARY_50=[
       "fr": "Blodplättar",
       "en": "Blodplättar",
       "nl": "Blodplättar"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Finlande / Suède",
+      "en": "Finlande / Suède",
+      "nl": "Finlande / Suède"
     },
     "scenario": {
       "fr": "",
@@ -2805,16 +2848,7 @@ const CULINARY_50=[
       "en": "Pancakes made with blood, eaten in several northern European regions.",
       "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
     },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    },
-    "region": {
-      "fr": "Finlande / Suède",
-      "en": "Finlande / Suède",
-      "nl": "Finlande / Suède"
-    }
+    "kind": "option"
   },
   {
     "id": "c017",
@@ -2823,6 +2857,16 @@ const CULINARY_50=[
       "fr": "Andouillette",
       "en": "Andouillette",
       "nl": "Andouillette"
+    },
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk"
+    },
+    "region": {
+      "fr": "France",
+      "en": "France",
+      "nl": "France"
     },
     "scenario": {
       "fr": "",
@@ -2864,16 +2908,7 @@ const CULINARY_50=[
       "en": "A French charcuterie speciality known for its strong taste and smell.",
       "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
     },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
-    }
+    "kind": "option"
   },
   {
     "id": "c018",
@@ -2882,6 +2917,16 @@ const CULINARY_50=[
       "fr": "Mämmi",
       "en": "Mämmi",
       "nl": "Mämmi"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Finlande",
+      "en": "Finlande",
+      "nl": "Finlande"
     },
     "scenario": {
       "fr": "",
@@ -2923,16 +2968,7 @@ const CULINARY_50=[
       "en": "A Finnish dessert traditionally associated with Easter.",
       "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
     },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    }
+    "kind": "option"
   },
   {
     "id": "c019",
@@ -2941,6 +2977,16 @@ const CULINARY_50=[
       "fr": "Jellied eels",
       "en": "Jellied eels",
       "nl": "Jellied eels"
+    },
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
+    },
+    "region": {
+      "fr": "Londres",
+      "en": "Londres",
+      "nl": "Londres"
     },
     "scenario": {
       "fr": "",
@@ -2982,16 +3028,7 @@ const CULINARY_50=[
       "en": "A traditional speciality associated with London.",
       "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
     },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "Londres",
-      "nl": "Londres"
-    }
+    "kind": "option"
   },
   {
     "id": "c020",
@@ -3000,6 +3037,16 @@ const CULINARY_50=[
       "fr": "Czernina",
       "en": "Czernina",
       "nl": "Czernina"
+    },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen"
+    },
+    "region": {
+      "fr": "Pologne",
+      "en": "Pologne",
+      "nl": "Pologne"
     },
     "scenario": {
       "fr": "",
@@ -3041,16 +3088,7 @@ const CULINARY_50=[
       "en": "A traditional Polish sweet-and-sour soup.",
       "nl": "Een traditionele Poolse zoetzure soep."
     },
-    "country": {
-      "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
-    },
-    "region": {
-      "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
-    }
+    "kind": "option"
   },
   {
     "id": "c021",
@@ -3060,6 +3098,16 @@ const CULINARY_50=[
       "en": "Casu Marzu",
       "nl": "Casu Marzu"
     },
+    "country": {
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië"
+    },
+    "region": {
+      "fr": "Sardaigne",
+      "en": "Sardaigne",
+      "nl": "Sardaigne"
+    },
     "scenario": {
       "fr": "Le plat s’appelle Casu Marzu.",
       "en": "The dish is called Casu Marzu.",
@@ -3078,38 +3126,29 @@ const CULINARY_50=[
         "Bretagne"
       ],
       "en": [
-        "Sardaigne",
-        "Catalogne",
-        "Bavière",
-        "Bretagne"
+        "Sardinia",
+        "Catalonia",
+        "Bavaria",
+        "Brittany"
       ],
       "nl": [
-        "Sardaigne",
-        "Catalogne",
-        "Bavière",
+        "Sardinië",
+        "Catalonië",
+        "Beieren",
         "Bretagne"
       ]
     },
     "correctAnswer": {
       "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
+      "en": "Sardinia",
+      "nl": "Sardinië"
     },
     "explanation": {
       "fr": "Un fromage sarde connu pour sa fermentation très particulière.",
       "en": "A Sardinian cheese known for its unusual fermentation.",
       "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
     },
-    "country": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    }
+    "kind": "country"
   },
   {
     "id": "c022",
@@ -3119,6 +3158,16 @@ const CULINARY_50=[
       "en": "Haggis",
       "nl": "Haggis"
     },
+    "country": {
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
+    },
+    "region": {
+      "fr": "Écosse",
+      "en": "Écosse",
+      "nl": "Écosse"
+    },
     "scenario": {
       "fr": "Le plat s’appelle Haggis.",
       "en": "The dish is called Haggis.",
@@ -3137,38 +3186,29 @@ const CULINARY_50=[
         "Danemark"
       ],
       "en": [
-        "Irlande",
-        "Écosse",
-        "Pays-Bas",
-        "Danemark"
+        "Ireland",
+        "Scotland",
+        "Netherlands",
+        "Denmark"
       ],
       "nl": [
-        "Irlande",
-        "Écosse",
-        "Pays-Bas",
-        "Danemark"
+        "Ierland",
+        "Schotland",
+        "Nederland",
+        "Denemarken"
       ]
     },
     "correctAnswer": {
       "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
+      "en": "Scotland",
+      "nl": "Schotland"
     },
     "explanation": {
       "fr": "Un plat emblématique écossais traditionnellement associé à l’avoine, aux épices et aux abats.",
       "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
       "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
     },
-    "country": {
-      "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
-    },
-    "region": {
-      "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
-    }
+    "kind": "country"
   },
   {
     "id": "c023",
@@ -3177,6 +3217,16 @@ const CULINARY_50=[
       "fr": "Surströmming",
       "en": "Surströmming",
       "nl": "Surströmming"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
+    },
+    "region": {
+      "fr": "Suède",
+      "en": "Suède",
+      "nl": "Suède"
     },
     "scenario": {
       "fr": "Le plat s’appelle Surströmming.",
@@ -3196,38 +3246,29 @@ const CULINARY_50=[
         "Estonie"
       ],
       "en": [
-        "Finlande",
-        "Suède",
-        "Danemark",
-        "Estonie"
+        "Finland",
+        "Sweden",
+        "Denmark",
+        "Estonia"
       ],
       "nl": [
-        "Finlande",
-        "Suède",
-        "Danemark",
-        "Estonie"
+        "Finland",
+        "Zweden",
+        "Denemarken",
+        "Estland"
       ]
     },
     "correctAnswer": {
       "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
+      "en": "Sweden",
+      "nl": "Zweden"
     },
     "explanation": {
       "fr": "Un poisson fermenté surtout connu pour son odeur très puissante.",
       "en": "A fermented fish best known for its extremely strong smell.",
       "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
     },
-    "country": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
-    },
-    "region": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
-    }
+    "kind": "country"
   },
   {
     "id": "c024",
@@ -3236,6 +3277,16 @@ const CULINARY_50=[
       "fr": "Hákarl",
       "en": "Hákarl",
       "nl": "Hákarl"
+    },
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
+    },
+    "region": {
+      "fr": "Islande",
+      "en": "Islande",
+      "nl": "Islande"
     },
     "scenario": {
       "fr": "Le plat s’appelle Hákarl.",
@@ -3255,38 +3306,29 @@ const CULINARY_50=[
         "Danemark"
       ],
       "en": [
-        "Norvège",
-        "Islande",
-        "Suède",
-        "Danemark"
+        "Norway",
+        "Iceland",
+        "Sweden",
+        "Denmark"
       ],
       "nl": [
-        "Norvège",
-        "Islande",
-        "Suède",
-        "Danemark"
+        "Noorwegen",
+        "IJsland",
+        "Zweden",
+        "Denemarken"
       ]
     },
     "correctAnswer": {
       "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
+      "en": "Iceland",
+      "nl": "IJsland"
     },
     "explanation": {
       "fr": "Une spécialité islandaise au goût très marqué.",
       "en": "An Icelandic speciality with a very strong taste.",
       "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
     },
-    "country": {
-      "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
-    },
-    "region": {
-      "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
-    }
+    "kind": "country"
   },
   {
     "id": "c025",
@@ -3295,6 +3337,16 @@ const CULINARY_50=[
       "fr": "Smalahove",
       "en": "Smalahove",
       "nl": "Smalahove"
+    },
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen"
+    },
+    "region": {
+      "fr": "Norvège",
+      "en": "Norvège",
+      "nl": "Norvège"
     },
     "scenario": {
       "fr": "Le plat s’appelle Smalahove.",
@@ -3314,38 +3366,29 @@ const CULINARY_50=[
         "Allemagne"
       ],
       "en": [
-        "Norvège",
-        "Écosse",
-        "Irlande",
-        "Allemagne"
+        "Norway",
+        "Scotland",
+        "Ireland",
+        "Germany"
       ],
       "nl": [
-        "Norvège",
-        "Écosse",
-        "Irlande",
-        "Allemagne"
+        "Noorwegen",
+        "Schotland",
+        "Ierland",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
       "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
+      "en": "Norway",
+      "nl": "Noorwegen"
     },
     "explanation": {
       "fr": "Un plat norvégien traditionnellement associé à certaines périodes de fête.",
       "en": "A Norwegian dish traditionally associated with festive periods.",
       "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
     },
-    "country": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
-    },
-    "region": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
-    }
+    "kind": "country"
   },
   {
     "id": "c026",
@@ -3354,6 +3397,16 @@ const CULINARY_50=[
       "fr": "Blodplättar",
       "en": "Blodplättar",
       "nl": "Blodplättar"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Finlande / Suède",
+      "en": "Finlande / Suède",
+      "nl": "Finlande / Suède"
     },
     "scenario": {
       "fr": "Le plat s’appelle Blodplättar.",
@@ -3373,38 +3426,29 @@ const CULINARY_50=[
         "Croatie"
       ],
       "en": [
-        "Finlande",
+        "Finland",
         "Portugal",
-        "Italie",
-        "Croatie"
+        "Italy",
+        "Croatia"
       ],
       "nl": [
-        "Finlande",
+        "Finland",
         "Portugal",
-        "Italie",
-        "Croatie"
+        "Italië",
+        "Kroatië"
       ]
     },
     "correctAnswer": {
       "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "en": "Finland",
+      "nl": "Finland"
     },
     "explanation": {
       "fr": "Des crêpes préparées à base de sang, consommées dans plusieurs régions du nord de l’Europe.",
       "en": "Pancakes made with blood, eaten in several northern European regions.",
       "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
     },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    },
-    "region": {
-      "fr": "Finlande / Suède",
-      "en": "Finlande / Suède",
-      "nl": "Finlande / Suède"
-    }
+    "kind": "country"
   },
   {
     "id": "c027",
@@ -3413,6 +3457,16 @@ const CULINARY_50=[
       "fr": "Andouillette",
       "en": "Andouillette",
       "nl": "Andouillette"
+    },
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk"
+    },
+    "region": {
+      "fr": "France",
+      "en": "France",
+      "nl": "France"
     },
     "scenario": {
       "fr": "Le plat s’appelle Andouillette.",
@@ -3433,37 +3487,28 @@ const CULINARY_50=[
       ],
       "en": [
         "France",
-        "Belgique",
-        "Allemagne",
-        "Espagne"
+        "Belgium",
+        "Germany",
+        "Spain"
       ],
       "nl": [
-        "France",
-        "Belgique",
-        "Allemagne",
-        "Espagne"
+        "Frankrijk",
+        "België",
+        "Duitsland",
+        "Spanje"
       ]
     },
     "correctAnswer": {
       "fr": "France",
       "en": "France",
-      "nl": "France"
+      "nl": "Frankrijk"
     },
     "explanation": {
       "fr": "Une spécialité charcutière française connue pour son goût et son odeur très marqués.",
       "en": "A French charcuterie speciality known for its strong taste and smell.",
       "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
     },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
-    }
+    "kind": "country"
   },
   {
     "id": "c028",
@@ -3472,6 +3517,16 @@ const CULINARY_50=[
       "fr": "Mämmi",
       "en": "Mämmi",
       "nl": "Mämmi"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Finlande",
+      "en": "Finlande",
+      "nl": "Finlande"
     },
     "scenario": {
       "fr": "Le plat s’appelle Mämmi.",
@@ -3491,38 +3546,29 @@ const CULINARY_50=[
         "Croatie"
       ],
       "en": [
-        "Finlande",
+        "Finland",
         "Portugal",
-        "Italie",
-        "Croatie"
+        "Italy",
+        "Croatia"
       ],
       "nl": [
-        "Finlande",
+        "Finland",
         "Portugal",
-        "Italie",
-        "Croatie"
+        "Italië",
+        "Kroatië"
       ]
     },
     "correctAnswer": {
       "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "en": "Finland",
+      "nl": "Finland"
     },
     "explanation": {
       "fr": "Un dessert finlandais traditionnellement associé à Pâques.",
       "en": "A Finnish dessert traditionally associated with Easter.",
       "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
     },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    }
+    "kind": "country"
   },
   {
     "id": "c029",
@@ -3531,6 +3577,16 @@ const CULINARY_50=[
       "fr": "Jellied eels",
       "en": "Jellied eels",
       "nl": "Jellied eels"
+    },
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
+    },
+    "region": {
+      "fr": "Londres",
+      "en": "Londres",
+      "nl": "Londres"
     },
     "scenario": {
       "fr": "Le plat s’appelle Jellied eels.",
@@ -3550,38 +3606,29 @@ const CULINARY_50=[
         "Lituanie"
       ],
       "en": [
-        "Royaume-Uni",
-        "Grèce",
-        "Roumanie",
-        "Lituanie"
+        "United Kingdom",
+        "Greece",
+        "Romania",
+        "Lithuania"
       ],
       "nl": [
-        "Royaume-Uni",
-        "Grèce",
-        "Roumanie",
-        "Lituanie"
+        "Verenigd Koninkrijk",
+        "Griekenland",
+        "Roemenië",
+        "Litouwen"
       ]
     },
     "correctAnswer": {
       "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
     },
     "explanation": {
       "fr": "Une spécialité traditionnelle associée à Londres.",
       "en": "A traditional speciality associated with London.",
       "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
     },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "Londres",
-      "nl": "Londres"
-    }
+    "kind": "country"
   },
   {
     "id": "c030",
@@ -3590,6 +3637,16 @@ const CULINARY_50=[
       "fr": "Czernina",
       "en": "Czernina",
       "nl": "Czernina"
+    },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen"
+    },
+    "region": {
+      "fr": "Pologne",
+      "en": "Pologne",
+      "nl": "Pologne"
     },
     "scenario": {
       "fr": "Le plat s’appelle Czernina.",
@@ -3609,38 +3666,29 @@ const CULINARY_50=[
         "Espagne"
       ],
       "en": [
-        "Pologne",
+        "Poland",
         "France",
-        "Italie",
-        "Espagne"
+        "Italy",
+        "Spain"
       ],
       "nl": [
-        "Pologne",
-        "France",
-        "Italie",
-        "Espagne"
+        "Polen",
+        "Frankrijk",
+        "Italië",
+        "Spanje"
       ]
     },
     "correctAnswer": {
       "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
+      "en": "Poland",
+      "nl": "Polen"
     },
     "explanation": {
       "fr": "Une soupe polonaise traditionnelle au goût aigre-doux.",
       "en": "A traditional Polish sweet-and-sour soup.",
       "nl": "Een traditionele Poolse zoetzure soep."
     },
-    "country": {
-      "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
-    },
-    "region": {
-      "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
-    }
+    "kind": "country"
   },
   {
     "id": "c031",
@@ -3649,6 +3697,16 @@ const CULINARY_50=[
       "fr": "Casu Marzu",
       "en": "Casu Marzu",
       "nl": "Casu Marzu"
+    },
+    "country": {
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië"
+    },
+    "region": {
+      "fr": "Sardaigne",
+      "en": "Sardaigne",
+      "nl": "Sardaigne"
     },
     "scenario": {
       "fr": "Le plat s’appelle Casu Marzu.",
@@ -3668,38 +3726,29 @@ const CULINARY_50=[
         "Bretagne"
       ],
       "en": [
-        "Sardaigne",
-        "Catalogne",
-        "Bavière",
-        "Bretagne"
+        "Sardinia",
+        "Catalonia",
+        "Bavaria",
+        "Brittany"
       ],
       "nl": [
-        "Sardaigne",
-        "Catalogne",
-        "Bavière",
+        "Sardinië",
+        "Catalonië",
+        "Beieren",
         "Bretagne"
       ]
     },
     "correctAnswer": {
       "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
+      "en": "Sardinia",
+      "nl": "Sardinië"
     },
     "explanation": {
       "fr": "Un fromage sarde connu pour sa fermentation très particulière.",
       "en": "A Sardinian cheese known for its unusual fermentation.",
       "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
     },
-    "country": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    }
+    "kind": "country"
   },
   {
     "id": "c032",
@@ -3708,6 +3757,16 @@ const CULINARY_50=[
       "fr": "Haggis",
       "en": "Haggis",
       "nl": "Haggis"
+    },
+    "country": {
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
+    },
+    "region": {
+      "fr": "Écosse",
+      "en": "Écosse",
+      "nl": "Écosse"
     },
     "scenario": {
       "fr": "Le plat s’appelle Haggis.",
@@ -3727,38 +3786,29 @@ const CULINARY_50=[
         "Danemark"
       ],
       "en": [
-        "Irlande",
-        "Écosse",
-        "Pays-Bas",
-        "Danemark"
+        "Ireland",
+        "Scotland",
+        "Netherlands",
+        "Denmark"
       ],
       "nl": [
-        "Irlande",
-        "Écosse",
-        "Pays-Bas",
-        "Danemark"
+        "Ierland",
+        "Schotland",
+        "Nederland",
+        "Denemarken"
       ]
     },
     "correctAnswer": {
       "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
+      "en": "Scotland",
+      "nl": "Schotland"
     },
     "explanation": {
       "fr": "Un plat emblématique écossais traditionnellement associé à l’avoine, aux épices et aux abats.",
       "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
       "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
     },
-    "country": {
-      "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
-    },
-    "region": {
-      "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
-    }
+    "kind": "country"
   },
   {
     "id": "c033",
@@ -3767,6 +3817,16 @@ const CULINARY_50=[
       "fr": "Surströmming",
       "en": "Surströmming",
       "nl": "Surströmming"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
+    },
+    "region": {
+      "fr": "Suède",
+      "en": "Suède",
+      "nl": "Suède"
     },
     "scenario": {
       "fr": "Le plat s’appelle Surströmming.",
@@ -3786,38 +3846,29 @@ const CULINARY_50=[
         "Estonie"
       ],
       "en": [
-        "Finlande",
-        "Suède",
-        "Danemark",
-        "Estonie"
+        "Finland",
+        "Sweden",
+        "Denmark",
+        "Estonia"
       ],
       "nl": [
-        "Finlande",
-        "Suède",
-        "Danemark",
-        "Estonie"
+        "Finland",
+        "Zweden",
+        "Denemarken",
+        "Estland"
       ]
     },
     "correctAnswer": {
       "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
+      "en": "Sweden",
+      "nl": "Zweden"
     },
     "explanation": {
       "fr": "Un poisson fermenté surtout connu pour son odeur très puissante.",
       "en": "A fermented fish best known for its extremely strong smell.",
       "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
     },
-    "country": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
-    },
-    "region": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
-    }
+    "kind": "country"
   },
   {
     "id": "c034",
@@ -3826,6 +3877,16 @@ const CULINARY_50=[
       "fr": "Hákarl",
       "en": "Hákarl",
       "nl": "Hákarl"
+    },
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
+    },
+    "region": {
+      "fr": "Islande",
+      "en": "Islande",
+      "nl": "Islande"
     },
     "scenario": {
       "fr": "Le plat s’appelle Hákarl.",
@@ -3845,38 +3906,29 @@ const CULINARY_50=[
         "Danemark"
       ],
       "en": [
-        "Norvège",
-        "Islande",
-        "Suède",
-        "Danemark"
+        "Norway",
+        "Iceland",
+        "Sweden",
+        "Denmark"
       ],
       "nl": [
-        "Norvège",
-        "Islande",
-        "Suède",
-        "Danemark"
+        "Noorwegen",
+        "IJsland",
+        "Zweden",
+        "Denemarken"
       ]
     },
     "correctAnswer": {
       "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
+      "en": "Iceland",
+      "nl": "IJsland"
     },
     "explanation": {
       "fr": "Une spécialité islandaise au goût très marqué.",
       "en": "An Icelandic speciality with a very strong taste.",
       "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
     },
-    "country": {
-      "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
-    },
-    "region": {
-      "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
-    }
+    "kind": "country"
   },
   {
     "id": "c035",
@@ -3885,6 +3937,16 @@ const CULINARY_50=[
       "fr": "Smalahove",
       "en": "Smalahove",
       "nl": "Smalahove"
+    },
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen"
+    },
+    "region": {
+      "fr": "Norvège",
+      "en": "Norvège",
+      "nl": "Norvège"
     },
     "scenario": {
       "fr": "Le plat s’appelle Smalahove.",
@@ -3904,38 +3966,29 @@ const CULINARY_50=[
         "Allemagne"
       ],
       "en": [
-        "Norvège",
-        "Écosse",
-        "Irlande",
-        "Allemagne"
+        "Norway",
+        "Scotland",
+        "Ireland",
+        "Germany"
       ],
       "nl": [
-        "Norvège",
-        "Écosse",
-        "Irlande",
-        "Allemagne"
+        "Noorwegen",
+        "Schotland",
+        "Ierland",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
       "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
+      "en": "Norway",
+      "nl": "Noorwegen"
     },
     "explanation": {
       "fr": "Un plat norvégien traditionnellement associé à certaines périodes de fête.",
       "en": "A Norwegian dish traditionally associated with festive periods.",
       "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
     },
-    "country": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
-    },
-    "region": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
-    }
+    "kind": "country"
   },
   {
     "id": "c036",
@@ -3944,6 +3997,16 @@ const CULINARY_50=[
       "fr": "Blodplättar",
       "en": "Blodplättar",
       "nl": "Blodplättar"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Finlande / Suède",
+      "en": "Finlande / Suède",
+      "nl": "Finlande / Suède"
     },
     "scenario": {
       "fr": "Le plat s’appelle Blodplättar.",
@@ -3963,38 +4026,29 @@ const CULINARY_50=[
         "Croatie"
       ],
       "en": [
-        "Finlande",
+        "Finland",
         "Portugal",
-        "Italie",
-        "Croatie"
+        "Italy",
+        "Croatia"
       ],
       "nl": [
-        "Finlande",
+        "Finland",
         "Portugal",
-        "Italie",
-        "Croatie"
+        "Italië",
+        "Kroatië"
       ]
     },
     "correctAnswer": {
       "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "en": "Finland",
+      "nl": "Finland"
     },
     "explanation": {
       "fr": "Des crêpes préparées à base de sang, consommées dans plusieurs régions du nord de l’Europe.",
       "en": "Pancakes made with blood, eaten in several northern European regions.",
       "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
     },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    },
-    "region": {
-      "fr": "Finlande / Suède",
-      "en": "Finlande / Suède",
-      "nl": "Finlande / Suède"
-    }
+    "kind": "country"
   },
   {
     "id": "c037",
@@ -4003,6 +4057,16 @@ const CULINARY_50=[
       "fr": "Andouillette",
       "en": "Andouillette",
       "nl": "Andouillette"
+    },
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk"
+    },
+    "region": {
+      "fr": "France",
+      "en": "France",
+      "nl": "France"
     },
     "scenario": {
       "fr": "Le plat s’appelle Andouillette.",
@@ -4023,37 +4087,28 @@ const CULINARY_50=[
       ],
       "en": [
         "France",
-        "Belgique",
-        "Allemagne",
-        "Espagne"
+        "Belgium",
+        "Germany",
+        "Spain"
       ],
       "nl": [
-        "France",
-        "Belgique",
-        "Allemagne",
-        "Espagne"
+        "Frankrijk",
+        "België",
+        "Duitsland",
+        "Spanje"
       ]
     },
     "correctAnswer": {
       "fr": "France",
       "en": "France",
-      "nl": "France"
+      "nl": "Frankrijk"
     },
     "explanation": {
       "fr": "Une spécialité charcutière française connue pour son goût et son odeur très marqués.",
       "en": "A French charcuterie speciality known for its strong taste and smell.",
       "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
     },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
-    }
+    "kind": "country"
   },
   {
     "id": "c038",
@@ -4062,6 +4117,16 @@ const CULINARY_50=[
       "fr": "Mämmi",
       "en": "Mämmi",
       "nl": "Mämmi"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Finlande",
+      "en": "Finlande",
+      "nl": "Finlande"
     },
     "scenario": {
       "fr": "Le plat s’appelle Mämmi.",
@@ -4081,38 +4146,29 @@ const CULINARY_50=[
         "Croatie"
       ],
       "en": [
-        "Finlande",
+        "Finland",
         "Portugal",
-        "Italie",
-        "Croatie"
+        "Italy",
+        "Croatia"
       ],
       "nl": [
-        "Finlande",
+        "Finland",
         "Portugal",
-        "Italie",
-        "Croatie"
+        "Italië",
+        "Kroatië"
       ]
     },
     "correctAnswer": {
       "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "en": "Finland",
+      "nl": "Finland"
     },
     "explanation": {
       "fr": "Un dessert finlandais traditionnellement associé à Pâques.",
       "en": "A Finnish dessert traditionally associated with Easter.",
       "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
     },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    }
+    "kind": "country"
   },
   {
     "id": "c039",
@@ -4121,6 +4177,16 @@ const CULINARY_50=[
       "fr": "Jellied eels",
       "en": "Jellied eels",
       "nl": "Jellied eels"
+    },
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
+    },
+    "region": {
+      "fr": "Londres",
+      "en": "Londres",
+      "nl": "Londres"
     },
     "scenario": {
       "fr": "Le plat s’appelle Jellied eels.",
@@ -4140,38 +4206,29 @@ const CULINARY_50=[
         "Lituanie"
       ],
       "en": [
-        "Royaume-Uni",
-        "Grèce",
-        "Roumanie",
-        "Lituanie"
+        "United Kingdom",
+        "Greece",
+        "Romania",
+        "Lithuania"
       ],
       "nl": [
-        "Royaume-Uni",
-        "Grèce",
-        "Roumanie",
-        "Lituanie"
+        "Verenigd Koninkrijk",
+        "Griekenland",
+        "Roemenië",
+        "Litouwen"
       ]
     },
     "correctAnswer": {
       "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
     },
     "explanation": {
       "fr": "Une spécialité traditionnelle associée à Londres.",
       "en": "A traditional speciality associated with London.",
       "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
     },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "Londres",
-      "nl": "Londres"
-    }
+    "kind": "country"
   },
   {
     "id": "c040",
@@ -4180,6 +4237,16 @@ const CULINARY_50=[
       "fr": "Czernina",
       "en": "Czernina",
       "nl": "Czernina"
+    },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen"
+    },
+    "region": {
+      "fr": "Pologne",
+      "en": "Pologne",
+      "nl": "Pologne"
     },
     "scenario": {
       "fr": "Le plat s’appelle Czernina.",
@@ -4199,38 +4266,29 @@ const CULINARY_50=[
         "Espagne"
       ],
       "en": [
-        "Pologne",
+        "Poland",
         "France",
-        "Italie",
-        "Espagne"
+        "Italy",
+        "Spain"
       ],
       "nl": [
-        "Pologne",
-        "France",
-        "Italie",
-        "Espagne"
+        "Polen",
+        "Frankrijk",
+        "Italië",
+        "Spanje"
       ]
     },
     "correctAnswer": {
       "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
+      "en": "Poland",
+      "nl": "Polen"
     },
     "explanation": {
       "fr": "Une soupe polonaise traditionnelle au goût aigre-doux.",
       "en": "A traditional Polish sweet-and-sour soup.",
       "nl": "Een traditionele Poolse zoetzure soep."
     },
-    "country": {
-      "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
-    },
-    "region": {
-      "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
-    }
+    "kind": "country"
   },
   {
     "id": "c041",
@@ -4239,6 +4297,16 @@ const CULINARY_50=[
       "fr": "Casu Marzu",
       "en": "Casu Marzu",
       "nl": "Casu Marzu"
+    },
+    "country": {
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië"
+    },
+    "region": {
+      "fr": "Sardaigne",
+      "en": "Sardaigne",
+      "nl": "Sardaigne"
     },
     "scenario": {
       "fr": "Le Casu Marzu est un fromage contenant des larves vivantes.",
@@ -4280,16 +4348,7 @@ const CULINARY_50=[
       "en": "A Sardinian cheese known for its unusual fermentation.",
       "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
     },
-    "country": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    }
+    "kind": "option"
   },
   {
     "id": "c042",
@@ -4298,6 +4357,16 @@ const CULINARY_50=[
       "fr": "Haggis",
       "en": "Haggis",
       "nl": "Haggis"
+    },
+    "country": {
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
+    },
+    "region": {
+      "fr": "Écosse",
+      "en": "Écosse",
+      "nl": "Écosse"
     },
     "scenario": {
       "fr": "Le Haggis est un dessert sucré à base de chocolat.",
@@ -4339,16 +4408,7 @@ const CULINARY_50=[
       "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
       "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
     },
-    "country": {
-      "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
-    },
-    "region": {
-      "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
-    }
+    "kind": "option"
   },
   {
     "id": "c043",
@@ -4357,6 +4417,16 @@ const CULINARY_50=[
       "fr": "Surströmming",
       "en": "Surströmming",
       "nl": "Surströmming"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
+    },
+    "region": {
+      "fr": "Suède",
+      "en": "Suède",
+      "nl": "Suède"
     },
     "scenario": {
       "fr": "Le Surströmming est du hareng fermenté.",
@@ -4398,16 +4468,7 @@ const CULINARY_50=[
       "en": "A fermented fish best known for its extremely strong smell.",
       "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
     },
-    "country": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
-    },
-    "region": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
-    }
+    "kind": "option"
   },
   {
     "id": "c044",
@@ -4416,6 +4477,16 @@ const CULINARY_50=[
       "fr": "Hákarl",
       "en": "Hákarl",
       "nl": "Hákarl"
+    },
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
+    },
+    "region": {
+      "fr": "Islande",
+      "en": "Islande",
+      "nl": "Islande"
     },
     "scenario": {
       "fr": "Le Hákarl est du requin fermenté.",
@@ -4457,16 +4528,7 @@ const CULINARY_50=[
       "en": "An Icelandic speciality with a very strong taste.",
       "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
     },
-    "country": {
-      "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
-    },
-    "region": {
-      "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
-    }
+    "kind": "option"
   },
   {
     "id": "c045",
@@ -4475,6 +4537,16 @@ const CULINARY_50=[
       "fr": "Smalahove",
       "en": "Smalahove",
       "nl": "Smalahove"
+    },
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen"
+    },
+    "region": {
+      "fr": "Norvège",
+      "en": "Norvège",
+      "nl": "Norvège"
     },
     "scenario": {
       "fr": "Le Smalahove est un dessert sucré à base de chocolat.",
@@ -4516,16 +4588,7 @@ const CULINARY_50=[
       "en": "A Norwegian dish traditionally associated with festive periods.",
       "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
     },
-    "country": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
-    },
-    "region": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
-    }
+    "kind": "option"
   },
   {
     "id": "c046",
@@ -4534,6 +4597,16 @@ const CULINARY_50=[
       "fr": "Blodplättar",
       "en": "Blodplättar",
       "nl": "Blodplättar"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Finlande / Suède",
+      "en": "Finlande / Suède",
+      "nl": "Finlande / Suède"
     },
     "scenario": {
       "fr": "Le Blodplättar est des crêpes au sang.",
@@ -4575,16 +4648,7 @@ const CULINARY_50=[
       "en": "Pancakes made with blood, eaten in several northern European regions.",
       "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
     },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    },
-    "region": {
-      "fr": "Finlande / Suède",
-      "en": "Finlande / Suède",
-      "nl": "Finlande / Suède"
-    }
+    "kind": "option"
   },
   {
     "id": "c047",
@@ -4593,6 +4657,16 @@ const CULINARY_50=[
       "fr": "Andouillette",
       "en": "Andouillette",
       "nl": "Andouillette"
+    },
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk"
+    },
+    "region": {
+      "fr": "France",
+      "en": "France",
+      "nl": "France"
     },
     "scenario": {
       "fr": "Le Andouillette est une saucisse à base d’intestins de porc.",
@@ -4634,16 +4708,7 @@ const CULINARY_50=[
       "en": "A French charcuterie speciality known for its strong taste and smell.",
       "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
     },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
-    }
+    "kind": "option"
   },
   {
     "id": "c048",
@@ -4652,6 +4717,16 @@ const CULINARY_50=[
       "fr": "Mämmi",
       "en": "Mämmi",
       "nl": "Mämmi"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Finlande",
+      "en": "Finlande",
+      "nl": "Finlande"
     },
     "scenario": {
       "fr": "Le Mämmi est un dessert sucré à base de chocolat.",
@@ -4693,16 +4768,7 @@ const CULINARY_50=[
       "en": "A Finnish dessert traditionally associated with Easter.",
       "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
     },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    }
+    "kind": "option"
   },
   {
     "id": "c049",
@@ -4711,6 +4777,16 @@ const CULINARY_50=[
       "fr": "Jellied eels",
       "en": "Jellied eels",
       "nl": "Jellied eels"
+    },
+    "country": {
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
+    },
+    "region": {
+      "fr": "Londres",
+      "en": "Londres",
+      "nl": "Londres"
     },
     "scenario": {
       "fr": "Le Jellied eels est des anguilles servies dans une gelée froide.",
@@ -4752,16 +4828,7 @@ const CULINARY_50=[
       "en": "A traditional speciality associated with London.",
       "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
     },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "Londres",
-      "nl": "Londres"
-    }
+    "kind": "option"
   },
   {
     "id": "c050",
@@ -4770,6 +4837,16 @@ const CULINARY_50=[
       "fr": "Czernina",
       "en": "Czernina",
       "nl": "Czernina"
+    },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen"
+    },
+    "region": {
+      "fr": "Pologne",
+      "en": "Pologne",
+      "nl": "Pologne"
     },
     "scenario": {
       "fr": "Le Czernina est une soupe au sang de canard.",
@@ -4811,1787 +4888,6 @@ const CULINARY_50=[
       "en": "A traditional Polish sweet-and-sour soup.",
       "nl": "Een traditionele Poolse zoetzure soep."
     },
-    "country": {
-      "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
-    },
-    "region": {
-      "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
-    }
-  }
-];
-const EU_QUIZ_30=[
-  {
-    "id": "eu001",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇪🇺",
-      "en": "🇪🇺",
-      "nl": "🇪🇺"
-    },
-    "question": {
-      "fr": "Que signifie le cercle de douze étoiles sur le drapeau européen ?",
-      "en": "What does the circle of twelve stars on the European flag symbolise?",
-      "nl": "Wat symboliseert de cirkel van twaalf sterren op de Europese vlag?"
-    },
-    "answers": {
-      "fr": [
-        "L’unité et l’harmonie",
-        "Les 12 premiers États membres",
-        "Les 12 langues officielles",
-        "Les 12 capitales fondatrices"
-      ],
-      "en": [
-        "Unity and harmony",
-        "The first 12 Member States",
-        "The 12 official languages",
-        "The 12 founding capitals"
-      ],
-      "nl": [
-        "Eenheid en harmonie",
-        "De eerste 12 lidstaten",
-        "De 12 officiële talen",
-        "De 12 oprichtingshoofdsteden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "L’unité et l’harmonie",
-      "en": "Unity and harmony",
-      "nl": "Eenheid en harmonie"
-    },
-    "explanation": {
-      "fr": "Les douze étoiles représentent un symbole d’unité, de solidarité et d’harmonie entre les peuples d’Europe.",
-      "en": "The twelve stars represent unity, solidarity and harmony among the peoples of Europe.",
-      "nl": "De twaalf sterren staan symbool voor eenheid, solidariteit en harmonie tussen de volkeren van Europa."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu002",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇧🇪",
-      "en": "🇧🇪",
-      "nl": "🇧🇪"
-    },
-    "question": {
-      "fr": "Quelle ville accueille plusieurs institutions européennes majeures ?",
-      "en": "Which city hosts several major European institutions?",
-      "nl": "Welke stad huisvest verschillende belangrijke Europese instellingen?"
-    },
-    "answers": {
-      "fr": [
-        "Bruxelles",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ],
-      "en": [
-        "Brussels",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ],
-      "nl": [
-        "Brussel",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Bruxelles",
-      "en": "Brussels",
-      "nl": "Brussel"
-    },
-    "explanation": {
-      "fr": "Bruxelles accueille notamment la Commission européenne, le Conseil de l’Union européenne et une partie des activités du Parlement européen.",
-      "en": "Brussels hosts the European Commission, the Council of the European Union and part of the activities of the European Parliament.",
-      "nl": "Brussel huisvest onder meer de Europese Commissie, de Raad van de Europese Unie en een deel van de activiteiten van het Europees Parlement."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu003",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇫🇷",
-      "en": "🇫🇷",
-      "nl": "🇫🇷"
-    },
-    "question": {
-      "fr": "Dans quel pays se trouve le siège officiel du Parlement européen ?",
-      "en": "In which country is the official seat of the European Parliament located?",
-      "nl": "In welk land bevindt zich de officiële zetel van het Europees Parlement?"
-    },
-    "answers": {
-      "fr": [
-        "France",
-        "Belgique",
-        "Allemagne",
-        "Italie"
-      ],
-      "en": [
-        "France",
-        "Belgium",
-        "Germany",
-        "Italy"
-      ],
-      "nl": [
-        "Frankrijk",
-        "België",
-        "Duitsland",
-        "Italië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
-    },
-    "explanation": {
-      "fr": "Le siège officiel du Parlement européen se trouve à Strasbourg.",
-      "en": "The official seat of the European Parliament is in Strasbourg.",
-      "nl": "De officiële zetel van het Europees Parlement bevindt zich in Straatsburg."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu004",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇪🇺",
-      "en": "🇪🇺",
-      "nl": "🇪🇺"
-    },
-    "question": {
-      "fr": "Combien de pays sont membres de l’Union européenne ?",
-      "en": "How many countries are members of the European Union?",
-      "nl": "Hoeveel landen zijn lid van de Europese Unie?"
-    },
-    "answers": {
-      "fr": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ],
-      "en": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ],
-      "nl": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "27",
-      "en": "27",
-      "nl": "27"
-    },
-    "explanation": {
-      "fr": "L’Union européenne compte 27 États membres.",
-      "en": "The European Union has 27 Member States.",
-      "nl": "De Europese Unie telt 27 lidstaten."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu005",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "💶",
-      "en": "💶",
-      "nl": "💶"
-    },
-    "question": {
-      "fr": "Quel symbole est associé à la monnaie euro ?",
-      "en": "Which symbol is associated with the euro currency?",
-      "nl": "Welk symbool hoort bij de euro?"
-    },
-    "answers": {
-      "fr": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ],
-      "en": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ],
-      "nl": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "€",
-      "en": "€",
-      "nl": "€"
-    },
-    "explanation": {
-      "fr": "Le symbole de l’euro est €.",
-      "en": "The symbol of the euro is €.",
-      "nl": "Het symbool van de euro is €."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu006",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇪🇺",
-      "en": "🇪🇺",
-      "nl": "🇪🇺"
-    },
-    "question": {
-      "fr": "Que signifie le cercle de douze étoiles sur le drapeau européen ?",
-      "en": "What does the circle of twelve stars on the European flag symbolise?",
-      "nl": "Wat symboliseert de cirkel van twaalf sterren op de Europese vlag?"
-    },
-    "answers": {
-      "fr": [
-        "L’unité et l’harmonie",
-        "Les 12 premiers États membres",
-        "Les 12 langues officielles",
-        "Les 12 capitales fondatrices"
-      ],
-      "en": [
-        "Unity and harmony",
-        "The first 12 Member States",
-        "The 12 official languages",
-        "The 12 founding capitals"
-      ],
-      "nl": [
-        "Eenheid en harmonie",
-        "De eerste 12 lidstaten",
-        "De 12 officiële talen",
-        "De 12 oprichtingshoofdsteden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "L’unité et l’harmonie",
-      "en": "Unity and harmony",
-      "nl": "Eenheid en harmonie"
-    },
-    "explanation": {
-      "fr": "Les douze étoiles représentent un symbole d’unité, de solidarité et d’harmonie entre les peuples d’Europe.",
-      "en": "The twelve stars represent unity, solidarity and harmony among the peoples of Europe.",
-      "nl": "De twaalf sterren staan symbool voor eenheid, solidariteit en harmonie tussen de volkeren van Europa."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu007",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇧🇪",
-      "en": "🇧🇪",
-      "nl": "🇧🇪"
-    },
-    "question": {
-      "fr": "Quelle ville accueille plusieurs institutions européennes majeures ?",
-      "en": "Which city hosts several major European institutions?",
-      "nl": "Welke stad huisvest verschillende belangrijke Europese instellingen?"
-    },
-    "answers": {
-      "fr": [
-        "Bruxelles",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ],
-      "en": [
-        "Brussels",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ],
-      "nl": [
-        "Brussel",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Bruxelles",
-      "en": "Brussels",
-      "nl": "Brussel"
-    },
-    "explanation": {
-      "fr": "Bruxelles accueille notamment la Commission européenne, le Conseil de l’Union européenne et une partie des activités du Parlement européen.",
-      "en": "Brussels hosts the European Commission, the Council of the European Union and part of the activities of the European Parliament.",
-      "nl": "Brussel huisvest onder meer de Europese Commissie, de Raad van de Europese Unie en een deel van de activiteiten van het Europees Parlement."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu008",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇫🇷",
-      "en": "🇫🇷",
-      "nl": "🇫🇷"
-    },
-    "question": {
-      "fr": "Dans quel pays se trouve le siège officiel du Parlement européen ?",
-      "en": "In which country is the official seat of the European Parliament located?",
-      "nl": "In welk land bevindt zich de officiële zetel van het Europees Parlement?"
-    },
-    "answers": {
-      "fr": [
-        "France",
-        "Belgique",
-        "Allemagne",
-        "Italie"
-      ],
-      "en": [
-        "France",
-        "Belgium",
-        "Germany",
-        "Italy"
-      ],
-      "nl": [
-        "Frankrijk",
-        "België",
-        "Duitsland",
-        "Italië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
-    },
-    "explanation": {
-      "fr": "Le siège officiel du Parlement européen se trouve à Strasbourg.",
-      "en": "The official seat of the European Parliament is in Strasbourg.",
-      "nl": "De officiële zetel van het Europees Parlement bevindt zich in Straatsburg."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu009",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇪🇺",
-      "en": "🇪🇺",
-      "nl": "🇪🇺"
-    },
-    "question": {
-      "fr": "Combien de pays sont membres de l’Union européenne ?",
-      "en": "How many countries are members of the European Union?",
-      "nl": "Hoeveel landen zijn lid van de Europese Unie?"
-    },
-    "answers": {
-      "fr": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ],
-      "en": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ],
-      "nl": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "27",
-      "en": "27",
-      "nl": "27"
-    },
-    "explanation": {
-      "fr": "L’Union européenne compte 27 États membres.",
-      "en": "The European Union has 27 Member States.",
-      "nl": "De Europese Unie telt 27 lidstaten."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu010",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "💶",
-      "en": "💶",
-      "nl": "💶"
-    },
-    "question": {
-      "fr": "Quel symbole est associé à la monnaie euro ?",
-      "en": "Which symbol is associated with the euro currency?",
-      "nl": "Welk symbool hoort bij de euro?"
-    },
-    "answers": {
-      "fr": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ],
-      "en": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ],
-      "nl": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "€",
-      "en": "€",
-      "nl": "€"
-    },
-    "explanation": {
-      "fr": "Le symbole de l’euro est €.",
-      "en": "The symbol of the euro is €.",
-      "nl": "Het symbool van de euro is €."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu011",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇪🇺",
-      "en": "🇪🇺",
-      "nl": "🇪🇺"
-    },
-    "question": {
-      "fr": "Que signifie le cercle de douze étoiles sur le drapeau européen ?",
-      "en": "What does the circle of twelve stars on the European flag symbolise?",
-      "nl": "Wat symboliseert de cirkel van twaalf sterren op de Europese vlag?"
-    },
-    "answers": {
-      "fr": [
-        "L’unité et l’harmonie",
-        "Les 12 premiers États membres",
-        "Les 12 langues officielles",
-        "Les 12 capitales fondatrices"
-      ],
-      "en": [
-        "Unity and harmony",
-        "The first 12 Member States",
-        "The 12 official languages",
-        "The 12 founding capitals"
-      ],
-      "nl": [
-        "Eenheid en harmonie",
-        "De eerste 12 lidstaten",
-        "De 12 officiële talen",
-        "De 12 oprichtingshoofdsteden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "L’unité et l’harmonie",
-      "en": "Unity and harmony",
-      "nl": "Eenheid en harmonie"
-    },
-    "explanation": {
-      "fr": "Les douze étoiles représentent un symbole d’unité, de solidarité et d’harmonie entre les peuples d’Europe.",
-      "en": "The twelve stars represent unity, solidarity and harmony among the peoples of Europe.",
-      "nl": "De twaalf sterren staan symbool voor eenheid, solidariteit en harmonie tussen de volkeren van Europa."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu012",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇧🇪",
-      "en": "🇧🇪",
-      "nl": "🇧🇪"
-    },
-    "question": {
-      "fr": "Quelle ville accueille plusieurs institutions européennes majeures ?",
-      "en": "Which city hosts several major European institutions?",
-      "nl": "Welke stad huisvest verschillende belangrijke Europese instellingen?"
-    },
-    "answers": {
-      "fr": [
-        "Bruxelles",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ],
-      "en": [
-        "Brussels",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ],
-      "nl": [
-        "Brussel",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Bruxelles",
-      "en": "Brussels",
-      "nl": "Brussel"
-    },
-    "explanation": {
-      "fr": "Bruxelles accueille notamment la Commission européenne, le Conseil de l’Union européenne et une partie des activités du Parlement européen.",
-      "en": "Brussels hosts the European Commission, the Council of the European Union and part of the activities of the European Parliament.",
-      "nl": "Brussel huisvest onder meer de Europese Commissie, de Raad van de Europese Unie en een deel van de activiteiten van het Europees Parlement."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu013",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇫🇷",
-      "en": "🇫🇷",
-      "nl": "🇫🇷"
-    },
-    "question": {
-      "fr": "Dans quel pays se trouve le siège officiel du Parlement européen ?",
-      "en": "In which country is the official seat of the European Parliament located?",
-      "nl": "In welk land bevindt zich de officiële zetel van het Europees Parlement?"
-    },
-    "answers": {
-      "fr": [
-        "France",
-        "Belgique",
-        "Allemagne",
-        "Italie"
-      ],
-      "en": [
-        "France",
-        "Belgium",
-        "Germany",
-        "Italy"
-      ],
-      "nl": [
-        "Frankrijk",
-        "België",
-        "Duitsland",
-        "Italië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
-    },
-    "explanation": {
-      "fr": "Le siège officiel du Parlement européen se trouve à Strasbourg.",
-      "en": "The official seat of the European Parliament is in Strasbourg.",
-      "nl": "De officiële zetel van het Europees Parlement bevindt zich in Straatsburg."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu014",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇪🇺",
-      "en": "🇪🇺",
-      "nl": "🇪🇺"
-    },
-    "question": {
-      "fr": "Combien de pays sont membres de l’Union européenne ?",
-      "en": "How many countries are members of the European Union?",
-      "nl": "Hoeveel landen zijn lid van de Europese Unie?"
-    },
-    "answers": {
-      "fr": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ],
-      "en": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ],
-      "nl": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "27",
-      "en": "27",
-      "nl": "27"
-    },
-    "explanation": {
-      "fr": "L’Union européenne compte 27 États membres.",
-      "en": "The European Union has 27 Member States.",
-      "nl": "De Europese Unie telt 27 lidstaten."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu015",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "💶",
-      "en": "💶",
-      "nl": "💶"
-    },
-    "question": {
-      "fr": "Quel symbole est associé à la monnaie euro ?",
-      "en": "Which symbol is associated with the euro currency?",
-      "nl": "Welk symbool hoort bij de euro?"
-    },
-    "answers": {
-      "fr": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ],
-      "en": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ],
-      "nl": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "€",
-      "en": "€",
-      "nl": "€"
-    },
-    "explanation": {
-      "fr": "Le symbole de l’euro est €.",
-      "en": "The symbol of the euro is €.",
-      "nl": "Het symbool van de euro is €."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu016",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇪🇺",
-      "en": "🇪🇺",
-      "nl": "🇪🇺"
-    },
-    "question": {
-      "fr": "Que signifie le cercle de douze étoiles sur le drapeau européen ?",
-      "en": "What does the circle of twelve stars on the European flag symbolise?",
-      "nl": "Wat symboliseert de cirkel van twaalf sterren op de Europese vlag?"
-    },
-    "answers": {
-      "fr": [
-        "L’unité et l’harmonie",
-        "Les 12 premiers États membres",
-        "Les 12 langues officielles",
-        "Les 12 capitales fondatrices"
-      ],
-      "en": [
-        "Unity and harmony",
-        "The first 12 Member States",
-        "The 12 official languages",
-        "The 12 founding capitals"
-      ],
-      "nl": [
-        "Eenheid en harmonie",
-        "De eerste 12 lidstaten",
-        "De 12 officiële talen",
-        "De 12 oprichtingshoofdsteden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "L’unité et l’harmonie",
-      "en": "Unity and harmony",
-      "nl": "Eenheid en harmonie"
-    },
-    "explanation": {
-      "fr": "Les douze étoiles représentent un symbole d’unité, de solidarité et d’harmonie entre les peuples d’Europe.",
-      "en": "The twelve stars represent unity, solidarity and harmony among the peoples of Europe.",
-      "nl": "De twaalf sterren staan symbool voor eenheid, solidariteit en harmonie tussen de volkeren van Europa."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu017",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇧🇪",
-      "en": "🇧🇪",
-      "nl": "🇧🇪"
-    },
-    "question": {
-      "fr": "Quelle ville accueille plusieurs institutions européennes majeures ?",
-      "en": "Which city hosts several major European institutions?",
-      "nl": "Welke stad huisvest verschillende belangrijke Europese instellingen?"
-    },
-    "answers": {
-      "fr": [
-        "Bruxelles",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ],
-      "en": [
-        "Brussels",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ],
-      "nl": [
-        "Brussel",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Bruxelles",
-      "en": "Brussels",
-      "nl": "Brussel"
-    },
-    "explanation": {
-      "fr": "Bruxelles accueille notamment la Commission européenne, le Conseil de l’Union européenne et une partie des activités du Parlement européen.",
-      "en": "Brussels hosts the European Commission, the Council of the European Union and part of the activities of the European Parliament.",
-      "nl": "Brussel huisvest onder meer de Europese Commissie, de Raad van de Europese Unie en een deel van de activiteiten van het Europees Parlement."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu018",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇫🇷",
-      "en": "🇫🇷",
-      "nl": "🇫🇷"
-    },
-    "question": {
-      "fr": "Dans quel pays se trouve le siège officiel du Parlement européen ?",
-      "en": "In which country is the official seat of the European Parliament located?",
-      "nl": "In welk land bevindt zich de officiële zetel van het Europees Parlement?"
-    },
-    "answers": {
-      "fr": [
-        "France",
-        "Belgique",
-        "Allemagne",
-        "Italie"
-      ],
-      "en": [
-        "France",
-        "Belgium",
-        "Germany",
-        "Italy"
-      ],
-      "nl": [
-        "Frankrijk",
-        "België",
-        "Duitsland",
-        "Italië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
-    },
-    "explanation": {
-      "fr": "Le siège officiel du Parlement européen se trouve à Strasbourg.",
-      "en": "The official seat of the European Parliament is in Strasbourg.",
-      "nl": "De officiële zetel van het Europees Parlement bevindt zich in Straatsburg."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu019",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇪🇺",
-      "en": "🇪🇺",
-      "nl": "🇪🇺"
-    },
-    "question": {
-      "fr": "Combien de pays sont membres de l’Union européenne ?",
-      "en": "How many countries are members of the European Union?",
-      "nl": "Hoeveel landen zijn lid van de Europese Unie?"
-    },
-    "answers": {
-      "fr": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ],
-      "en": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ],
-      "nl": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "27",
-      "en": "27",
-      "nl": "27"
-    },
-    "explanation": {
-      "fr": "L’Union européenne compte 27 États membres.",
-      "en": "The European Union has 27 Member States.",
-      "nl": "De Europese Unie telt 27 lidstaten."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu020",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "💶",
-      "en": "💶",
-      "nl": "💶"
-    },
-    "question": {
-      "fr": "Quel symbole est associé à la monnaie euro ?",
-      "en": "Which symbol is associated with the euro currency?",
-      "nl": "Welk symbool hoort bij de euro?"
-    },
-    "answers": {
-      "fr": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ],
-      "en": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ],
-      "nl": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "€",
-      "en": "€",
-      "nl": "€"
-    },
-    "explanation": {
-      "fr": "Le symbole de l’euro est €.",
-      "en": "The symbol of the euro is €.",
-      "nl": "Het symbool van de euro is €."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu021",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇪🇺",
-      "en": "🇪🇺",
-      "nl": "🇪🇺"
-    },
-    "question": {
-      "fr": "Que signifie le cercle de douze étoiles sur le drapeau européen ?",
-      "en": "What does the circle of twelve stars on the European flag symbolise?",
-      "nl": "Wat symboliseert de cirkel van twaalf sterren op de Europese vlag?"
-    },
-    "answers": {
-      "fr": [
-        "L’unité et l’harmonie",
-        "Les 12 premiers États membres",
-        "Les 12 langues officielles",
-        "Les 12 capitales fondatrices"
-      ],
-      "en": [
-        "Unity and harmony",
-        "The first 12 Member States",
-        "The 12 official languages",
-        "The 12 founding capitals"
-      ],
-      "nl": [
-        "Eenheid en harmonie",
-        "De eerste 12 lidstaten",
-        "De 12 officiële talen",
-        "De 12 oprichtingshoofdsteden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "L’unité et l’harmonie",
-      "en": "Unity and harmony",
-      "nl": "Eenheid en harmonie"
-    },
-    "explanation": {
-      "fr": "Les douze étoiles représentent un symbole d’unité, de solidarité et d’harmonie entre les peuples d’Europe.",
-      "en": "The twelve stars represent unity, solidarity and harmony among the peoples of Europe.",
-      "nl": "De twaalf sterren staan symbool voor eenheid, solidariteit en harmonie tussen de volkeren van Europa."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu022",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇧🇪",
-      "en": "🇧🇪",
-      "nl": "🇧🇪"
-    },
-    "question": {
-      "fr": "Quelle ville accueille plusieurs institutions européennes majeures ?",
-      "en": "Which city hosts several major European institutions?",
-      "nl": "Welke stad huisvest verschillende belangrijke Europese instellingen?"
-    },
-    "answers": {
-      "fr": [
-        "Bruxelles",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ],
-      "en": [
-        "Brussels",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ],
-      "nl": [
-        "Brussel",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Bruxelles",
-      "en": "Brussels",
-      "nl": "Brussel"
-    },
-    "explanation": {
-      "fr": "Bruxelles accueille notamment la Commission européenne, le Conseil de l’Union européenne et une partie des activités du Parlement européen.",
-      "en": "Brussels hosts the European Commission, the Council of the European Union and part of the activities of the European Parliament.",
-      "nl": "Brussel huisvest onder meer de Europese Commissie, de Raad van de Europese Unie en een deel van de activiteiten van het Europees Parlement."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu023",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇫🇷",
-      "en": "🇫🇷",
-      "nl": "🇫🇷"
-    },
-    "question": {
-      "fr": "Dans quel pays se trouve le siège officiel du Parlement européen ?",
-      "en": "In which country is the official seat of the European Parliament located?",
-      "nl": "In welk land bevindt zich de officiële zetel van het Europees Parlement?"
-    },
-    "answers": {
-      "fr": [
-        "France",
-        "Belgique",
-        "Allemagne",
-        "Italie"
-      ],
-      "en": [
-        "France",
-        "Belgium",
-        "Germany",
-        "Italy"
-      ],
-      "nl": [
-        "Frankrijk",
-        "België",
-        "Duitsland",
-        "Italië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
-    },
-    "explanation": {
-      "fr": "Le siège officiel du Parlement européen se trouve à Strasbourg.",
-      "en": "The official seat of the European Parliament is in Strasbourg.",
-      "nl": "De officiële zetel van het Europees Parlement bevindt zich in Straatsburg."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu024",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇪🇺",
-      "en": "🇪🇺",
-      "nl": "🇪🇺"
-    },
-    "question": {
-      "fr": "Combien de pays sont membres de l’Union européenne ?",
-      "en": "How many countries are members of the European Union?",
-      "nl": "Hoeveel landen zijn lid van de Europese Unie?"
-    },
-    "answers": {
-      "fr": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ],
-      "en": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ],
-      "nl": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "27",
-      "en": "27",
-      "nl": "27"
-    },
-    "explanation": {
-      "fr": "L’Union européenne compte 27 États membres.",
-      "en": "The European Union has 27 Member States.",
-      "nl": "De Europese Unie telt 27 lidstaten."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu025",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "💶",
-      "en": "💶",
-      "nl": "💶"
-    },
-    "question": {
-      "fr": "Quel symbole est associé à la monnaie euro ?",
-      "en": "Which symbol is associated with the euro currency?",
-      "nl": "Welk symbool hoort bij de euro?"
-    },
-    "answers": {
-      "fr": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ],
-      "en": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ],
-      "nl": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "€",
-      "en": "€",
-      "nl": "€"
-    },
-    "explanation": {
-      "fr": "Le symbole de l’euro est €.",
-      "en": "The symbol of the euro is €.",
-      "nl": "Het symbool van de euro is €."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu026",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇪🇺",
-      "en": "🇪🇺",
-      "nl": "🇪🇺"
-    },
-    "question": {
-      "fr": "Que signifie le cercle de douze étoiles sur le drapeau européen ?",
-      "en": "What does the circle of twelve stars on the European flag symbolise?",
-      "nl": "Wat symboliseert de cirkel van twaalf sterren op de Europese vlag?"
-    },
-    "answers": {
-      "fr": [
-        "L’unité et l’harmonie",
-        "Les 12 premiers États membres",
-        "Les 12 langues officielles",
-        "Les 12 capitales fondatrices"
-      ],
-      "en": [
-        "Unity and harmony",
-        "The first 12 Member States",
-        "The 12 official languages",
-        "The 12 founding capitals"
-      ],
-      "nl": [
-        "Eenheid en harmonie",
-        "De eerste 12 lidstaten",
-        "De 12 officiële talen",
-        "De 12 oprichtingshoofdsteden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "L’unité et l’harmonie",
-      "en": "Unity and harmony",
-      "nl": "Eenheid en harmonie"
-    },
-    "explanation": {
-      "fr": "Les douze étoiles représentent un symbole d’unité, de solidarité et d’harmonie entre les peuples d’Europe.",
-      "en": "The twelve stars represent unity, solidarity and harmony among the peoples of Europe.",
-      "nl": "De twaalf sterren staan symbool voor eenheid, solidariteit en harmonie tussen de volkeren van Europa."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu027",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇧🇪",
-      "en": "🇧🇪",
-      "nl": "🇧🇪"
-    },
-    "question": {
-      "fr": "Quelle ville accueille plusieurs institutions européennes majeures ?",
-      "en": "Which city hosts several major European institutions?",
-      "nl": "Welke stad huisvest verschillende belangrijke Europese instellingen?"
-    },
-    "answers": {
-      "fr": [
-        "Bruxelles",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ],
-      "en": [
-        "Brussels",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ],
-      "nl": [
-        "Brussel",
-        "Madrid",
-        "Dublin",
-        "Tallinn"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Bruxelles",
-      "en": "Brussels",
-      "nl": "Brussel"
-    },
-    "explanation": {
-      "fr": "Bruxelles accueille notamment la Commission européenne, le Conseil de l’Union européenne et une partie des activités du Parlement européen.",
-      "en": "Brussels hosts the European Commission, the Council of the European Union and part of the activities of the European Parliament.",
-      "nl": "Brussel huisvest onder meer de Europese Commissie, de Raad van de Europese Unie en een deel van de activiteiten van het Europees Parlement."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu028",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇫🇷",
-      "en": "🇫🇷",
-      "nl": "🇫🇷"
-    },
-    "question": {
-      "fr": "Dans quel pays se trouve le siège officiel du Parlement européen ?",
-      "en": "In which country is the official seat of the European Parliament located?",
-      "nl": "In welk land bevindt zich de officiële zetel van het Europees Parlement?"
-    },
-    "answers": {
-      "fr": [
-        "France",
-        "Belgique",
-        "Allemagne",
-        "Italie"
-      ],
-      "en": [
-        "France",
-        "Belgium",
-        "Germany",
-        "Italy"
-      ],
-      "nl": [
-        "Frankrijk",
-        "België",
-        "Duitsland",
-        "Italië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
-    },
-    "explanation": {
-      "fr": "Le siège officiel du Parlement européen se trouve à Strasbourg.",
-      "en": "The official seat of the European Parliament is in Strasbourg.",
-      "nl": "De officiële zetel van het Europees Parlement bevindt zich in Straatsburg."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu029",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "🇪🇺",
-      "en": "🇪🇺",
-      "nl": "🇪🇺"
-    },
-    "question": {
-      "fr": "Combien de pays sont membres de l’Union européenne ?",
-      "en": "How many countries are members of the European Union?",
-      "nl": "Hoeveel landen zijn lid van de Europese Unie?"
-    },
-    "answers": {
-      "fr": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ],
-      "en": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ],
-      "nl": [
-        "27",
-        "24",
-        "30",
-        "28"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "27",
-      "en": "27",
-      "nl": "27"
-    },
-    "explanation": {
-      "fr": "L’Union européenne compte 27 États membres.",
-      "en": "The European Union has 27 Member States.",
-      "nl": "De Europese Unie telt 27 lidstaten."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
-  },
-  {
-    "id": "eu030",
-    "mode": "eu",
-    "traditionName": {
-      "fr": "Quiz EU",
-      "en": "EU Quiz",
-      "nl": "EU Quiz"
-    },
-    "scenario": {
-      "fr": "💶",
-      "en": "💶",
-      "nl": "💶"
-    },
-    "question": {
-      "fr": "Quel symbole est associé à la monnaie euro ?",
-      "en": "Which symbol is associated with the euro currency?",
-      "nl": "Welk symbool hoort bij de euro?"
-    },
-    "answers": {
-      "fr": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ],
-      "en": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ],
-      "nl": [
-        "€",
-        "$",
-        "£",
-        "₣"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "€",
-      "en": "€",
-      "nl": "€"
-    },
-    "explanation": {
-      "fr": "Le symbole de l’euro est €.",
-      "en": "The symbol of the euro is €.",
-      "nl": "Het symbool van de euro is €."
-    },
-    "country": {
-      "fr": "Union européenne",
-      "en": "European Union",
-      "nl": "Europese Unie"
-    },
-    "region": {
-      "fr": "Europe",
-      "en": "Europe",
-      "nl": "Europa"
-    }
+    "kind": "option"
   }
 ];

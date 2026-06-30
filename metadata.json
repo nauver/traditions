@@ -1,11 +1,12 @@
 {
-  "version": "V5_multilingual_verified_30_10_questions",
+  "version": "V7_traditions_culinary",
+  "traditionsPool": 30,
+  "culinaryPool": 50,
+  "quizLength": 10,
   "languages": [
     "fr",
     "en",
     "nl"
   ],
-  "questionPool": 30,
-  "quizLength": 10,
-  "generated": "2026-06-30T11:11:38.568517+00:00"
+  "generated": "2026-06-30T14:32:06.629332+00:00"
 }

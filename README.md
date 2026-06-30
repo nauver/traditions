@@ -1,11 +1,8 @@
-# CoR Traditions Challenge V5 — multilingue EN/FR/NL
+# CoR Traditions & Culinary Quiz V7
 
-- Version multilingue complète : interface, questions, réponses, pays, régions, explications.
-- Base : 30 traditions vérifiées/sourcées.
-- Le quiz pose 10 questions aléatoires par partie.
-- Suppression des indices avant réponse : aucun pays, région, difficulté ou tag n’est affiché avant que le joueur réponde.
-- Bloc réponse : `Région` et non `Région / lieu`.
-- Mode classique + duel équipes.
-- Aucun backend, aucun build.
-
-Déploiement GitHub Pages : uploader tous les fichiers à la racine, puis Ctrl+F5 ou ouvrir l’URL avec `?v=7000`.
+- Deux options : Traditions of Europe et Culinary Curiosities.
+- Mode culinaire : 50 questions, 10 tirées aléatoirement.
+- Pas d’images : aucun problème de copyright photo.
+- Écran final avec score, pourcentage, badge de niveau, bouton Rejouer et Retour au menu.
+- Interface FR/EN/NL.
+- Déploiement GitHub Pages sans build.

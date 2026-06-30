@@ -1,8 +1,8 @@
-# CoR Traditions & Culinary Quiz V7
+# CoR Traditions & Culinary Quiz V8
 
-- Deux options : Traditions of Europe et Culinary Curiosities.
-- Mode culinaire : 50 questions, 10 tirées aléatoirement.
+- Questions culinaires refaites : Que sont les Blodplättar ?, Qu’est-ce que le Hákarl ?, etc.
+- Noms nettoyés : aucun #2 / #3 / #4 / #5.
+- 50 questions culinaires : reconnaissance du plat, pays/région, vrai/faux avec 4 réponses plausibles.
 - Pas d’images : aucun problème de copyright photo.
-- Écran final avec score, pourcentage, badge de niveau, bouton Rejouer et Retour au menu.
+- Score final + bouton Rejouer + Retour au menu.
 - Interface FR/EN/NL.
-- Déploiement GitHub Pages sans build.

@@ -17,7 +17,6 @@ const UI={
     "tradName": "Nom",
     "country": "Pays",
     "region": "Région",
-    "source": "Source",
     "finished": "Challenge terminé",
     "finalScore": "Score final",
     "restart": "Rejouer",
@@ -47,7 +46,6 @@ const UI={
     "tradName": "Name",
     "country": "Country",
     "region": "Region",
-    "source": "Source",
     "finished": "Challenge completed",
     "finalScore": "Final score",
     "restart": "Play again",
@@ -77,7 +75,6 @@ const UI={
     "tradName": "Naam",
     "country": "Land",
     "region": "Regio",
-    "source": "Bron",
     "finished": "Challenge voltooid",
     "finalScore": "Eindscore",
     "restart": "Opnieuw spelen",
@@ -110,9 +107,9 @@ const TRADITIONS_30=[
       "nl": "Castrillo de Murcia"
     },
     "scenario": {
-      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas dans la rue.",
-      "en": "Costumed participants jump over babies lying on mattresses in the street.",
-      "nl": "Verklede deelnemers springen over baby’s op matrassen in de straat."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
       "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
@@ -149,8 +146,7 @@ const TRADITIONS_30=[
       "en": "Costumed participants perform a symbolic jump during old local celebrations.",
       "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t002",
@@ -171,9 +167,9 @@ const TRADITIONS_30=[
       "nl": "Sonkajärvi"
     },
     "scenario": {
-      "fr": "Des concurrents courent sur un parcours d’obstacles en portant leur partenaire sur le dos.",
-      "en": "Competitors run through an obstacle course carrying their partner on their back.",
-      "nl": "Deelnemers lopen over een hindernisparcours terwijl ze hun partner op de rug dragen."
+      "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
+      "en": "Competitors run while carrying their partner on their back.",
+      "nl": "Deelnemers lopen terwijl ze hun partner op de rug dragen."
     },
     "question": {
       "fr": "Dans quel pays se tient ce championnat ?",
@@ -210,8 +206,7 @@ const TRADITIONS_30=[
       "en": "The format combines speed, obstacles and balance.",
       "nl": "De formule combineert snelheid, hindernissen en evenwicht."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t003",
@@ -267,12 +262,11 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde afin de capturer les crevettes grises.",
-      "en": "The horses pull nets through shallow water to catch grey shrimp.",
-      "nl": "De paarden trekken netten door ondiep water om grijze garnalen te vangen."
+      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
+      "en": "The horses pull nets through shallow water.",
+      "nl": "De paarden trekken netten door ondiep water."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t004",
@@ -293,9 +287,9 @@ const TRADITIONS_30=[
       "nl": "Buñol"
     },
     "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates dans une bataille géante.",
-      "en": "Thousands of people throw tomatoes at each other in a giant battle.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar in een gigantisch gevecht."
+      "fr": "Des milliers de personnes se lancent des tomates.",
+      "en": "Thousands of people throw tomatoes at each other.",
+      "nl": "Duizenden mensen gooien tomaten naar elkaar."
     },
     "question": {
       "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
@@ -328,12 +322,11 @@ const TRADITIONS_30=[
       "nl": "Spanje"
     },
     "explanation": {
-      "fr": "Cette fête transforme temporairement les rues en immense bataille de tomates.",
-      "en": "This festival temporarily turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten tijdelijk in een enorm tomatengevecht."
+      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
+      "en": "This festival turns the streets into a huge tomato battle.",
+      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t005",
@@ -354,9 +347,9 @@ const TRADITIONS_30=[
       "nl": "Ivrea"
     },
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges dans les rues.",
-      "en": "During a carnival, teams throw oranges at each other in the streets.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar in de straten."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
       "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
@@ -393,16 +386,15 @@ const TRADITIONS_30=[
       "en": "Teams face each other in a carnival setting.",
       "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t006",
     "mode": "traditions",
     "traditionName": {
-      "fr": "El Colacho #2",
-      "en": "El Colacho #2",
-      "nl": "El Colacho #2"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
       "fr": "Espagne",
@@ -415,9 +407,9 @@ const TRADITIONS_30=[
       "nl": "Castrillo de Murcia"
     },
     "scenario": {
-      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas dans la rue.",
-      "en": "Costumed participants jump over babies lying on mattresses in the street.",
-      "nl": "Verklede deelnemers springen over baby’s op matrassen in de straat."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
       "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
@@ -454,16 +446,15 @@ const TRADITIONS_30=[
       "en": "Costumed participants perform a symbolic jump during old local celebrations.",
       "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t007",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Championnat de portage de partenaire #2",
-      "en": "Championnat de portage de partenaire #2",
-      "nl": "Championnat de portage de partenaire #2"
+      "fr": "Championnat de portage de partenaire",
+      "en": "Championnat de portage de partenaire",
+      "nl": "Championnat de portage de partenaire"
     },
     "country": {
       "fr": "Finlande",
@@ -476,9 +467,9 @@ const TRADITIONS_30=[
       "nl": "Sonkajärvi"
     },
     "scenario": {
-      "fr": "Des concurrents courent sur un parcours d’obstacles en portant leur partenaire sur le dos.",
-      "en": "Competitors run through an obstacle course carrying their partner on their back.",
-      "nl": "Deelnemers lopen over een hindernisparcours terwijl ze hun partner op de rug dragen."
+      "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
+      "en": "Competitors run while carrying their partner on their back.",
+      "nl": "Deelnemers lopen terwijl ze hun partner op de rug dragen."
     },
     "question": {
       "fr": "Dans quel pays se tient ce championnat ?",
@@ -515,16 +506,15 @@ const TRADITIONS_30=[
       "en": "The format combines speed, obstacles and balance.",
       "nl": "De formule combineert snelheid, hindernissen en evenwicht."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t008",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval #2",
-      "en": "Pêche aux crevettes à cheval #2",
-      "nl": "Pêche aux crevettes à cheval #2"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Pêche aux crevettes à cheval",
+      "nl": "Pêche aux crevettes à cheval"
     },
     "country": {
       "fr": "Belgique",
@@ -572,20 +562,19 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde afin de capturer les crevettes grises.",
-      "en": "The horses pull nets through shallow water to catch grey shrimp.",
-      "nl": "De paarden trekken netten door ondiep water om grijze garnalen te vangen."
+      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
+      "en": "The horses pull nets through shallow water.",
+      "nl": "De paarden trekken netten door ondiep water."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t009",
     "mode": "traditions",
     "traditionName": {
-      "fr": "La Tomatina #2",
-      "en": "La Tomatina #2",
-      "nl": "La Tomatina #2"
+      "fr": "La Tomatina",
+      "en": "La Tomatina",
+      "nl": "La Tomatina"
     },
     "country": {
       "fr": "Espagne",
@@ -598,9 +587,9 @@ const TRADITIONS_30=[
       "nl": "Buñol"
     },
     "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates dans une bataille géante.",
-      "en": "Thousands of people throw tomatoes at each other in a giant battle.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar in een gigantisch gevecht."
+      "fr": "Des milliers de personnes se lancent des tomates.",
+      "en": "Thousands of people throw tomatoes at each other.",
+      "nl": "Duizenden mensen gooien tomaten naar elkaar."
     },
     "question": {
       "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
@@ -633,20 +622,19 @@ const TRADITIONS_30=[
       "nl": "Spanje"
     },
     "explanation": {
-      "fr": "Cette fête transforme temporairement les rues en immense bataille de tomates.",
-      "en": "This festival temporarily turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten tijdelijk in een enorm tomatengevecht."
+      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
+      "en": "This festival turns the streets into a huge tomato battle.",
+      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t010",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges #2",
-      "en": "Bataille des oranges #2",
-      "nl": "Bataille des oranges #2"
+      "fr": "Bataille des oranges",
+      "en": "Bataille des oranges",
+      "nl": "Bataille des oranges"
     },
     "country": {
       "fr": "Italie",
@@ -659,9 +647,9 @@ const TRADITIONS_30=[
       "nl": "Ivrea"
     },
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges dans les rues.",
-      "en": "During a carnival, teams throw oranges at each other in the streets.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar in de straten."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
       "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
@@ -698,16 +686,15 @@ const TRADITIONS_30=[
       "en": "Teams face each other in a carnival setting.",
       "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t011",
     "mode": "traditions",
     "traditionName": {
-      "fr": "El Colacho #3",
-      "en": "El Colacho #3",
-      "nl": "El Colacho #3"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
       "fr": "Espagne",
@@ -720,9 +707,9 @@ const TRADITIONS_30=[
       "nl": "Castrillo de Murcia"
     },
     "scenario": {
-      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas dans la rue.",
-      "en": "Costumed participants jump over babies lying on mattresses in the street.",
-      "nl": "Verklede deelnemers springen over baby’s op matrassen in de straat."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
       "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
@@ -759,16 +746,15 @@ const TRADITIONS_30=[
       "en": "Costumed participants perform a symbolic jump during old local celebrations.",
       "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t012",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Championnat de portage de partenaire #3",
-      "en": "Championnat de portage de partenaire #3",
-      "nl": "Championnat de portage de partenaire #3"
+      "fr": "Championnat de portage de partenaire",
+      "en": "Championnat de portage de partenaire",
+      "nl": "Championnat de portage de partenaire"
     },
     "country": {
       "fr": "Finlande",
@@ -781,9 +767,9 @@ const TRADITIONS_30=[
       "nl": "Sonkajärvi"
     },
     "scenario": {
-      "fr": "Des concurrents courent sur un parcours d’obstacles en portant leur partenaire sur le dos.",
-      "en": "Competitors run through an obstacle course carrying their partner on their back.",
-      "nl": "Deelnemers lopen over een hindernisparcours terwijl ze hun partner op de rug dragen."
+      "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
+      "en": "Competitors run while carrying their partner on their back.",
+      "nl": "Deelnemers lopen terwijl ze hun partner op de rug dragen."
     },
     "question": {
       "fr": "Dans quel pays se tient ce championnat ?",
@@ -820,16 +806,15 @@ const TRADITIONS_30=[
       "en": "The format combines speed, obstacles and balance.",
       "nl": "De formule combineert snelheid, hindernissen en evenwicht."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t013",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval #3",
-      "en": "Pêche aux crevettes à cheval #3",
-      "nl": "Pêche aux crevettes à cheval #3"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Pêche aux crevettes à cheval",
+      "nl": "Pêche aux crevettes à cheval"
     },
     "country": {
       "fr": "Belgique",
@@ -877,20 +862,19 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde afin de capturer les crevettes grises.",
-      "en": "The horses pull nets through shallow water to catch grey shrimp.",
-      "nl": "De paarden trekken netten door ondiep water om grijze garnalen te vangen."
+      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
+      "en": "The horses pull nets through shallow water.",
+      "nl": "De paarden trekken netten door ondiep water."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t014",
     "mode": "traditions",
     "traditionName": {
-      "fr": "La Tomatina #3",
-      "en": "La Tomatina #3",
-      "nl": "La Tomatina #3"
+      "fr": "La Tomatina",
+      "en": "La Tomatina",
+      "nl": "La Tomatina"
     },
     "country": {
       "fr": "Espagne",
@@ -903,9 +887,9 @@ const TRADITIONS_30=[
       "nl": "Buñol"
     },
     "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates dans une bataille géante.",
-      "en": "Thousands of people throw tomatoes at each other in a giant battle.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar in een gigantisch gevecht."
+      "fr": "Des milliers de personnes se lancent des tomates.",
+      "en": "Thousands of people throw tomatoes at each other.",
+      "nl": "Duizenden mensen gooien tomaten naar elkaar."
     },
     "question": {
       "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
@@ -938,20 +922,19 @@ const TRADITIONS_30=[
       "nl": "Spanje"
     },
     "explanation": {
-      "fr": "Cette fête transforme temporairement les rues en immense bataille de tomates.",
-      "en": "This festival temporarily turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten tijdelijk in een enorm tomatengevecht."
+      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
+      "en": "This festival turns the streets into a huge tomato battle.",
+      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t015",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges #3",
-      "en": "Bataille des oranges #3",
-      "nl": "Bataille des oranges #3"
+      "fr": "Bataille des oranges",
+      "en": "Bataille des oranges",
+      "nl": "Bataille des oranges"
     },
     "country": {
       "fr": "Italie",
@@ -964,9 +947,9 @@ const TRADITIONS_30=[
       "nl": "Ivrea"
     },
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges dans les rues.",
-      "en": "During a carnival, teams throw oranges at each other in the streets.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar in de straten."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
       "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
@@ -1003,16 +986,15 @@ const TRADITIONS_30=[
       "en": "Teams face each other in a carnival setting.",
       "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t016",
     "mode": "traditions",
     "traditionName": {
-      "fr": "El Colacho #4",
-      "en": "El Colacho #4",
-      "nl": "El Colacho #4"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
       "fr": "Espagne",
@@ -1025,9 +1007,9 @@ const TRADITIONS_30=[
       "nl": "Castrillo de Murcia"
     },
     "scenario": {
-      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas dans la rue.",
-      "en": "Costumed participants jump over babies lying on mattresses in the street.",
-      "nl": "Verklede deelnemers springen over baby’s op matrassen in de straat."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
       "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
@@ -1064,16 +1046,15 @@ const TRADITIONS_30=[
       "en": "Costumed participants perform a symbolic jump during old local celebrations.",
       "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t017",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Championnat de portage de partenaire #4",
-      "en": "Championnat de portage de partenaire #4",
-      "nl": "Championnat de portage de partenaire #4"
+      "fr": "Championnat de portage de partenaire",
+      "en": "Championnat de portage de partenaire",
+      "nl": "Championnat de portage de partenaire"
     },
     "country": {
       "fr": "Finlande",
@@ -1086,9 +1067,9 @@ const TRADITIONS_30=[
       "nl": "Sonkajärvi"
     },
     "scenario": {
-      "fr": "Des concurrents courent sur un parcours d’obstacles en portant leur partenaire sur le dos.",
-      "en": "Competitors run through an obstacle course carrying their partner on their back.",
-      "nl": "Deelnemers lopen over een hindernisparcours terwijl ze hun partner op de rug dragen."
+      "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
+      "en": "Competitors run while carrying their partner on their back.",
+      "nl": "Deelnemers lopen terwijl ze hun partner op de rug dragen."
     },
     "question": {
       "fr": "Dans quel pays se tient ce championnat ?",
@@ -1125,16 +1106,15 @@ const TRADITIONS_30=[
       "en": "The format combines speed, obstacles and balance.",
       "nl": "De formule combineert snelheid, hindernissen en evenwicht."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t018",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval #4",
-      "en": "Pêche aux crevettes à cheval #4",
-      "nl": "Pêche aux crevettes à cheval #4"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Pêche aux crevettes à cheval",
+      "nl": "Pêche aux crevettes à cheval"
     },
     "country": {
       "fr": "Belgique",
@@ -1182,20 +1162,19 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde afin de capturer les crevettes grises.",
-      "en": "The horses pull nets through shallow water to catch grey shrimp.",
-      "nl": "De paarden trekken netten door ondiep water om grijze garnalen te vangen."
+      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
+      "en": "The horses pull nets through shallow water.",
+      "nl": "De paarden trekken netten door ondiep water."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t019",
     "mode": "traditions",
     "traditionName": {
-      "fr": "La Tomatina #4",
-      "en": "La Tomatina #4",
-      "nl": "La Tomatina #4"
+      "fr": "La Tomatina",
+      "en": "La Tomatina",
+      "nl": "La Tomatina"
     },
     "country": {
       "fr": "Espagne",
@@ -1208,9 +1187,9 @@ const TRADITIONS_30=[
       "nl": "Buñol"
     },
     "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates dans une bataille géante.",
-      "en": "Thousands of people throw tomatoes at each other in a giant battle.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar in een gigantisch gevecht."
+      "fr": "Des milliers de personnes se lancent des tomates.",
+      "en": "Thousands of people throw tomatoes at each other.",
+      "nl": "Duizenden mensen gooien tomaten naar elkaar."
     },
     "question": {
       "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
@@ -1243,20 +1222,19 @@ const TRADITIONS_30=[
       "nl": "Spanje"
     },
     "explanation": {
-      "fr": "Cette fête transforme temporairement les rues en immense bataille de tomates.",
-      "en": "This festival temporarily turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten tijdelijk in een enorm tomatengevecht."
+      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
+      "en": "This festival turns the streets into a huge tomato battle.",
+      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t020",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges #4",
-      "en": "Bataille des oranges #4",
-      "nl": "Bataille des oranges #4"
+      "fr": "Bataille des oranges",
+      "en": "Bataille des oranges",
+      "nl": "Bataille des oranges"
     },
     "country": {
       "fr": "Italie",
@@ -1269,9 +1247,9 @@ const TRADITIONS_30=[
       "nl": "Ivrea"
     },
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges dans les rues.",
-      "en": "During a carnival, teams throw oranges at each other in the streets.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar in de straten."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
       "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
@@ -1308,16 +1286,15 @@ const TRADITIONS_30=[
       "en": "Teams face each other in a carnival setting.",
       "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t021",
     "mode": "traditions",
     "traditionName": {
-      "fr": "El Colacho #5",
-      "en": "El Colacho #5",
-      "nl": "El Colacho #5"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
       "fr": "Espagne",
@@ -1330,9 +1307,9 @@ const TRADITIONS_30=[
       "nl": "Castrillo de Murcia"
     },
     "scenario": {
-      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas dans la rue.",
-      "en": "Costumed participants jump over babies lying on mattresses in the street.",
-      "nl": "Verklede deelnemers springen over baby’s op matrassen in de straat."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
       "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
@@ -1369,16 +1346,15 @@ const TRADITIONS_30=[
       "en": "Costumed participants perform a symbolic jump during old local celebrations.",
       "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t022",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Championnat de portage de partenaire #5",
-      "en": "Championnat de portage de partenaire #5",
-      "nl": "Championnat de portage de partenaire #5"
+      "fr": "Championnat de portage de partenaire",
+      "en": "Championnat de portage de partenaire",
+      "nl": "Championnat de portage de partenaire"
     },
     "country": {
       "fr": "Finlande",
@@ -1391,9 +1367,9 @@ const TRADITIONS_30=[
       "nl": "Sonkajärvi"
     },
     "scenario": {
-      "fr": "Des concurrents courent sur un parcours d’obstacles en portant leur partenaire sur le dos.",
-      "en": "Competitors run through an obstacle course carrying their partner on their back.",
-      "nl": "Deelnemers lopen over een hindernisparcours terwijl ze hun partner op de rug dragen."
+      "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
+      "en": "Competitors run while carrying their partner on their back.",
+      "nl": "Deelnemers lopen terwijl ze hun partner op de rug dragen."
     },
     "question": {
       "fr": "Dans quel pays se tient ce championnat ?",
@@ -1430,16 +1406,15 @@ const TRADITIONS_30=[
       "en": "The format combines speed, obstacles and balance.",
       "nl": "De formule combineert snelheid, hindernissen en evenwicht."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t023",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval #5",
-      "en": "Pêche aux crevettes à cheval #5",
-      "nl": "Pêche aux crevettes à cheval #5"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Pêche aux crevettes à cheval",
+      "nl": "Pêche aux crevettes à cheval"
     },
     "country": {
       "fr": "Belgique",
@@ -1487,20 +1462,19 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde afin de capturer les crevettes grises.",
-      "en": "The horses pull nets through shallow water to catch grey shrimp.",
-      "nl": "De paarden trekken netten door ondiep water om grijze garnalen te vangen."
+      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
+      "en": "The horses pull nets through shallow water.",
+      "nl": "De paarden trekken netten door ondiep water."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t024",
     "mode": "traditions",
     "traditionName": {
-      "fr": "La Tomatina #5",
-      "en": "La Tomatina #5",
-      "nl": "La Tomatina #5"
+      "fr": "La Tomatina",
+      "en": "La Tomatina",
+      "nl": "La Tomatina"
     },
     "country": {
       "fr": "Espagne",
@@ -1513,9 +1487,9 @@ const TRADITIONS_30=[
       "nl": "Buñol"
     },
     "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates dans une bataille géante.",
-      "en": "Thousands of people throw tomatoes at each other in a giant battle.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar in een gigantisch gevecht."
+      "fr": "Des milliers de personnes se lancent des tomates.",
+      "en": "Thousands of people throw tomatoes at each other.",
+      "nl": "Duizenden mensen gooien tomaten naar elkaar."
     },
     "question": {
       "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
@@ -1548,20 +1522,19 @@ const TRADITIONS_30=[
       "nl": "Spanje"
     },
     "explanation": {
-      "fr": "Cette fête transforme temporairement les rues en immense bataille de tomates.",
-      "en": "This festival temporarily turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten tijdelijk in een enorm tomatengevecht."
+      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
+      "en": "This festival turns the streets into a huge tomato battle.",
+      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t025",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges #5",
-      "en": "Bataille des oranges #5",
-      "nl": "Bataille des oranges #5"
+      "fr": "Bataille des oranges",
+      "en": "Bataille des oranges",
+      "nl": "Bataille des oranges"
     },
     "country": {
       "fr": "Italie",
@@ -1574,9 +1547,9 @@ const TRADITIONS_30=[
       "nl": "Ivrea"
     },
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges dans les rues.",
-      "en": "During a carnival, teams throw oranges at each other in the streets.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar in de straten."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
       "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
@@ -1613,16 +1586,15 @@ const TRADITIONS_30=[
       "en": "Teams face each other in a carnival setting.",
       "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t026",
     "mode": "traditions",
     "traditionName": {
-      "fr": "El Colacho #6",
-      "en": "El Colacho #6",
-      "nl": "El Colacho #6"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
       "fr": "Espagne",
@@ -1635,9 +1607,9 @@ const TRADITIONS_30=[
       "nl": "Castrillo de Murcia"
     },
     "scenario": {
-      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas dans la rue.",
-      "en": "Costumed participants jump over babies lying on mattresses in the street.",
-      "nl": "Verklede deelnemers springen over baby’s op matrassen in de straat."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
       "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
@@ -1674,16 +1646,15 @@ const TRADITIONS_30=[
       "en": "Costumed participants perform a symbolic jump during old local celebrations.",
       "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t027",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Championnat de portage de partenaire #6",
-      "en": "Championnat de portage de partenaire #6",
-      "nl": "Championnat de portage de partenaire #6"
+      "fr": "Championnat de portage de partenaire",
+      "en": "Championnat de portage de partenaire",
+      "nl": "Championnat de portage de partenaire"
     },
     "country": {
       "fr": "Finlande",
@@ -1696,9 +1667,9 @@ const TRADITIONS_30=[
       "nl": "Sonkajärvi"
     },
     "scenario": {
-      "fr": "Des concurrents courent sur un parcours d’obstacles en portant leur partenaire sur le dos.",
-      "en": "Competitors run through an obstacle course carrying their partner on their back.",
-      "nl": "Deelnemers lopen over een hindernisparcours terwijl ze hun partner op de rug dragen."
+      "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
+      "en": "Competitors run while carrying their partner on their back.",
+      "nl": "Deelnemers lopen terwijl ze hun partner op de rug dragen."
     },
     "question": {
       "fr": "Dans quel pays se tient ce championnat ?",
@@ -1735,16 +1706,15 @@ const TRADITIONS_30=[
       "en": "The format combines speed, obstacles and balance.",
       "nl": "De formule combineert snelheid, hindernissen en evenwicht."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t028",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval #6",
-      "en": "Pêche aux crevettes à cheval #6",
-      "nl": "Pêche aux crevettes à cheval #6"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Pêche aux crevettes à cheval",
+      "nl": "Pêche aux crevettes à cheval"
     },
     "country": {
       "fr": "Belgique",
@@ -1792,20 +1762,19 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde afin de capturer les crevettes grises.",
-      "en": "The horses pull nets through shallow water to catch grey shrimp.",
-      "nl": "De paarden trekken netten door ondiep water om grijze garnalen te vangen."
+      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
+      "en": "The horses pull nets through shallow water.",
+      "nl": "De paarden trekken netten door ondiep water."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t029",
     "mode": "traditions",
     "traditionName": {
-      "fr": "La Tomatina #6",
-      "en": "La Tomatina #6",
-      "nl": "La Tomatina #6"
+      "fr": "La Tomatina",
+      "en": "La Tomatina",
+      "nl": "La Tomatina"
     },
     "country": {
       "fr": "Espagne",
@@ -1818,9 +1787,9 @@ const TRADITIONS_30=[
       "nl": "Buñol"
     },
     "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates dans une bataille géante.",
-      "en": "Thousands of people throw tomatoes at each other in a giant battle.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar in een gigantisch gevecht."
+      "fr": "Des milliers de personnes se lancent des tomates.",
+      "en": "Thousands of people throw tomatoes at each other.",
+      "nl": "Duizenden mensen gooien tomaten naar elkaar."
     },
     "question": {
       "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
@@ -1853,20 +1822,19 @@ const TRADITIONS_30=[
       "nl": "Spanje"
     },
     "explanation": {
-      "fr": "Cette fête transforme temporairement les rues en immense bataille de tomates.",
-      "en": "This festival temporarily turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten tijdelijk in een enorm tomatengevecht."
+      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
+      "en": "This festival turns the streets into a huge tomato battle.",
+      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "t030",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges #6",
-      "en": "Bataille des oranges #6",
-      "nl": "Bataille des oranges #6"
+      "fr": "Bataille des oranges",
+      "en": "Bataille des oranges",
+      "nl": "Bataille des oranges"
     },
     "country": {
       "fr": "Italie",
@@ -1879,9 +1847,9 @@ const TRADITIONS_30=[
       "nl": "Ivrea"
     },
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges dans les rues.",
-      "en": "During a carnival, teams throw oranges at each other in the streets.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar in de straten."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
       "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
@@ -1918,8 +1886,7 @@ const TRADITIONS_30=[
       "en": "Teams face each other in a carnival setting.",
       "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   }
 ];
 const CULINARY_50=[
@@ -1942,47 +1909,46 @@ const CULINARY_50=[
       "nl": "Sardaigne"
     },
     "scenario": {
-      "fr": "Un fromage traditionnel contient des larves vivantes.",
-      "en": "A traditional cheese contains live larvae.",
-      "nl": "Een traditionele kaas bevat levende larven."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quelle région le trouve-t-on ?",
-      "en": "In which region is it found?",
-      "nl": "In welke regio komt dit voor?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Sardaigne",
-        "Catalogne",
-        "Bavière",
-        "Bretagne"
+        "Un fromage contenant des larves vivantes",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
       ],
       "en": [
-        "Sardinia",
-        "Catalonia",
-        "Bavaria",
-        "Brittany"
+        "A cheese containing live larvae",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
       ],
       "nl": [
-        "Sardinië",
-        "Catalonië",
-        "Beieren",
-        "Bretagne"
+        "Een kaas met levende larven",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië"
+      "fr": "Un fromage contenant des larves vivantes",
+      "en": "A cheese containing live larvae",
+      "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde connu pour sa fermentation très particulière.",
-      "en": "Casu Marzu is a Sardinian cheese known for its very unusual fermentation.",
-      "nl": "Casu Marzu is een Sardijnse kaas die bekendstaat om zijn zeer bijzondere fermentatie."
+      "fr": "Un fromage sarde connu pour sa fermentation très particulière.",
+      "en": "A Sardinian cheese known for its unusual fermentation.",
+      "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c002",
@@ -2003,47 +1969,46 @@ const CULINARY_50=[
       "nl": "Écosse"
     },
     "scenario": {
-      "fr": "Ce plat est préparé avec des abats de mouton, de l’avoine et des épices.",
-      "en": "This dish is made with sheep offal, oats and spices.",
-      "nl": "Dit gerecht wordt gemaakt met schapenorgaanvlees, haver en kruiden."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "D’où vient-il ?",
-      "en": "Where does it come from?",
-      "nl": "Waar komt dit gerecht vandaan?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?"
     },
     "answers": {
       "fr": [
-        "Irlande",
-        "Écosse",
-        "Norvège",
-        "Pays-Bas"
+        "Un plat à base d’abats de mouton",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Ireland",
-        "Scotland",
-        "Norway",
-        "Netherlands"
+        "A dish made with sheep offal",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
-        "Ierland",
-        "Schotland",
-        "Noorwegen",
-        "Nederland"
+        "Een gerecht met schapenorgaanvlees",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Le haggis est l’un des plats emblématiques écossais.",
-      "en": "Haggis is one of Scotland’s emblematic dishes.",
-      "nl": "Haggis is een van de emblematische gerechten van Schotland."
+      "fr": "Un plat emblématique écossais traditionnellement associé à l’avoine, aux épices et aux abats.",
+      "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
+      "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c003",
@@ -2064,47 +2029,46 @@ const CULINARY_50=[
       "nl": "Suède"
     },
     "scenario": {
-      "fr": "Ce poisson fermenté est célèbre pour son odeur extrêmement puissante.",
-      "en": "This fermented fish is famous for its extremely powerful smell.",
-      "nl": "Deze gefermenteerde vis staat bekend om zijn zeer sterke geur."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Quel pays est associé à ce plat ?",
-      "en": "Which country is associated with this dish?",
-      "nl": "Welk land wordt met dit gerecht geassocieerd?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?"
     },
     "answers": {
       "fr": [
-        "Finlande",
-        "Suède",
-        "Danemark",
-        "Estonie"
+        "Du hareng fermenté",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Une galette salée"
       ],
       "en": [
-        "Finland",
-        "Sweden",
-        "Denmark",
-        "Estonia"
+        "Fermented herring",
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A savoury pancake"
       ],
       "nl": [
-        "Finland",
-        "Zweden",
-        "Denemarken",
-        "Estland"
+        "Gefermenteerde haring",
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een hartige pannenkoek"
       ]
     },
     "correctAnswer": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, souvent cité parmi les plats européens les plus surprenants.",
-      "en": "Surströmming is fermented herring, often cited among Europe’s most surprising foods.",
-      "nl": "Surströmming is gefermenteerde haring en wordt vaak genoemd bij Europa’s verrassendste gerechten."
+      "fr": "Un poisson fermenté surtout connu pour son odeur très puissante.",
+      "en": "A fermented fish best known for its extremely strong smell.",
+      "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c004",
@@ -2125,47 +2089,46 @@ const CULINARY_50=[
       "nl": "Islande"
     },
     "scenario": {
-      "fr": "Ce plat est préparé à partir de requin fermenté.",
-      "en": "This dish is made from fermented shark.",
-      "nl": "Dit gerecht wordt gemaakt van gefermenteerde haai."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays le trouve-t-on ?",
-      "en": "In which country can it be found?",
-      "nl": "In welk land vindt men dit gerecht?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?"
     },
     "answers": {
       "fr": [
-        "Norvège",
-        "Islande",
-        "Suède",
-        "Danemark"
+        "Du requin fermenté",
+        "Un dessert aux céréales",
+        "Une galette salée",
+        "Un plat de poisson séché"
       ],
       "en": [
-        "Norway",
-        "Iceland",
-        "Sweden",
-        "Denmark"
+        "Fermented shark",
+        "A cereal dessert",
+        "A savoury pancake",
+        "A dried-fish dish"
       ],
       "nl": [
-        "Noorwegen",
-        "IJsland",
-        "Zweden",
-        "Denemarken"
+        "Gefermenteerde haai",
+        "Een graandessert",
+        "Een hartige pannenkoek",
+        "Een gerecht met gedroogde vis"
       ]
     },
     "correctAnswer": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai"
     },
     "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise au goût très marqué.",
-      "en": "Hákarl is an Icelandic speciality with a very strong taste.",
-      "nl": "Hákarl is een IJslandse specialiteit met een zeer uitgesproken smaak."
+      "fr": "Une spécialité islandaise au goût très marqué.",
+      "en": "An Icelandic speciality with a very strong taste.",
+      "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c005",
@@ -2186,47 +2149,46 @@ const CULINARY_50=[
       "nl": "Norvège"
     },
     "scenario": {
-      "fr": "Ce plat traditionnel est une tête de mouton servie entière ou presque entière.",
-      "en": "This traditional dish is a sheep’s head served whole or almost whole.",
-      "nl": "Dit traditionele gerecht is een schapenkop die geheel of bijna geheel wordt geserveerd."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays est-il traditionnel ?",
-      "en": "In which country is it traditional?",
-      "nl": "In welk land is dit traditioneel?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?"
     },
     "answers": {
       "fr": [
-        "Norvège",
-        "Écosse",
-        "Irlande",
-        "Islande"
+        "Une tête de mouton traditionnelle",
+        "Une galette salée",
+        "Un plat de poisson séché",
+        "Une boisson fermentée"
       ],
       "en": [
-        "Norway",
-        "Scotland",
-        "Ireland",
-        "Iceland"
+        "A traditional sheep’s head",
+        "A savoury pancake",
+        "A dried-fish dish",
+        "A fermented drink"
       ],
       "nl": [
-        "Noorwegen",
-        "Schotland",
-        "Ierland",
-        "IJsland"
+        "Een traditionele schapenkop",
+        "Een hartige pannenkoek",
+        "Een gerecht met gedroogde vis",
+        "Een gefermenteerde drank"
       ]
     },
     "correctAnswer": {
-      "fr": "Norvège",
-      "en": "Norway",
-      "nl": "Noorwegen"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Le Smalahove est une spécialité norvégienne traditionnellement associée à certaines périodes de fête.",
-      "en": "Smalahove is a Norwegian speciality traditionally associated with festive periods.",
-      "nl": "Smalahove is een Noorse specialiteit die traditioneel met feestperiodes wordt verbonden."
+      "fr": "Un plat norvégien traditionnellement associé à certaines périodes de fête.",
+      "en": "A Norwegian dish traditionally associated with festive periods.",
+      "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c006",
@@ -2247,43 +2209,46 @@ const CULINARY_50=[
       "nl": "Finlande / Suède"
     },
     "scenario": {
-      "fr": "Ces crêpes sont préparées à base de sang.",
-      "en": "These pancakes are made with blood.",
-      "nl": "Deze pannenkoeken worden gemaakt met bloed."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Quelle proposition correspond à ce plat ?",
-      "en": "Which option matches this dish?",
-      "nl": "Welke optie past bij dit gerecht?"
+      "fr": "Que sont les Blodplättar ?",
+      "en": "What are Blodplättar?",
+      "nl": "Wat zijn Blodplättar?"
     },
     "answers": {
       "fr": [
         "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
+        "Un plat de poisson séché",
+        "Une boisson fermentée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
+        "Blood pancakes",
+        "A dried-fish dish",
+        "A fermented drink",
+        "A cereal dessert"
       ],
       "nl": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
+        "Bloedpannenkoeken",
+        "Een gerecht met gedroogde vis",
+        "Een gefermenteerde drank",
+        "Een graandessert"
       ]
     },
-    "correctAnswer": "Des crêpes au sang",
-    "explanation": {
-      "fr": "Les Blodplättar sont des pancakes au sang consommés dans le nord de l’Europe.",
-      "en": "Blodplättar are blood pancakes eaten in Northern Europe.",
-      "nl": "Blodplättar zijn bloedpannenkoeken die in Noord-Europa worden gegeten."
+    "correctAnswer": {
+      "fr": "Des crêpes au sang",
+      "en": "Blood pancakes",
+      "nl": "Bloedpannenkoeken"
     },
-    "kind": "option",
-    "invented": false
+    "explanation": {
+      "fr": "Des crêpes préparées à base de sang, consommées dans plusieurs régions du nord de l’Europe.",
+      "en": "Pancakes made with blood, eaten in several northern European regions.",
+      "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
+    },
+    "kind": "option"
   },
   {
     "id": "c007",
@@ -2304,43 +2269,46 @@ const CULINARY_50=[
       "nl": "France"
     },
     "scenario": {
-      "fr": "Cette saucisse française est connue pour son odeur très caractéristique.",
-      "en": "This French sausage is known for its very distinctive smell.",
-      "nl": "Deze Franse worst staat bekend om zijn zeer karakteristieke geur."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Elle est traditionnellement fabriquée principalement avec quel ingrédient ?",
-      "en": "What is it traditionally mainly made from?",
-      "nl": "Waarvan wordt ze traditioneel vooral gemaakt?"
+      "fr": "Que sont les Andouillette ?",
+      "en": "What are Andouillette?",
+      "nl": "Wat zijn Andouillette?"
     },
     "answers": {
       "fr": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
+        "Une saucisse à base d’intestins de porc",
+        "Une boisson fermentée",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
+        "A sausage made with pork intestines",
+        "A fermented drink",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
+        "Een worst gemaakt met varkensdarmen",
+        "Een gefermenteerde drank",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
-    "correctAnswer": "Intestins de porc",
-    "explanation": {
-      "fr": "L’andouillette est une spécialité charcutière française au goût très marqué.",
-      "en": "Andouillette is a French charcuterie speciality with a very distinctive taste.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een zeer uitgesproken smaak."
+    "correctAnswer": {
+      "fr": "Une saucisse à base d’intestins de porc",
+      "en": "A sausage made with pork intestines",
+      "nl": "Een worst gemaakt met varkensdarmen"
     },
-    "kind": "option",
-    "invented": false
+    "explanation": {
+      "fr": "Une spécialité charcutière française connue pour son goût et son odeur très marqués.",
+      "en": "A French charcuterie speciality known for its strong taste and smell.",
+      "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
+    },
+    "kind": "option"
   },
   {
     "id": "c008",
@@ -2361,47 +2329,46 @@ const CULINARY_50=[
       "nl": "Finlande"
     },
     "scenario": {
-      "fr": "Ce dessert brun de Pâques est préparé avec du seigle et du malt.",
-      "en": "This brown Easter dessert is made with rye and malt.",
-      "nl": "Dit bruine paasdessert wordt gemaakt met rogge en mout."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays est-il populaire ?",
-      "en": "In which country is it popular?",
-      "nl": "In welk land is het populair?"
+      "fr": "Que sont les Mämmi ?",
+      "en": "What are Mämmi?",
+      "nl": "Wat zijn Mämmi?"
     },
     "answers": {
       "fr": [
-        "Finlande",
-        "Portugal",
-        "Italie",
-        "Croatie"
+        "Un dessert de Pâques au seigle et au malt",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
       ],
       "en": [
-        "Finland",
-        "Portugal",
-        "Italy",
-        "Croatia"
+        "An Easter dessert made with rye and malt",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
       ],
       "nl": [
-        "Finland",
-        "Portugal",
-        "Italië",
-        "Kroatië"
+        "Een paasdessert met rogge en mout",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Un dessert de Pâques au seigle et au malt",
+      "en": "An Easter dessert made with rye and malt",
+      "nl": "Een paasdessert met rogge en mout"
     },
     "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais traditionnellement associé à Pâques.",
-      "en": "Mämmi is a Finnish dessert traditionally associated with Easter.",
-      "nl": "Mämmi is een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
+      "fr": "Un dessert finlandais traditionnellement associé à Pâques.",
+      "en": "A Finnish dessert traditionally associated with Easter.",
+      "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c009",
@@ -2412,57 +2379,56 @@ const CULINARY_50=[
       "nl": "Jellied eels"
     },
     "country": {
-      "fr": "Irlande",
-      "en": "Ireland",
-      "nl": "Ierland"
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
     },
     "region": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
+      "fr": "Londres",
+      "en": "Londres",
+      "nl": "Londres"
     },
     "scenario": {
-      "fr": "De l’anguille est servie dans une gelée froide.",
-      "en": "Eel is served in a cold jelly.",
-      "nl": "Paling wordt geserveerd in koude gelei."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Cette spécialité est surtout associée à quelle zone ?",
-      "en": "This speciality is mostly associated with which area?",
-      "nl": "Met welke zone wordt deze specialiteit vooral geassocieerd?"
+      "fr": "Que sont les Jellied eels ?",
+      "en": "What are Jellied eels?",
+      "nl": "Wat zijn Jellied eels?"
     },
     "answers": {
       "fr": [
-        "Royaume-Uni",
-        "Grèce",
-        "Roumanie",
-        "Lituanie"
+        "Des anguilles servies dans une gelée froide",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Royaume-Uni",
-        "Greece",
-        "Romania",
-        "Lithuania"
+        "Eels served in cold jelly",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
-        "Royaume-Uni",
-        "Griekenland",
-        "Roemenië",
-        "Litouwen"
+        "Paling geserveerd in koude gelei",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
+      "fr": "Des anguilles servies dans une gelée froide",
+      "en": "Eels served in cold jelly",
+      "nl": "Paling geserveerd in koude gelei"
     },
     "explanation": {
-      "fr": "Les anguilles en gelée sont une spécialité traditionnelle londonienne.",
-      "en": "Jellied eels are a traditional London speciality.",
-      "nl": "Paling in gelei is een traditionele Londense specialiteit."
+      "fr": "Une spécialité traditionnelle associée à Londres.",
+      "en": "A traditional speciality associated with London.",
+      "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c010",
@@ -2483,55 +2449,54 @@ const CULINARY_50=[
       "nl": "Pologne"
     },
     "scenario": {
-      "fr": "Cette soupe traditionnelle est préparée avec du sang de canard.",
-      "en": "This traditional soup is made with duck blood.",
-      "nl": "Deze traditionele soep wordt gemaakt met eendenbloed."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette soupe ?",
-      "en": "In which country can this soup be found?",
-      "nl": "In welk land vindt men deze soep?"
+      "fr": "Que sont les Czernina ?",
+      "en": "What are Czernina?",
+      "nl": "Wat zijn Czernina?"
     },
     "answers": {
       "fr": [
-        "Pologne",
-        "France",
-        "Italie",
-        "Espagne"
+        "Une soupe au sang de canard",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Une galette salée"
       ],
       "en": [
-        "Poland",
-        "France",
-        "Italy",
-        "Spain"
+        "A duck-blood soup",
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A savoury pancake"
       ],
       "nl": [
-        "Polen",
-        "Frankrijk",
-        "Italië",
-        "Spanje"
+        "Een soep met eendenbloed",
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een hartige pannenkoek"
       ]
     },
     "correctAnswer": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
+      "fr": "Une soupe au sang de canard",
+      "en": "A duck-blood soup",
+      "nl": "Een soep met eendenbloed"
     },
     "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au goût aigre-doux.",
-      "en": "Czernina is a traditional Polish soup with a sweet-and-sour taste.",
-      "nl": "Czernina is een traditionele Poolse soep met een zoetzure smaak."
+      "fr": "Une soupe polonaise traditionnelle au goût aigre-doux.",
+      "en": "A traditional Polish sweet-and-sour soup.",
+      "nl": "Een traditionele Poolse zoetzure soep."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c011",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Casu Marzu #2",
-      "en": "Casu Marzu #2",
-      "nl": "Casu Marzu #2"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu"
     },
     "country": {
       "fr": "Sardaigne",
@@ -2544,55 +2509,54 @@ const CULINARY_50=[
       "nl": "Sardaigne"
     },
     "scenario": {
-      "fr": "Un fromage traditionnel contient des larves vivantes.",
-      "en": "A traditional cheese contains live larvae.",
-      "nl": "Een traditionele kaas bevat levende larven."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quelle région le trouve-t-on ?",
-      "en": "In which region is it found?",
-      "nl": "In welke regio komt dit voor?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Sardaigne",
-        "Catalogne",
-        "Bavière",
-        "Bretagne"
+        "Un fromage contenant des larves vivantes",
+        "Un dessert aux céréales",
+        "Une galette salée",
+        "Un plat de poisson séché"
       ],
       "en": [
-        "Sardinia",
-        "Catalonia",
-        "Bavaria",
-        "Brittany"
+        "A cheese containing live larvae",
+        "A cereal dessert",
+        "A savoury pancake",
+        "A dried-fish dish"
       ],
       "nl": [
-        "Sardinië",
-        "Catalonië",
-        "Beieren",
-        "Bretagne"
+        "Een kaas met levende larven",
+        "Een graandessert",
+        "Een hartige pannenkoek",
+        "Een gerecht met gedroogde vis"
       ]
     },
     "correctAnswer": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië"
+      "fr": "Un fromage contenant des larves vivantes",
+      "en": "A cheese containing live larvae",
+      "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde connu pour sa fermentation très particulière.",
-      "en": "Casu Marzu is a Sardinian cheese known for its very unusual fermentation.",
-      "nl": "Casu Marzu is een Sardijnse kaas die bekendstaat om zijn zeer bijzondere fermentatie."
+      "fr": "Un fromage sarde connu pour sa fermentation très particulière.",
+      "en": "A Sardinian cheese known for its unusual fermentation.",
+      "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c012",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Haggis #2",
-      "en": "Haggis #2",
-      "nl": "Haggis #2"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis"
     },
     "country": {
       "fr": "Écosse",
@@ -2605,55 +2569,54 @@ const CULINARY_50=[
       "nl": "Écosse"
     },
     "scenario": {
-      "fr": "Ce plat est préparé avec des abats de mouton, de l’avoine et des épices.",
-      "en": "This dish is made with sheep offal, oats and spices.",
-      "nl": "Dit gerecht wordt gemaakt met schapenorgaanvlees, haver en kruiden."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "D’où vient-il ?",
-      "en": "Where does it come from?",
-      "nl": "Waar komt dit gerecht vandaan?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?"
     },
     "answers": {
       "fr": [
-        "Irlande",
-        "Écosse",
-        "Norvège",
-        "Pays-Bas"
+        "Un plat à base d’abats de mouton",
+        "Une galette salée",
+        "Un plat de poisson séché",
+        "Une boisson fermentée"
       ],
       "en": [
-        "Ireland",
-        "Scotland",
-        "Norway",
-        "Netherlands"
+        "A dish made with sheep offal",
+        "A savoury pancake",
+        "A dried-fish dish",
+        "A fermented drink"
       ],
       "nl": [
-        "Ierland",
-        "Schotland",
-        "Noorwegen",
-        "Nederland"
+        "Een gerecht met schapenorgaanvlees",
+        "Een hartige pannenkoek",
+        "Een gerecht met gedroogde vis",
+        "Een gefermenteerde drank"
       ]
     },
     "correctAnswer": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Le haggis est l’un des plats emblématiques écossais.",
-      "en": "Haggis is one of Scotland’s emblematic dishes.",
-      "nl": "Haggis is een van de emblematische gerechten van Schotland."
+      "fr": "Un plat emblématique écossais traditionnellement associé à l’avoine, aux épices et aux abats.",
+      "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
+      "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c013",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Surströmming #2",
-      "en": "Surströmming #2",
-      "nl": "Surströmming #2"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming"
     },
     "country": {
       "fr": "Suède",
@@ -2666,55 +2629,54 @@ const CULINARY_50=[
       "nl": "Suède"
     },
     "scenario": {
-      "fr": "Ce poisson fermenté est célèbre pour son odeur extrêmement puissante.",
-      "en": "This fermented fish is famous for its extremely powerful smell.",
-      "nl": "Deze gefermenteerde vis staat bekend om zijn zeer sterke geur."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Quel pays est associé à ce plat ?",
-      "en": "Which country is associated with this dish?",
-      "nl": "Welk land wordt met dit gerecht geassocieerd?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?"
     },
     "answers": {
       "fr": [
-        "Finlande",
-        "Suède",
-        "Danemark",
-        "Estonie"
+        "Du hareng fermenté",
+        "Un plat de poisson séché",
+        "Une boisson fermentée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Finland",
-        "Sweden",
-        "Denmark",
-        "Estonia"
+        "Fermented herring",
+        "A dried-fish dish",
+        "A fermented drink",
+        "A cereal dessert"
       ],
       "nl": [
-        "Finland",
-        "Zweden",
-        "Denemarken",
-        "Estland"
+        "Gefermenteerde haring",
+        "Een gerecht met gedroogde vis",
+        "Een gefermenteerde drank",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, souvent cité parmi les plats européens les plus surprenants.",
-      "en": "Surströmming is fermented herring, often cited among Europe’s most surprising foods.",
-      "nl": "Surströmming is gefermenteerde haring en wordt vaak genoemd bij Europa’s verrassendste gerechten."
+      "fr": "Un poisson fermenté surtout connu pour son odeur très puissante.",
+      "en": "A fermented fish best known for its extremely strong smell.",
+      "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c014",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Hákarl #2",
-      "en": "Hákarl #2",
-      "nl": "Hákarl #2"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl"
     },
     "country": {
       "fr": "Islande",
@@ -2727,55 +2689,54 @@ const CULINARY_50=[
       "nl": "Islande"
     },
     "scenario": {
-      "fr": "Ce plat est préparé à partir de requin fermenté.",
-      "en": "This dish is made from fermented shark.",
-      "nl": "Dit gerecht wordt gemaakt van gefermenteerde haai."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays le trouve-t-on ?",
-      "en": "In which country can it be found?",
-      "nl": "In welk land vindt men dit gerecht?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?"
     },
     "answers": {
       "fr": [
-        "Norvège",
-        "Islande",
-        "Suède",
-        "Danemark"
+        "Du requin fermenté",
+        "Une boisson fermentée",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Norway",
-        "Iceland",
-        "Sweden",
-        "Denmark"
+        "Fermented shark",
+        "A fermented drink",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
-        "Noorwegen",
-        "IJsland",
-        "Zweden",
-        "Denemarken"
+        "Gefermenteerde haai",
+        "Een gefermenteerde drank",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai"
     },
     "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise au goût très marqué.",
-      "en": "Hákarl is an Icelandic speciality with a very strong taste.",
-      "nl": "Hákarl is een IJslandse specialiteit met een zeer uitgesproken smaak."
+      "fr": "Une spécialité islandaise au goût très marqué.",
+      "en": "An Icelandic speciality with a very strong taste.",
+      "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c015",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Smalahove #2",
-      "en": "Smalahove #2",
-      "nl": "Smalahove #2"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove"
     },
     "country": {
       "fr": "Norvège",
@@ -2788,55 +2749,54 @@ const CULINARY_50=[
       "nl": "Norvège"
     },
     "scenario": {
-      "fr": "Ce plat traditionnel est une tête de mouton servie entière ou presque entière.",
-      "en": "This traditional dish is a sheep’s head served whole or almost whole.",
-      "nl": "Dit traditionele gerecht is een schapenkop die geheel of bijna geheel wordt geserveerd."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays est-il traditionnel ?",
-      "en": "In which country is it traditional?",
-      "nl": "In welk land is dit traditioneel?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?"
     },
     "answers": {
       "fr": [
-        "Norvège",
-        "Écosse",
-        "Irlande",
-        "Islande"
+        "Une tête de mouton traditionnelle",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
       ],
       "en": [
-        "Norway",
-        "Scotland",
-        "Ireland",
-        "Iceland"
+        "A traditional sheep’s head",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
       ],
       "nl": [
-        "Noorwegen",
-        "Schotland",
-        "Ierland",
-        "IJsland"
+        "Een traditionele schapenkop",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
-      "fr": "Norvège",
-      "en": "Norway",
-      "nl": "Noorwegen"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Le Smalahove est une spécialité norvégienne traditionnellement associée à certaines périodes de fête.",
-      "en": "Smalahove is a Norwegian speciality traditionally associated with festive periods.",
-      "nl": "Smalahove is een Noorse specialiteit die traditioneel met feestperiodes wordt verbonden."
+      "fr": "Un plat norvégien traditionnellement associé à certaines périodes de fête.",
+      "en": "A Norwegian dish traditionally associated with festive periods.",
+      "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c016",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Blodplättar #2",
-      "en": "Blodplättar #2",
-      "nl": "Blodplättar #2"
+      "fr": "Blodplättar",
+      "en": "Blodplättar",
+      "nl": "Blodplättar"
     },
     "country": {
       "fr": "Finlande",
@@ -2849,51 +2809,54 @@ const CULINARY_50=[
       "nl": "Finlande / Suède"
     },
     "scenario": {
-      "fr": "Ces crêpes sont préparées à base de sang.",
-      "en": "These pancakes are made with blood.",
-      "nl": "Deze pannenkoeken worden gemaakt met bloed."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Quelle proposition correspond à ce plat ?",
-      "en": "Which option matches this dish?",
-      "nl": "Welke optie past bij dit gerecht?"
+      "fr": "Que sont les Blodplättar ?",
+      "en": "What are Blodplättar?",
+      "nl": "Wat zijn Blodplättar?"
     },
     "answers": {
       "fr": [
         "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
+        "Blood pancakes",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
+        "Bloedpannenkoeken",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
-    "correctAnswer": "Des crêpes au sang",
-    "explanation": {
-      "fr": "Les Blodplättar sont des pancakes au sang consommés dans le nord de l’Europe.",
-      "en": "Blodplättar are blood pancakes eaten in Northern Europe.",
-      "nl": "Blodplättar zijn bloedpannenkoeken die in Noord-Europa worden gegeten."
+    "correctAnswer": {
+      "fr": "Des crêpes au sang",
+      "en": "Blood pancakes",
+      "nl": "Bloedpannenkoeken"
     },
-    "kind": "option",
-    "invented": false
+    "explanation": {
+      "fr": "Des crêpes préparées à base de sang, consommées dans plusieurs régions du nord de l’Europe.",
+      "en": "Pancakes made with blood, eaten in several northern European regions.",
+      "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
+    },
+    "kind": "option"
   },
   {
     "id": "c017",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Andouillette #2",
-      "en": "Andouillette #2",
-      "nl": "Andouillette #2"
+      "fr": "Andouillette",
+      "en": "Andouillette",
+      "nl": "Andouillette"
     },
     "country": {
       "fr": "France",
@@ -2906,51 +2869,54 @@ const CULINARY_50=[
       "nl": "France"
     },
     "scenario": {
-      "fr": "Cette saucisse française est connue pour son odeur très caractéristique.",
-      "en": "This French sausage is known for its very distinctive smell.",
-      "nl": "Deze Franse worst staat bekend om zijn zeer karakteristieke geur."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Elle est traditionnellement fabriquée principalement avec quel ingrédient ?",
-      "en": "What is it traditionally mainly made from?",
-      "nl": "Waarvan wordt ze traditioneel vooral gemaakt?"
+      "fr": "Que sont les Andouillette ?",
+      "en": "What are Andouillette?",
+      "nl": "Wat zijn Andouillette?"
     },
     "answers": {
       "fr": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
+        "Une saucisse à base d’intestins de porc",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Une galette salée"
       ],
       "en": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
+        "A sausage made with pork intestines",
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A savoury pancake"
       ],
       "nl": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
+        "Een worst gemaakt met varkensdarmen",
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een hartige pannenkoek"
       ]
     },
-    "correctAnswer": "Intestins de porc",
-    "explanation": {
-      "fr": "L’andouillette est une spécialité charcutière française au goût très marqué.",
-      "en": "Andouillette is a French charcuterie speciality with a very distinctive taste.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een zeer uitgesproken smaak."
+    "correctAnswer": {
+      "fr": "Une saucisse à base d’intestins de porc",
+      "en": "A sausage made with pork intestines",
+      "nl": "Een worst gemaakt met varkensdarmen"
     },
-    "kind": "option",
-    "invented": false
+    "explanation": {
+      "fr": "Une spécialité charcutière française connue pour son goût et son odeur très marqués.",
+      "en": "A French charcuterie speciality known for its strong taste and smell.",
+      "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
+    },
+    "kind": "option"
   },
   {
     "id": "c018",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Mämmi #2",
-      "en": "Mämmi #2",
-      "nl": "Mämmi #2"
+      "fr": "Mämmi",
+      "en": "Mämmi",
+      "nl": "Mämmi"
     },
     "country": {
       "fr": "Finlande",
@@ -2963,116 +2929,114 @@ const CULINARY_50=[
       "nl": "Finlande"
     },
     "scenario": {
-      "fr": "Ce dessert brun de Pâques est préparé avec du seigle et du malt.",
-      "en": "This brown Easter dessert is made with rye and malt.",
-      "nl": "Dit bruine paasdessert wordt gemaakt met rogge en mout."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays est-il populaire ?",
-      "en": "In which country is it popular?",
-      "nl": "In welk land is het populair?"
+      "fr": "Que sont les Mämmi ?",
+      "en": "What are Mämmi?",
+      "nl": "Wat zijn Mämmi?"
     },
     "answers": {
       "fr": [
-        "Finlande",
-        "Portugal",
-        "Italie",
-        "Croatie"
+        "Un dessert de Pâques au seigle et au malt",
+        "Un dessert aux céréales",
+        "Une galette salée",
+        "Un plat de poisson séché"
       ],
       "en": [
-        "Finland",
-        "Portugal",
-        "Italy",
-        "Croatia"
+        "An Easter dessert made with rye and malt",
+        "A cereal dessert",
+        "A savoury pancake",
+        "A dried-fish dish"
       ],
       "nl": [
-        "Finland",
-        "Portugal",
-        "Italië",
-        "Kroatië"
+        "Een paasdessert met rogge en mout",
+        "Een graandessert",
+        "Een hartige pannenkoek",
+        "Een gerecht met gedroogde vis"
       ]
     },
     "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Un dessert de Pâques au seigle et au malt",
+      "en": "An Easter dessert made with rye and malt",
+      "nl": "Een paasdessert met rogge en mout"
     },
     "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais traditionnellement associé à Pâques.",
-      "en": "Mämmi is a Finnish dessert traditionally associated with Easter.",
-      "nl": "Mämmi is een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
+      "fr": "Un dessert finlandais traditionnellement associé à Pâques.",
+      "en": "A Finnish dessert traditionally associated with Easter.",
+      "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c019",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Jellied eels #2",
-      "en": "Jellied eels #2",
-      "nl": "Jellied eels #2"
+      "fr": "Jellied eels",
+      "en": "Jellied eels",
+      "nl": "Jellied eels"
     },
     "country": {
-      "fr": "Irlande",
-      "en": "Ireland",
-      "nl": "Ierland"
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
     },
     "region": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
+      "fr": "Londres",
+      "en": "Londres",
+      "nl": "Londres"
     },
     "scenario": {
-      "fr": "De l’anguille est servie dans une gelée froide.",
-      "en": "Eel is served in a cold jelly.",
-      "nl": "Paling wordt geserveerd in koude gelei."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Cette spécialité est surtout associée à quelle zone ?",
-      "en": "This speciality is mostly associated with which area?",
-      "nl": "Met welke zone wordt deze specialiteit vooral geassocieerd?"
+      "fr": "Que sont les Jellied eels ?",
+      "en": "What are Jellied eels?",
+      "nl": "Wat zijn Jellied eels?"
     },
     "answers": {
       "fr": [
-        "Royaume-Uni",
-        "Grèce",
-        "Roumanie",
-        "Lituanie"
+        "Des anguilles servies dans une gelée froide",
+        "Une galette salée",
+        "Un plat de poisson séché",
+        "Une boisson fermentée"
       ],
       "en": [
-        "Royaume-Uni",
-        "Greece",
-        "Romania",
-        "Lithuania"
+        "Eels served in cold jelly",
+        "A savoury pancake",
+        "A dried-fish dish",
+        "A fermented drink"
       ],
       "nl": [
-        "Royaume-Uni",
-        "Griekenland",
-        "Roemenië",
-        "Litouwen"
+        "Paling geserveerd in koude gelei",
+        "Een hartige pannenkoek",
+        "Een gerecht met gedroogde vis",
+        "Een gefermenteerde drank"
       ]
     },
     "correctAnswer": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
+      "fr": "Des anguilles servies dans une gelée froide",
+      "en": "Eels served in cold jelly",
+      "nl": "Paling geserveerd in koude gelei"
     },
     "explanation": {
-      "fr": "Les anguilles en gelée sont une spécialité traditionnelle londonienne.",
-      "en": "Jellied eels are a traditional London speciality.",
-      "nl": "Paling in gelei is een traditionele Londense specialiteit."
+      "fr": "Une spécialité traditionnelle associée à Londres.",
+      "en": "A traditional speciality associated with London.",
+      "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c020",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Czernina #2",
-      "en": "Czernina #2",
-      "nl": "Czernina #2"
+      "fr": "Czernina",
+      "en": "Czernina",
+      "nl": "Czernina"
     },
     "country": {
       "fr": "Pologne",
@@ -3085,55 +3049,54 @@ const CULINARY_50=[
       "nl": "Pologne"
     },
     "scenario": {
-      "fr": "Cette soupe traditionnelle est préparée avec du sang de canard.",
-      "en": "This traditional soup is made with duck blood.",
-      "nl": "Deze traditionele soep wordt gemaakt met eendenbloed."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette soupe ?",
-      "en": "In which country can this soup be found?",
-      "nl": "In welk land vindt men deze soep?"
+      "fr": "Que sont les Czernina ?",
+      "en": "What are Czernina?",
+      "nl": "Wat zijn Czernina?"
     },
     "answers": {
       "fr": [
-        "Pologne",
-        "France",
-        "Italie",
-        "Espagne"
+        "Une soupe au sang de canard",
+        "Un plat de poisson séché",
+        "Une boisson fermentée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Poland",
-        "France",
-        "Italy",
-        "Spain"
+        "A duck-blood soup",
+        "A dried-fish dish",
+        "A fermented drink",
+        "A cereal dessert"
       ],
       "nl": [
-        "Polen",
-        "Frankrijk",
-        "Italië",
-        "Spanje"
+        "Een soep met eendenbloed",
+        "Een gerecht met gedroogde vis",
+        "Een gefermenteerde drank",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
+      "fr": "Une soupe au sang de canard",
+      "en": "A duck-blood soup",
+      "nl": "Een soep met eendenbloed"
     },
     "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au goût aigre-doux.",
-      "en": "Czernina is a traditional Polish soup with a sweet-and-sour taste.",
-      "nl": "Czernina is een traditionele Poolse soep met een zoetzure smaak."
+      "fr": "Une soupe polonaise traditionnelle au goût aigre-doux.",
+      "en": "A traditional Polish sweet-and-sour soup.",
+      "nl": "Een traditionele Poolse zoetzure soep."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c021",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Casu Marzu #3",
-      "en": "Casu Marzu #3",
-      "nl": "Casu Marzu #3"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu"
     },
     "country": {
       "fr": "Sardaigne",
@@ -3146,14 +3109,14 @@ const CULINARY_50=[
       "nl": "Sardaigne"
     },
     "scenario": {
-      "fr": "Un fromage traditionnel contient des larves vivantes.",
-      "en": "A traditional cheese contains live larvae.",
-      "nl": "Een traditionele kaas bevat levende larven."
+      "fr": "Le plat s’appelle Casu Marzu.",
+      "en": "The dish is called Casu Marzu.",
+      "nl": "Het gerecht heet Casu Marzu."
     },
     "question": {
-      "fr": "Dans quelle région le trouve-t-on ?",
-      "en": "In which region is it found?",
-      "nl": "In welke regio komt dit voor?"
+      "fr": "Dans quel pays ou région le Casu Marzu est-il traditionnel ?",
+      "en": "In which country or region is Casu Marzu traditional?",
+      "nl": "In welk land of welke regio is Casu Marzu traditioneel?"
     },
     "answers": {
       "fr": [
@@ -3181,20 +3144,19 @@ const CULINARY_50=[
       "nl": "Sardinië"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde connu pour sa fermentation très particulière.",
-      "en": "Casu Marzu is a Sardinian cheese known for its very unusual fermentation.",
-      "nl": "Casu Marzu is een Sardijnse kaas die bekendstaat om zijn zeer bijzondere fermentatie."
+      "fr": "Un fromage sarde connu pour sa fermentation très particulière.",
+      "en": "A Sardinian cheese known for its unusual fermentation.",
+      "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c022",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Haggis #3",
-      "en": "Haggis #3",
-      "nl": "Haggis #3"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis"
     },
     "country": {
       "fr": "Écosse",
@@ -3207,33 +3169,33 @@ const CULINARY_50=[
       "nl": "Écosse"
     },
     "scenario": {
-      "fr": "Ce plat est préparé avec des abats de mouton, de l’avoine et des épices.",
-      "en": "This dish is made with sheep offal, oats and spices.",
-      "nl": "Dit gerecht wordt gemaakt met schapenorgaanvlees, haver en kruiden."
+      "fr": "Le plat s’appelle Haggis.",
+      "en": "The dish is called Haggis.",
+      "nl": "Het gerecht heet Haggis."
     },
     "question": {
-      "fr": "D’où vient-il ?",
-      "en": "Where does it come from?",
-      "nl": "Waar komt dit gerecht vandaan?"
+      "fr": "Dans quel pays ou région le Haggis est-il traditionnel ?",
+      "en": "In which country or region is Haggis traditional?",
+      "nl": "In welk land of welke regio is Haggis traditioneel?"
     },
     "answers": {
       "fr": [
         "Irlande",
         "Écosse",
-        "Norvège",
-        "Pays-Bas"
+        "Pays-Bas",
+        "Danemark"
       ],
       "en": [
         "Ireland",
         "Scotland",
-        "Norway",
-        "Netherlands"
+        "Netherlands",
+        "Denmark"
       ],
       "nl": [
         "Ierland",
         "Schotland",
-        "Noorwegen",
-        "Nederland"
+        "Nederland",
+        "Denemarken"
       ]
     },
     "correctAnswer": {
@@ -3242,20 +3204,19 @@ const CULINARY_50=[
       "nl": "Schotland"
     },
     "explanation": {
-      "fr": "Le haggis est l’un des plats emblématiques écossais.",
-      "en": "Haggis is one of Scotland’s emblematic dishes.",
-      "nl": "Haggis is een van de emblematische gerechten van Schotland."
+      "fr": "Un plat emblématique écossais traditionnellement associé à l’avoine, aux épices et aux abats.",
+      "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
+      "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c023",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Surströmming #3",
-      "en": "Surströmming #3",
-      "nl": "Surströmming #3"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming"
     },
     "country": {
       "fr": "Suède",
@@ -3268,14 +3229,14 @@ const CULINARY_50=[
       "nl": "Suède"
     },
     "scenario": {
-      "fr": "Ce poisson fermenté est célèbre pour son odeur extrêmement puissante.",
-      "en": "This fermented fish is famous for its extremely powerful smell.",
-      "nl": "Deze gefermenteerde vis staat bekend om zijn zeer sterke geur."
+      "fr": "Le plat s’appelle Surströmming.",
+      "en": "The dish is called Surströmming.",
+      "nl": "Het gerecht heet Surströmming."
     },
     "question": {
-      "fr": "Quel pays est associé à ce plat ?",
-      "en": "Which country is associated with this dish?",
-      "nl": "Welk land wordt met dit gerecht geassocieerd?"
+      "fr": "Dans quel pays ou région le Surströmming est-il traditionnel ?",
+      "en": "In which country or region is Surströmming traditional?",
+      "nl": "In welk land of welke regio is Surströmming traditioneel?"
     },
     "answers": {
       "fr": [
@@ -3303,20 +3264,19 @@ const CULINARY_50=[
       "nl": "Zweden"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, souvent cité parmi les plats européens les plus surprenants.",
-      "en": "Surströmming is fermented herring, often cited among Europe’s most surprising foods.",
-      "nl": "Surströmming is gefermenteerde haring en wordt vaak genoemd bij Europa’s verrassendste gerechten."
+      "fr": "Un poisson fermenté surtout connu pour son odeur très puissante.",
+      "en": "A fermented fish best known for its extremely strong smell.",
+      "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c024",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Hákarl #3",
-      "en": "Hákarl #3",
-      "nl": "Hákarl #3"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl"
     },
     "country": {
       "fr": "Islande",
@@ -3329,14 +3289,14 @@ const CULINARY_50=[
       "nl": "Islande"
     },
     "scenario": {
-      "fr": "Ce plat est préparé à partir de requin fermenté.",
-      "en": "This dish is made from fermented shark.",
-      "nl": "Dit gerecht wordt gemaakt van gefermenteerde haai."
+      "fr": "Le plat s’appelle Hákarl.",
+      "en": "The dish is called Hákarl.",
+      "nl": "Het gerecht heet Hákarl."
     },
     "question": {
-      "fr": "Dans quel pays le trouve-t-on ?",
-      "en": "In which country can it be found?",
-      "nl": "In welk land vindt men dit gerecht?"
+      "fr": "Dans quel pays ou région le Hákarl est-il traditionnel ?",
+      "en": "In which country or region is Hákarl traditional?",
+      "nl": "In welk land of welke regio is Hákarl traditioneel?"
     },
     "answers": {
       "fr": [
@@ -3364,20 +3324,19 @@ const CULINARY_50=[
       "nl": "IJsland"
     },
     "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise au goût très marqué.",
-      "en": "Hákarl is an Icelandic speciality with a very strong taste.",
-      "nl": "Hákarl is een IJslandse specialiteit met een zeer uitgesproken smaak."
+      "fr": "Une spécialité islandaise au goût très marqué.",
+      "en": "An Icelandic speciality with a very strong taste.",
+      "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c025",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Smalahove #3",
-      "en": "Smalahove #3",
-      "nl": "Smalahove #3"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove"
     },
     "country": {
       "fr": "Norvège",
@@ -3390,33 +3349,33 @@ const CULINARY_50=[
       "nl": "Norvège"
     },
     "scenario": {
-      "fr": "Ce plat traditionnel est une tête de mouton servie entière ou presque entière.",
-      "en": "This traditional dish is a sheep’s head served whole or almost whole.",
-      "nl": "Dit traditionele gerecht is een schapenkop die geheel of bijna geheel wordt geserveerd."
+      "fr": "Le plat s’appelle Smalahove.",
+      "en": "The dish is called Smalahove.",
+      "nl": "Het gerecht heet Smalahove."
     },
     "question": {
-      "fr": "Dans quel pays est-il traditionnel ?",
-      "en": "In which country is it traditional?",
-      "nl": "In welk land is dit traditioneel?"
+      "fr": "Dans quel pays ou région le Smalahove est-il traditionnel ?",
+      "en": "In which country or region is Smalahove traditional?",
+      "nl": "In welk land of welke regio is Smalahove traditioneel?"
     },
     "answers": {
       "fr": [
         "Norvège",
         "Écosse",
         "Irlande",
-        "Islande"
+        "Allemagne"
       ],
       "en": [
         "Norway",
         "Scotland",
         "Ireland",
-        "Iceland"
+        "Germany"
       ],
       "nl": [
         "Noorwegen",
         "Schotland",
         "Ierland",
-        "IJsland"
+        "Duitsland"
       ]
     },
     "correctAnswer": {
@@ -3425,20 +3384,19 @@ const CULINARY_50=[
       "nl": "Noorwegen"
     },
     "explanation": {
-      "fr": "Le Smalahove est une spécialité norvégienne traditionnellement associée à certaines périodes de fête.",
-      "en": "Smalahove is a Norwegian speciality traditionally associated with festive periods.",
-      "nl": "Smalahove is een Noorse specialiteit die traditioneel met feestperiodes wordt verbonden."
+      "fr": "Un plat norvégien traditionnellement associé à certaines périodes de fête.",
+      "en": "A Norwegian dish traditionally associated with festive periods.",
+      "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c026",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Blodplättar #3",
-      "en": "Blodplättar #3",
-      "nl": "Blodplättar #3"
+      "fr": "Blodplättar",
+      "en": "Blodplättar",
+      "nl": "Blodplättar"
     },
     "country": {
       "fr": "Finlande",
@@ -3451,51 +3409,54 @@ const CULINARY_50=[
       "nl": "Finlande / Suède"
     },
     "scenario": {
-      "fr": "Ces crêpes sont préparées à base de sang.",
-      "en": "These pancakes are made with blood.",
-      "nl": "Deze pannenkoeken worden gemaakt met bloed."
+      "fr": "Le plat s’appelle Blodplättar.",
+      "en": "The dish is called Blodplättar.",
+      "nl": "Het gerecht heet Blodplättar."
     },
     "question": {
-      "fr": "Quelle proposition correspond à ce plat ?",
-      "en": "Which option matches this dish?",
-      "nl": "Welke optie past bij dit gerecht?"
+      "fr": "Dans quel pays ou région le Blodplättar est-il traditionnel ?",
+      "en": "In which country or region is Blodplättar traditional?",
+      "nl": "In welk land of welke regio is Blodplättar traditioneel?"
     },
     "answers": {
       "fr": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
+        "Finlande",
+        "Portugal",
+        "Italie",
+        "Croatie"
       ],
       "en": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
+        "Finland",
+        "Portugal",
+        "Italy",
+        "Croatia"
       ],
       "nl": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
+        "Finland",
+        "Portugal",
+        "Italië",
+        "Kroatië"
       ]
     },
-    "correctAnswer": "Des crêpes au sang",
-    "explanation": {
-      "fr": "Les Blodplättar sont des pancakes au sang consommés dans le nord de l’Europe.",
-      "en": "Blodplättar are blood pancakes eaten in Northern Europe.",
-      "nl": "Blodplättar zijn bloedpannenkoeken die in Noord-Europa worden gegeten."
+    "correctAnswer": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
     },
-    "kind": "option",
-    "invented": false
+    "explanation": {
+      "fr": "Des crêpes préparées à base de sang, consommées dans plusieurs régions du nord de l’Europe.",
+      "en": "Pancakes made with blood, eaten in several northern European regions.",
+      "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
+    },
+    "kind": "country"
   },
   {
     "id": "c027",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Andouillette #3",
-      "en": "Andouillette #3",
-      "nl": "Andouillette #3"
+      "fr": "Andouillette",
+      "en": "Andouillette",
+      "nl": "Andouillette"
     },
     "country": {
       "fr": "France",
@@ -3508,51 +3469,54 @@ const CULINARY_50=[
       "nl": "France"
     },
     "scenario": {
-      "fr": "Cette saucisse française est connue pour son odeur très caractéristique.",
-      "en": "This French sausage is known for its very distinctive smell.",
-      "nl": "Deze Franse worst staat bekend om zijn zeer karakteristieke geur."
+      "fr": "Le plat s’appelle Andouillette.",
+      "en": "The dish is called Andouillette.",
+      "nl": "Het gerecht heet Andouillette."
     },
     "question": {
-      "fr": "Elle est traditionnellement fabriquée principalement avec quel ingrédient ?",
-      "en": "What is it traditionally mainly made from?",
-      "nl": "Waarvan wordt ze traditioneel vooral gemaakt?"
+      "fr": "Dans quel pays ou région le Andouillette est-il traditionnel ?",
+      "en": "In which country or region is Andouillette traditional?",
+      "nl": "In welk land of welke regio is Andouillette traditioneel?"
     },
     "answers": {
       "fr": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
+        "France",
+        "Belgique",
+        "Allemagne",
+        "Espagne"
       ],
       "en": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
+        "France",
+        "Belgium",
+        "Germany",
+        "Spain"
       ],
       "nl": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
+        "Frankrijk",
+        "België",
+        "Duitsland",
+        "Spanje"
       ]
     },
-    "correctAnswer": "Intestins de porc",
-    "explanation": {
-      "fr": "L’andouillette est une spécialité charcutière française au goût très marqué.",
-      "en": "Andouillette is a French charcuterie speciality with a very distinctive taste.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een zeer uitgesproken smaak."
+    "correctAnswer": {
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk"
     },
-    "kind": "option",
-    "invented": false
+    "explanation": {
+      "fr": "Une spécialité charcutière française connue pour son goût et son odeur très marqués.",
+      "en": "A French charcuterie speciality known for its strong taste and smell.",
+      "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
+    },
+    "kind": "country"
   },
   {
     "id": "c028",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Mämmi #3",
-      "en": "Mämmi #3",
-      "nl": "Mämmi #3"
+      "fr": "Mämmi",
+      "en": "Mämmi",
+      "nl": "Mämmi"
     },
     "country": {
       "fr": "Finlande",
@@ -3565,14 +3529,14 @@ const CULINARY_50=[
       "nl": "Finlande"
     },
     "scenario": {
-      "fr": "Ce dessert brun de Pâques est préparé avec du seigle et du malt.",
-      "en": "This brown Easter dessert is made with rye and malt.",
-      "nl": "Dit bruine paasdessert wordt gemaakt met rogge en mout."
+      "fr": "Le plat s’appelle Mämmi.",
+      "en": "The dish is called Mämmi.",
+      "nl": "Het gerecht heet Mämmi."
     },
     "question": {
-      "fr": "Dans quel pays est-il populaire ?",
-      "en": "In which country is it popular?",
-      "nl": "In welk land is het populair?"
+      "fr": "Dans quel pays ou région le Mämmi est-il traditionnel ?",
+      "en": "In which country or region is Mämmi traditional?",
+      "nl": "In welk land of welke regio is Mämmi traditioneel?"
     },
     "answers": {
       "fr": [
@@ -3600,40 +3564,39 @@ const CULINARY_50=[
       "nl": "Finland"
     },
     "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais traditionnellement associé à Pâques.",
-      "en": "Mämmi is a Finnish dessert traditionally associated with Easter.",
-      "nl": "Mämmi is een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
+      "fr": "Un dessert finlandais traditionnellement associé à Pâques.",
+      "en": "A Finnish dessert traditionally associated with Easter.",
+      "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c029",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Jellied eels #3",
-      "en": "Jellied eels #3",
-      "nl": "Jellied eels #3"
+      "fr": "Jellied eels",
+      "en": "Jellied eels",
+      "nl": "Jellied eels"
     },
     "country": {
-      "fr": "Irlande",
-      "en": "Ireland",
-      "nl": "Ierland"
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
     },
     "region": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
+      "fr": "Londres",
+      "en": "Londres",
+      "nl": "Londres"
     },
     "scenario": {
-      "fr": "De l’anguille est servie dans une gelée froide.",
-      "en": "Eel is served in a cold jelly.",
-      "nl": "Paling wordt geserveerd in koude gelei."
+      "fr": "Le plat s’appelle Jellied eels.",
+      "en": "The dish is called Jellied eels.",
+      "nl": "Het gerecht heet Jellied eels."
     },
     "question": {
-      "fr": "Cette spécialité est surtout associée à quelle zone ?",
-      "en": "This speciality is mostly associated with which area?",
-      "nl": "Met welke zone wordt deze specialiteit vooral geassocieerd?"
+      "fr": "Dans quel pays ou région le Jellied eels est-il traditionnel ?",
+      "en": "In which country or region is Jellied eels traditional?",
+      "nl": "In welk land of welke regio is Jellied eels traditioneel?"
     },
     "answers": {
       "fr": [
@@ -3643,13 +3606,13 @@ const CULINARY_50=[
         "Lituanie"
       ],
       "en": [
-        "Royaume-Uni",
+        "United Kingdom",
         "Greece",
         "Romania",
         "Lithuania"
       ],
       "nl": [
-        "Royaume-Uni",
+        "Verenigd Koninkrijk",
         "Griekenland",
         "Roemenië",
         "Litouwen"
@@ -3657,24 +3620,23 @@ const CULINARY_50=[
     },
     "correctAnswer": {
       "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
     },
     "explanation": {
-      "fr": "Les anguilles en gelée sont une spécialité traditionnelle londonienne.",
-      "en": "Jellied eels are a traditional London speciality.",
-      "nl": "Paling in gelei is een traditionele Londense specialiteit."
+      "fr": "Une spécialité traditionnelle associée à Londres.",
+      "en": "A traditional speciality associated with London.",
+      "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c030",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Czernina #3",
-      "en": "Czernina #3",
-      "nl": "Czernina #3"
+      "fr": "Czernina",
+      "en": "Czernina",
+      "nl": "Czernina"
     },
     "country": {
       "fr": "Pologne",
@@ -3687,14 +3649,14 @@ const CULINARY_50=[
       "nl": "Pologne"
     },
     "scenario": {
-      "fr": "Cette soupe traditionnelle est préparée avec du sang de canard.",
-      "en": "This traditional soup is made with duck blood.",
-      "nl": "Deze traditionele soep wordt gemaakt met eendenbloed."
+      "fr": "Le plat s’appelle Czernina.",
+      "en": "The dish is called Czernina.",
+      "nl": "Het gerecht heet Czernina."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette soupe ?",
-      "en": "In which country can this soup be found?",
-      "nl": "In welk land vindt men deze soep?"
+      "fr": "Dans quel pays ou région le Czernina est-il traditionnel ?",
+      "en": "In which country or region is Czernina traditional?",
+      "nl": "In welk land of welke regio is Czernina traditioneel?"
     },
     "answers": {
       "fr": [
@@ -3722,20 +3684,19 @@ const CULINARY_50=[
       "nl": "Polen"
     },
     "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au goût aigre-doux.",
-      "en": "Czernina is a traditional Polish soup with a sweet-and-sour taste.",
-      "nl": "Czernina is een traditionele Poolse soep met een zoetzure smaak."
+      "fr": "Une soupe polonaise traditionnelle au goût aigre-doux.",
+      "en": "A traditional Polish sweet-and-sour soup.",
+      "nl": "Een traditionele Poolse zoetzure soep."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c031",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Casu Marzu #4",
-      "en": "Casu Marzu #4",
-      "nl": "Casu Marzu #4"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu"
     },
     "country": {
       "fr": "Sardaigne",
@@ -3748,14 +3709,14 @@ const CULINARY_50=[
       "nl": "Sardaigne"
     },
     "scenario": {
-      "fr": "Un fromage traditionnel contient des larves vivantes.",
-      "en": "A traditional cheese contains live larvae.",
-      "nl": "Een traditionele kaas bevat levende larven."
+      "fr": "Le plat s’appelle Casu Marzu.",
+      "en": "The dish is called Casu Marzu.",
+      "nl": "Het gerecht heet Casu Marzu."
     },
     "question": {
-      "fr": "Dans quelle région le trouve-t-on ?",
-      "en": "In which region is it found?",
-      "nl": "In welke regio komt dit voor?"
+      "fr": "Dans quel pays ou région le Casu Marzu est-il traditionnel ?",
+      "en": "In which country or region is Casu Marzu traditional?",
+      "nl": "In welk land of welke regio is Casu Marzu traditioneel?"
     },
     "answers": {
       "fr": [
@@ -3783,20 +3744,19 @@ const CULINARY_50=[
       "nl": "Sardinië"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde connu pour sa fermentation très particulière.",
-      "en": "Casu Marzu is a Sardinian cheese known for its very unusual fermentation.",
-      "nl": "Casu Marzu is een Sardijnse kaas die bekendstaat om zijn zeer bijzondere fermentatie."
+      "fr": "Un fromage sarde connu pour sa fermentation très particulière.",
+      "en": "A Sardinian cheese known for its unusual fermentation.",
+      "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c032",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Haggis #4",
-      "en": "Haggis #4",
-      "nl": "Haggis #4"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis"
     },
     "country": {
       "fr": "Écosse",
@@ -3809,33 +3769,33 @@ const CULINARY_50=[
       "nl": "Écosse"
     },
     "scenario": {
-      "fr": "Ce plat est préparé avec des abats de mouton, de l’avoine et des épices.",
-      "en": "This dish is made with sheep offal, oats and spices.",
-      "nl": "Dit gerecht wordt gemaakt met schapenorgaanvlees, haver en kruiden."
+      "fr": "Le plat s’appelle Haggis.",
+      "en": "The dish is called Haggis.",
+      "nl": "Het gerecht heet Haggis."
     },
     "question": {
-      "fr": "D’où vient-il ?",
-      "en": "Where does it come from?",
-      "nl": "Waar komt dit gerecht vandaan?"
+      "fr": "Dans quel pays ou région le Haggis est-il traditionnel ?",
+      "en": "In which country or region is Haggis traditional?",
+      "nl": "In welk land of welke regio is Haggis traditioneel?"
     },
     "answers": {
       "fr": [
         "Irlande",
         "Écosse",
-        "Norvège",
-        "Pays-Bas"
+        "Pays-Bas",
+        "Danemark"
       ],
       "en": [
         "Ireland",
         "Scotland",
-        "Norway",
-        "Netherlands"
+        "Netherlands",
+        "Denmark"
       ],
       "nl": [
         "Ierland",
         "Schotland",
-        "Noorwegen",
-        "Nederland"
+        "Nederland",
+        "Denemarken"
       ]
     },
     "correctAnswer": {
@@ -3844,20 +3804,19 @@ const CULINARY_50=[
       "nl": "Schotland"
     },
     "explanation": {
-      "fr": "Le haggis est l’un des plats emblématiques écossais.",
-      "en": "Haggis is one of Scotland’s emblematic dishes.",
-      "nl": "Haggis is een van de emblematische gerechten van Schotland."
+      "fr": "Un plat emblématique écossais traditionnellement associé à l’avoine, aux épices et aux abats.",
+      "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
+      "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c033",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Surströmming #4",
-      "en": "Surströmming #4",
-      "nl": "Surströmming #4"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming"
     },
     "country": {
       "fr": "Suède",
@@ -3870,14 +3829,14 @@ const CULINARY_50=[
       "nl": "Suède"
     },
     "scenario": {
-      "fr": "Ce poisson fermenté est célèbre pour son odeur extrêmement puissante.",
-      "en": "This fermented fish is famous for its extremely powerful smell.",
-      "nl": "Deze gefermenteerde vis staat bekend om zijn zeer sterke geur."
+      "fr": "Le plat s’appelle Surströmming.",
+      "en": "The dish is called Surströmming.",
+      "nl": "Het gerecht heet Surströmming."
     },
     "question": {
-      "fr": "Quel pays est associé à ce plat ?",
-      "en": "Which country is associated with this dish?",
-      "nl": "Welk land wordt met dit gerecht geassocieerd?"
+      "fr": "Dans quel pays ou région le Surströmming est-il traditionnel ?",
+      "en": "In which country or region is Surströmming traditional?",
+      "nl": "In welk land of welke regio is Surströmming traditioneel?"
     },
     "answers": {
       "fr": [
@@ -3905,20 +3864,19 @@ const CULINARY_50=[
       "nl": "Zweden"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, souvent cité parmi les plats européens les plus surprenants.",
-      "en": "Surströmming is fermented herring, often cited among Europe’s most surprising foods.",
-      "nl": "Surströmming is gefermenteerde haring en wordt vaak genoemd bij Europa’s verrassendste gerechten."
+      "fr": "Un poisson fermenté surtout connu pour son odeur très puissante.",
+      "en": "A fermented fish best known for its extremely strong smell.",
+      "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c034",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Hákarl #4",
-      "en": "Hákarl #4",
-      "nl": "Hákarl #4"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl"
     },
     "country": {
       "fr": "Islande",
@@ -3931,14 +3889,14 @@ const CULINARY_50=[
       "nl": "Islande"
     },
     "scenario": {
-      "fr": "Ce plat est préparé à partir de requin fermenté.",
-      "en": "This dish is made from fermented shark.",
-      "nl": "Dit gerecht wordt gemaakt van gefermenteerde haai."
+      "fr": "Le plat s’appelle Hákarl.",
+      "en": "The dish is called Hákarl.",
+      "nl": "Het gerecht heet Hákarl."
     },
     "question": {
-      "fr": "Dans quel pays le trouve-t-on ?",
-      "en": "In which country can it be found?",
-      "nl": "In welk land vindt men dit gerecht?"
+      "fr": "Dans quel pays ou région le Hákarl est-il traditionnel ?",
+      "en": "In which country or region is Hákarl traditional?",
+      "nl": "In welk land of welke regio is Hákarl traditioneel?"
     },
     "answers": {
       "fr": [
@@ -3966,20 +3924,19 @@ const CULINARY_50=[
       "nl": "IJsland"
     },
     "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise au goût très marqué.",
-      "en": "Hákarl is an Icelandic speciality with a very strong taste.",
-      "nl": "Hákarl is een IJslandse specialiteit met een zeer uitgesproken smaak."
+      "fr": "Une spécialité islandaise au goût très marqué.",
+      "en": "An Icelandic speciality with a very strong taste.",
+      "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c035",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Smalahove #4",
-      "en": "Smalahove #4",
-      "nl": "Smalahove #4"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove"
     },
     "country": {
       "fr": "Norvège",
@@ -3992,33 +3949,33 @@ const CULINARY_50=[
       "nl": "Norvège"
     },
     "scenario": {
-      "fr": "Ce plat traditionnel est une tête de mouton servie entière ou presque entière.",
-      "en": "This traditional dish is a sheep’s head served whole or almost whole.",
-      "nl": "Dit traditionele gerecht is een schapenkop die geheel of bijna geheel wordt geserveerd."
+      "fr": "Le plat s’appelle Smalahove.",
+      "en": "The dish is called Smalahove.",
+      "nl": "Het gerecht heet Smalahove."
     },
     "question": {
-      "fr": "Dans quel pays est-il traditionnel ?",
-      "en": "In which country is it traditional?",
-      "nl": "In welk land is dit traditioneel?"
+      "fr": "Dans quel pays ou région le Smalahove est-il traditionnel ?",
+      "en": "In which country or region is Smalahove traditional?",
+      "nl": "In welk land of welke regio is Smalahove traditioneel?"
     },
     "answers": {
       "fr": [
         "Norvège",
         "Écosse",
         "Irlande",
-        "Islande"
+        "Allemagne"
       ],
       "en": [
         "Norway",
         "Scotland",
         "Ireland",
-        "Iceland"
+        "Germany"
       ],
       "nl": [
         "Noorwegen",
         "Schotland",
         "Ierland",
-        "IJsland"
+        "Duitsland"
       ]
     },
     "correctAnswer": {
@@ -4027,20 +3984,19 @@ const CULINARY_50=[
       "nl": "Noorwegen"
     },
     "explanation": {
-      "fr": "Le Smalahove est une spécialité norvégienne traditionnellement associée à certaines périodes de fête.",
-      "en": "Smalahove is a Norwegian speciality traditionally associated with festive periods.",
-      "nl": "Smalahove is een Noorse specialiteit die traditioneel met feestperiodes wordt verbonden."
+      "fr": "Un plat norvégien traditionnellement associé à certaines périodes de fête.",
+      "en": "A Norwegian dish traditionally associated with festive periods.",
+      "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c036",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Blodplättar #4",
-      "en": "Blodplättar #4",
-      "nl": "Blodplättar #4"
+      "fr": "Blodplättar",
+      "en": "Blodplättar",
+      "nl": "Blodplättar"
     },
     "country": {
       "fr": "Finlande",
@@ -4053,128 +4009,14 @@ const CULINARY_50=[
       "nl": "Finlande / Suède"
     },
     "scenario": {
-      "fr": "Ces crêpes sont préparées à base de sang.",
-      "en": "These pancakes are made with blood.",
-      "nl": "Deze pannenkoeken worden gemaakt met bloed."
+      "fr": "Le plat s’appelle Blodplättar.",
+      "en": "The dish is called Blodplättar.",
+      "nl": "Het gerecht heet Blodplättar."
     },
     "question": {
-      "fr": "Quelle proposition correspond à ce plat ?",
-      "en": "Which option matches this dish?",
-      "nl": "Welke optie past bij dit gerecht?"
-    },
-    "answers": {
-      "fr": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
-      ],
-      "en": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
-      ],
-      "nl": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
-      ]
-    },
-    "correctAnswer": "Des crêpes au sang",
-    "explanation": {
-      "fr": "Les Blodplättar sont des pancakes au sang consommés dans le nord de l’Europe.",
-      "en": "Blodplättar are blood pancakes eaten in Northern Europe.",
-      "nl": "Blodplättar zijn bloedpannenkoeken die in Noord-Europa worden gegeten."
-    },
-    "kind": "option",
-    "invented": false
-  },
-  {
-    "id": "c037",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Andouillette #4",
-      "en": "Andouillette #4",
-      "nl": "Andouillette #4"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
-    },
-    "scenario": {
-      "fr": "Cette saucisse française est connue pour son odeur très caractéristique.",
-      "en": "This French sausage is known for its very distinctive smell.",
-      "nl": "Deze Franse worst staat bekend om zijn zeer karakteristieke geur."
-    },
-    "question": {
-      "fr": "Elle est traditionnellement fabriquée principalement avec quel ingrédient ?",
-      "en": "What is it traditionally mainly made from?",
-      "nl": "Waarvan wordt ze traditioneel vooral gemaakt?"
-    },
-    "answers": {
-      "fr": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
-      ],
-      "en": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
-      ],
-      "nl": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
-      ]
-    },
-    "correctAnswer": "Intestins de porc",
-    "explanation": {
-      "fr": "L’andouillette est une spécialité charcutière française au goût très marqué.",
-      "en": "Andouillette is a French charcuterie speciality with a very distinctive taste.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een zeer uitgesproken smaak."
-    },
-    "kind": "option",
-    "invented": false
-  },
-  {
-    "id": "c038",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Mämmi #4",
-      "en": "Mämmi #4",
-      "nl": "Mämmi #4"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    },
-    "scenario": {
-      "fr": "Ce dessert brun de Pâques est préparé avec du seigle et du malt.",
-      "en": "This brown Easter dessert is made with rye and malt.",
-      "nl": "Dit bruine paasdessert wordt gemaakt met rogge en mout."
-    },
-    "question": {
-      "fr": "Dans quel pays est-il populaire ?",
-      "en": "In which country is it popular?",
-      "nl": "In welk land is het populair?"
+      "fr": "Dans quel pays ou région le Blodplättar est-il traditionnel ?",
+      "en": "In which country or region is Blodplättar traditional?",
+      "nl": "In welk land of welke regio is Blodplättar traditioneel?"
     },
     "answers": {
       "fr": [
@@ -4202,40 +4044,159 @@ const CULINARY_50=[
       "nl": "Finland"
     },
     "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais traditionnellement associé à Pâques.",
-      "en": "Mämmi is a Finnish dessert traditionally associated with Easter.",
-      "nl": "Mämmi is een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
+      "fr": "Des crêpes préparées à base de sang, consommées dans plusieurs régions du nord de l’Europe.",
+      "en": "Pancakes made with blood, eaten in several northern European regions.",
+      "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
+  },
+  {
+    "id": "c037",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Andouillette",
+      "en": "Andouillette",
+      "nl": "Andouillette"
+    },
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk"
+    },
+    "region": {
+      "fr": "France",
+      "en": "France",
+      "nl": "France"
+    },
+    "scenario": {
+      "fr": "Le plat s’appelle Andouillette.",
+      "en": "The dish is called Andouillette.",
+      "nl": "Het gerecht heet Andouillette."
+    },
+    "question": {
+      "fr": "Dans quel pays ou région le Andouillette est-il traditionnel ?",
+      "en": "In which country or region is Andouillette traditional?",
+      "nl": "In welk land of welke regio is Andouillette traditioneel?"
+    },
+    "answers": {
+      "fr": [
+        "France",
+        "Belgique",
+        "Allemagne",
+        "Espagne"
+      ],
+      "en": [
+        "France",
+        "Belgium",
+        "Germany",
+        "Spain"
+      ],
+      "nl": [
+        "Frankrijk",
+        "België",
+        "Duitsland",
+        "Spanje"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk"
+    },
+    "explanation": {
+      "fr": "Une spécialité charcutière française connue pour son goût et son odeur très marqués.",
+      "en": "A French charcuterie speciality known for its strong taste and smell.",
+      "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
+    },
+    "kind": "country"
+  },
+  {
+    "id": "c038",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Mämmi",
+      "en": "Mämmi",
+      "nl": "Mämmi"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Finlande",
+      "en": "Finlande",
+      "nl": "Finlande"
+    },
+    "scenario": {
+      "fr": "Le plat s’appelle Mämmi.",
+      "en": "The dish is called Mämmi.",
+      "nl": "Het gerecht heet Mämmi."
+    },
+    "question": {
+      "fr": "Dans quel pays ou région le Mämmi est-il traditionnel ?",
+      "en": "In which country or region is Mämmi traditional?",
+      "nl": "In welk land of welke regio is Mämmi traditioneel?"
+    },
+    "answers": {
+      "fr": [
+        "Finlande",
+        "Portugal",
+        "Italie",
+        "Croatie"
+      ],
+      "en": [
+        "Finland",
+        "Portugal",
+        "Italy",
+        "Croatia"
+      ],
+      "nl": [
+        "Finland",
+        "Portugal",
+        "Italië",
+        "Kroatië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "explanation": {
+      "fr": "Un dessert finlandais traditionnellement associé à Pâques.",
+      "en": "A Finnish dessert traditionally associated with Easter.",
+      "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
+    },
+    "kind": "country"
   },
   {
     "id": "c039",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Jellied eels #4",
-      "en": "Jellied eels #4",
-      "nl": "Jellied eels #4"
+      "fr": "Jellied eels",
+      "en": "Jellied eels",
+      "nl": "Jellied eels"
     },
     "country": {
-      "fr": "Irlande",
-      "en": "Ireland",
-      "nl": "Ierland"
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
     },
     "region": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
+      "fr": "Londres",
+      "en": "Londres",
+      "nl": "Londres"
     },
     "scenario": {
-      "fr": "De l’anguille est servie dans une gelée froide.",
-      "en": "Eel is served in a cold jelly.",
-      "nl": "Paling wordt geserveerd in koude gelei."
+      "fr": "Le plat s’appelle Jellied eels.",
+      "en": "The dish is called Jellied eels.",
+      "nl": "Het gerecht heet Jellied eels."
     },
     "question": {
-      "fr": "Cette spécialité est surtout associée à quelle zone ?",
-      "en": "This speciality is mostly associated with which area?",
-      "nl": "Met welke zone wordt deze specialiteit vooral geassocieerd?"
+      "fr": "Dans quel pays ou région le Jellied eels est-il traditionnel ?",
+      "en": "In which country or region is Jellied eels traditional?",
+      "nl": "In welk land of welke regio is Jellied eels traditioneel?"
     },
     "answers": {
       "fr": [
@@ -4245,13 +4206,13 @@ const CULINARY_50=[
         "Lituanie"
       ],
       "en": [
-        "Royaume-Uni",
+        "United Kingdom",
         "Greece",
         "Romania",
         "Lithuania"
       ],
       "nl": [
-        "Royaume-Uni",
+        "Verenigd Koninkrijk",
         "Griekenland",
         "Roemenië",
         "Litouwen"
@@ -4259,24 +4220,23 @@ const CULINARY_50=[
     },
     "correctAnswer": {
       "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
     },
     "explanation": {
-      "fr": "Les anguilles en gelée sont une spécialité traditionnelle londonienne.",
-      "en": "Jellied eels are a traditional London speciality.",
-      "nl": "Paling in gelei is een traditionele Londense specialiteit."
+      "fr": "Une spécialité traditionnelle associée à Londres.",
+      "en": "A traditional speciality associated with London.",
+      "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c040",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Czernina #4",
-      "en": "Czernina #4",
-      "nl": "Czernina #4"
+      "fr": "Czernina",
+      "en": "Czernina",
+      "nl": "Czernina"
     },
     "country": {
       "fr": "Pologne",
@@ -4289,14 +4249,14 @@ const CULINARY_50=[
       "nl": "Pologne"
     },
     "scenario": {
-      "fr": "Cette soupe traditionnelle est préparée avec du sang de canard.",
-      "en": "This traditional soup is made with duck blood.",
-      "nl": "Deze traditionele soep wordt gemaakt met eendenbloed."
+      "fr": "Le plat s’appelle Czernina.",
+      "en": "The dish is called Czernina.",
+      "nl": "Het gerecht heet Czernina."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette soupe ?",
-      "en": "In which country can this soup be found?",
-      "nl": "In welk land vindt men deze soep?"
+      "fr": "Dans quel pays ou région le Czernina est-il traditionnel ?",
+      "en": "In which country or region is Czernina traditional?",
+      "nl": "In welk land of welke regio is Czernina traditioneel?"
     },
     "answers": {
       "fr": [
@@ -4324,20 +4284,19 @@ const CULINARY_50=[
       "nl": "Polen"
     },
     "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au goût aigre-doux.",
-      "en": "Czernina is a traditional Polish soup with a sweet-and-sour taste.",
-      "nl": "Czernina is een traditionele Poolse soep met een zoetzure smaak."
+      "fr": "Une soupe polonaise traditionnelle au goût aigre-doux.",
+      "en": "A traditional Polish sweet-and-sour soup.",
+      "nl": "Een traditionele Poolse zoetzure soep."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "country"
   },
   {
     "id": "c041",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Casu Marzu #5",
-      "en": "Casu Marzu #5",
-      "nl": "Casu Marzu #5"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu"
     },
     "country": {
       "fr": "Sardaigne",
@@ -4350,55 +4309,54 @@ const CULINARY_50=[
       "nl": "Sardaigne"
     },
     "scenario": {
-      "fr": "Un fromage traditionnel contient des larves vivantes.",
-      "en": "A traditional cheese contains live larvae.",
-      "nl": "Een traditionele kaas bevat levende larven."
+      "fr": "Le Casu Marzu est un fromage contenant des larves vivantes.",
+      "en": "Casu Marzu is a cheese containing live larvae.",
+      "nl": "Casu Marzu is een kaas met levende larven."
     },
     "question": {
-      "fr": "Dans quelle région le trouve-t-on ?",
-      "en": "In which region is it found?",
-      "nl": "In welke regio komt dit voor?"
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
     },
     "answers": {
       "fr": [
-        "Sardaigne",
-        "Catalogne",
-        "Bavière",
-        "Bretagne"
+        "Vrai",
+        "Faux",
+        "Seulement dans certaines régions",
+        "Nom inventé"
       ],
       "en": [
-        "Sardinia",
-        "Catalonia",
-        "Bavaria",
-        "Brittany"
+        "True",
+        "False",
+        "Only in some regions",
+        "Invented name"
       ],
       "nl": [
-        "Sardinië",
-        "Catalonië",
-        "Beieren",
-        "Bretagne"
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige regio’s",
+        "Verzonnen naam"
       ]
     },
     "correctAnswer": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië"
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde connu pour sa fermentation très particulière.",
-      "en": "Casu Marzu is a Sardinian cheese known for its very unusual fermentation.",
-      "nl": "Casu Marzu is een Sardijnse kaas die bekendstaat om zijn zeer bijzondere fermentatie."
+      "fr": "Un fromage sarde connu pour sa fermentation très particulière.",
+      "en": "A Sardinian cheese known for its unusual fermentation.",
+      "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c042",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Haggis #5",
-      "en": "Haggis #5",
-      "nl": "Haggis #5"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis"
     },
     "country": {
       "fr": "Écosse",
@@ -4411,55 +4369,54 @@ const CULINARY_50=[
       "nl": "Écosse"
     },
     "scenario": {
-      "fr": "Ce plat est préparé avec des abats de mouton, de l’avoine et des épices.",
-      "en": "This dish is made with sheep offal, oats and spices.",
-      "nl": "Dit gerecht wordt gemaakt met schapenorgaanvlees, haver en kruiden."
+      "fr": "Le Haggis est un dessert sucré à base de chocolat.",
+      "en": "Haggis is a sweet chocolate-based dessert.",
+      "nl": "Haggis is een zoet dessert op basis van chocolade."
     },
     "question": {
-      "fr": "D’où vient-il ?",
-      "en": "Where does it come from?",
-      "nl": "Waar komt dit gerecht vandaan?"
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
     },
     "answers": {
       "fr": [
-        "Irlande",
-        "Écosse",
-        "Norvège",
-        "Pays-Bas"
+        "Vrai",
+        "Faux",
+        "Seulement dans certaines régions",
+        "Nom inventé"
       ],
       "en": [
-        "Ireland",
-        "Scotland",
-        "Norway",
-        "Netherlands"
+        "True",
+        "False",
+        "Only in some regions",
+        "Invented name"
       ],
       "nl": [
-        "Ierland",
-        "Schotland",
-        "Noorwegen",
-        "Nederland"
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige regio’s",
+        "Verzonnen naam"
       ]
     },
     "correctAnswer": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland"
+      "fr": "Faux",
+      "en": "False",
+      "nl": "Onwaar"
     },
     "explanation": {
-      "fr": "Le haggis est l’un des plats emblématiques écossais.",
-      "en": "Haggis is one of Scotland’s emblematic dishes.",
-      "nl": "Haggis is een van de emblematische gerechten van Schotland."
+      "fr": "Un plat emblématique écossais traditionnellement associé à l’avoine, aux épices et aux abats.",
+      "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
+      "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c043",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Surströmming #5",
-      "en": "Surströmming #5",
-      "nl": "Surströmming #5"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming"
     },
     "country": {
       "fr": "Suède",
@@ -4472,55 +4429,54 @@ const CULINARY_50=[
       "nl": "Suède"
     },
     "scenario": {
-      "fr": "Ce poisson fermenté est célèbre pour son odeur extrêmement puissante.",
-      "en": "This fermented fish is famous for its extremely powerful smell.",
-      "nl": "Deze gefermenteerde vis staat bekend om zijn zeer sterke geur."
+      "fr": "Le Surströmming est du hareng fermenté.",
+      "en": "Surströmming is fermented herring.",
+      "nl": "Surströmming is gefermenteerde haring."
     },
     "question": {
-      "fr": "Quel pays est associé à ce plat ?",
-      "en": "Which country is associated with this dish?",
-      "nl": "Welk land wordt met dit gerecht geassocieerd?"
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
     },
     "answers": {
       "fr": [
-        "Finlande",
-        "Suède",
-        "Danemark",
-        "Estonie"
+        "Vrai",
+        "Faux",
+        "Seulement dans certaines régions",
+        "Nom inventé"
       ],
       "en": [
-        "Finland",
-        "Sweden",
-        "Denmark",
-        "Estonia"
+        "True",
+        "False",
+        "Only in some regions",
+        "Invented name"
       ],
       "nl": [
-        "Finland",
-        "Zweden",
-        "Denemarken",
-        "Estland"
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige regio’s",
+        "Verzonnen naam"
       ]
     },
     "correctAnswer": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden"
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, souvent cité parmi les plats européens les plus surprenants.",
-      "en": "Surströmming is fermented herring, often cited among Europe’s most surprising foods.",
-      "nl": "Surströmming is gefermenteerde haring en wordt vaak genoemd bij Europa’s verrassendste gerechten."
+      "fr": "Un poisson fermenté surtout connu pour son odeur très puissante.",
+      "en": "A fermented fish best known for its extremely strong smell.",
+      "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c044",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Hákarl #5",
-      "en": "Hákarl #5",
-      "nl": "Hákarl #5"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl"
     },
     "country": {
       "fr": "Islande",
@@ -4533,55 +4489,54 @@ const CULINARY_50=[
       "nl": "Islande"
     },
     "scenario": {
-      "fr": "Ce plat est préparé à partir de requin fermenté.",
-      "en": "This dish is made from fermented shark.",
-      "nl": "Dit gerecht wordt gemaakt van gefermenteerde haai."
+      "fr": "Le Hákarl est du requin fermenté.",
+      "en": "Hákarl is fermented shark.",
+      "nl": "Hákarl is gefermenteerde haai."
     },
     "question": {
-      "fr": "Dans quel pays le trouve-t-on ?",
-      "en": "In which country can it be found?",
-      "nl": "In welk land vindt men dit gerecht?"
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
     },
     "answers": {
       "fr": [
-        "Norvège",
-        "Islande",
-        "Suède",
-        "Danemark"
+        "Vrai",
+        "Faux",
+        "Seulement dans certaines régions",
+        "Nom inventé"
       ],
       "en": [
-        "Norway",
-        "Iceland",
-        "Sweden",
-        "Denmark"
+        "True",
+        "False",
+        "Only in some regions",
+        "Invented name"
       ],
       "nl": [
-        "Noorwegen",
-        "IJsland",
-        "Zweden",
-        "Denemarken"
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige regio’s",
+        "Verzonnen naam"
       ]
     },
     "correctAnswer": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland"
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
     },
     "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise au goût très marqué.",
-      "en": "Hákarl is an Icelandic speciality with a very strong taste.",
-      "nl": "Hákarl is een IJslandse specialiteit met een zeer uitgesproken smaak."
+      "fr": "Une spécialité islandaise au goût très marqué.",
+      "en": "An Icelandic speciality with a very strong taste.",
+      "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c045",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Smalahove #5",
-      "en": "Smalahove #5",
-      "nl": "Smalahove #5"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove"
     },
     "country": {
       "fr": "Norvège",
@@ -4594,55 +4549,54 @@ const CULINARY_50=[
       "nl": "Norvège"
     },
     "scenario": {
-      "fr": "Ce plat traditionnel est une tête de mouton servie entière ou presque entière.",
-      "en": "This traditional dish is a sheep’s head served whole or almost whole.",
-      "nl": "Dit traditionele gerecht is een schapenkop die geheel of bijna geheel wordt geserveerd."
+      "fr": "Le Smalahove est un dessert sucré à base de chocolat.",
+      "en": "Smalahove is a sweet chocolate-based dessert.",
+      "nl": "Smalahove is een zoet dessert op basis van chocolade."
     },
     "question": {
-      "fr": "Dans quel pays est-il traditionnel ?",
-      "en": "In which country is it traditional?",
-      "nl": "In welk land is dit traditioneel?"
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
     },
     "answers": {
       "fr": [
-        "Norvège",
-        "Écosse",
-        "Irlande",
-        "Islande"
+        "Vrai",
+        "Faux",
+        "Seulement dans certaines régions",
+        "Nom inventé"
       ],
       "en": [
-        "Norway",
-        "Scotland",
-        "Ireland",
-        "Iceland"
+        "True",
+        "False",
+        "Only in some regions",
+        "Invented name"
       ],
       "nl": [
-        "Noorwegen",
-        "Schotland",
-        "Ierland",
-        "IJsland"
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige regio’s",
+        "Verzonnen naam"
       ]
     },
     "correctAnswer": {
-      "fr": "Norvège",
-      "en": "Norway",
-      "nl": "Noorwegen"
+      "fr": "Faux",
+      "en": "False",
+      "nl": "Onwaar"
     },
     "explanation": {
-      "fr": "Le Smalahove est une spécialité norvégienne traditionnellement associée à certaines périodes de fête.",
-      "en": "Smalahove is a Norwegian speciality traditionally associated with festive periods.",
-      "nl": "Smalahove is een Noorse specialiteit die traditioneel met feestperiodes wordt verbonden."
+      "fr": "Un plat norvégien traditionnellement associé à certaines périodes de fête.",
+      "en": "A Norwegian dish traditionally associated with festive periods.",
+      "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c046",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Blodplättar #5",
-      "en": "Blodplättar #5",
-      "nl": "Blodplättar #5"
+      "fr": "Blodplättar",
+      "en": "Blodplättar",
+      "nl": "Blodplättar"
     },
     "country": {
       "fr": "Finlande",
@@ -4655,51 +4609,54 @@ const CULINARY_50=[
       "nl": "Finlande / Suède"
     },
     "scenario": {
-      "fr": "Ces crêpes sont préparées à base de sang.",
-      "en": "These pancakes are made with blood.",
-      "nl": "Deze pannenkoeken worden gemaakt met bloed."
+      "fr": "Le Blodplättar est des crêpes au sang.",
+      "en": "Blodplättar is blood pancakes.",
+      "nl": "Blodplättar is bloedpannenkoeken."
     },
     "question": {
-      "fr": "Quelle proposition correspond à ce plat ?",
-      "en": "Which option matches this dish?",
-      "nl": "Welke optie past bij dit gerecht?"
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
     },
     "answers": {
       "fr": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
+        "Vrai",
+        "Faux",
+        "Seulement dans certaines régions",
+        "Nom inventé"
       ],
       "en": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
+        "True",
+        "False",
+        "Only in some regions",
+        "Invented name"
       ],
       "nl": [
-        "Des crêpes au sang",
-        "Un fromage fermenté",
-        "Un dessert aux algues",
-        "Une soupe de bière"
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige regio’s",
+        "Verzonnen naam"
       ]
     },
-    "correctAnswer": "Des crêpes au sang",
-    "explanation": {
-      "fr": "Les Blodplättar sont des pancakes au sang consommés dans le nord de l’Europe.",
-      "en": "Blodplättar are blood pancakes eaten in Northern Europe.",
-      "nl": "Blodplättar zijn bloedpannenkoeken die in Noord-Europa worden gegeten."
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
     },
-    "kind": "option",
-    "invented": false
+    "explanation": {
+      "fr": "Des crêpes préparées à base de sang, consommées dans plusieurs régions du nord de l’Europe.",
+      "en": "Pancakes made with blood, eaten in several northern European regions.",
+      "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
+    },
+    "kind": "option"
   },
   {
     "id": "c047",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Andouillette #5",
-      "en": "Andouillette #5",
-      "nl": "Andouillette #5"
+      "fr": "Andouillette",
+      "en": "Andouillette",
+      "nl": "Andouillette"
     },
     "country": {
       "fr": "France",
@@ -4712,51 +4669,54 @@ const CULINARY_50=[
       "nl": "France"
     },
     "scenario": {
-      "fr": "Cette saucisse française est connue pour son odeur très caractéristique.",
-      "en": "This French sausage is known for its very distinctive smell.",
-      "nl": "Deze Franse worst staat bekend om zijn zeer karakteristieke geur."
+      "fr": "Le Andouillette est une saucisse à base d’intestins de porc.",
+      "en": "Andouillette is a sausage made with pork intestines.",
+      "nl": "Andouillette is een worst gemaakt met varkensdarmen."
     },
     "question": {
-      "fr": "Elle est traditionnellement fabriquée principalement avec quel ingrédient ?",
-      "en": "What is it traditionally mainly made from?",
-      "nl": "Waarvan wordt ze traditioneel vooral gemaakt?"
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
     },
     "answers": {
       "fr": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
+        "Vrai",
+        "Faux",
+        "Seulement dans certaines régions",
+        "Nom inventé"
       ],
       "en": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
+        "True",
+        "False",
+        "Only in some regions",
+        "Invented name"
       ],
       "nl": [
-        "Intestins de porc",
-        "Foie de poisson",
-        "Fromage bleu",
-        "Pain fermenté"
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige regio’s",
+        "Verzonnen naam"
       ]
     },
-    "correctAnswer": "Intestins de porc",
-    "explanation": {
-      "fr": "L’andouillette est une spécialité charcutière française au goût très marqué.",
-      "en": "Andouillette is a French charcuterie speciality with a very distinctive taste.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een zeer uitgesproken smaak."
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
     },
-    "kind": "option",
-    "invented": false
+    "explanation": {
+      "fr": "Une spécialité charcutière française connue pour son goût et son odeur très marqués.",
+      "en": "A French charcuterie speciality known for its strong taste and smell.",
+      "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
+    },
+    "kind": "option"
   },
   {
     "id": "c048",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Mämmi #5",
-      "en": "Mämmi #5",
-      "nl": "Mämmi #5"
+      "fr": "Mämmi",
+      "en": "Mämmi",
+      "nl": "Mämmi"
     },
     "country": {
       "fr": "Finlande",
@@ -4769,116 +4729,114 @@ const CULINARY_50=[
       "nl": "Finlande"
     },
     "scenario": {
-      "fr": "Ce dessert brun de Pâques est préparé avec du seigle et du malt.",
-      "en": "This brown Easter dessert is made with rye and malt.",
-      "nl": "Dit bruine paasdessert wordt gemaakt met rogge en mout."
+      "fr": "Le Mämmi est un dessert sucré à base de chocolat.",
+      "en": "Mämmi is a sweet chocolate-based dessert.",
+      "nl": "Mämmi is een zoet dessert op basis van chocolade."
     },
     "question": {
-      "fr": "Dans quel pays est-il populaire ?",
-      "en": "In which country is it popular?",
-      "nl": "In welk land is het populair?"
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
     },
     "answers": {
       "fr": [
-        "Finlande",
-        "Portugal",
-        "Italie",
-        "Croatie"
+        "Vrai",
+        "Faux",
+        "Seulement dans certaines régions",
+        "Nom inventé"
       ],
       "en": [
-        "Finland",
-        "Portugal",
-        "Italy",
-        "Croatia"
+        "True",
+        "False",
+        "Only in some regions",
+        "Invented name"
       ],
       "nl": [
-        "Finland",
-        "Portugal",
-        "Italië",
-        "Kroatië"
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige regio’s",
+        "Verzonnen naam"
       ]
     },
     "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Faux",
+      "en": "False",
+      "nl": "Onwaar"
     },
     "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais traditionnellement associé à Pâques.",
-      "en": "Mämmi is a Finnish dessert traditionally associated with Easter.",
-      "nl": "Mämmi is een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
+      "fr": "Un dessert finlandais traditionnellement associé à Pâques.",
+      "en": "A Finnish dessert traditionally associated with Easter.",
+      "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c049",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Jellied eels #5",
-      "en": "Jellied eels #5",
-      "nl": "Jellied eels #5"
+      "fr": "Jellied eels",
+      "en": "Jellied eels",
+      "nl": "Jellied eels"
     },
     "country": {
-      "fr": "Irlande",
-      "en": "Ireland",
-      "nl": "Ierland"
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk"
     },
     "region": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
+      "fr": "Londres",
+      "en": "Londres",
+      "nl": "Londres"
     },
     "scenario": {
-      "fr": "De l’anguille est servie dans une gelée froide.",
-      "en": "Eel is served in a cold jelly.",
-      "nl": "Paling wordt geserveerd in koude gelei."
+      "fr": "Le Jellied eels est des anguilles servies dans une gelée froide.",
+      "en": "Jellied eels is eels served in cold jelly.",
+      "nl": "Jellied eels is paling geserveerd in koude gelei."
     },
     "question": {
-      "fr": "Cette spécialité est surtout associée à quelle zone ?",
-      "en": "This speciality is mostly associated with which area?",
-      "nl": "Met welke zone wordt deze specialiteit vooral geassocieerd?"
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
     },
     "answers": {
       "fr": [
-        "Royaume-Uni",
-        "Grèce",
-        "Roumanie",
-        "Lituanie"
+        "Vrai",
+        "Faux",
+        "Seulement dans certaines régions",
+        "Nom inventé"
       ],
       "en": [
-        "Royaume-Uni",
-        "Greece",
-        "Romania",
-        "Lithuania"
+        "True",
+        "False",
+        "Only in some regions",
+        "Invented name"
       ],
       "nl": [
-        "Royaume-Uni",
-        "Griekenland",
-        "Roemenië",
-        "Litouwen"
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige regio’s",
+        "Verzonnen naam"
       ]
     },
     "correctAnswer": {
-      "fr": "Royaume-Uni",
-      "en": "Royaume-Uni",
-      "nl": "Royaume-Uni"
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
     },
     "explanation": {
-      "fr": "Les anguilles en gelée sont une spécialité traditionnelle londonienne.",
-      "en": "Jellied eels are a traditional London speciality.",
-      "nl": "Paling in gelei is een traditionele Londense specialiteit."
+      "fr": "Une spécialité traditionnelle associée à Londres.",
+      "en": "A traditional speciality associated with London.",
+      "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   },
   {
     "id": "c050",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Czernina #5",
-      "en": "Czernina #5",
-      "nl": "Czernina #5"
+      "fr": "Czernina",
+      "en": "Czernina",
+      "nl": "Czernina"
     },
     "country": {
       "fr": "Pologne",
@@ -4891,46 +4849,45 @@ const CULINARY_50=[
       "nl": "Pologne"
     },
     "scenario": {
-      "fr": "Cette soupe traditionnelle est préparée avec du sang de canard.",
-      "en": "This traditional soup is made with duck blood.",
-      "nl": "Deze traditionele soep wordt gemaakt met eendenbloed."
+      "fr": "Le Czernina est une soupe au sang de canard.",
+      "en": "Czernina is a duck-blood soup.",
+      "nl": "Czernina is een soep met eendenbloed."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette soupe ?",
-      "en": "In which country can this soup be found?",
-      "nl": "In welk land vindt men deze soep?"
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
     },
     "answers": {
       "fr": [
-        "Pologne",
-        "France",
-        "Italie",
-        "Espagne"
+        "Vrai",
+        "Faux",
+        "Seulement dans certaines régions",
+        "Nom inventé"
       ],
       "en": [
-        "Poland",
-        "France",
-        "Italy",
-        "Spain"
+        "True",
+        "False",
+        "Only in some regions",
+        "Invented name"
       ],
       "nl": [
-        "Polen",
-        "Frankrijk",
-        "Italië",
-        "Spanje"
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige regio’s",
+        "Verzonnen naam"
       ]
     },
     "correctAnswer": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
     },
     "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au goût aigre-doux.",
-      "en": "Czernina is a traditional Polish soup with a sweet-and-sour taste.",
-      "nl": "Czernina is een traditionele Poolse soep met een zoetzure smaak."
+      "fr": "Une soupe polonaise traditionnelle au goût aigre-doux.",
+      "en": "A traditional Polish sweet-and-sour soup.",
+      "nl": "Een traditionele Poolse zoetzure soep."
     },
-    "kind": "country",
-    "invented": false
+    "kind": "option"
   }
 ];

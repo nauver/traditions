@@ -1,5 +1,6 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "questions": 120,
-  "countries": 27
+  "countries": 27,
+  "generated": "2026-06-30T09:41:10.196530Z"
 }

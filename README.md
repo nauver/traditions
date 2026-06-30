@@ -1,10 +1,13 @@
-# CoR Traditions Challenge V1.2
+# CoR Traditions Challenge V1.3
 
 Fixes:
-- The launch screen is now vertically and horizontally centred correctly.
-- The footer no longer overflows outside the main container.
-- The title has been changed to **Europe’s Traditions Challenge** to avoid the negative interpretation of “Odd”.
-- The provided CoR logo is used from `assets/CoR_logo.png`.
-- The general visual style is closer to the EU quiz / competing buttons layout: strong CoR blue header, yellow separator, large central stage, rounded buttons.
+- Corrected launch visual positioning.
+- Fixed question rendering issues that produced `object-rendering issue`.
+- Added robust question normalisation in `app.js`.
+- Removed all remaining references to “Old title wording”.
+- New title: `Europe’s Traditions Challenge`.
+- CoR logo constrained to a fixed visual area to avoid oversized rendering.
+- Added cache-busting query strings in `index.html`.
 
-Deploy on GitHub Pages by replacing all existing files with this ZIP content.
+Deploy by replacing all files in the GitHub repository root with this ZIP content.
+Then use Ctrl+F5 on the published page.

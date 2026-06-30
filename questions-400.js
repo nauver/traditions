@@ -7,13 +7,13 @@ const QUESTIONS_400 = [
     "scenario_fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas dans la rue.",
     "question_fr": "Dans quel pays cette tradition a-t-elle lieu ?",
     "answers_fr": [
-      "Espagne",
-      "Roumanie",
-      "Irlande",
-      "Malte"
+      "Bulgarie",
+      "Luxembourg",
+      "Finlande",
+      "Espagne"
     ],
     "correctAnswer_fr": "Espagne",
-    "explanation_fr": "El Colacho se déroule à Castrillo de Murcia, dans la province de Burgos, en Castille-et-León, Espagne. La scène est spectaculaire car les participants costumés franchissent les bébés placés sur des matelas.",
+    "explanation_fr": "El Colacho se déroule à Castrillo de Murcia, dans la province de Burgos, en Castille-et-León. La tradition est connue pour son saut symbolique au-dessus de bébés placés sur des matelas dans la rue.",
     "difficulty": "easy",
     "tags": [
       "très insolite",
@@ -29,13 +29,13 @@ const QUESTIONS_400 = [
     "scenario_fr": "Des concurrents courent en portant leur partenaire sur les épaules ou sur le dos.",
     "question_fr": "Dans quel pays se tient ce championnat ?",
     "answers_fr": [
-      "Lituanie",
-      "Autriche",
-      "Finlande",
-      "Croatie"
+      "Malte",
+      "Espagne",
+      "Italie",
+      "Finlande"
     ],
     "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Ce championnat est associé à Sonkajärvi, en Finlande. Le principe consiste à parcourir un obstacle course en portant son ou sa partenaire.",
+    "explanation_fr": "Ce championnat est associé à Sonkajärvi, en Finlande. Les participants franchissent un parcours d’obstacles en portant leur partenaire, ce qui en fait l’un des concours les plus visuels d’Europe.",
     "difficulty": "easy",
     "tags": [
       "sport insolite",
@@ -51,13 +51,13 @@ const QUESTIONS_400 = [
     "scenario_fr": "Des pêcheurs avancent dans la mer à cheval pour capturer des crevettes.",
     "question_fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
     "answers_fr": [
-      "Allemagne",
       "Belgique",
-      "Bulgarie",
-      "Italie"
+      "Slovaquie",
+      "Tchéquie",
+      "Luxembourg"
     ],
     "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette tradition se pratique à Oostduinkerke, sur la côte belge, en Flandre occidentale. Les chevaux tirent des filets dans la mer pour capturer les crevettes.",
+    "explanation_fr": "Cette tradition se pratique à Oostduinkerke, sur la côte belge, en Flandre occidentale. Les chevaux tirent des filets dans l’eau peu profonde pour capturer les crevettes grises.",
     "difficulty": "easy",
     "tags": [
       "patrimoine vivant",
@@ -73,13 +73,13 @@ const QUESTIONS_400 = [
     "scenario_fr": "Des milliers de personnes se lancent des tomates dans une bataille géante.",
     "question_fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
     "answers_fr": [
-      "Suède",
+      "Pays-Bas",
+      "Slovaquie",
       "Lettonie",
-      "Espagne",
-      "Tchéquie"
+      "Espagne"
     ],
     "correctAnswer_fr": "Espagne",
-    "explanation_fr": "La Tomatina se déroule à Buñol, près de Valence, en Espagne. Les rues deviennent une immense bataille de tomates.",
+    "explanation_fr": "La Tomatina se déroule à Buñol, près de Valence, en Espagne. La ville devient pendant un court moment une immense scène de bataille de tomates.",
     "difficulty": "easy",
     "tags": [
       "food fight",
@@ -95,13 +95,13 @@ const QUESTIONS_400 = [
     "scenario_fr": "Des équipes se jettent des oranges dans les rues pendant le carnaval.",
     "question_fr": "Dans quel pays cette bataille d’agrumes existe-t-elle ?",
     "answers_fr": [
-      "Lettonie",
+      "Pologne",
+      "Tchéquie",
       "Malte",
-      "Italie",
-      "France"
+      "Italie"
     ],
     "correctAnswer_fr": "Italie",
-    "explanation_fr": "La Bataille des Oranges a lieu à Ivrea, dans le Piémont, en Italie. Les équipes reconstituent une bataille carnavalesque avec des oranges.",
+    "explanation_fr": "La Bataille des Oranges a lieu à Ivrea, dans le Piémont, en Italie. Les rues deviennent le théâtre d’une bataille d’agrumes entre équipes de carnaval.",
     "difficulty": "easy",
     "tags": [
       "food fight",
@@ -117,13 +117,13 @@ const QUESTIONS_400 = [
     "scenario_fr": "Des personnages masqués portent de grandes cloches pour chasser les mauvais esprits.",
     "question_fr": "Dans quel pays rencontre-t-on les Kukeri ?",
     "answers_fr": [
-      "Malte",
       "Irlande",
-      "Bulgarie",
-      "Portugal"
+      "Espagne",
+      "Finlande",
+      "Bulgarie"
     ],
     "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Les Kukeri sont surtout associés à la Bulgarie, notamment aux régions rurales et aux festivals comme Pernik. Les costumes et les cloches servent à éloigner les mauvais esprits.",
+    "explanation_fr": "Les Kukeri sont associés à la Bulgarie, notamment aux régions rurales et à des festivals comme Pernik. Les costumes, masques et cloches servent à marquer le passage vers une nouvelle saison.",
     "difficulty": "easy",
     "tags": [
       "masques",
@@ -139,13 +139,13 @@ const QUESTIONS_400 = [
     "scenario_fr": "Des silhouettes couvertes de peaux et de cloches parcourent la ville pour chasser l’hiver.",
     "question_fr": "Dans quel pays a lieu cette tradition ?",
     "answers_fr": [
-      "Danemark",
-      "Lettonie",
+      "Chypre",
+      "Bulgarie",
       "Slovénie",
       "Espagne"
     ],
     "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Kurentovanje a lieu à Ptuj, en Slovénie. Les Kurenti portent des peaux et des cloches pour symboliquement chasser l’hiver.",
+    "explanation_fr": "Kurentovanje a lieu à Ptuj, en Slovénie. Les Kurenti portent des peaux, des masques et des cloches pour symboliquement chasser l’hiver.",
     "difficulty": "easy",
     "tags": [
       "masques",
@@ -162,12 +162,12 @@ const QUESTIONS_400 = [
     "question_fr": "Dans quel pays a lieu le Busójárás ?",
     "answers_fr": [
       "Hongrie",
-      "Roumanie",
-      "Italie",
-      "Belgique"
+      "Slovénie",
+      "Luxembourg",
+      "Suède"
     ],
     "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Le Busójárás se déroule à Mohács, en Hongrie. Les participants portent des masques pour marquer la fin de l’hiver.",
+    "explanation_fr": "Le Busójárás se déroule à Mohács, en Hongrie. Les costumes et masques imposants donnent à cette fête de fin d’hiver une forte identité visuelle.",
     "difficulty": "easy",
     "tags": [
       "masques",
@@ -183,13 +183,13 @@ const QUESTIONS_400 = [
     "scenario_fr": "Une immense chèvre de paille est construite chaque année et devient célèbre pour ses mésaventures.",
     "question_fr": "Dans quel pays peut-on voir cette chèvre géante ?",
     "answers_fr": [
-      "Malte",
       "Lituanie",
-      "Suède",
-      "Autriche"
+      "Irlande",
+      "Finlande",
+      "Suède"
     ],
     "correctAnswer_fr": "Suède",
-    "explanation_fr": "La chèvre de Gävle est construite à Gävle, en Suède. Cette grande structure de paille est liée aux traditions de Noël.",
+    "explanation_fr": "La chèvre de Gävle est construite à Gävle, en Suède. Cette grande structure de paille est liée aux traditions de Noël nordiques.",
     "difficulty": "easy",
     "tags": [
       "Noël",
@@ -205,13 +205,13 @@ const QUESTIONS_400 = [
     "scenario_fr": "Des habitants se lancent de la farine pendant un carnaval haut en couleur.",
     "question_fr": "Dans quel pays cette bataille de farine a-t-elle lieu ?",
     "answers_fr": [
+      "Malte",
       "Lituanie",
-      "Espagne",
-      "Irlande",
+      "Allemagne",
       "Grèce"
     ],
     "correctAnswer_fr": "Grèce",
-    "explanation_fr": "La guerre de farine se déroule à Galaxidi, en Grèce, pendant le carnaval. Les participants se couvrent de farine colorée.",
+    "explanation_fr": "La guerre de farine se déroule à Galaxidi, en Grèce, pendant le carnaval. Les participants se couvrent de farine colorée dans les rues.",
     "difficulty": "easy",
     "tags": [
       "food fight",
@@ -221,4192 +221,5770 @@ const QUESTIONS_400 = [
   },
   {
     "id": "trad_011",
-    "traditionName": "Festival des eau de Sinj",
-    "country": "Croatie",
-    "region": "Sinj",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer de l’eau de taille démesurée.",
+    "traditionName": "Carnaval des pains rituels de Occitanie",
+    "country": "France",
+    "region": "Occitanie",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des pains rituels de taille démesurée.",
     "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Croatie",
-      "Autriche",
-      "Espagne",
-      "Lituanie"
+      "Irlande",
+      "Portugal",
+      "Pays-Bas",
+      "France"
     ],
-    "correctAnswer_fr": "Croatie",
-    "explanation_fr": "Cette question parle de Sinj, en Croatie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Croatie, avec un ancrage régional indiqué : Sinj.",
+    "correctAnswer_fr": "France",
+    "explanation_fr": "Nom de la tradition : Carnaval des pains rituels de Occitanie. Pays : France. Région ou lieu : Occitanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
       "objet géant",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_012",
-    "traditionName": "Challenge des masques de Patras",
-    "country": "Grèce",
-    "region": "Patras",
-    "scenario_fr": "Des habitants se poursuivent avec des masques pendant une fête locale.",
+    "traditionName": "Carnaval des farine de Tartu",
+    "country": "Estonie",
+    "region": "Tartu",
+    "scenario_fr": "Des habitants se poursuivent avec de la farine pendant une fête locale.",
     "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Grèce",
-      "Italie",
-      "Pays-Bas",
-      "Hongrie"
+      "Estonie",
+      "Lettonie",
+      "Danemark",
+      "Luxembourg"
     ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Patras, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Patras.",
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Carnaval des farine de Tartu. Pays : Estonie. Région ou lieu : Tartu. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de la farine; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
       "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_013",
-    "traditionName": "Rituel des couronnes de Madère",
-    "country": "Portugal",
-    "region": "Madère",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des couronnes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Procession des eau de Gouda",
+    "country": "Pays-Bas",
+    "region": "Gouda",
+    "scenario_fr": "Des habitants se poursuivent avec de l’eau pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Tchéquie",
+      "Pays-Bas",
       "Portugal",
-      "Lituanie",
-      "Danemark"
+      "Estonie",
+      "Pologne"
     ],
-    "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Madère, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Madère.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Procession des eau de Gouda. Pays : Pays-Bas. Région ou lieu : Gouda. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_014",
-    "traditionName": "Carnaval des œufs peints de Laponie",
-    "country": "Finlande",
-    "region": "Laponie",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des œufs peints.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Rituel des costumes d’animaux de Mohács",
+    "country": "Hongrie",
+    "region": "Mohács",
+    "scenario_fr": "Des habitants transportent des costumes d’animaux dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Italie",
-      "Finlande",
-      "Bulgarie",
-      "Espagne"
+      "Hongrie",
+      "Malte",
+      "Espagne",
+      "Danemark"
     ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Laponie, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Laponie.",
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Rituel des costumes d’animaux de Mohács. Pays : Hongrie. Région ou lieu : Mohács. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_015",
-    "traditionName": "Bataille des pains rituels de Dalarna",
-    "country": "Suède",
-    "region": "Dalarna",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des pains rituels.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Nuit des poupées de paille de Tomar",
+    "country": "Portugal",
+    "region": "Tomar",
+    "scenario_fr": "Des habitants se poursuivent avec des poupées de paille pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Tchéquie",
+      "Portugal",
+      "France",
       "Suède",
-      "Lituanie",
-      "Espagne"
+      "Finlande"
     ],
-    "correctAnswer_fr": "Suède",
-    "explanation_fr": "Cette question parle de Dalarna, en Suède. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Suède, avec un ancrage régional indiqué : Dalarna.",
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Nuit des poupées de paille de Tomar. Pays : Portugal. Région ou lieu : Tomar. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_016",
-    "traditionName": "Procession des marteaux en plastique de Silésie",
-    "country": "Pologne",
-    "region": "Silésie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Festival des fleurs de Moravie",
+    "country": "Tchéquie",
+    "region": "Moravie",
+    "scenario_fr": "Des habitants transportent des fleurs dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
+      "Italie",
+      "Tchéquie",
       "Danemark",
-      "Slovaquie",
-      "Pologne",
-      "Luxembourg"
+      "France"
     ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Silésie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Silésie.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Festival des fleurs de Moravie. Pays : Tchéquie. Région ou lieu : Moravie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_017",
-    "traditionName": "Carnaval des pains rituels de Kurzeme",
+    "traditionName": "Défilé des pains rituels de Riga",
     "country": "Lettonie",
-    "region": "Kurzeme",
-    "scenario_fr": "Des habitants se poursuivent avec des pains rituels pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "region": "Riga",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des pains rituels.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "France",
-      "Lettonie",
-      "Espagne",
-      "Lituanie"
+      "Slovaquie",
+      "Pologne",
+      "Finlande",
+      "Lettonie"
     ],
     "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Kurzeme, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Kurzeme.",
-    "difficulty": "hard",
+    "explanation_fr": "Nom de la tradition : Défilé des pains rituels de Riga. Pays : Lettonie. Région ou lieu : Riga. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_018",
-    "traditionName": "Challenge des paniers décorés de Navarre",
-    "country": "Espagne",
-    "region": "Navarre",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des paniers décorés.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Carnaval des sabots de Vénétie",
+    "country": "Italie",
+    "region": "Vénétie",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des sabots de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Luxembourg",
-      "Estonie",
-      "Espagne",
-      "Malte"
+      "France",
+      "Autriche",
+      "Belgique",
+      "Italie"
     ],
-    "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Navarre, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Navarre.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Carnaval des sabots de Vénétie. Pays : Italie. Région ou lieu : Vénétie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_019",
-    "traditionName": "Défilé des costumes d’animaux de Bretagne",
-    "country": "France",
-    "region": "Bretagne",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des costumes d’animaux de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "traditionName": "Festival des mannequins de Latgale",
+    "country": "Lettonie",
+    "region": "Latgale",
+    "scenario_fr": "Des habitants se poursuivent avec des mannequins pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Grèce",
-      "Pologne",
-      "Croatie",
-      "France"
+      "Lettonie",
+      "Portugal",
+      "Finlande",
+      "Hongrie"
     ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Bretagne, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Bretagne.",
+    "correctAnswer_fr": "Lettonie",
+    "explanation_fr": "Nom de la tradition : Festival des mannequins de Latgale. Pays : Lettonie. Région ou lieu : Latgale. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_020",
-    "traditionName": "Carnaval des cloches de Wiltz",
-    "country": "Luxembourg",
-    "region": "Wiltz",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des cloches.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Festival des couronnes de Kerry",
+    "country": "Irlande",
+    "region": "Kerry",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des couronnes de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Portugal",
-      "Danemark",
-      "France",
-      "Luxembourg"
+      "Belgique",
+      "Irlande",
+      "Slovaquie",
+      "Tchéquie"
     ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Wiltz, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Wiltz.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Festival des couronnes de Kerry. Pays : Irlande. Région ou lieu : Kerry. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_021",
-    "traditionName": "Fête de la grande bougies de Bucovine",
-    "country": "Roumanie",
-    "region": "Bucovine",
-    "scenario_fr": "Des habitants se poursuivent avec des bougies pendant une fête locale.",
+    "traditionName": "Rituel des rubans de Tatras",
+    "country": "Slovaquie",
+    "region": "Tatras",
+    "scenario_fr": "Des habitants se poursuivent avec des rubans pendant une fête locale.",
     "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
       "Roumanie",
-      "Danemark",
-      "Croatie",
-      "Lituanie"
+      "Slovaquie",
+      "Suède",
+      "Allemagne"
     ],
-    "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Bucovine, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Bucovine.",
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Rituel des rubans de Tatras. Pays : Slovaquie. Région ou lieu : Tatras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
       "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_022",
-    "traditionName": "Course des pains rituels de Cracovie",
-    "country": "Pologne",
-    "region": "Cracovie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des pains rituels de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "traditionName": "Fête de la grande paniers décorés de Bavière",
+    "country": "Allemagne",
+    "region": "Bavière",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des paniers décorés.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "France",
-      "Suède",
-      "Slovaquie",
-      "Pologne"
+      "Bulgarie",
+      "Allemagne",
+      "Autriche",
+      "Hongrie"
     ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Cracovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Cracovie.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Allemagne",
+    "explanation_fr": "Nom de la tradition : Fête de la grande paniers décorés de Bavière. Pays : Allemagne. Région ou lieu : Bavière. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_023",
-    "traditionName": "Défilé des fleurs de Clare",
-    "country": "Irlande",
-    "region": "Clare",
-    "scenario_fr": "Des habitants se poursuivent avec des fleurs pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Festival des marteaux en plastique de Mazovie",
+    "country": "Pologne",
+    "region": "Mazovie",
+    "scenario_fr": "Des habitants transportent des marteaux en plastique dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Espagne",
-      "Irlande",
-      "Allemagne",
-      "Hongrie"
+      "Malte",
+      "Slovénie",
+      "Danemark",
+      "Pologne"
     ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Clare, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Clare.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Festival des marteaux en plastique de Mazovie. Pays : Pologne. Région ou lieu : Mazovie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_024",
-    "traditionName": "Carnaval des costumes d’animaux de Catalogne",
-    "country": "Espagne",
-    "region": "Catalogne",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des costumes d’animaux.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Rituel des farine de Tomar",
+    "country": "Portugal",
+    "region": "Tomar",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de la farine.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Roumanie",
-      "Bulgarie",
-      "Espagne",
-      "Italie"
+      "Finlande",
+      "Belgique",
+      "Slovaquie",
+      "Portugal"
     ],
-    "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Catalogne, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Catalogne.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Rituel des farine de Tomar. Pays : Portugal. Région ou lieu : Tomar. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de la farine; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_025",
-    "traditionName": "Défilé des rubans de Wiltz",
-    "country": "Luxembourg",
-    "region": "Wiltz",
-    "scenario_fr": "Des habitants se poursuivent avec des rubans pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Défilé des sabots de Navarre",
+    "country": "Espagne",
+    "region": "Navarre",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des sabots.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Luxembourg",
-      "Finlande",
-      "Autriche",
-      "Pologne"
+      "Espagne",
+      "Danemark",
+      "Chypre",
+      "Tchéquie"
     ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Wiltz, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Wiltz.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Défilé des sabots de Navarre. Pays : Espagne. Région ou lieu : Navarre. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_026",
-    "traditionName": "Rituel des marteaux en plastique de Detva",
-    "country": "Slovaquie",
-    "region": "Detva",
-    "scenario_fr": "Des habitants se poursuivent avec des marteaux en plastique pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Challenge des couronnes de Limassol",
+    "country": "Chypre",
+    "region": "Limassol",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
+      "Danemark",
+      "Luxembourg",
       "Chypre",
-      "Slovaquie",
-      "Hongrie",
-      "Lettonie"
+      "Suède"
     ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Detva, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Detva.",
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Challenge des couronnes de Limassol. Pays : Chypre. Région ou lieu : Limassol. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_027",
+    "traditionName": "Challenge des couronnes de Occitanie",
+    "country": "France",
+    "region": "Occitanie",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "France",
+      "Luxembourg",
+      "Grèce",
+      "Allemagne"
+    ],
+    "correctAnswer_fr": "France",
+    "explanation_fr": "Nom de la tradition : Challenge des couronnes de Occitanie. Pays : France. Région ou lieu : Occitanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_028",
+    "traditionName": "Procession des citrons de Pernik",
+    "country": "Bulgarie",
+    "region": "Pernik",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des citrons.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Slovaquie",
+      "Lituanie",
+      "Hongrie",
+      "Bulgarie"
+    ],
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Procession des citrons de Pernik. Pays : Bulgarie. Région ou lieu : Pernik. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_029",
+    "traditionName": "Rituel des lanternes de Transylvanie",
+    "country": "Roumanie",
+    "region": "Transylvanie",
+    "scenario_fr": "Des habitants transportent des lanternes dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Pologne",
+      "Belgique",
+      "Roumanie",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Rituel des lanternes de Transylvanie. Pays : Roumanie. Région ou lieu : Transylvanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_030",
+    "traditionName": "Défilé des oranges de Alsace",
+    "country": "France",
+    "region": "Alsace",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des oranges de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Lettonie",
+      "France",
+      "Autriche",
+      "Pologne"
+    ],
+    "correctAnswer_fr": "France",
+    "explanation_fr": "Nom de la tradition : Défilé des oranges de Alsace. Pays : France. Région ou lieu : Alsace. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_031",
+    "traditionName": "Festival des masques de Toscane",
+    "country": "Italie",
+    "region": "Toscane",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des masques.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Italie",
+      "Luxembourg",
+      "Pologne",
+      "Autriche"
+    ],
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Festival des masques de Toscane. Pays : Italie. Région ou lieu : Toscane. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_032",
+    "traditionName": "Procession des eau de Echternach",
+    "country": "Luxembourg",
+    "region": "Echternach",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de l’eau.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Slovénie",
+      "Irlande",
+      "Luxembourg",
+      "Suède"
+    ],
+    "correctAnswer_fr": "Luxembourg",
+    "explanation_fr": "Nom de la tradition : Procession des eau de Echternach. Pays : Luxembourg. Région ou lieu : Echternach. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_033",
+    "traditionName": "Course des lanternes de Gouda",
+    "country": "Pays-Bas",
+    "region": "Gouda",
+    "scenario_fr": "Des habitants transportent des lanternes dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Tchéquie",
+      "Portugal",
+      "Grèce",
+      "Pays-Bas"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Course des lanternes de Gouda. Pays : Pays-Bas. Région ou lieu : Gouda. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_034",
+    "traditionName": "Procession des marteaux en plastique de Sonkajärvi",
+    "country": "Finlande",
+    "region": "Sonkajärvi",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des marteaux en plastique.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Autriche",
+      "Grèce",
+      "Finlande",
+      "Chypre"
+    ],
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Procession des marteaux en plastique de Sonkajärvi. Pays : Finlande. Région ou lieu : Sonkajärvi. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_035",
+    "traditionName": "Festival des œufs peints de Bucovine",
+    "country": "Roumanie",
+    "region": "Bucovine",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Italie",
+      "Bulgarie",
+      "Finlande",
+      "Roumanie"
+    ],
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Festival des œufs peints de Bucovine. Pays : Roumanie. Région ou lieu : Bucovine. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des œufs peints; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_036",
+    "traditionName": "Défilé des cloches de Oulu",
+    "country": "Finlande",
+    "region": "Oulu",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des cloches de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Finlande",
+      "France",
+      "Tchéquie",
+      "Luxembourg"
+    ],
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Défilé des cloches de Oulu. Pays : Finlande. Région ou lieu : Oulu. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_037",
+    "traditionName": "Fête de la grande couronnes de Trakai",
+    "country": "Lituanie",
+    "region": "Trakai",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Belgique",
+      "Lituanie",
+      "Tchéquie",
+      "Lettonie"
+    ],
+    "correctAnswer_fr": "Lituanie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande couronnes de Trakai. Pays : Lituanie. Région ou lieu : Trakai. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_038",
+    "traditionName": "Carnaval des fleurs de Trakai",
+    "country": "Lituanie",
+    "region": "Trakai",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des fleurs de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Croatie",
+      "Suède",
+      "Danemark",
+      "Lituanie"
+    ],
+    "correctAnswer_fr": "Lituanie",
+    "explanation_fr": "Nom de la tradition : Carnaval des fleurs de Trakai. Pays : Lituanie. Région ou lieu : Trakai. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_039",
+    "traditionName": "Bataille des oranges de Riga",
+    "country": "Lettonie",
+    "region": "Riga",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des oranges.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Finlande",
+      "Tchéquie",
+      "Grèce",
+      "Lettonie"
+    ],
+    "correctAnswer_fr": "Lettonie",
+    "explanation_fr": "Nom de la tradition : Bataille des oranges de Riga. Pays : Lettonie. Région ou lieu : Riga. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_040",
+    "traditionName": "Carnaval des pains rituels de Aalborg",
+    "country": "Danemark",
+    "region": "Aalborg",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des pains rituels de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Malte",
+      "Estonie",
+      "Danemark",
+      "Finlande"
+    ],
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Carnaval des pains rituels de Aalborg. Pays : Danemark. Région ou lieu : Aalborg. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_041",
+    "traditionName": "Nuit des rubans de Sonkajärvi",
+    "country": "Finlande",
+    "region": "Sonkajärvi",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Finlande",
+      "Estonie",
+      "Lettonie",
+      "Slovénie"
+    ],
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Nuit des rubans de Sonkajärvi. Pays : Finlande. Région ou lieu : Sonkajärvi. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_042",
+    "traditionName": "Défilé des marteaux en plastique de Larnaca",
+    "country": "Chypre",
+    "region": "Larnaca",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des marteaux en plastique de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Estonie",
+      "Croatie",
+      "Chypre",
+      "Lettonie"
+    ],
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Défilé des marteaux en plastique de Larnaca. Pays : Chypre. Région ou lieu : Larnaca. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_043",
+    "traditionName": "Bataille des œufs peints de Bohême",
+    "country": "Tchéquie",
+    "region": "Bohême",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des œufs peints.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Tchéquie",
+      "Grèce",
+      "Croatie",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Bataille des œufs peints de Bohême. Pays : Tchéquie. Région ou lieu : Bohême. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des œufs peints; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_044",
+    "traditionName": "Défilé des pains rituels de Frise",
+    "country": "Pays-Bas",
+    "region": "Frise",
+    "scenario_fr": "Des habitants se poursuivent avec des pains rituels pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Pays-Bas",
+      "Danemark",
+      "Estonie",
+      "Roumanie"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Défilé des pains rituels de Frise. Pays : Pays-Bas. Région ou lieu : Frise. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_045",
+    "traditionName": "Procession des bateaux décorés de Wallonie",
+    "country": "Belgique",
+    "region": "Wallonie",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bateaux décorés.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Suède",
+      "Belgique",
+      "Chypre",
+      "Estonie"
+    ],
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Procession des bateaux décorés de Wallonie. Pays : Belgique. Région ou lieu : Wallonie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_046",
+    "traditionName": "Carnaval des marteaux en plastique de Salzbourg",
+    "country": "Autriche",
+    "region": "Salzbourg",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des marteaux en plastique.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Grèce",
+      "Espagne",
+      "Autriche",
+      "Estonie"
+    ],
+    "correctAnswer_fr": "Autriche",
+    "explanation_fr": "Nom de la tradition : Carnaval des marteaux en plastique de Salzbourg. Pays : Autriche. Région ou lieu : Salzbourg. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_047",
+    "traditionName": "Carnaval des lanternes de Wallonie",
+    "country": "Belgique",
+    "region": "Wallonie",
+    "scenario_fr": "Des habitants se poursuivent avec des lanternes pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Belgique",
+      "Lituanie",
+      "Tchéquie",
+      "Suède"
+    ],
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Carnaval des lanternes de Wallonie. Pays : Belgique. Région ou lieu : Wallonie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_048",
+    "traditionName": "Fête de la grande citrouilles de Trakai",
+    "country": "Lituanie",
+    "region": "Trakai",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des citrouilles de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Irlande",
+      "Lituanie",
+      "Lettonie",
+      "Chypre"
+    ],
+    "correctAnswer_fr": "Lituanie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande citrouilles de Trakai. Pays : Lituanie. Région ou lieu : Trakai. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrouilles; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_049",
+    "traditionName": "Fête de la grande chèvre de Clare",
+    "country": "Irlande",
+    "region": "Clare",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Irlande",
+      "Slovénie",
+      "Pays-Bas",
+      "Roumanie"
+    ],
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Fête de la grande chèvre de Clare. Pays : Irlande. Région ou lieu : Clare. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_050",
+    "traditionName": "Rituel des paniers décorés de Bohême",
+    "country": "Tchéquie",
+    "region": "Bohême",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Tchéquie",
+      "Roumanie",
+      "Lituanie",
+      "Belgique"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Rituel des paniers décorés de Bohême. Pays : Tchéquie. Région ou lieu : Bohême. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_051",
+    "traditionName": "Challenge des costumes d’animaux de Bratislava",
+    "country": "Slovaquie",
+    "region": "Bratislava",
+    "scenario_fr": "Des habitants se poursuivent avec des costumes d’animaux pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Lettonie",
+      "Belgique",
+      "Finlande",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Challenge des costumes d’animaux de Bratislava. Pays : Slovaquie. Région ou lieu : Bratislava. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_052",
+    "traditionName": "Fête de la grande poupées de paille de Catalogne",
+    "country": "Espagne",
+    "region": "Catalogne",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Hongrie",
+      "Espagne",
+      "Malte",
+      "Estonie"
+    ],
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Fête de la grande poupées de paille de Catalogne. Pays : Espagne. Région ou lieu : Catalogne. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_053",
+    "traditionName": "Carnaval des fromage de Alsace",
+    "country": "France",
+    "region": "Alsace",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer un fromage de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Slovénie",
+      "Suède",
+      "France",
+      "Allemagne"
+    ],
+    "correctAnswer_fr": "France",
+    "explanation_fr": "Nom de la tradition : Carnaval des fromage de Alsace. Pays : France. Région ou lieu : Alsace. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_054",
+    "traditionName": "Bataille des mannequins de Dublin",
+    "country": "Irlande",
+    "region": "Dublin",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des mannequins de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Chypre",
+      "Slovaquie",
+      "Irlande",
+      "Portugal"
+    ],
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Bataille des mannequins de Dublin. Pays : Irlande. Région ou lieu : Dublin. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_055",
+    "traditionName": "Fête de la grande sabots de Valletta",
+    "country": "Malte",
+    "region": "Valletta",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des sabots.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Autriche",
+      "Pays-Bas",
+      "Malte",
+      "Hongrie"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Fête de la grande sabots de Valletta. Pays : Malte. Région ou lieu : Valletta. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_056",
+    "traditionName": "Bataille des pains rituels de Moravie",
+    "country": "Tchéquie",
+    "region": "Moravie",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Portugal",
+      "Tchéquie",
+      "Chypre",
+      "France"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Bataille des pains rituels de Moravie. Pays : Tchéquie. Région ou lieu : Moravie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_057",
+    "traditionName": "Challenge des farine de Galaxidi",
+    "country": "Grèce",
+    "region": "Galaxidi",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Chypre",
+      "France",
+      "Finlande",
+      "Grèce"
+    ],
+    "correctAnswer_fr": "Grèce",
+    "explanation_fr": "Nom de la tradition : Challenge des farine de Galaxidi. Pays : Grèce. Région ou lieu : Galaxidi. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de la farine; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_058",
+    "traditionName": "Course des citrons de Setomaa",
+    "country": "Estonie",
+    "region": "Setomaa",
+    "scenario_fr": "Des habitants se poursuivent avec des citrons pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Estonie",
+      "Slovénie",
+      "Roumanie",
+      "Luxembourg"
+    ],
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Course des citrons de Setomaa. Pays : Estonie. Région ou lieu : Setomaa. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_059",
     "traditionName": "Bataille des paniers décorés de Transylvanie",
     "country": "Roumanie",
     "region": "Transylvanie",
     "scenario_fr": "Une fête transforme les rues en scène de bataille avec des paniers décorés.",
     "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Irlande",
-      "Danemark",
       "Roumanie",
-      "Belgique"
+      "Pays-Bas",
+      "Slovénie",
+      "Slovaquie"
     ],
     "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Transylvanie, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Transylvanie.",
+    "explanation_fr": "Nom de la tradition : Bataille des paniers décorés de Transylvanie. Pays : Roumanie. Région ou lieu : Transylvanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
       "bataille festive",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_028",
-    "traditionName": "Carnaval des eau de Oostduinkerke",
+    "id": "trad_060",
+    "traditionName": "Nuit des bateaux décorés de Sinj",
+    "country": "Croatie",
+    "region": "Sinj",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bateaux décorés.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Slovaquie",
+      "Irlande",
+      "Croatie",
+      "Hongrie"
+    ],
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Nuit des bateaux décorés de Sinj. Pays : Croatie. Région ou lieu : Sinj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_061",
+    "traditionName": "Challenge des marteaux en plastique de Alkmaar",
+    "country": "Pays-Bas",
+    "region": "Alkmaar",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des marteaux en plastique de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Pays-Bas",
+      "Belgique",
+      "Lituanie",
+      "Allemagne"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Challenge des marteaux en plastique de Alkmaar. Pays : Pays-Bas. Région ou lieu : Alkmaar. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_062",
+    "traditionName": "Nuit des instruments imaginaires de Tyrol",
+    "country": "Autriche",
+    "region": "Tyrol",
+    "scenario_fr": "Des habitants se poursuivent avec des instruments imaginaires pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Danemark",
+      "Croatie",
+      "Autriche",
+      "Espagne"
+    ],
+    "correctAnswer_fr": "Autriche",
+    "explanation_fr": "Nom de la tradition : Nuit des instruments imaginaires de Tyrol. Pays : Autriche. Région ou lieu : Tyrol. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_063",
+    "traditionName": "Procession des marteaux en plastique de Piémont",
+    "country": "Italie",
+    "region": "Piémont",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des marteaux en plastique.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Malte",
+      "Lettonie",
+      "Espagne",
+      "Italie"
+    ],
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Procession des marteaux en plastique de Piémont. Pays : Italie. Région ou lieu : Piémont. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_064",
+    "traditionName": "Rituel des poupées de paille de Oostduinkerke",
     "country": "Belgique",
     "region": "Oostduinkerke",
     "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
     "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Luxembourg",
-      "Roumanie",
+      "Pays-Bas",
       "Belgique",
-      "Hongrie"
+      "Suède",
+      "Malte"
     ],
     "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Oostduinkerke, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Oostduinkerke.",
+    "explanation_fr": "Nom de la tradition : Rituel des poupées de paille de Oostduinkerke. Pays : Belgique. Région ou lieu : Oostduinkerke. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
       "masques",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_029",
-    "traditionName": "Défilé des paniers décorés de Budapest",
-    "country": "Hongrie",
-    "region": "Budapest",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des paniers décorés.",
+    "id": "trad_065",
+    "traditionName": "Défilé des masques de Sinj",
+    "country": "Croatie",
+    "region": "Sinj",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des masques de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Suède",
+      "Croatie",
+      "Danemark",
+      "Pays-Bas"
+    ],
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Défilé des masques de Sinj. Pays : Croatie. Région ou lieu : Sinj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_066",
+    "traditionName": "Nuit des citrons de Mazovie",
+    "country": "Pologne",
+    "region": "Mazovie",
+    "scenario_fr": "Des habitants se poursuivent avec des citrons pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Pologne",
+      "Slovénie",
+      "Estonie",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Nuit des citrons de Mazovie. Pays : Pologne. Région ou lieu : Mazovie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_067",
+    "traditionName": "Procession des oranges de Vénétie",
+    "country": "Italie",
+    "region": "Vénétie",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des oranges.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Portugal",
+      "Pologne",
+      "Italie",
+      "Tchéquie"
+    ],
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Procession des oranges de Vénétie. Pays : Italie. Région ou lieu : Vénétie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_068",
+    "traditionName": "Challenge des bougies de Valence",
+    "country": "Espagne",
+    "region": "Valence",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bougies.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Lettonie",
+      "Slovaquie",
+      "Espagne",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Challenge des bougies de Valence. Pays : Espagne. Région ou lieu : Valence. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_069",
+    "traditionName": "Procession des chèvre de Kerry",
+    "country": "Irlande",
+    "region": "Kerry",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Portugal",
+      "Luxembourg",
+      "Irlande",
+      "Danemark"
+    ],
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Procession des chèvre de Kerry. Pays : Irlande. Région ou lieu : Kerry. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_070",
+    "traditionName": "Rituel des citrons de Madère",
+    "country": "Portugal",
+    "region": "Madère",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des citrons.",
     "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Espagne",
-      "Estonie",
-      "Hongrie",
-      "Portugal"
+      "Pays-Bas",
+      "Pologne",
+      "Portugal",
+      "Danemark"
     ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Budapest, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Budapest.",
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Rituel des citrons de Madère. Pays : Portugal. Région ou lieu : Madère. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
       "bataille festive",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_030",
+    "id": "trad_071",
+    "traditionName": "Bataille des oranges de Tatras",
+    "country": "Slovaquie",
+    "region": "Tatras",
+    "scenario_fr": "Des habitants transportent des oranges dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Espagne",
+      "Belgique",
+      "Tchéquie",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Bataille des oranges de Tatras. Pays : Slovaquie. Région ou lieu : Tatras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_072",
+    "traditionName": "Nuit des cloches de Oostduinkerke",
+    "country": "Belgique",
+    "region": "Oostduinkerke",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des cloches.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Belgique",
+      "Pologne",
+      "Slovaquie",
+      "Italie"
+    ],
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Nuit des cloches de Oostduinkerke. Pays : Belgique. Région ou lieu : Oostduinkerke. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_073",
+    "traditionName": "Procession des sabots de Laponie",
+    "country": "Finlande",
+    "region": "Laponie",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des sabots.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Danemark",
+      "France",
+      "Finlande",
+      "Belgique"
+    ],
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Procession des sabots de Laponie. Pays : Finlande. Région ou lieu : Laponie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_074",
+    "traditionName": "Défilé des pains rituels de Setomaa",
+    "country": "Estonie",
+    "region": "Setomaa",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Pays-Bas",
+      "Estonie",
+      "Danemark",
+      "Finlande"
+    ],
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Défilé des pains rituels de Setomaa. Pays : Estonie. Région ou lieu : Setomaa. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_075",
+    "traditionName": "Fête de la grande sabots de Occitanie",
+    "country": "France",
+    "region": "Occitanie",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des sabots.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Lettonie",
+      "Finlande",
+      "France",
+      "Hongrie"
+    ],
+    "correctAnswer_fr": "France",
+    "explanation_fr": "Nom de la tradition : Fête de la grande sabots de Occitanie. Pays : France. Région ou lieu : Occitanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_076",
+    "traditionName": "Rituel des marteaux en plastique de Aalborg",
+    "country": "Danemark",
+    "region": "Aalborg",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des marteaux en plastique.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Danemark",
+      "Slovénie",
+      "Pays-Bas",
+      "Grèce"
+    ],
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Rituel des marteaux en plastique de Aalborg. Pays : Danemark. Région ou lieu : Aalborg. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_077",
+    "traditionName": "Nuit des fleurs de Sinj",
+    "country": "Croatie",
+    "region": "Sinj",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Italie",
+      "Allemagne",
+      "Grèce",
+      "Croatie"
+    ],
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Nuit des fleurs de Sinj. Pays : Croatie. Région ou lieu : Sinj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_078",
+    "traditionName": "Défilé des bougies de Gävle",
+    "country": "Suède",
+    "region": "Gävle",
+    "scenario_fr": "Des habitants transportent des bougies dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Irlande",
+      "Suède",
+      "Lettonie",
+      "Roumanie"
+    ],
+    "correctAnswer_fr": "Suède",
+    "explanation_fr": "Nom de la tradition : Défilé des bougies de Gävle. Pays : Suède. Région ou lieu : Gävle. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_079",
+    "traditionName": "Rituel des masques de Bled",
+    "country": "Slovénie",
+    "region": "Bled",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des masques.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Roumanie",
+      "France",
+      "Slovénie",
+      "Espagne"
+    ],
+    "correctAnswer_fr": "Slovénie",
+    "explanation_fr": "Nom de la tradition : Rituel des masques de Bled. Pays : Slovénie. Région ou lieu : Bled. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_080",
+    "traditionName": "Festival des eau de Kurzeme",
+    "country": "Lettonie",
+    "region": "Kurzeme",
+    "scenario_fr": "Des habitants se poursuivent avec de l’eau pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Estonie",
+      "Irlande",
+      "Lettonie",
+      "France"
+    ],
+    "correctAnswer_fr": "Lettonie",
+    "explanation_fr": "Nom de la tradition : Festival des eau de Kurzeme. Pays : Lettonie. Région ou lieu : Kurzeme. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_081",
+    "traditionName": "Challenge des œufs peints de Tallinn",
+    "country": "Estonie",
+    "region": "Tallinn",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des œufs peints.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Estonie",
+      "Luxembourg",
+      "Pays-Bas",
+      "Espagne"
+    ],
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Challenge des œufs peints de Tallinn. Pays : Estonie. Région ou lieu : Tallinn. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des œufs peints; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_082",
+    "traditionName": "Fête de la grande rubans de Toscane",
+    "country": "Italie",
+    "region": "Toscane",
+    "scenario_fr": "Des habitants transportent des rubans dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Irlande",
+      "Italie",
+      "Suède",
+      "Luxembourg"
+    ],
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande rubans de Toscane. Pays : Italie. Région ou lieu : Toscane. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_083",
+    "traditionName": "Nuit des citrouilles de Nadur",
+    "country": "Malte",
+    "region": "Nadur",
+    "scenario_fr": "Des habitants transportent des citrouilles dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Pays-Bas",
+      "Tchéquie",
+      "Autriche",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Nuit des citrouilles de Nadur. Pays : Malte. Région ou lieu : Nadur. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrouilles; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_084",
+    "traditionName": "Rituel des paniers décorés de Navarre",
+    "country": "Espagne",
+    "region": "Navarre",
+    "scenario_fr": "Des habitants transportent des paniers décorés dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Malte",
+      "Chypre",
+      "Espagne",
+      "Grèce"
+    ],
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Rituel des paniers décorés de Navarre. Pays : Espagne. Région ou lieu : Navarre. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_085",
+    "traditionName": "Festival des fromage de Bruxelles",
+    "country": "Belgique",
+    "region": "Bruxelles",
+    "scenario_fr": "Des habitants transportent un fromage dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Belgique",
+      "Bulgarie",
+      "Grèce",
+      "Hongrie"
+    ],
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Festival des fromage de Bruxelles. Pays : Belgique. Région ou lieu : Bruxelles. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_086",
+    "traditionName": "Défilé des farine de Luxembourg-Ville",
+    "country": "Luxembourg",
+    "region": "Luxembourg-Ville",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de la farine.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Slovénie",
+      "Luxembourg",
+      "Slovaquie",
+      "Croatie"
+    ],
+    "correctAnswer_fr": "Luxembourg",
+    "explanation_fr": "Nom de la tradition : Défilé des farine de Luxembourg-Ville. Pays : Luxembourg. Région ou lieu : Luxembourg-Ville. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de la farine; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_087",
+    "traditionName": "Procession des bougies de Prague",
+    "country": "Tchéquie",
+    "region": "Prague",
+    "scenario_fr": "Des habitants se poursuivent avec des bougies pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Grèce",
+      "Tchéquie",
+      "Lettonie",
+      "Belgique"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Procession des bougies de Prague. Pays : Tchéquie. Région ou lieu : Prague. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_088",
+    "traditionName": "Carnaval des mannequins de Tallinn",
+    "country": "Estonie",
+    "region": "Tallinn",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des mannequins de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Estonie",
+      "Portugal",
+      "Danemark",
+      "France"
+    ],
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Carnaval des mannequins de Tallinn. Pays : Estonie. Région ou lieu : Tallinn. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_089",
+    "traditionName": "Fête de la grande cloches de Hortobágy",
+    "country": "Hongrie",
+    "region": "Hortobágy",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Finlande",
+      "Suède",
+      "Hongrie",
+      "Irlande"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande cloches de Hortobágy. Pays : Hongrie. Région ou lieu : Hortobágy. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_090",
+    "traditionName": "Course des œufs peints de Budapest",
+    "country": "Hongrie",
+    "region": "Budapest",
+    "scenario_fr": "Des habitants transportent des œufs peints dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Luxembourg",
+      "France",
+      "Hongrie",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Course des œufs peints de Budapest. Pays : Hongrie. Région ou lieu : Budapest. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des œufs peints; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_091",
+    "traditionName": "Course des marteaux en plastique de Frise",
+    "country": "Pays-Bas",
+    "region": "Frise",
+    "scenario_fr": "Des habitants se poursuivent avec des marteaux en plastique pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Pays-Bas",
+      "Croatie",
+      "Danemark",
+      "Tchéquie"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Course des marteaux en plastique de Frise. Pays : Pays-Bas. Région ou lieu : Frise. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_092",
+    "traditionName": "Bataille des marteaux en plastique de Vénétie",
+    "country": "Italie",
+    "region": "Vénétie",
+    "scenario_fr": "Des habitants se poursuivent avec des marteaux en plastique pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Irlande",
+      "Finlande",
+      "Italie",
+      "Autriche"
+    ],
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Bataille des marteaux en plastique de Vénétie. Pays : Italie. Région ou lieu : Vénétie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_093",
+    "traditionName": "Festival des cloches de Maramureș",
+    "country": "Roumanie",
+    "region": "Maramureș",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des cloches.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Estonie",
+      "Chypre",
+      "Suède",
+      "Roumanie"
+    ],
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Festival des cloches de Maramureș. Pays : Roumanie. Région ou lieu : Maramureș. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_094",
+    "traditionName": "Carnaval des lanternes de Rijeka",
+    "country": "Croatie",
+    "region": "Rijeka",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des lanternes.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Irlande",
+      "Croatie",
+      "Malte",
+      "Portugal"
+    ],
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Carnaval des lanternes de Rijeka. Pays : Croatie. Région ou lieu : Rijeka. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_095",
+    "traditionName": "Nuit des eau de Silésie",
+    "country": "Pologne",
+    "region": "Silésie",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Allemagne",
+      "Chypre",
+      "Pologne",
+      "Lituanie"
+    ],
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Nuit des eau de Silésie. Pays : Pologne. Région ou lieu : Silésie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_096",
+    "traditionName": "Défilé des bateaux décorés de Setomaa",
+    "country": "Estonie",
+    "region": "Setomaa",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bateaux décorés.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Finlande",
+      "Autriche",
+      "Roumanie",
+      "Estonie"
+    ],
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Défilé des bateaux décorés de Setomaa. Pays : Estonie. Région ou lieu : Setomaa. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_097",
+    "traditionName": "Carnaval des citrons de Larnaca",
+    "country": "Chypre",
+    "region": "Larnaca",
+    "scenario_fr": "Des habitants transportent des citrons dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Chypre",
+      "Espagne",
+      "Hongrie",
+      "Pays-Bas"
+    ],
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Carnaval des citrons de Larnaca. Pays : Chypre. Région ou lieu : Larnaca. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_098",
+    "traditionName": "Festival des mannequins de Porto",
+    "country": "Portugal",
+    "region": "Porto",
+    "scenario_fr": "Des habitants transportent des mannequins dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Croatie",
+      "Irlande",
+      "Slovénie",
+      "Portugal"
+    ],
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Festival des mannequins de Porto. Pays : Portugal. Région ou lieu : Porto. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_099",
+    "traditionName": "Bataille des costumes d’animaux de Luxembourg-Ville",
+    "country": "Luxembourg",
+    "region": "Luxembourg-Ville",
+    "scenario_fr": "Des habitants transportent des costumes d’animaux dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Luxembourg",
+      "Belgique",
+      "Pologne",
+      "Italie"
+    ],
+    "correctAnswer_fr": "Luxembourg",
+    "explanation_fr": "Nom de la tradition : Bataille des costumes d’animaux de Luxembourg-Ville. Pays : Luxembourg. Région ou lieu : Luxembourg-Ville. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_100",
+    "traditionName": "Festival des tomates de Setomaa",
+    "country": "Estonie",
+    "region": "Setomaa",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des tomates.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Chypre",
+      "Espagne",
+      "Belgique",
+      "Estonie"
+    ],
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Festival des tomates de Setomaa. Pays : Estonie. Région ou lieu : Setomaa. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des tomates; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_101",
+    "traditionName": "Challenge des instruments imaginaires de Patras",
+    "country": "Grèce",
+    "region": "Patras",
+    "scenario_fr": "Des habitants se poursuivent avec des instruments imaginaires pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Grèce",
+      "Autriche",
+      "Lettonie",
+      "Espagne"
+    ],
+    "correctAnswer_fr": "Grèce",
+    "explanation_fr": "Nom de la tradition : Challenge des instruments imaginaires de Patras. Pays : Grèce. Région ou lieu : Patras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_102",
+    "traditionName": "Festival des bougies de Echternach",
+    "country": "Luxembourg",
+    "region": "Echternach",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des bougies de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Luxembourg",
+      "Hongrie",
+      "Belgique",
+      "Portugal"
+    ],
+    "correctAnswer_fr": "Luxembourg",
+    "explanation_fr": "Nom de la tradition : Festival des bougies de Echternach. Pays : Luxembourg. Région ou lieu : Echternach. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_103",
+    "traditionName": "Fête de la grande instruments imaginaires de Ptuj",
+    "country": "Slovénie",
+    "region": "Ptuj",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des instruments imaginaires.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Hongrie",
+      "Slovénie",
+      "Suède",
+      "Croatie"
+    ],
+    "correctAnswer_fr": "Slovénie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande instruments imaginaires de Ptuj. Pays : Slovénie. Région ou lieu : Ptuj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_104",
+    "traditionName": "Défilé des rubans de Vilnius",
+    "country": "Lituanie",
+    "region": "Vilnius",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des rubans.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Pologne",
+      "Lituanie",
+      "Lettonie",
+      "Suède"
+    ],
+    "correctAnswer_fr": "Lituanie",
+    "explanation_fr": "Nom de la tradition : Défilé des rubans de Vilnius. Pays : Lituanie. Région ou lieu : Vilnius. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_105",
+    "traditionName": "Défilé des rubans de Paphos",
+    "country": "Chypre",
+    "region": "Paphos",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "France",
+      "Irlande",
+      "Tchéquie",
+      "Chypre"
+    ],
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Défilé des rubans de Paphos. Pays : Chypre. Région ou lieu : Paphos. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_106",
+    "traditionName": "Festival des poupées de paille de Tyrol",
+    "country": "Autriche",
+    "region": "Tyrol",
+    "scenario_fr": "Des habitants se poursuivent avec des poupées de paille pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Italie",
+      "Autriche",
+      "Slovénie",
+      "Bulgarie"
+    ],
+    "correctAnswer_fr": "Autriche",
+    "explanation_fr": "Nom de la tradition : Festival des poupées de paille de Tyrol. Pays : Autriche. Région ou lieu : Tyrol. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_107",
+    "traditionName": "Nuit des eau de Frise",
+    "country": "Pays-Bas",
+    "region": "Frise",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de l’eau.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Lituanie",
+      "Pays-Bas",
+      "Finlande",
+      "Slovénie"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Nuit des eau de Frise. Pays : Pays-Bas. Région ou lieu : Frise. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_108",
+    "traditionName": "Carnaval des cloches de Madère",
+    "country": "Portugal",
+    "region": "Madère",
+    "scenario_fr": "Des habitants transportent des cloches dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Hongrie",
+      "Portugal",
+      "France",
+      "Espagne"
+    ],
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Carnaval des cloches de Madère. Pays : Portugal. Région ou lieu : Madère. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_109",
+    "traditionName": "Bataille des bateaux décorés de Rhénanie",
+    "country": "Allemagne",
+    "region": "Rhénanie",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bateaux décorés.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "France",
+      "Chypre",
+      "Finlande",
+      "Allemagne"
+    ],
+    "correctAnswer_fr": "Allemagne",
+    "explanation_fr": "Nom de la tradition : Bataille des bateaux décorés de Rhénanie. Pays : Allemagne. Région ou lieu : Rhénanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_110",
+    "traditionName": "Nuit des fleurs de Bohême",
+    "country": "Tchéquie",
+    "region": "Bohême",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des fleurs.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Tchéquie",
+      "Pays-Bas",
+      "Irlande",
+      "Lettonie"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Nuit des fleurs de Bohême. Pays : Tchéquie. Région ou lieu : Bohême. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_111",
+    "traditionName": "Fête de la grande masques de Frise",
+    "country": "Pays-Bas",
+    "region": "Frise",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des masques.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Slovaquie",
+      "Croatie",
+      "Luxembourg",
+      "Pays-Bas"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Fête de la grande masques de Frise. Pays : Pays-Bas. Région ou lieu : Frise. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_112",
+    "traditionName": "Carnaval des poupées de paille de Budapest",
+    "country": "Hongrie",
+    "region": "Budapest",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des poupées de paille.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Pays-Bas",
+      "Hongrie",
+      "Finlande",
+      "Slovénie"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Carnaval des poupées de paille de Budapest. Pays : Hongrie. Région ou lieu : Budapest. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_113",
+    "traditionName": "Procession des cloches de Wallonie",
+    "country": "Belgique",
+    "region": "Wallonie",
+    "scenario_fr": "Des habitants se poursuivent avec des cloches pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Roumanie",
+      "Grèce",
+      "Belgique",
+      "Autriche"
+    ],
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Procession des cloches de Wallonie. Pays : Belgique. Région ou lieu : Wallonie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_114",
+    "traditionName": "Carnaval des fleurs de Idrija",
+    "country": "Slovénie",
+    "region": "Idrija",
+    "scenario_fr": "Des habitants transportent des fleurs dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Slovénie",
+      "Pays-Bas",
+      "Danemark",
+      "France"
+    ],
+    "correctAnswer_fr": "Slovénie",
+    "explanation_fr": "Nom de la tradition : Carnaval des fleurs de Idrija. Pays : Slovénie. Région ou lieu : Idrija. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_115",
+    "traditionName": "Procession des citrons de Tartu",
+    "country": "Estonie",
+    "region": "Tartu",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des citrons.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Luxembourg",
+      "Italie",
+      "Roumanie",
+      "Estonie"
+    ],
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Procession des citrons de Tartu. Pays : Estonie. Région ou lieu : Tartu. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_116",
+    "traditionName": "Rituel des citrouilles de Oostduinkerke",
+    "country": "Belgique",
+    "region": "Oostduinkerke",
+    "scenario_fr": "Des habitants se poursuivent avec des citrouilles pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Belgique",
+      "Malte",
+      "Estonie",
+      "Espagne"
+    ],
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Rituel des citrouilles de Oostduinkerke. Pays : Belgique. Région ou lieu : Oostduinkerke. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrouilles; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_117",
+    "traditionName": "Festival des bateaux décorés de Copenhague",
+    "country": "Danemark",
+    "region": "Copenhague",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des bateaux décorés de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Slovénie",
+      "Pologne",
+      "Danemark",
+      "Irlande"
+    ],
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Festival des bateaux décorés de Copenhague. Pays : Danemark. Région ou lieu : Copenhague. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_118",
+    "traditionName": "Carnaval des poupées de paille de Bucovine",
+    "country": "Roumanie",
+    "region": "Bucovine",
+    "scenario_fr": "Des habitants transportent des poupées de paille dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Hongrie",
+      "Roumanie",
+      "Luxembourg",
+      "Autriche"
+    ],
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Carnaval des poupées de paille de Bucovine. Pays : Roumanie. Région ou lieu : Bucovine. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_119",
+    "traditionName": "Course des instruments imaginaires de Echternach",
+    "country": "Luxembourg",
+    "region": "Echternach",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des instruments imaginaires de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Croatie",
+      "Luxembourg",
+      "Suède",
+      "Bulgarie"
+    ],
+    "correctAnswer_fr": "Luxembourg",
+    "explanation_fr": "Nom de la tradition : Course des instruments imaginaires de Echternach. Pays : Luxembourg. Région ou lieu : Echternach. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_120",
+    "traditionName": "Bataille des lanternes de Hortobágy",
+    "country": "Hongrie",
+    "region": "Hortobágy",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des lanternes.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Grèce",
+      "Hongrie",
+      "Allemagne",
+      "Lituanie"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Bataille des lanternes de Hortobágy. Pays : Hongrie. Région ou lieu : Hortobágy. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_121",
+    "traditionName": "Festival des mannequins de Vienne",
+    "country": "Autriche",
+    "region": "Vienne",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des mannequins.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Espagne",
+      "Autriche",
+      "Pologne",
+      "Allemagne"
+    ],
+    "correctAnswer_fr": "Autriche",
+    "explanation_fr": "Nom de la tradition : Festival des mannequins de Vienne. Pays : Autriche. Région ou lieu : Vienne. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_122",
+    "traditionName": "Challenge des bateaux décorés de Mazovie",
+    "country": "Pologne",
+    "region": "Mazovie",
+    "scenario_fr": "Des habitants transportent des bateaux décorés dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Allemagne",
+      "Pologne",
+      "Luxembourg",
+      "Slovénie"
+    ],
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Challenge des bateaux décorés de Mazovie. Pays : Pologne. Région ou lieu : Mazovie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_123",
+    "traditionName": "Festival des fleurs de Madère",
+    "country": "Portugal",
+    "region": "Madère",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des fleurs.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Portugal",
+      "Espagne",
+      "Bulgarie",
+      "Pays-Bas"
+    ],
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Festival des fleurs de Madère. Pays : Portugal. Région ou lieu : Madère. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_124",
+    "traditionName": "Challenge des pains rituels de Salzbourg",
+    "country": "Autriche",
+    "region": "Salzbourg",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Slovaquie",
+      "Autriche",
+      "Malte",
+      "Pologne"
+    ],
+    "correctAnswer_fr": "Autriche",
+    "explanation_fr": "Nom de la tradition : Challenge des pains rituels de Salzbourg. Pays : Autriche. Région ou lieu : Salzbourg. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_125",
+    "traditionName": "Bataille des chèvre de Budapest",
+    "country": "Hongrie",
+    "region": "Budapest",
+    "scenario_fr": "Des habitants se poursuivent avec une chèvre pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Bulgarie",
+      "Estonie",
+      "Roumanie",
+      "Hongrie"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Bataille des chèvre de Budapest. Pays : Hongrie. Région ou lieu : Budapest. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_126",
+    "traditionName": "Nuit des bougies de Rhénanie",
+    "country": "Allemagne",
+    "region": "Rhénanie",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bougies.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Allemagne",
+      "Tchéquie",
+      "Espagne",
+      "Chypre"
+    ],
+    "correctAnswer_fr": "Allemagne",
+    "explanation_fr": "Nom de la tradition : Nuit des bougies de Rhénanie. Pays : Allemagne. Région ou lieu : Rhénanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_127",
+    "traditionName": "Rituel des oranges de Rijeka",
+    "country": "Croatie",
+    "region": "Rijeka",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Pologne",
+      "Irlande",
+      "Croatie",
+      "Italie"
+    ],
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Rituel des oranges de Rijeka. Pays : Croatie. Région ou lieu : Rijeka. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_128",
+    "traditionName": "Bataille des mannequins de Wiltz",
+    "country": "Luxembourg",
+    "region": "Wiltz",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des mannequins.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Chypre",
+      "Lituanie",
+      "Estonie",
+      "Luxembourg"
+    ],
+    "correctAnswer_fr": "Luxembourg",
+    "explanation_fr": "Nom de la tradition : Bataille des mannequins de Wiltz. Pays : Luxembourg. Région ou lieu : Wiltz. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_129",
+    "traditionName": "Nuit des costumes d’animaux de Tomar",
+    "country": "Portugal",
+    "region": "Tomar",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Portugal",
+      "Bulgarie",
+      "Irlande",
+      "Croatie"
+    ],
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Nuit des costumes d’animaux de Tomar. Pays : Portugal. Région ou lieu : Tomar. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_130",
+    "traditionName": "Défilé des citrouilles de Prague",
+    "country": "Tchéquie",
+    "region": "Prague",
+    "scenario_fr": "Des habitants se poursuivent avec des citrouilles pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Slovaquie",
+      "Roumanie",
+      "Tchéquie",
+      "Allemagne"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Défilé des citrouilles de Prague. Pays : Tchéquie. Région ou lieu : Prague. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrouilles; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_131",
+    "traditionName": "Rituel des bougies de Sinj",
+    "country": "Croatie",
+    "region": "Sinj",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bougies.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Croatie",
+      "Italie",
+      "Slovaquie",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Rituel des bougies de Sinj. Pays : Croatie. Région ou lieu : Sinj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_132",
+    "traditionName": "Fête de la grande fleurs de Bohême",
+    "country": "Tchéquie",
+    "region": "Bohême",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Tchéquie",
+      "Roumanie",
+      "Luxembourg",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande fleurs de Bohême. Pays : Tchéquie. Région ou lieu : Bohême. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_133",
+    "traditionName": "Course des citrouilles de Gouda",
+    "country": "Pays-Bas",
+    "region": "Gouda",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Belgique",
+      "Hongrie",
+      "Malte",
+      "Pays-Bas"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Course des citrouilles de Gouda. Pays : Pays-Bas. Région ou lieu : Gouda. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrouilles; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_134",
+    "traditionName": "Procession des eau de Navarre",
+    "country": "Espagne",
+    "region": "Navarre",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de l’eau.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "France",
+      "Chypre",
+      "Espagne",
+      "Hongrie"
+    ],
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Procession des eau de Navarre. Pays : Espagne. Région ou lieu : Navarre. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_135",
+    "traditionName": "Course des rubans de Harz",
+    "country": "Allemagne",
+    "region": "Harz",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Italie",
+      "Allemagne",
+      "Pologne",
+      "Grèce"
+    ],
+    "correctAnswer_fr": "Allemagne",
+    "explanation_fr": "Nom de la tradition : Course des rubans de Harz. Pays : Allemagne. Région ou lieu : Harz. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_136",
+    "traditionName": "Bataille des poupées de paille de Bratislava",
+    "country": "Slovaquie",
+    "region": "Bratislava",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des poupées de paille.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Luxembourg",
+      "Irlande",
+      "Portugal",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Bataille des poupées de paille de Bratislava. Pays : Slovaquie. Région ou lieu : Bratislava. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_137",
+    "traditionName": "Fête de la grande fromage de Aalborg",
+    "country": "Danemark",
+    "region": "Aalborg",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer un fromage de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Danemark",
+      "Espagne",
+      "Hongrie",
+      "Grèce"
+    ],
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Fête de la grande fromage de Aalborg. Pays : Danemark. Région ou lieu : Aalborg. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_138",
+    "traditionName": "Procession des fleurs de Dublin",
+    "country": "Irlande",
+    "region": "Dublin",
+    "scenario_fr": "Des habitants transportent des fleurs dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Irlande",
+      "Grèce",
+      "Estonie",
+      "Luxembourg"
+    ],
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Procession des fleurs de Dublin. Pays : Irlande. Région ou lieu : Dublin. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_139",
+    "traditionName": "Rituel des citrouilles de Mazovie",
+    "country": "Pologne",
+    "region": "Mazovie",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des citrouilles de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Allemagne",
+      "Finlande",
+      "Danemark",
+      "Pologne"
+    ],
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Rituel des citrouilles de Mazovie. Pays : Pologne. Région ou lieu : Mazovie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrouilles; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_140",
+    "traditionName": "Festival des bougies de Harz",
+    "country": "Allemagne",
+    "region": "Harz",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bougies.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Slovaquie",
+      "Estonie",
+      "Pologne",
+      "Allemagne"
+    ],
+    "correctAnswer_fr": "Allemagne",
+    "explanation_fr": "Nom de la tradition : Festival des bougies de Harz. Pays : Allemagne. Région ou lieu : Harz. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_141",
+    "traditionName": "Rituel des paniers décorés de Hortobágy",
+    "country": "Hongrie",
+    "region": "Hortobágy",
+    "scenario_fr": "Des habitants transportent des paniers décorés dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Hongrie",
+      "Tchéquie",
+      "Lettonie",
+      "Croatie"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Rituel des paniers décorés de Hortobágy. Pays : Hongrie. Région ou lieu : Hortobágy. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_142",
+    "traditionName": "Carnaval des pains rituels de Valletta",
+    "country": "Malte",
+    "region": "Valletta",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des pains rituels de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Croatie",
+      "Malte",
+      "Pologne",
+      "Portugal"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Carnaval des pains rituels de Valletta. Pays : Malte. Région ou lieu : Valletta. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_143",
+    "traditionName": "Nuit des chèvre de Prague",
+    "country": "Tchéquie",
+    "region": "Prague",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Roumanie",
+      "Tchéquie",
+      "Bulgarie",
+      "Espagne"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Nuit des chèvre de Prague. Pays : Tchéquie. Région ou lieu : Prague. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_144",
+    "traditionName": "Rituel des mannequins de Tatras",
+    "country": "Slovaquie",
+    "region": "Tatras",
+    "scenario_fr": "Des habitants se poursuivent avec des mannequins pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Espagne",
+      "Irlande",
+      "Belgique",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Rituel des mannequins de Tatras. Pays : Slovaquie. Région ou lieu : Tatras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_145",
+    "traditionName": "Challenge des instruments imaginaires de Dublin",
+    "country": "Irlande",
+    "region": "Dublin",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des instruments imaginaires.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Portugal",
+      "Irlande",
+      "Finlande",
+      "Lituanie"
+    ],
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Challenge des instruments imaginaires de Dublin. Pays : Irlande. Région ou lieu : Dublin. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_146",
+    "traditionName": "Procession des bateaux décorés de Oostduinkerke",
+    "country": "Belgique",
+    "region": "Oostduinkerke",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bateaux décorés.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Lettonie",
+      "Estonie",
+      "Belgique",
+      "Croatie"
+    ],
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Procession des bateaux décorés de Oostduinkerke. Pays : Belgique. Région ou lieu : Oostduinkerke. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_147",
+    "traditionName": "Course des rubans de Aalborg",
+    "country": "Danemark",
+    "region": "Aalborg",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des rubans.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Portugal",
+      "Croatie",
+      "Danemark",
+      "Roumanie"
+    ],
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Course des rubans de Aalborg. Pays : Danemark. Région ou lieu : Aalborg. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_148",
+    "traditionName": "Procession des eau de Mohács",
+    "country": "Hongrie",
+    "region": "Mohács",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de l’eau.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Hongrie",
+      "Grèce",
+      "Chypre",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Procession des eau de Mohács. Pays : Hongrie. Région ou lieu : Mohács. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_149",
+    "traditionName": "Festival des oranges de Vénétie",
+    "country": "Italie",
+    "region": "Vénétie",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des oranges de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "France",
+      "Pologne",
+      "Italie",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Festival des oranges de Vénétie. Pays : Italie. Région ou lieu : Vénétie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_150",
+    "traditionName": "Procession des instruments imaginaires de Navarre",
+    "country": "Espagne",
+    "region": "Navarre",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des instruments imaginaires.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Chypre",
+      "Espagne",
+      "Roumanie",
+      "France"
+    ],
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Procession des instruments imaginaires de Navarre. Pays : Espagne. Région ou lieu : Navarre. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_151",
+    "traditionName": "Fête de la grande paniers décorés de Gouda",
+    "country": "Pays-Bas",
+    "region": "Gouda",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des paniers décorés de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Slovénie",
+      "Portugal",
+      "Pays-Bas",
+      "Suède"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Fête de la grande paniers décorés de Gouda. Pays : Pays-Bas. Région ou lieu : Gouda. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_152",
+    "traditionName": "Défilé des bateaux décorés de Pernik",
+    "country": "Bulgarie",
+    "region": "Pernik",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bateaux décorés.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Italie",
+      "Bulgarie",
+      "Roumanie",
+      "Irlande"
+    ],
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Défilé des bateaux décorés de Pernik. Pays : Bulgarie. Région ou lieu : Pernik. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_153",
+    "traditionName": "Carnaval des bateaux décorés de Rijeka",
+    "country": "Croatie",
+    "region": "Rijeka",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Pays-Bas",
+      "Croatie",
+      "Irlande",
+      "Finlande"
+    ],
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Carnaval des bateaux décorés de Rijeka. Pays : Croatie. Région ou lieu : Rijeka. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_154",
+    "traditionName": "Challenge des oranges de Frise",
+    "country": "Pays-Bas",
+    "region": "Frise",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Slovénie",
+      "Estonie",
+      "Pays-Bas",
+      "Suède"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Challenge des oranges de Frise. Pays : Pays-Bas. Région ou lieu : Frise. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_155",
+    "traditionName": "Nuit des fromage de Vilnius",
+    "country": "Lituanie",
+    "region": "Vilnius",
+    "scenario_fr": "Des habitants se poursuivent avec un fromage pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Autriche",
+      "Slovénie",
+      "Lituanie",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Lituanie",
+    "explanation_fr": "Nom de la tradition : Nuit des fromage de Vilnius. Pays : Lituanie. Région ou lieu : Vilnius. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_156",
+    "traditionName": "Procession des mannequins de Toscane",
+    "country": "Italie",
+    "region": "Toscane",
+    "scenario_fr": "Des habitants transportent des mannequins dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Pologne",
+      "France",
+      "Italie",
+      "Autriche"
+    ],
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Procession des mannequins de Toscane. Pays : Italie. Région ou lieu : Toscane. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_157",
+    "traditionName": "Course des paniers décorés de Bucovine",
+    "country": "Roumanie",
+    "region": "Bucovine",
+    "scenario_fr": "Des habitants se poursuivent avec des paniers décorés pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Pologne",
+      "Slovaquie",
+      "Tchéquie",
+      "Roumanie"
+    ],
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Course des paniers décorés de Bucovine. Pays : Roumanie. Région ou lieu : Bucovine. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_158",
+    "traditionName": "Fête de la grande mannequins de Valence",
+    "country": "Espagne",
+    "region": "Valence",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des mannequins de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Irlande",
+      "Luxembourg",
+      "Espagne",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Fête de la grande mannequins de Valence. Pays : Espagne. Région ou lieu : Valence. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_159",
+    "traditionName": "Bataille des paniers décorés de Bohême",
+    "country": "Tchéquie",
+    "region": "Bohême",
+    "scenario_fr": "Des habitants se poursuivent avec des paniers décorés pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Irlande",
+      "Autriche",
+      "Danemark",
+      "Tchéquie"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Bataille des paniers décorés de Bohême. Pays : Tchéquie. Région ou lieu : Bohême. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_160",
+    "traditionName": "Carnaval des marteaux en plastique de Wiltz",
+    "country": "Luxembourg",
+    "region": "Wiltz",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des marteaux en plastique.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "France",
+      "Chypre",
+      "Hongrie",
+      "Luxembourg"
+    ],
+    "correctAnswer_fr": "Luxembourg",
+    "explanation_fr": "Nom de la tradition : Carnaval des marteaux en plastique de Wiltz. Pays : Luxembourg. Région ou lieu : Wiltz. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_161",
+    "traditionName": "Procession des lanternes de Hortobágy",
+    "country": "Hongrie",
+    "region": "Hortobágy",
+    "scenario_fr": "Des habitants transportent des lanternes dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Hongrie",
+      "Portugal",
+      "Malte",
+      "Grèce"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Procession des lanternes de Hortobágy. Pays : Hongrie. Région ou lieu : Hortobágy. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_162",
+    "traditionName": "Course des poupées de paille de Bratislava",
+    "country": "Slovaquie",
+    "region": "Bratislava",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des poupées de paille.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Roumanie",
+      "Portugal",
+      "Hongrie",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Course des poupées de paille de Bratislava. Pays : Slovaquie. Région ou lieu : Bratislava. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_163",
+    "traditionName": "Carnaval des mannequins de Toscane",
+    "country": "Italie",
+    "region": "Toscane",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des mannequins.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Lettonie",
+      "Italie",
+      "Autriche",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Carnaval des mannequins de Toscane. Pays : Italie. Région ou lieu : Toscane. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_164",
+    "traditionName": "Fête de la grande instruments imaginaires de Oostduinkerke",
+    "country": "Belgique",
+    "region": "Oostduinkerke",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des instruments imaginaires.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Finlande",
+      "Danemark",
+      "Belgique",
+      "France"
+    ],
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Fête de la grande instruments imaginaires de Oostduinkerke. Pays : Belgique. Région ou lieu : Oostduinkerke. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_165",
+    "traditionName": "Challenge des cloches de Nadur",
+    "country": "Malte",
+    "region": "Nadur",
+    "scenario_fr": "Des habitants se poursuivent avec des cloches pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Bulgarie",
+      "Lettonie",
+      "Malte",
+      "Hongrie"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Challenge des cloches de Nadur. Pays : Malte. Région ou lieu : Nadur. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_166",
+    "traditionName": "Carnaval des masques de Copenhague",
+    "country": "Danemark",
+    "region": "Copenhague",
+    "scenario_fr": "Des habitants transportent des masques dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Chypre",
+      "Roumanie",
+      "Danemark",
+      "Portugal"
+    ],
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Carnaval des masques de Copenhague. Pays : Danemark. Région ou lieu : Copenhague. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_167",
+    "traditionName": "Carnaval des bateaux décorés de Tomar",
+    "country": "Portugal",
+    "region": "Tomar",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bateaux décorés.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Portugal",
+      "Suède",
+      "Finlande",
+      "Luxembourg"
+    ],
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Carnaval des bateaux décorés de Tomar. Pays : Portugal. Région ou lieu : Tomar. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_168",
+    "traditionName": "Procession des poupées de paille de Rhénanie",
+    "country": "Allemagne",
+    "region": "Rhénanie",
+    "scenario_fr": "Des habitants transportent des poupées de paille dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Estonie",
+      "Allemagne",
+      "Grèce",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Allemagne",
+    "explanation_fr": "Nom de la tradition : Procession des poupées de paille de Rhénanie. Pays : Allemagne. Région ou lieu : Rhénanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_169",
+    "traditionName": "Festival des marteaux en plastique de Vienne",
+    "country": "Autriche",
+    "region": "Vienne",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des marteaux en plastique.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Autriche",
+      "Chypre",
+      "France",
+      "Belgique"
+    ],
+    "correctAnswer_fr": "Autriche",
+    "explanation_fr": "Nom de la tradition : Festival des marteaux en plastique de Vienne. Pays : Autriche. Région ou lieu : Vienne. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_170",
+    "traditionName": "Festival des bougies de Echternach",
+    "country": "Luxembourg",
+    "region": "Echternach",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Hongrie",
+      "Suède",
+      "France",
+      "Luxembourg"
+    ],
+    "correctAnswer_fr": "Luxembourg",
+    "explanation_fr": "Nom de la tradition : Festival des bougies de Echternach. Pays : Luxembourg. Région ou lieu : Echternach. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_171",
+    "traditionName": "Nuit des couronnes de Alsace",
+    "country": "France",
+    "region": "Alsace",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Lituanie",
+      "Danemark",
+      "France",
+      "Malte"
+    ],
+    "correctAnswer_fr": "France",
+    "explanation_fr": "Nom de la tradition : Nuit des couronnes de Alsace. Pays : France. Région ou lieu : Alsace. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_172",
+    "traditionName": "Rituel des fromage de Valletta",
+    "country": "Malte",
+    "region": "Valletta",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Lituanie",
+      "Roumanie",
+      "Malte",
+      "Portugal"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Rituel des fromage de Valletta. Pays : Malte. Région ou lieu : Valletta. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_173",
+    "traditionName": "Défilé des oranges de Riga",
+    "country": "Lettonie",
+    "region": "Riga",
+    "scenario_fr": "Des habitants se poursuivent avec des oranges pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Hongrie",
+      "Slovaquie",
+      "Lettonie",
+      "Luxembourg"
+    ],
+    "correctAnswer_fr": "Lettonie",
+    "explanation_fr": "Nom de la tradition : Défilé des oranges de Riga. Pays : Lettonie. Région ou lieu : Riga. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_174",
+    "traditionName": "Défilé des oranges de Moravie",
+    "country": "Tchéquie",
+    "region": "Moravie",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des oranges.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Bulgarie",
+      "Tchéquie",
+      "Pologne",
+      "Roumanie"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Défilé des oranges de Moravie. Pays : Tchéquie. Région ou lieu : Moravie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_175",
+    "traditionName": "Nuit des pains rituels de Tallinn",
+    "country": "Estonie",
+    "region": "Tallinn",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Pologne",
+      "Pays-Bas",
+      "Estonie",
+      "Belgique"
+    ],
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Nuit des pains rituels de Tallinn. Pays : Estonie. Région ou lieu : Tallinn. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_176",
+    "traditionName": "Fête de la grande citrouilles de Kalofer",
+    "country": "Bulgarie",
+    "region": "Kalofer",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des citrouilles de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Croatie",
+      "Pays-Bas",
+      "Bulgarie",
+      "Lettonie"
+    ],
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande citrouilles de Kalofer. Pays : Bulgarie. Région ou lieu : Kalofer. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrouilles; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_177",
+    "traditionName": "Bataille des lanternes de Latgale",
+    "country": "Lettonie",
+    "region": "Latgale",
+    "scenario_fr": "Des habitants transportent des lanternes dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Danemark",
+      "Finlande",
+      "Lettonie",
+      "Hongrie"
+    ],
+    "correctAnswer_fr": "Lettonie",
+    "explanation_fr": "Nom de la tradition : Bataille des lanternes de Latgale. Pays : Lettonie. Région ou lieu : Latgale. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_178",
+    "traditionName": "Bataille des lanternes de Nadur",
+    "country": "Malte",
+    "region": "Nadur",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des lanternes.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Finlande",
+      "Slovénie",
+      "Croatie",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Bataille des lanternes de Nadur. Pays : Malte. Région ou lieu : Nadur. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_179",
+    "traditionName": "Défilé des marteaux en plastique de Galaxidi",
+    "country": "Grèce",
+    "region": "Galaxidi",
+    "scenario_fr": "Des habitants se poursuivent avec des marteaux en plastique pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Roumanie",
+      "Italie",
+      "Grèce",
+      "Danemark"
+    ],
+    "correctAnswer_fr": "Grèce",
+    "explanation_fr": "Nom de la tradition : Défilé des marteaux en plastique de Galaxidi. Pays : Grèce. Région ou lieu : Galaxidi. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_180",
+    "traditionName": "Carnaval des paniers décorés de Kalofer",
+    "country": "Bulgarie",
+    "region": "Kalofer",
+    "scenario_fr": "Des habitants transportent des paniers décorés dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Estonie",
+      "Hongrie",
+      "Bulgarie",
+      "Italie"
+    ],
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Carnaval des paniers décorés de Kalofer. Pays : Bulgarie. Région ou lieu : Kalofer. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_181",
+    "traditionName": "Carnaval des fromage de Dublin",
+    "country": "Irlande",
+    "region": "Dublin",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec un fromage.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "France",
+      "Portugal",
+      "Irlande",
+      "Finlande"
+    ],
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Carnaval des fromage de Dublin. Pays : Irlande. Région ou lieu : Dublin. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_182",
+    "traditionName": "Carnaval des pains rituels de Pernik",
+    "country": "Bulgarie",
+    "region": "Pernik",
+    "scenario_fr": "Des habitants transportent des pains rituels dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Chypre",
+      "Bulgarie",
+      "Grèce",
+      "Tchéquie"
+    ],
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Carnaval des pains rituels de Pernik. Pays : Bulgarie. Région ou lieu : Pernik. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_183",
+    "traditionName": "Carnaval des masques de Alkmaar",
+    "country": "Pays-Bas",
+    "region": "Alkmaar",
+    "scenario_fr": "Des habitants se poursuivent avec des masques pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Pays-Bas",
+      "Tchéquie",
+      "Slovaquie",
+      "Irlande"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Carnaval des masques de Alkmaar. Pays : Pays-Bas. Région ou lieu : Alkmaar. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_184",
+    "traditionName": "Challenge des chèvre de Oostduinkerke",
+    "country": "Belgique",
+    "region": "Oostduinkerke",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "France",
+      "Belgique",
+      "Irlande",
+      "Estonie"
+    ],
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Challenge des chèvre de Oostduinkerke. Pays : Belgique. Région ou lieu : Oostduinkerke. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_185",
+    "traditionName": "Nuit des oranges de Limassol",
+    "country": "Chypre",
+    "region": "Limassol",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des oranges de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Espagne",
+      "Irlande",
+      "Danemark",
+      "Chypre"
+    ],
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Nuit des oranges de Limassol. Pays : Chypre. Région ou lieu : Limassol. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_186",
+    "traditionName": "Procession des pains rituels de Mohács",
+    "country": "Hongrie",
+    "region": "Mohács",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des pains rituels.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Finlande",
+      "Allemagne",
+      "Hongrie",
+      "Slovénie"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Procession des pains rituels de Mohács. Pays : Hongrie. Région ou lieu : Mohács. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_187",
+    "traditionName": "Défilé des fromage de Sinj",
+    "country": "Croatie",
+    "region": "Sinj",
+    "scenario_fr": "Des habitants transportent un fromage dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Irlande",
+      "Malte",
+      "Grèce",
+      "Croatie"
+    ],
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Défilé des fromage de Sinj. Pays : Croatie. Région ou lieu : Sinj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_188",
+    "traditionName": "Défilé des couronnes de Copenhague",
+    "country": "Danemark",
+    "region": "Copenhague",
+    "scenario_fr": "Des habitants se poursuivent avec des couronnes pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Pays-Bas",
+      "Danemark",
+      "France",
+      "Suède"
+    ],
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Défilé des couronnes de Copenhague. Pays : Danemark. Région ou lieu : Copenhague. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_189",
+    "traditionName": "Challenge des marteaux en plastique de Luxembourg-Ville",
+    "country": "Luxembourg",
+    "region": "Luxembourg-Ville",
+    "scenario_fr": "Des habitants se poursuivent avec des marteaux en plastique pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Slovaquie",
+      "Lettonie",
+      "Luxembourg",
+      "Italie"
+    ],
+    "correctAnswer_fr": "Luxembourg",
+    "explanation_fr": "Nom de la tradition : Challenge des marteaux en plastique de Luxembourg-Ville. Pays : Luxembourg. Région ou lieu : Luxembourg-Ville. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_190",
+    "traditionName": "Procession des masques de Aalborg",
+    "country": "Danemark",
+    "region": "Aalborg",
+    "scenario_fr": "Des habitants transportent des masques dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Espagne",
+      "Pologne",
+      "Danemark",
+      "Pays-Bas"
+    ],
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Procession des masques de Aalborg. Pays : Danemark. Région ou lieu : Aalborg. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_191",
+    "traditionName": "Procession des cloches de Gozo",
+    "country": "Malte",
+    "region": "Gozo",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des cloches.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Grèce",
+      "Malte",
+      "Finlande",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Procession des cloches de Gozo. Pays : Malte. Région ou lieu : Gozo. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_192",
+    "traditionName": "Défilé des sabots de Piémont",
+    "country": "Italie",
+    "region": "Piémont",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des sabots.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "France",
+      "Irlande",
+      "Italie",
+      "Finlande"
+    ],
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Défilé des sabots de Piémont. Pays : Italie. Région ou lieu : Piémont. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_193",
+    "traditionName": "Challenge des chèvre de Tallinn",
+    "country": "Estonie",
+    "region": "Tallinn",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Estonie",
+      "Malte",
+      "Croatie",
+      "Roumanie"
+    ],
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Challenge des chèvre de Tallinn. Pays : Estonie. Région ou lieu : Tallinn. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_194",
+    "traditionName": "Défilé des oranges de Prague",
+    "country": "Tchéquie",
+    "region": "Prague",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Croatie",
+      "Luxembourg",
+      "Tchéquie",
+      "Danemark"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Défilé des oranges de Prague. Pays : Tchéquie. Région ou lieu : Prague. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_195",
+    "traditionName": "Défilé des sabots de Mazovie",
+    "country": "Pologne",
+    "region": "Mazovie",
+    "scenario_fr": "Des habitants transportent des sabots dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Pologne",
+      "Suède",
+      "Slovénie",
+      "Lettonie"
+    ],
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Défilé des sabots de Mazovie. Pays : Pologne. Région ou lieu : Mazovie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_196",
+    "traditionName": "Nuit des lanternes de Tatras",
+    "country": "Slovaquie",
+    "region": "Tatras",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Roumanie",
+      "Croatie",
+      "Luxembourg",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Nuit des lanternes de Tatras. Pays : Slovaquie. Région ou lieu : Tatras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_197",
+    "traditionName": "Fête de la grande pains rituels de Kurzeme",
+    "country": "Lettonie",
+    "region": "Kurzeme",
+    "scenario_fr": "Des habitants transportent des pains rituels dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Slovaquie",
+      "Roumanie",
+      "Lettonie",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Lettonie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande pains rituels de Kurzeme. Pays : Lettonie. Région ou lieu : Kurzeme. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_198",
+    "traditionName": "Bataille des citrouilles de Gozo",
+    "country": "Malte",
+    "region": "Gozo",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Estonie",
+      "Malte",
+      "Tchéquie",
+      "Luxembourg"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Bataille des citrouilles de Gozo. Pays : Malte. Région ou lieu : Gozo. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrouilles; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_199",
+    "traditionName": "Challenge des costumes d’animaux de Vienne",
+    "country": "Autriche",
+    "region": "Vienne",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Finlande",
+      "Autriche",
+      "Grèce",
+      "Portugal"
+    ],
+    "correctAnswer_fr": "Autriche",
+    "explanation_fr": "Nom de la tradition : Challenge des costumes d’animaux de Vienne. Pays : Autriche. Région ou lieu : Vienne. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_200",
+    "traditionName": "Nuit des paniers décorés de Kerry",
+    "country": "Irlande",
+    "region": "Kerry",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Slovénie",
+      "Irlande",
+      "Finlande",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Nuit des paniers décorés de Kerry. Pays : Irlande. Région ou lieu : Kerry. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_201",
+    "traditionName": "Défilé des lanternes de Moravie",
+    "country": "Tchéquie",
+    "region": "Moravie",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des lanternes.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Estonie",
+      "Tchéquie",
+      "Luxembourg",
+      "Lituanie"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Défilé des lanternes de Moravie. Pays : Tchéquie. Région ou lieu : Moravie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_202",
+    "traditionName": "Challenge des lanternes de Limassol",
+    "country": "Chypre",
+    "region": "Limassol",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des lanternes.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Danemark",
+      "Lettonie",
+      "Chypre",
+      "Italie"
+    ],
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Challenge des lanternes de Limassol. Pays : Chypre. Région ou lieu : Limassol. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_203",
+    "traditionName": "Rituel des costumes d’animaux de Ptuj",
+    "country": "Slovénie",
+    "region": "Ptuj",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des costumes d’animaux.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Slovénie",
+      "Lituanie",
+      "Pologne",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Slovénie",
+    "explanation_fr": "Nom de la tradition : Rituel des costumes d’animaux de Ptuj. Pays : Slovénie. Région ou lieu : Ptuj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_204",
+    "traditionName": "Festival des citrouilles de Jutland",
+    "country": "Danemark",
+    "region": "Jutland",
+    "scenario_fr": "Des habitants se poursuivent avec des citrouilles pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Allemagne",
+      "Hongrie",
+      "Danemark",
+      "Chypre"
+    ],
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Festival des citrouilles de Jutland. Pays : Danemark. Région ou lieu : Jutland. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrouilles; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_205",
+    "traditionName": "Festival des œufs peints de Larnaca",
+    "country": "Chypre",
+    "region": "Larnaca",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des œufs peints de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Luxembourg",
+      "Belgique",
+      "Irlande",
+      "Chypre"
+    ],
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Festival des œufs peints de Larnaca. Pays : Chypre. Région ou lieu : Larnaca. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des œufs peints; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_206",
+    "traditionName": "Fête de la grande couronnes de Bucovine",
+    "country": "Roumanie",
+    "region": "Bucovine",
+    "scenario_fr": "Des habitants se poursuivent avec des couronnes pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Luxembourg",
+      "Belgique",
+      "Roumanie",
+      "Autriche"
+    ],
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande couronnes de Bucovine. Pays : Roumanie. Région ou lieu : Bucovine. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_207",
+    "traditionName": "Challenge des fromage de Kalofer",
+    "country": "Bulgarie",
+    "region": "Kalofer",
+    "scenario_fr": "Des habitants transportent un fromage dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Suède",
+      "Tchéquie",
+      "Finlande",
+      "Bulgarie"
+    ],
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Challenge des fromage de Kalofer. Pays : Bulgarie. Région ou lieu : Kalofer. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_208",
+    "traditionName": "Bataille des cloches de Transylvanie",
+    "country": "Roumanie",
+    "region": "Transylvanie",
+    "scenario_fr": "Des habitants se poursuivent avec des cloches pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Roumanie",
+      "Autriche",
+      "Luxembourg",
+      "Italie"
+    ],
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Bataille des cloches de Transylvanie. Pays : Roumanie. Région ou lieu : Transylvanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_209",
+    "traditionName": "Rituel des masques de Cracovie",
+    "country": "Pologne",
+    "region": "Cracovie",
+    "scenario_fr": "Des habitants se poursuivent avec des masques pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Chypre",
+      "France",
+      "Croatie",
+      "Pologne"
+    ],
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Rituel des masques de Cracovie. Pays : Pologne. Région ou lieu : Cracovie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_210",
+    "traditionName": "Festival des rubans de Bucovine",
+    "country": "Roumanie",
+    "region": "Bucovine",
+    "scenario_fr": "Des habitants se poursuivent avec des rubans pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Lituanie",
+      "Pologne",
+      "Danemark",
+      "Roumanie"
+    ],
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Festival des rubans de Bucovine. Pays : Roumanie. Région ou lieu : Bucovine. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_211",
+    "traditionName": "Festival des œufs peints de Paphos",
+    "country": "Chypre",
+    "region": "Paphos",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des œufs peints.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Belgique",
+      "Slovénie",
+      "Pays-Bas",
+      "Chypre"
+    ],
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Festival des œufs peints de Paphos. Pays : Chypre. Région ou lieu : Paphos. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des œufs peints; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_212",
+    "traditionName": "Challenge des bateaux décorés de Pernik",
+    "country": "Bulgarie",
+    "region": "Pernik",
+    "scenario_fr": "Des habitants se poursuivent avec des bateaux décorés pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Roumanie",
+      "Bulgarie",
+      "Italie",
+      "Espagne"
+    ],
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Challenge des bateaux décorés de Pernik. Pays : Bulgarie. Région ou lieu : Pernik. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_213",
+    "traditionName": "Challenge des sabots de Budapest",
+    "country": "Hongrie",
+    "region": "Budapest",
+    "scenario_fr": "Des habitants se poursuivent avec des sabots pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Autriche",
+      "Italie",
+      "Hongrie",
+      "Slovénie"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Challenge des sabots de Budapest. Pays : Hongrie. Région ou lieu : Budapest. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_214",
+    "traditionName": "Course des sabots de Tatras",
+    "country": "Slovaquie",
+    "region": "Tatras",
+    "scenario_fr": "Des habitants transportent des sabots dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Portugal",
+      "Lituanie",
+      "Autriche",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Course des sabots de Tatras. Pays : Slovaquie. Région ou lieu : Tatras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_215",
+    "traditionName": "Course des instruments imaginaires de Sofia",
+    "country": "Bulgarie",
+    "region": "Sofia",
+    "scenario_fr": "Des habitants se poursuivent avec des instruments imaginaires pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Portugal",
+      "Bulgarie",
+      "Lituanie",
+      "Chypre"
+    ],
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Course des instruments imaginaires de Sofia. Pays : Bulgarie. Région ou lieu : Sofia. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_216",
+    "traditionName": "Procession des mannequins de Budapest",
+    "country": "Hongrie",
+    "region": "Budapest",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des mannequins.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Slovénie",
+      "Suède",
+      "Hongrie",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Procession des mannequins de Budapest. Pays : Hongrie. Région ou lieu : Budapest. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_217",
+    "traditionName": "Challenge des fleurs de Bucovine",
+    "country": "Roumanie",
+    "region": "Bucovine",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Slovénie",
+      "Tchéquie",
+      "Espagne",
+      "Roumanie"
+    ],
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Challenge des fleurs de Bucovine. Pays : Roumanie. Région ou lieu : Bucovine. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_218",
+    "traditionName": "Festival des instruments imaginaires de Valence",
+    "country": "Espagne",
+    "region": "Valence",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des instruments imaginaires.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Danemark",
+      "Lituanie",
+      "Espagne",
+      "Luxembourg"
+    ],
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Festival des instruments imaginaires de Valence. Pays : Espagne. Région ou lieu : Valence. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_219",
+    "traditionName": "Procession des costumes d’animaux de Mohács",
+    "country": "Hongrie",
+    "region": "Mohács",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des costumes d’animaux de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Pologne",
+      "Finlande",
+      "Hongrie",
+      "Bulgarie"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Procession des costumes d’animaux de Mohács. Pays : Hongrie. Région ou lieu : Mohács. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_220",
+    "traditionName": "Nuit des œufs peints de Castille-et-León",
+    "country": "Espagne",
+    "region": "Castille-et-León",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des œufs peints de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Pologne",
+      "Lituanie",
+      "Espagne",
+      "Belgique"
+    ],
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Nuit des œufs peints de Castille-et-León. Pays : Espagne. Région ou lieu : Castille-et-León. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des œufs peints; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_221",
+    "traditionName": "Fête de la grande masques de Alkmaar",
+    "country": "Pays-Bas",
+    "region": "Alkmaar",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Portugal",
+      "Lettonie",
+      "Danemark",
+      "Pays-Bas"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Fête de la grande masques de Alkmaar. Pays : Pays-Bas. Région ou lieu : Alkmaar. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_222",
+    "traditionName": "Festival des citrons de Valletta",
+    "country": "Malte",
+    "region": "Valletta",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Estonie",
+      "Pays-Bas",
+      "Malte",
+      "Belgique"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Festival des citrons de Valletta. Pays : Malte. Région ou lieu : Valletta. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_223",
+    "traditionName": "Bataille des eau de Mohács",
+    "country": "Hongrie",
+    "region": "Mohács",
+    "scenario_fr": "Des habitants se poursuivent avec de l’eau pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Chypre",
+      "Hongrie",
+      "Luxembourg",
+      "Italie"
+    ],
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Bataille des eau de Mohács. Pays : Hongrie. Région ou lieu : Mohács. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_224",
+    "traditionName": "Bataille des bougies de Detva",
+    "country": "Slovaquie",
+    "region": "Detva",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Slovaquie",
+      "Lituanie",
+      "Portugal",
+      "Hongrie"
+    ],
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Bataille des bougies de Detva. Pays : Slovaquie. Région ou lieu : Detva. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_225",
+    "traditionName": "Challenge des couronnes de Patras",
+    "country": "Grèce",
+    "region": "Patras",
+    "scenario_fr": "Des habitants transportent des couronnes dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Grèce",
+      "Roumanie",
+      "Belgique",
+      "France"
+    ],
+    "correctAnswer_fr": "Grèce",
+    "explanation_fr": "Nom de la tradition : Challenge des couronnes de Patras. Pays : Grèce. Région ou lieu : Patras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_226",
+    "traditionName": "Festival des costumes d’animaux de Sinj",
+    "country": "Croatie",
+    "region": "Sinj",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des costumes d’animaux.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Croatie",
+      "Chypre",
+      "Finlande",
+      "Espagne"
+    ],
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Festival des costumes d’animaux de Sinj. Pays : Croatie. Région ou lieu : Sinj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_227",
+    "traditionName": "Nuit des pains rituels de Alsace",
+    "country": "France",
+    "region": "Alsace",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Estonie",
+      "Suède",
+      "Espagne",
+      "France"
+    ],
+    "correctAnswer_fr": "France",
+    "explanation_fr": "Nom de la tradition : Nuit des pains rituels de Alsace. Pays : France. Région ou lieu : Alsace. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_228",
+    "traditionName": "Fête de la grande marteaux en plastique de Rijeka",
+    "country": "Croatie",
+    "region": "Rijeka",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des marteaux en plastique.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Croatie",
+      "Irlande",
+      "Hongrie",
+      "Chypre"
+    ],
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande marteaux en plastique de Rijeka. Pays : Croatie. Région ou lieu : Rijeka. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_229",
+    "traditionName": "Festival des eau de Patras",
+    "country": "Grèce",
+    "region": "Patras",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Suède",
+      "Grèce",
+      "Tchéquie",
+      "Belgique"
+    ],
+    "correctAnswer_fr": "Grèce",
+    "explanation_fr": "Nom de la tradition : Festival des eau de Patras. Pays : Grèce. Région ou lieu : Patras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_230",
+    "traditionName": "Course des fromage de Porto",
+    "country": "Portugal",
+    "region": "Porto",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant un fromage.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Suède",
+      "Danemark",
+      "Luxembourg",
+      "Portugal"
+    ],
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Course des fromage de Porto. Pays : Portugal. Région ou lieu : Porto. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_231",
+    "traditionName": "Carnaval des chèvre de Nadur",
+    "country": "Malte",
+    "region": "Nadur",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec une chèvre.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Irlande",
+      "Slovaquie",
+      "Danemark",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Carnaval des chèvre de Nadur. Pays : Malte. Région ou lieu : Nadur. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_232",
+    "traditionName": "Bataille des œufs peints de Jutland",
+    "country": "Danemark",
+    "region": "Jutland",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des œufs peints de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Roumanie",
+      "Danemark",
+      "Italie",
+      "Espagne"
+    ],
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Bataille des œufs peints de Jutland. Pays : Danemark. Région ou lieu : Jutland. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des œufs peints; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_233",
+    "traditionName": "Course des lanternes de Clare",
+    "country": "Irlande",
+    "region": "Clare",
+    "scenario_fr": "Des habitants se poursuivent avec des lanternes pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Tchéquie",
+      "Irlande",
+      "Finlande",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Course des lanternes de Clare. Pays : Irlande. Région ou lieu : Clare. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_234",
+    "traditionName": "Carnaval des rubans de Tallinn",
+    "country": "Estonie",
+    "region": "Tallinn",
+    "scenario_fr": "Des habitants se poursuivent avec des rubans pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Estonie",
+      "Pays-Bas",
+      "Chypre",
+      "Grèce"
+    ],
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Carnaval des rubans de Tallinn. Pays : Estonie. Région ou lieu : Tallinn. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_235",
+    "traditionName": "Défilé des sabots de Vénétie",
+    "country": "Italie",
+    "region": "Vénétie",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des sabots.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Grèce",
+      "Italie",
+      "Malte",
+      "Hongrie"
+    ],
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Défilé des sabots de Vénétie. Pays : Italie. Région ou lieu : Vénétie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_236",
+    "traditionName": "Bataille des lanternes de Valence",
+    "country": "Espagne",
+    "region": "Valence",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des lanternes.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Belgique",
+      "Grèce",
+      "Espagne",
+      "Finlande"
+    ],
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Bataille des lanternes de Valence. Pays : Espagne. Région ou lieu : Valence. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_237",
+    "traditionName": "Rituel des oranges de Porto",
+    "country": "Portugal",
+    "region": "Porto",
+    "scenario_fr": "Des habitants transportent des oranges dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Portugal",
+      "Allemagne",
+      "Lituanie",
+      "Croatie"
+    ],
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Rituel des oranges de Porto. Pays : Portugal. Région ou lieu : Porto. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_238",
+    "traditionName": "Nuit des œufs peints de Provence",
+    "country": "France",
+    "region": "Provence",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des œufs peints de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Lettonie",
+      "Espagne",
+      "Lituanie",
+      "France"
+    ],
+    "correctAnswer_fr": "France",
+    "explanation_fr": "Nom de la tradition : Nuit des œufs peints de Provence. Pays : France. Région ou lieu : Provence. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des œufs peints; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_239",
+    "traditionName": "Procession des chèvre de Vilnius",
+    "country": "Lituanie",
+    "region": "Vilnius",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Portugal",
+      "Autriche",
+      "Lituanie",
+      "Belgique"
+    ],
+    "correctAnswer_fr": "Lituanie",
+    "explanation_fr": "Nom de la tradition : Procession des chèvre de Vilnius. Pays : Lituanie. Région ou lieu : Vilnius. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_240",
+    "traditionName": "Rituel des couronnes de Sonkajärvi",
+    "country": "Finlande",
+    "region": "Sonkajärvi",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Finlande",
+      "Slovaquie",
+      "Luxembourg",
+      "Slovénie"
+    ],
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Rituel des couronnes de Sonkajärvi. Pays : Finlande. Région ou lieu : Sonkajärvi. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_241",
+    "traditionName": "Rituel des pains rituels de Alkmaar",
+    "country": "Pays-Bas",
+    "region": "Alkmaar",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Malte",
+      "Pays-Bas",
+      "Croatie",
+      "Slovénie"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Rituel des pains rituels de Alkmaar. Pays : Pays-Bas. Région ou lieu : Alkmaar. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_242",
+    "traditionName": "Nuit des farine de Valletta",
+    "country": "Malte",
+    "region": "Valletta",
+    "scenario_fr": "Des habitants transportent de la farine dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Grèce",
+      "Malte",
+      "Chypre",
+      "Hongrie"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Nuit des farine de Valletta. Pays : Malte. Région ou lieu : Valletta. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de la farine; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_243",
+    "traditionName": "Fête de la grande bougies de Frise",
+    "country": "Pays-Bas",
+    "region": "Frise",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des bougies de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Pays-Bas",
+      "Belgique",
+      "Malte",
+      "Espagne"
+    ],
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Fête de la grande bougies de Frise. Pays : Pays-Bas. Région ou lieu : Frise. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_244",
+    "traditionName": "Défilé des instruments imaginaires de Maramureș",
+    "country": "Roumanie",
+    "region": "Maramureș",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des instruments imaginaires.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Roumanie",
+      "Belgique",
+      "Autriche",
+      "Finlande"
+    ],
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Défilé des instruments imaginaires de Maramureș. Pays : Roumanie. Région ou lieu : Maramureș. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_245",
+    "traditionName": "Nuit des chèvre de Vilnius",
+    "country": "Lituanie",
+    "region": "Vilnius",
+    "scenario_fr": "Des habitants transportent une chèvre dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Irlande",
+      "Espagne",
+      "Lituanie",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Lituanie",
+    "explanation_fr": "Nom de la tradition : Nuit des chèvre de Vilnius. Pays : Lituanie. Région ou lieu : Vilnius. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_246",
+    "traditionName": "Bataille des instruments imaginaires de Oulu",
+    "country": "Finlande",
+    "region": "Oulu",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des instruments imaginaires.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Grèce",
+      "Finlande",
+      "France",
+      "Belgique"
+    ],
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Bataille des instruments imaginaires de Oulu. Pays : Finlande. Région ou lieu : Oulu. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_247",
+    "traditionName": "Carnaval des farine de Laponie",
+    "country": "Finlande",
+    "region": "Laponie",
+    "scenario_fr": "Des habitants transportent de la farine dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Danemark",
+      "Slovénie",
+      "Estonie",
+      "Finlande"
+    ],
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Carnaval des farine de Laponie. Pays : Finlande. Région ou lieu : Laponie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de la farine; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_248",
+    "traditionName": "Défilé des bateaux décorés de Larnaca",
+    "country": "Chypre",
+    "region": "Larnaca",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Roumanie",
+      "Estonie",
+      "Chypre",
+      "Slovaquie"
+    ],
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Défilé des bateaux décorés de Larnaca. Pays : Chypre. Région ou lieu : Larnaca. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_249",
+    "traditionName": "Bataille des couronnes de Detva",
+    "country": "Slovaquie",
+    "region": "Detva",
+    "scenario_fr": "Des habitants transportent des couronnes dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Slovaquie",
+      "Allemagne",
+      "Croatie",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Bataille des couronnes de Detva. Pays : Slovaquie. Région ou lieu : Detva. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_250",
+    "traditionName": "Carnaval des fleurs de Gozo",
+    "country": "Malte",
+    "region": "Gozo",
+    "scenario_fr": "Des habitants se poursuivent avec des fleurs pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "answers_fr": [
+      "Malte",
+      "Autriche",
+      "Pays-Bas",
+      "Tchéquie"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Carnaval des fleurs de Gozo. Pays : Malte. Région ou lieu : Gozo. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "course-poursuite",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_251",
+    "traditionName": "Challenge des couronnes de Limassol",
+    "country": "Chypre",
+    "region": "Limassol",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des couronnes de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Hongrie",
+      "Chypre",
+      "Roumanie",
+      "Italie"
+    ],
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Challenge des couronnes de Limassol. Pays : Chypre. Région ou lieu : Limassol. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_252",
+    "traditionName": "Procession des rubans de Paphos",
+    "country": "Chypre",
+    "region": "Paphos",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des rubans.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "answers_fr": [
+      "Croatie",
+      "Chypre",
+      "Irlande",
+      "Slovénie"
+    ],
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Procession des rubans de Paphos. Pays : Chypre. Région ou lieu : Paphos. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "concours",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_253",
+    "traditionName": "Carnaval des paniers décorés de Gozo",
+    "country": "Malte",
+    "region": "Gozo",
+    "scenario_fr": "Des habitants transportent des paniers décorés dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
+    "answers_fr": [
+      "Italie",
+      "Estonie",
+      "Hongrie",
+      "Malte"
+    ],
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Carnaval des paniers décorés de Gozo. Pays : Malte. Région ou lieu : Gozo. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "procession",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_254",
+    "traditionName": "Festival des costumes d’animaux de Bratislava",
+    "country": "Slovaquie",
+    "region": "Bratislava",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "Slovaquie",
+      "Finlande",
+      "Pays-Bas",
+      "Pologne"
+    ],
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Festival des costumes d’animaux de Bratislava. Pays : Slovaquie. Région ou lieu : Bratislava. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_255",
+    "traditionName": "Course des bougies de Mazovie",
+    "country": "Pologne",
+    "region": "Mazovie",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bougies.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Belgique",
+      "Finlande",
+      "Chypre",
+      "Pologne"
+    ],
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Course des bougies de Mazovie. Pays : Pologne. Région ou lieu : Mazovie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_256",
     "traditionName": "Festival des costumes d’animaux de Transylvanie",
     "country": "Roumanie",
     "region": "Transylvanie",
     "scenario_fr": "Un village entier se rassemble pour fabriquer des costumes d’animaux de taille démesurée.",
     "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Roumanie",
-      "Lituanie",
-      "Chypre",
-      "Slovaquie"
-    ],
-    "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Transylvanie, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Transylvanie.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_031",
-    "traditionName": "Fête de la grande pains rituels de Dublin",
-    "country": "Irlande",
-    "region": "Dublin",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
       "Irlande",
-      "Malte",
-      "Grèce",
-      "Lituanie"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Dublin, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Dublin.",
-    "difficulty": "hard",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_032",
-    "traditionName": "Défilé des pains rituels de Oulu",
-    "country": "Finlande",
-    "region": "Oulu",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Malte",
-      "Autriche",
-      "Grèce",
-      "Finlande"
-    ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Oulu, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Oulu.",
-    "difficulty": "hard",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_033",
-    "traditionName": "Festival des couronnes de Mohács",
-    "country": "Hongrie",
-    "region": "Mohács",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Hongrie",
-      "Slovaquie",
-      "Lettonie",
-      "Finlande"
-    ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Mohács, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Mohács.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_034",
-    "traditionName": "Défilé des cloches de Tomar",
-    "country": "Portugal",
-    "region": "Tomar",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Hongrie",
-      "Portugal",
+      "Belgique",
       "Roumanie",
-      "Irlande"
-    ],
-    "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Tomar, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Tomar.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_035",
-    "traditionName": "Course des fleurs de Echternach",
-    "country": "Luxembourg",
-    "region": "Echternach",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Irlande",
-      "Croatie",
-      "Bulgarie",
-      "Luxembourg"
-    ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Echternach, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Echternach.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_036",
-    "traditionName": "Course des chèvre de Mazovie",
-    "country": "Pologne",
-    "region": "Mazovie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer une chèvre de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Espagne",
-      "Pologne",
-      "Luxembourg",
-      "Irlande"
-    ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Mazovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Mazovie.",
-    "difficulty": "easy",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_037",
-    "traditionName": "Nuit des fleurs de Idrija",
-    "country": "Slovénie",
-    "region": "Idrija",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des fleurs.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Slovénie",
-      "Slovaquie",
-      "Lettonie",
-      "Espagne"
-    ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Idrija, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Idrija.",
-    "difficulty": "medium",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_038",
-    "traditionName": "Course des eau de Aalborg",
-    "country": "Danemark",
-    "region": "Aalborg",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de l’eau.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Luxembourg",
-      "Portugal",
-      "Malte",
-      "Danemark"
-    ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Aalborg, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Aalborg.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_039",
-    "traditionName": "Rituel des lanternes de Kalofer",
-    "country": "Bulgarie",
-    "region": "Kalofer",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des lanternes de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Chypre",
-      "Espagne",
-      "Tchéquie",
       "Bulgarie"
     ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Kalofer, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Kalofer.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_040",
-    "traditionName": "Carnaval des couronnes de Larnaca",
-    "country": "Chypre",
-    "region": "Larnaca",
-    "scenario_fr": "Des habitants se poursuivent avec des couronnes pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Malte",
-      "Chypre",
-      "Allemagne",
-      "Portugal"
-    ],
-    "correctAnswer_fr": "Chypre",
-    "explanation_fr": "Cette question parle de Larnaca, en Chypre. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Chypre, avec un ancrage régional indiqué : Larnaca.",
-    "difficulty": "easy",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_041",
-    "traditionName": "Challenge des eau de Echternach",
-    "country": "Luxembourg",
-    "region": "Echternach",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer de l’eau de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Luxembourg",
-      "Tchéquie",
-      "Portugal",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Echternach, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Echternach.",
-    "difficulty": "easy",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_042",
-    "traditionName": "Course des bateaux décorés de Moravie",
-    "country": "Tchéquie",
-    "region": "Moravie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des bateaux décorés de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Espagne",
-      "Slovaquie",
-      "Tchéquie",
-      "Luxembourg"
-    ],
-    "correctAnswer_fr": "Tchéquie",
-    "explanation_fr": "Cette question parle de Moravie, en Tchéquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Tchéquie, avec un ancrage régional indiqué : Moravie.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_043",
-    "traditionName": "Challenge des paniers décorés de Mohács",
-    "country": "Hongrie",
-    "region": "Mohács",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des paniers décorés de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Luxembourg",
-      "Finlande",
-      "Hongrie",
-      "Espagne"
-    ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Mohács, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Mohács.",
-    "difficulty": "easy",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_044",
-    "traditionName": "Challenge des marteaux en plastique de Vénétie",
-    "country": "Italie",
-    "region": "Vénétie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Danemark",
-      "Luxembourg",
-      "Italie",
-      "Allemagne"
-    ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Vénétie, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Vénétie.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_045",
-    "traditionName": "Challenge des poupées de paille de Vilnius",
-    "country": "Lituanie",
-    "region": "Vilnius",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des poupées de paille.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Autriche",
-      "Tchéquie",
-      "Lituanie",
-      "Croatie"
-    ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Vilnius, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Vilnius.",
-    "difficulty": "hard",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_046",
-    "traditionName": "Bataille des bougies de Detva",
-    "country": "Slovaquie",
-    "region": "Detva",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bougies.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Grèce",
-      "Lituanie",
-      "Slovaquie",
-      "France"
-    ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Detva, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Detva.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_047",
-    "traditionName": "Festival des eau de Limassol",
-    "country": "Chypre",
-    "region": "Limassol",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer de l’eau de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Bulgarie",
-      "Espagne",
-      "Croatie",
-      "Chypre"
-    ],
-    "correctAnswer_fr": "Chypre",
-    "explanation_fr": "Cette question parle de Limassol, en Chypre. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Chypre, avec un ancrage régional indiqué : Limassol.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_048",
-    "traditionName": "Challenge des chèvre de Prague",
-    "country": "Tchéquie",
-    "region": "Prague",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Tchéquie",
-      "Estonie",
-      "Italie",
-      "Espagne"
-    ],
-    "correctAnswer_fr": "Tchéquie",
-    "explanation_fr": "Cette question parle de Prague, en Tchéquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Tchéquie, avec un ancrage régional indiqué : Prague.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_049",
-    "traditionName": "Fête de la grande eau de Bucovine",
-    "country": "Roumanie",
-    "region": "Bucovine",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant de l’eau.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Lituanie",
-      "Slovénie",
-      "Roumanie",
-      "Hongrie"
-    ],
     "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Bucovine, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Bucovine.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_050",
-    "traditionName": "Carnaval des masques de Dubrovnik",
-    "country": "Croatie",
-    "region": "Dubrovnik",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des masques.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Chypre",
-      "Estonie",
-      "Croatie",
-      "Roumanie"
-    ],
-    "correctAnswer_fr": "Croatie",
-    "explanation_fr": "Cette question parle de Dubrovnik, en Croatie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Croatie, avec un ancrage régional indiqué : Dubrovnik.",
-    "difficulty": "hard",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_051",
-    "traditionName": "Fête de la grande bougies de Kerry",
-    "country": "Irlande",
-    "region": "Kerry",
-    "scenario_fr": "Des habitants se poursuivent avec des bougies pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Belgique",
-      "Lituanie",
-      "Roumanie",
-      "Irlande"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Kerry, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Kerry.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_052",
-    "traditionName": "Bataille des bateaux décorés de Ptuj",
-    "country": "Slovénie",
-    "region": "Ptuj",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des bateaux décorés de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Lettonie",
-      "Portugal",
-      "Lituanie",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Ptuj, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Ptuj.",
+    "explanation_fr": "Nom de la tradition : Festival des costumes d’animaux de Transylvanie. Pays : Roumanie. Région ou lieu : Transylvanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
       "objet géant",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_053",
-    "traditionName": "Rituel des chèvre de Aalborg",
-    "country": "Danemark",
-    "region": "Aalborg",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec une chèvre.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Slovénie",
-      "Portugal",
-      "Danemark",
-      "Lituanie"
-    ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Aalborg, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Aalborg.",
-    "difficulty": "medium",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_054",
-    "traditionName": "Défilé des couronnes de Bohême",
-    "country": "Tchéquie",
-    "region": "Bohême",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Lituanie",
-      "Danemark",
-      "Lettonie",
-      "Tchéquie"
-    ],
-    "correctAnswer_fr": "Tchéquie",
-    "explanation_fr": "Cette question parle de Bohême, en Tchéquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Tchéquie, avec un ancrage régional indiqué : Bohême.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_055",
-    "traditionName": "Rituel des oranges de Gozo",
-    "country": "Malte",
-    "region": "Gozo",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des oranges de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Chypre",
-      "Autriche",
-      "Malte",
-      "Suède"
-    ],
-    "correctAnswer_fr": "Malte",
-    "explanation_fr": "Cette question parle de Gozo, en Malte. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Malte, avec un ancrage régional indiqué : Gozo.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_056",
-    "traditionName": "Fête de la grande fromage de Idrija",
-    "country": "Slovénie",
-    "region": "Idrija",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec un fromage.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Slovénie",
-      "Autriche",
-      "Slovaquie",
-      "France"
-    ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Idrija, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Idrija.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_057",
-    "traditionName": "Festival des chèvre de Rhénanie",
-    "country": "Allemagne",
-    "region": "Rhénanie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "France",
-      "Luxembourg",
-      "Pays-Bas",
-      "Allemagne"
-    ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Rhénanie, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Rhénanie.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_058",
-    "traditionName": "Nuit des œufs peints de Bruxelles",
-    "country": "Belgique",
-    "region": "Bruxelles",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des œufs peints.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Slovaquie",
-      "Grèce",
-      "Hongrie",
-      "Belgique"
-    ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Bruxelles, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Bruxelles.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_059",
-    "traditionName": "Nuit des masques de Sardaigne",
-    "country": "Italie",
-    "region": "Sardaigne",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des masques.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Lettonie",
-      "Roumanie",
-      "Italie",
-      "Belgique"
-    ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Sardaigne, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Sardaigne.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_060",
-    "traditionName": "Carnaval des lanternes de Silésie",
-    "country": "Pologne",
-    "region": "Silésie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Slovaquie",
-      "Tchéquie",
-      "Italie",
-      "Pologne"
-    ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Silésie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Silésie.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_061",
-    "traditionName": "Fête de la grande masques de Bretagne",
-    "country": "France",
-    "region": "Bretagne",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Bulgarie",
-      "France",
-      "Malte",
-      "Luxembourg"
-    ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Bretagne, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Bretagne.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_062",
-    "traditionName": "Défilé des eau de Hortobágy",
+    "id": "trad_257",
+    "traditionName": "Bataille des paniers décorés de Hortobágy",
     "country": "Hongrie",
     "region": "Hortobágy",
-    "scenario_fr": "Des habitants se poursuivent avec de l’eau pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Hongrie",
-      "Tchéquie",
-      "France",
-      "Malte"
-    ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Hortobágy, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Hortobágy.",
-    "difficulty": "hard",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_063",
-    "traditionName": "Défilé des tomates de Mazovie",
-    "country": "Pologne",
-    "region": "Mazovie",
-    "scenario_fr": "Des habitants se poursuivent avec des tomates pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Portugal",
-      "Pologne",
-      "Italie",
-      "Croatie"
-    ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Mazovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Mazovie.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_064",
-    "traditionName": "Rituel des masques de Tyrol",
-    "country": "Autriche",
-    "region": "Tyrol",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des masques de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Autriche",
-      "Danemark",
-      "Irlande",
-      "Pologne"
-    ],
-    "correctAnswer_fr": "Autriche",
-    "explanation_fr": "Cette question parle de Tyrol, en Autriche. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Autriche, avec un ancrage régional indiqué : Tyrol.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_065",
-    "traditionName": "Course des fleurs de Dalarna",
-    "country": "Suède",
-    "region": "Dalarna",
-    "scenario_fr": "Des habitants se poursuivent avec des fleurs pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Roumanie",
-      "Suède",
-      "Irlande",
-      "Bulgarie"
-    ],
-    "correctAnswer_fr": "Suède",
-    "explanation_fr": "Cette question parle de Dalarna, en Suède. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Suède, avec un ancrage régional indiqué : Dalarna.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_066",
-    "traditionName": "Nuit des marteaux en plastique de Vilnius",
-    "country": "Lituanie",
-    "region": "Vilnius",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des marteaux en plastique.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Tchéquie",
-      "Chypre",
-      "Luxembourg",
-      "Lituanie"
-    ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Vilnius, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Vilnius.",
-    "difficulty": "hard",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_067",
-    "traditionName": "Défilé des rubans de Scanie",
-    "country": "Suède",
-    "region": "Scanie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des rubans.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Suède",
-      "Malte",
-      "Belgique",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Suède",
-    "explanation_fr": "Cette question parle de Scanie, en Suède. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Suède, avec un ancrage régional indiqué : Scanie.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_068",
-    "traditionName": "Nuit des bateaux décorés de Kurzeme",
-    "country": "Lettonie",
-    "region": "Kurzeme",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bateaux décorés.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Lettonie",
-      "Belgique",
-      "Luxembourg",
-      "Espagne"
-    ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Kurzeme, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Kurzeme.",
-    "difficulty": "medium",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_069",
-    "traditionName": "Défilé des paniers décorés de Budapest",
-    "country": "Hongrie",
-    "region": "Budapest",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Slovaquie",
-      "France",
-      "Portugal",
-      "Hongrie"
-    ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Budapest, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Budapest.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_070",
-    "traditionName": "Fête de la grande tomates de Moravie",
-    "country": "Tchéquie",
-    "region": "Moravie",
-    "scenario_fr": "Des habitants se poursuivent avec des tomates pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Espagne",
-      "Tchéquie",
-      "Danemark",
-      "Malte"
-    ],
-    "correctAnswer_fr": "Tchéquie",
-    "explanation_fr": "Cette question parle de Moravie, en Tchéquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Tchéquie, avec un ancrage régional indiqué : Moravie.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_071",
-    "traditionName": "Procession des eau de Harz",
-    "country": "Allemagne",
-    "region": "Harz",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer de l’eau de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Allemagne",
-      "Belgique",
-      "Suède",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Harz, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Harz.",
-    "difficulty": "easy",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_072",
-    "traditionName": "Fête de la grande costumes d’animaux de Riga",
-    "country": "Lettonie",
-    "region": "Riga",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Irlande",
-      "Grèce",
-      "Lettonie",
-      "Italie"
-    ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Riga, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Riga.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_073",
-    "traditionName": "Challenge des tomates de Mazovie",
-    "country": "Pologne",
-    "region": "Mazovie",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des tomates.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Pologne",
-      "Allemagne",
-      "Pays-Bas",
-      "Roumanie"
-    ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Mazovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Mazovie.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_074",
-    "traditionName": "Course des lanternes de Rhénanie",
-    "country": "Allemagne",
-    "region": "Rhénanie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Belgique",
-      "Allemagne",
-      "Estonie",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Rhénanie, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Rhénanie.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_075",
-    "traditionName": "Festival des chèvre de Nadur",
-    "country": "Malte",
-    "region": "Nadur",
-    "scenario_fr": "Des habitants se poursuivent avec une chèvre pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Malte",
-      "Irlande",
-      "Allemagne",
-      "Grèce"
-    ],
-    "correctAnswer_fr": "Malte",
-    "explanation_fr": "Cette question parle de Nadur, en Malte. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Malte, avec un ancrage régional indiqué : Nadur.",
-    "difficulty": "hard",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_076",
-    "traditionName": "Fête de la grande lanternes de Bretagne",
-    "country": "France",
-    "region": "Bretagne",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des lanternes de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Pays-Bas",
-      "Bulgarie",
-      "Finlande",
-      "France"
-    ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Bretagne, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Bretagne.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_077",
-    "traditionName": "Carnaval des marteaux en plastique de Paphos",
-    "country": "Chypre",
-    "region": "Paphos",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Chypre",
-      "France",
-      "Autriche",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Chypre",
-    "explanation_fr": "Cette question parle de Paphos, en Chypre. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Chypre, avec un ancrage régional indiqué : Paphos.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_078",
-    "traditionName": "Défilé des poupées de paille de Sinj",
-    "country": "Croatie",
-    "region": "Sinj",
-    "scenario_fr": "Des habitants se poursuivent avec des poupées de paille pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Croatie",
-      "Grèce",
-      "Belgique",
-      "Roumanie"
-    ],
-    "correctAnswer_fr": "Croatie",
-    "explanation_fr": "Cette question parle de Sinj, en Croatie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Croatie, avec un ancrage régional indiqué : Sinj.",
-    "difficulty": "hard",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_079",
-    "traditionName": "Festival des bougies de Oostduinkerke",
-    "country": "Belgique",
-    "region": "Oostduinkerke",
-    "scenario_fr": "Des habitants se poursuivent avec des bougies pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Allemagne",
-      "Belgique",
-      "Estonie",
-      "Lituanie"
-    ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Oostduinkerke, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Oostduinkerke.",
-    "difficulty": "easy",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_080",
-    "traditionName": "Fête de la grande oranges de Idrija",
-    "country": "Slovénie",
-    "region": "Idrija",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des oranges.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Lituanie",
-      "Pologne",
-      "Slovénie",
-      "Luxembourg"
-    ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Idrija, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Idrija.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_081",
-    "traditionName": "Fête de la grande farine de Detva",
-    "country": "Slovaquie",
-    "region": "Detva",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de la farine.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Grèce",
-      "Allemagne",
-      "Tchéquie",
-      "Slovaquie"
-    ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Detva, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Detva.",
-    "difficulty": "hard",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_082",
-    "traditionName": "Procession des farine de Ptuj",
-    "country": "Slovénie",
-    "region": "Ptuj",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer de la farine de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Suède",
-      "Belgique",
-      "Danemark",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Ptuj, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Ptuj.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_083",
-    "traditionName": "Défilé des masques de Mazovie",
-    "country": "Pologne",
-    "region": "Mazovie",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des masques.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "France",
-      "Pologne",
-      "Grèce",
-      "Hongrie"
-    ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Mazovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Mazovie.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_084",
-    "traditionName": "Fête de la grande couronnes de Aalborg",
-    "country": "Danemark",
-    "region": "Aalborg",
-    "scenario_fr": "Des habitants se poursuivent avec des couronnes pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Danemark",
-      "Suède",
-      "Pays-Bas",
-      "Belgique"
-    ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Aalborg, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Aalborg.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_085",
-    "traditionName": "Fête de la grande tomates de Budapest",
-    "country": "Hongrie",
-    "region": "Budapest",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Lituanie",
-      "Autriche",
-      "Bulgarie",
-      "Hongrie"
-    ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Budapest, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Budapest.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_086",
-    "traditionName": "Fête de la grande rubans de Sonkajärvi",
-    "country": "Finlande",
-    "region": "Sonkajärvi",
-    "scenario_fr": "Des habitants se poursuivent avec des rubans pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Finlande",
-      "Espagne",
-      "Autriche",
-      "Allemagne"
-    ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Sonkajärvi, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Sonkajärvi.",
-    "difficulty": "hard",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_087",
-    "traditionName": "Défilé des costumes d’animaux de Jutland",
-    "country": "Danemark",
-    "region": "Jutland",
-    "scenario_fr": "Des habitants se poursuivent avec des costumes d’animaux pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Danemark",
-      "Luxembourg",
-      "Irlande",
-      "Lettonie"
-    ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Jutland, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Jutland.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_088",
-    "traditionName": "Carnaval des marteaux en plastique de Vienne",
-    "country": "Autriche",
-    "region": "Vienne",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des marteaux en plastique.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Tchéquie",
-      "Portugal",
-      "Autriche",
-      "Chypre"
-    ],
-    "correctAnswer_fr": "Autriche",
-    "explanation_fr": "Cette question parle de Vienne, en Autriche. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Autriche, avec un ancrage régional indiqué : Vienne.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_089",
-    "traditionName": "Procession des masques de Dublin",
-    "country": "Irlande",
-    "region": "Dublin",
-    "scenario_fr": "Des habitants se poursuivent avec des masques pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Finlande",
-      "Luxembourg",
-      "Irlande",
-      "Portugal"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Dublin, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Dublin.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_090",
-    "traditionName": "Rituel des marteaux en plastique de Laponie",
-    "country": "Finlande",
-    "region": "Laponie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des marteaux en plastique de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Pays-Bas",
-      "Roumanie",
-      "Bulgarie",
-      "Finlande"
-    ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Laponie, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Laponie.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_091",
-    "traditionName": "Procession des pains rituels de Mazovie",
-    "country": "Pologne",
-    "region": "Mazovie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des pains rituels de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Pologne",
-      "Malte",
-      "Tchéquie",
-      "Espagne"
-    ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Mazovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Mazovie.",
-    "difficulty": "easy",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_092",
-    "traditionName": "Festival des pains rituels de Catalogne",
-    "country": "Espagne",
-    "region": "Catalogne",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des pains rituels de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Estonie",
-      "Tchéquie",
-      "Espagne",
-      "Pays-Bas"
-    ],
-    "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Catalogne, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Catalogne.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_093",
-    "traditionName": "Fête de la grande farine de Silésie",
-    "country": "Pologne",
-    "region": "Silésie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant de la farine.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Slovaquie",
-      "Pologne",
-      "Tchéquie",
-      "Suède"
-    ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Silésie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Silésie.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_094",
-    "traditionName": "Bataille des pains rituels de Madère",
-    "country": "Portugal",
-    "region": "Madère",
-    "scenario_fr": "Des habitants se poursuivent avec des pains rituels pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Portugal",
-      "Slovaquie",
-      "Pologne",
-      "Danemark"
-    ],
-    "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Madère, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Madère.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_095",
-    "traditionName": "Défilé des masques de Transylvanie",
-    "country": "Roumanie",
-    "region": "Transylvanie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Autriche",
-      "Italie",
-      "Espagne",
-      "Roumanie"
-    ],
-    "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Transylvanie, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Transylvanie.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_096",
-    "traditionName": "Challenge des oranges de Harz",
-    "country": "Allemagne",
-    "region": "Harz",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des oranges.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Italie",
-      "Irlande",
-      "Pologne",
-      "Allemagne"
-    ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Harz, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Harz.",
-    "difficulty": "hard",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_097",
-    "traditionName": "Rituel des paniers décorés de Detva",
-    "country": "Slovaquie",
-    "region": "Detva",
-    "scenario_fr": "Des habitants se poursuivent avec des paniers décorés pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Pologne",
-      "Chypre",
-      "Suède",
-      "Slovaquie"
-    ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Detva, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Detva.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_098",
-    "traditionName": "Challenge des pains rituels de Sinj",
-    "country": "Croatie",
-    "region": "Sinj",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des pains rituels.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Bulgarie",
-      "Croatie",
-      "Estonie",
-      "Lettonie"
-    ],
-    "correctAnswer_fr": "Croatie",
-    "explanation_fr": "Cette question parle de Sinj, en Croatie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Croatie, avec un ancrage régional indiqué : Sinj.",
-    "difficulty": "medium",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_099",
-    "traditionName": "Challenge des tomates de Castille-et-León",
-    "country": "Espagne",
-    "region": "Castille-et-León",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des tomates.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Croatie",
-      "Espagne",
-      "Pologne",
-      "Hongrie"
-    ],
-    "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Castille-et-León, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Castille-et-León.",
-    "difficulty": "medium",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_100",
-    "traditionName": "Procession des lanternes de Bled",
-    "country": "Slovénie",
-    "region": "Bled",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des lanternes de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Grèce",
-      "Slovénie",
-      "Chypre",
-      "Pays-Bas"
-    ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Bled, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Bled.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_101",
-    "traditionName": "Bataille des oranges de Transylvanie",
-    "country": "Roumanie",
-    "region": "Transylvanie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des oranges de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Lettonie",
-      "Suède",
-      "Roumanie",
-      "Italie"
-    ],
-    "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Transylvanie, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Transylvanie.",
-    "difficulty": "easy",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_102",
-    "traditionName": "Procession des masques de Wallonie",
-    "country": "Belgique",
-    "region": "Wallonie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des masques de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Belgique",
-      "Irlande",
-      "Slovaquie",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Wallonie, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Wallonie.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_103",
-    "traditionName": "Challenge des lanternes de Pernik",
-    "country": "Bulgarie",
-    "region": "Pernik",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des lanternes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Luxembourg",
-      "Bulgarie",
-      "Slovaquie",
-      "Croatie"
-    ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Pernik, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Pernik.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_104",
-    "traditionName": "Festival des paniers décorés de Castille-et-León",
-    "country": "Espagne",
-    "region": "Castille-et-León",
-    "scenario_fr": "Des habitants se poursuivent avec des paniers décorés pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Hongrie",
-      "Espagne",
-      "Estonie",
-      "Italie"
-    ],
-    "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Castille-et-León, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Castille-et-León.",
-    "difficulty": "hard",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_105",
-    "traditionName": "Carnaval des oranges de Kaunas",
-    "country": "Lituanie",
-    "region": "Kaunas",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Lettonie",
-      "Lituanie",
-      "France",
-      "Estonie"
-    ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Kaunas, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Kaunas.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_106",
-    "traditionName": "Course des bougies de Luxembourg-Ville",
-    "country": "Luxembourg",
-    "region": "Luxembourg-Ville",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bougies.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Espagne",
-      "Allemagne",
-      "Tchéquie",
-      "Luxembourg"
-    ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Luxembourg-Ville, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Luxembourg-Ville.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_107",
-    "traditionName": "Carnaval des poupées de paille de Nadur",
-    "country": "Malte",
-    "region": "Nadur",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des poupées de paille.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Malte",
-      "Slovaquie",
-      "Chypre",
-      "Lituanie"
-    ],
-    "correctAnswer_fr": "Malte",
-    "explanation_fr": "Cette question parle de Nadur, en Malte. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Malte, avec un ancrage régional indiqué : Nadur.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_108",
-    "traditionName": "Défilé des paniers décorés de Luxembourg-Ville",
-    "country": "Luxembourg",
-    "region": "Luxembourg-Ville",
     "scenario_fr": "Une fête transforme les rues en scène de bataille avec des paniers décorés.",
     "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Luxembourg",
-      "Slovaquie",
-      "Slovénie",
-      "Tchéquie"
+      "Hongrie",
+      "Allemagne",
+      "Pologne",
+      "Irlande"
     ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Luxembourg-Ville, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Luxembourg-Ville.",
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Bataille des paniers décorés de Hortobágy. Pays : Hongrie. Région ou lieu : Hortobágy. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
       "bataille festive",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_109",
-    "traditionName": "Fête de la grande bougies de Larnaca",
-    "country": "Chypre",
-    "region": "Larnaca",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des bougies de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Slovaquie",
-      "Autriche",
-      "Italie",
-      "Chypre"
-    ],
-    "correctAnswer_fr": "Chypre",
-    "explanation_fr": "Cette question parle de Larnaca, en Chypre. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Chypre, avec un ancrage régional indiqué : Larnaca.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_110",
-    "traditionName": "Fête de la grande couronnes de Transylvanie",
-    "country": "Roumanie",
-    "region": "Transylvanie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "France",
-      "Autriche",
-      "Chypre",
-      "Roumanie"
-    ],
-    "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Transylvanie, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Transylvanie.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_111",
-    "traditionName": "Course des fromage de Bratislava",
+    "id": "trad_258",
+    "traditionName": "Carnaval des chèvre de Bratislava",
     "country": "Slovaquie",
     "region": "Bratislava",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant un fromage.",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
     "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Lettonie",
+      "Chypre",
       "Slovaquie",
-      "Irlande",
-      "Belgique"
+      "Grèce",
+      "Estonie"
     ],
     "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Bratislava, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Bratislava.",
+    "explanation_fr": "Nom de la tradition : Carnaval des chèvre de Bratislava. Pays : Slovaquie. Région ou lieu : Bratislava. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
       "concours",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_112",
-    "traditionName": "Fête de la grande fleurs de Maramureș",
-    "country": "Roumanie",
-    "region": "Maramureș",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des fleurs.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "id": "trad_259",
+    "traditionName": "Carnaval des citrons de Dublin",
+    "country": "Irlande",
+    "region": "Dublin",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Danemark",
-      "Portugal",
-      "Roumanie",
-      "Croatie"
+      "Finlande",
+      "Lituanie",
+      "Chypre",
+      "Irlande"
     ],
-    "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Maramureș, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Maramureș.",
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Carnaval des citrons de Dublin. Pays : Irlande. Région ou lieu : Dublin. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_113",
-    "traditionName": "Rituel des fromage de Tyrol",
-    "country": "Autriche",
-    "region": "Tyrol",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant un fromage.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "id": "trad_260",
+    "traditionName": "Procession des bateaux décorés de Laponie",
+    "country": "Finlande",
+    "region": "Laponie",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Allemagne",
-      "Grèce",
-      "Autriche",
-      "Tchéquie"
-    ],
-    "correctAnswer_fr": "Autriche",
-    "explanation_fr": "Cette question parle de Tyrol, en Autriche. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Autriche, avec un ancrage régional indiqué : Tyrol.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_114",
-    "traditionName": "Bataille des couronnes de Harz",
-    "country": "Allemagne",
-    "region": "Harz",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des couronnes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Luxembourg",
-      "Allemagne",
-      "Roumanie",
+      "Tchéquie",
+      "Finlande",
+      "Italie",
       "Lituanie"
     ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Harz, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Harz.",
-    "difficulty": "hard",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_115",
-    "traditionName": "Fête de la grande paniers décorés de Dalarna",
-    "country": "Suède",
-    "region": "Dalarna",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Luxembourg",
-      "Irlande",
-      "Lettonie",
-      "Suède"
-    ],
-    "correctAnswer_fr": "Suède",
-    "explanation_fr": "Cette question parle de Dalarna, en Suède. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Suède, avec un ancrage régional indiqué : Dalarna.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_116",
-    "traditionName": "Défilé des tomates de Copenhague",
-    "country": "Danemark",
-    "region": "Copenhague",
-    "scenario_fr": "Des habitants se poursuivent avec des tomates pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Allemagne",
-      "Croatie",
-      "Irlande",
-      "Danemark"
-    ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Copenhague, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Copenhague.",
-    "difficulty": "easy",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_117",
-    "traditionName": "Challenge des cloches de Sardaigne",
-    "country": "Italie",
-    "region": "Sardaigne",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Italie",
-      "Autriche",
-      "Danemark",
-      "Allemagne"
-    ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Sardaigne, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Sardaigne.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_118",
-    "traditionName": "Festival des marteaux en plastique de Kurzeme",
-    "country": "Lettonie",
-    "region": "Kurzeme",
-    "scenario_fr": "Des habitants se poursuivent avec des marteaux en plastique pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Lituanie",
-      "Allemagne",
-      "Lettonie",
-      "Italie"
-    ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Kurzeme, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Kurzeme.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_119",
-    "traditionName": "Challenge des eau de Rijeka",
-    "country": "Croatie",
-    "region": "Rijeka",
-    "scenario_fr": "Des habitants se poursuivent avec de l’eau pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Irlande",
-      "Tchéquie",
-      "Pologne",
-      "Croatie"
-    ],
-    "correctAnswer_fr": "Croatie",
-    "explanation_fr": "Cette question parle de Rijeka, en Croatie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Croatie, avec un ancrage régional indiqué : Rijeka.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_120",
-    "traditionName": "Challenge des oranges de Mazovie",
-    "country": "Pologne",
-    "region": "Mazovie",
-    "scenario_fr": "Des habitants se poursuivent avec des oranges pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Croatie",
-      "Chypre",
-      "Pologne",
-      "Finlande"
-    ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Mazovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Mazovie.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_121",
-    "traditionName": "Rituel des paniers décorés de Sardaigne",
-    "country": "Italie",
-    "region": "Sardaigne",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des paniers décorés.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Autriche",
-      "Malte",
-      "Italie",
-      "Portugal"
-    ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Sardaigne, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Sardaigne.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_122",
-    "traditionName": "Challenge des cloches de Harz",
-    "country": "Allemagne",
-    "region": "Harz",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "France",
-      "Italie",
-      "Allemagne",
-      "Slovaquie"
-    ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Harz, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Harz.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_123",
-    "traditionName": "Rituel des costumes d’animaux de Ptuj",
-    "country": "Slovénie",
-    "region": "Ptuj",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Autriche",
-      "Slovénie",
-      "Irlande",
-      "Estonie"
-    ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Ptuj, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Ptuj.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_124",
-    "traditionName": "Bataille des couronnes de Kerry",
-    "country": "Irlande",
-    "region": "Kerry",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Irlande",
-      "Lituanie",
-      "Espagne",
-      "Estonie"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Kerry, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Kerry.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_125",
-    "traditionName": "Bataille des eau de Rhénanie",
-    "country": "Allemagne",
-    "region": "Rhénanie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Allemagne",
-      "Pays-Bas",
-      "Pologne",
-      "Croatie"
-    ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Rhénanie, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Rhénanie.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_126",
-    "traditionName": "Challenge des marteaux en plastique de Hortobágy",
-    "country": "Hongrie",
-    "region": "Hortobágy",
-    "scenario_fr": "Des habitants se poursuivent avec des marteaux en plastique pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Hongrie",
-      "Chypre",
-      "Luxembourg",
-      "Allemagne"
-    ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Hortobágy, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Hortobágy.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_127",
-    "traditionName": "Challenge des marteaux en plastique de Castille-et-León",
-    "country": "Espagne",
-    "region": "Castille-et-León",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des marteaux en plastique.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Slovaquie",
-      "Luxembourg",
-      "Espagne",
-      "Portugal"
-    ],
-    "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Castille-et-León, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Castille-et-León.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_128",
-    "traditionName": "Carnaval des costumes d’animaux de Kerry",
-    "country": "Irlande",
-    "region": "Kerry",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Grèce",
-      "Lituanie",
-      "Estonie",
-      "Irlande"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Kerry, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Kerry.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_129",
-    "traditionName": "Challenge des fleurs de Oostduinkerke",
-    "country": "Belgique",
-    "region": "Oostduinkerke",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Estonie",
-      "Lituanie",
-      "Belgique",
-      "Italie"
-    ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Oostduinkerke, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Oostduinkerke.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_130",
-    "traditionName": "Nuit des chèvre de Clare",
-    "country": "Irlande",
-    "region": "Clare",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Croatie",
-      "Belgique",
-      "Malte",
-      "Irlande"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Clare, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Clare.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_131",
-    "traditionName": "Course des couronnes de Latgale",
-    "country": "Lettonie",
-    "region": "Latgale",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Tchéquie",
-      "Lettonie",
-      "Hongrie",
-      "France"
-    ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Latgale, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Latgale.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_132",
-    "traditionName": "Carnaval des chèvre de Clare",
-    "country": "Irlande",
-    "region": "Clare",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Luxembourg",
-      "Irlande",
-      "Belgique",
-      "Malte"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Clare, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Clare.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_133",
-    "traditionName": "Défilé des costumes d’animaux de Vienne",
-    "country": "Autriche",
-    "region": "Vienne",
-    "scenario_fr": "Des habitants se poursuivent avec des costumes d’animaux pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Hongrie",
-      "Suède",
-      "Autriche",
-      "Luxembourg"
-    ],
-    "correctAnswer_fr": "Autriche",
-    "explanation_fr": "Cette question parle de Vienne, en Autriche. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Autriche, avec un ancrage régional indiqué : Vienne.",
-    "difficulty": "easy",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_134",
-    "traditionName": "Défilé des bateaux décorés de Pernik",
-    "country": "Bulgarie",
-    "region": "Pernik",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Luxembourg",
-      "Chypre",
-      "Bulgarie",
-      "Espagne"
-    ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Pernik, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Pernik.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_135",
-    "traditionName": "Nuit des fromage de Bavière",
-    "country": "Allemagne",
-    "region": "Bavière",
-    "scenario_fr": "Des habitants se poursuivent avec un fromage pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Croatie",
-      "Allemagne",
-      "Pays-Bas",
-      "Malte"
-    ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Bavière, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Bavière.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_136",
-    "traditionName": "Nuit des poupées de paille de Galaxidi",
-    "country": "Grèce",
-    "region": "Galaxidi",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des poupées de paille.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Slovénie",
-      "Lettonie",
-      "Tchéquie",
-      "Grèce"
-    ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Galaxidi, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Galaxidi.",
-    "difficulty": "hard",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_137",
-    "traditionName": "Challenge des pains rituels de Salzbourg",
-    "country": "Autriche",
-    "region": "Salzbourg",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Finlande",
-      "Irlande",
-      "Autriche",
-      "Luxembourg"
-    ],
-    "correctAnswer_fr": "Autriche",
-    "explanation_fr": "Cette question parle de Salzbourg, en Autriche. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Autriche, avec un ancrage régional indiqué : Salzbourg.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_138",
-    "traditionName": "Festival des pains rituels de Occitanie",
-    "country": "France",
-    "region": "Occitanie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des pains rituels de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Malte",
-      "Espagne",
-      "Italie",
-      "France"
-    ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Occitanie, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Occitanie.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_139",
-    "traditionName": "Festival des marteaux en plastique de Setomaa",
-    "country": "Estonie",
-    "region": "Setomaa",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des marteaux en plastique.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Portugal",
-      "Hongrie",
-      "Estonie",
-      "Chypre"
-    ],
-    "correctAnswer_fr": "Estonie",
-    "explanation_fr": "Cette question parle de Setomaa, en Estonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Estonie, avec un ancrage régional indiqué : Setomaa.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_140",
-    "traditionName": "Bataille des farine de Mazovie",
-    "country": "Pologne",
-    "region": "Mazovie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Pologne",
-      "Roumanie",
-      "Autriche",
-      "Allemagne"
-    ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Mazovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Mazovie.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_141",
-    "traditionName": "Carnaval des bateaux décorés de Kalofer",
-    "country": "Bulgarie",
-    "region": "Kalofer",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Espagne",
-      "Croatie",
-      "Grèce",
-      "Bulgarie"
-    ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Kalofer, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Kalofer.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_142",
-    "traditionName": "Défilé des masques de Oostduinkerke",
-    "country": "Belgique",
-    "region": "Oostduinkerke",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des masques de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Lituanie",
-      "Belgique",
-      "Grèce",
-      "Suède"
-    ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Oostduinkerke, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Oostduinkerke.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_143",
-    "traditionName": "Nuit des cloches de Kurzeme",
-    "country": "Lettonie",
-    "region": "Kurzeme",
-    "scenario_fr": "Des habitants se poursuivent avec des cloches pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Bulgarie",
-      "Estonie",
-      "Danemark",
-      "Lettonie"
-    ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Kurzeme, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Kurzeme.",
-    "difficulty": "hard",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_144",
-    "traditionName": "Bataille des lanternes de Sonkajärvi",
-    "country": "Finlande",
-    "region": "Sonkajärvi",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des lanternes de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Suède",
-      "Finlande",
-      "Malte",
-      "France"
-    ],
     "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Sonkajärvi, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Sonkajärvi.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_145",
-    "traditionName": "Défilé des fleurs de Trakai",
-    "country": "Lituanie",
-    "region": "Trakai",
-    "scenario_fr": "Des habitants se poursuivent avec des fleurs pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Belgique",
-      "Lituanie",
-      "Estonie",
-      "Italie"
-    ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Trakai, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Trakai.",
-    "difficulty": "easy",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_146",
-    "traditionName": "Rituel des paniers décorés de Sinj",
-    "country": "Croatie",
-    "region": "Sinj",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des paniers décorés.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Slovaquie",
-      "Bulgarie",
-      "Malte",
-      "Croatie"
-    ],
-    "correctAnswer_fr": "Croatie",
-    "explanation_fr": "Cette question parle de Sinj, en Croatie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Croatie, avec un ancrage régional indiqué : Sinj.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_147",
-    "traditionName": "Festival des oranges de Wiltz",
-    "country": "Luxembourg",
-    "region": "Wiltz",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Autriche",
-      "France",
-      "Luxembourg",
-      "Pologne"
-    ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Wiltz, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Wiltz.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_148",
-    "traditionName": "Challenge des tomates de Oostduinkerke",
-    "country": "Belgique",
-    "region": "Oostduinkerke",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des tomates.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Suède",
-      "Belgique",
-      "Pologne",
-      "Espagne"
-    ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Oostduinkerke, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Oostduinkerke.",
-    "difficulty": "medium",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_149",
-    "traditionName": "Procession des lanternes de Sofia",
-    "country": "Bulgarie",
-    "region": "Sofia",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des lanternes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Estonie",
-      "Croatie",
-      "Grèce",
-      "Bulgarie"
-    ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Sofia, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Sofia.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_150",
-    "traditionName": "Nuit des pains rituels de Harz",
-    "country": "Allemagne",
-    "region": "Harz",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des pains rituels de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Allemagne",
-      "Slovénie",
-      "Croatie",
-      "Danemark"
-    ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Harz, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Harz.",
-    "difficulty": "easy",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_151",
-    "traditionName": "Festival des couronnes de Vienne",
-    "country": "Autriche",
-    "region": "Vienne",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des couronnes.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Autriche",
-      "Lettonie",
-      "Irlande",
-      "Bulgarie"
-    ],
-    "correctAnswer_fr": "Autriche",
-    "explanation_fr": "Cette question parle de Vienne, en Autriche. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Autriche, avec un ancrage régional indiqué : Vienne.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_152",
-    "traditionName": "Course des chèvre de Wiltz",
-    "country": "Luxembourg",
-    "region": "Wiltz",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Pologne",
-      "Allemagne",
-      "Luxembourg",
-      "Grèce"
-    ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Wiltz, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Wiltz.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_153",
-    "traditionName": "Rituel des œufs peints de Kurzeme",
-    "country": "Lettonie",
-    "region": "Kurzeme",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Grèce",
-      "Lettonie",
-      "France",
-      "Belgique"
-    ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Kurzeme, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Kurzeme.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_154",
-    "traditionName": "Nuit des œufs peints de Larnaca",
-    "country": "Chypre",
-    "region": "Larnaca",
-    "scenario_fr": "Des habitants se poursuivent avec des œufs peints pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Luxembourg",
-      "Chypre",
-      "Lettonie",
-      "Espagne"
-    ],
-    "correctAnswer_fr": "Chypre",
-    "explanation_fr": "Cette question parle de Larnaca, en Chypre. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Chypre, avec un ancrage régional indiqué : Larnaca.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_155",
-    "traditionName": "Carnaval des lanternes de Moravie",
-    "country": "Tchéquie",
-    "region": "Moravie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des lanternes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Lituanie",
-      "Croatie",
-      "Tchéquie",
-      "Grèce"
-    ],
-    "correctAnswer_fr": "Tchéquie",
-    "explanation_fr": "Cette question parle de Moravie, en Tchéquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Tchéquie, avec un ancrage régional indiqué : Moravie.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_156",
-    "traditionName": "Procession des pains rituels de Vénétie",
-    "country": "Italie",
-    "region": "Vénétie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Roumanie",
-      "Italie",
-      "Suède",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Vénétie, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Vénétie.",
-    "difficulty": "hard",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_157",
-    "traditionName": "Rituel des chèvre de Clare",
-    "country": "Irlande",
-    "region": "Clare",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Danemark",
-      "Espagne",
-      "Irlande",
-      "Grèce"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Clare, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Clare.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_158",
-    "traditionName": "Challenge des rubans de Clare",
-    "country": "Irlande",
-    "region": "Clare",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Lettonie",
-      "Espagne",
-      "France",
-      "Irlande"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Clare, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Clare.",
+    "explanation_fr": "Nom de la tradition : Procession des bateaux décorés de Laponie. Pays : Finlande. Région ou lieu : Laponie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
       "masques",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_159",
-    "traditionName": "Procession des bougies de Gouda",
-    "country": "Pays-Bas",
-    "region": "Gouda",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bougies.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Pays-Bas",
-      "Croatie",
-      "Estonie",
-      "Portugal"
-    ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Gouda, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Gouda.",
-    "difficulty": "hard",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_160",
-    "traditionName": "Challenge des poupées de paille de Sonkajärvi",
-    "country": "Finlande",
-    "region": "Sonkajärvi",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des poupées de paille de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Slovénie",
-      "Irlande",
-      "Hongrie",
-      "Finlande"
-    ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Sonkajärvi, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Sonkajärvi.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_161",
-    "traditionName": "Festival des pains rituels de Aalborg",
-    "country": "Danemark",
-    "region": "Aalborg",
-    "scenario_fr": "Des habitants se poursuivent avec des pains rituels pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Suède",
-      "Tchéquie",
-      "Danemark",
-      "Portugal"
-    ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Aalborg, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Aalborg.",
-    "difficulty": "easy",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_162",
-    "traditionName": "Procession des rubans de Jutland",
-    "country": "Danemark",
-    "region": "Jutland",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des rubans.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Chypre",
-      "France",
-      "Danemark",
-      "Lettonie"
-    ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Jutland, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Jutland.",
-    "difficulty": "medium",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_163",
-    "traditionName": "Bataille des poupées de paille de Mohács",
-    "country": "Hongrie",
-    "region": "Mohács",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des poupées de paille de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Hongrie",
-      "Grèce",
-      "Italie",
-      "Irlande"
-    ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Mohács, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Mohács.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_164",
-    "traditionName": "Challenge des chèvre de Valence",
-    "country": "Espagne",
-    "region": "Valence",
-    "scenario_fr": "Des habitants se poursuivent avec une chèvre pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Bulgarie",
-      "Hongrie",
-      "Espagne",
-      "Slovaquie"
-    ],
-    "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Valence, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Valence.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_165",
-    "traditionName": "Carnaval des farine de Galaxidi",
-    "country": "Grèce",
-    "region": "Galaxidi",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant de la farine.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Tchéquie",
-      "Portugal",
-      "Bulgarie",
-      "Grèce"
-    ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Galaxidi, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Galaxidi.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_166",
-    "traditionName": "Rituel des bougies de Bretagne",
-    "country": "France",
-    "region": "Bretagne",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "France",
-      "Lettonie",
-      "Roumanie",
-      "Portugal"
-    ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Bretagne, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Bretagne.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_167",
-    "traditionName": "Défilé des rubans de Tyrol",
+    "id": "trad_261",
+    "traditionName": "Bataille des chèvre de Tyrol",
     "country": "Autriche",
     "region": "Tyrol",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des rubans.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Autriche",
-      "Malte",
-      "Pologne",
-      "Danemark"
-    ],
-    "correctAnswer_fr": "Autriche",
-    "explanation_fr": "Cette question parle de Tyrol, en Autriche. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Autriche, avec un ancrage régional indiqué : Tyrol.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_168",
-    "traditionName": "Festival des poupées de paille de Moravie",
-    "country": "Tchéquie",
-    "region": "Moravie",
     "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
     "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Irlande",
-      "Malte",
-      "Portugal",
-      "Tchéquie"
+      "Estonie",
+      "Autriche",
+      "Lettonie",
+      "Portugal"
     ],
-    "correctAnswer_fr": "Tchéquie",
-    "explanation_fr": "Cette question parle de Moravie, en Tchéquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Tchéquie, avec un ancrage régional indiqué : Moravie.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_169",
-    "traditionName": "Nuit des oranges de Toscane",
-    "country": "Italie",
-    "region": "Toscane",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des oranges de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Slovénie",
-      "Italie",
-      "Pologne",
-      "Irlande"
-    ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Toscane, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Toscane.",
+    "correctAnswer_fr": "Autriche",
+    "explanation_fr": "Nom de la tradition : Bataille des chèvre de Tyrol. Pays : Autriche. Région ou lieu : Tyrol. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_170",
-    "traditionName": "Nuit des bateaux décorés de Latgale",
-    "country": "Lettonie",
-    "region": "Latgale",
+    "id": "trad_262",
+    "traditionName": "Festival des bateaux décorés de Dubrovnik",
+    "country": "Croatie",
+    "region": "Dubrovnik",
     "scenario_fr": "Des habitants se poursuivent avec des bateaux décorés pendant une fête locale.",
     "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Italie",
-      "Lettonie",
-      "Grèce",
-      "Allemagne"
+      "Croatie",
+      "Chypre",
+      "Malte",
+      "Pays-Bas"
     ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Latgale, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Latgale.",
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Festival des bateaux décorés de Dubrovnik. Pays : Croatie. Région ou lieu : Dubrovnik. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
       "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_171",
-    "traditionName": "Challenge des farine de Gävle",
-    "country": "Suède",
-    "region": "Gävle",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer de la farine de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Malte",
-      "Lituanie",
-      "Suède",
-      "Croatie"
-    ],
-    "correctAnswer_fr": "Suède",
-    "explanation_fr": "Cette question parle de Gävle, en Suède. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Suède, avec un ancrage régional indiqué : Gävle.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_172",
-    "traditionName": "Course des lanternes de Limassol",
-    "country": "Chypre",
-    "region": "Limassol",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des lanternes.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Pologne",
-      "Chypre",
-      "Slovénie",
-      "Roumanie"
-    ],
-    "correctAnswer_fr": "Chypre",
-    "explanation_fr": "Cette question parle de Limassol, en Chypre. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Chypre, avec un ancrage régional indiqué : Limassol.",
-    "difficulty": "hard",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_173",
-    "traditionName": "Fête de la grande rubans de Alsace",
-    "country": "France",
-    "region": "Alsace",
+    "id": "trad_263",
+    "traditionName": "Nuit des rubans de Vilnius",
+    "country": "Lituanie",
+    "region": "Vilnius",
     "scenario_fr": "Un village entier se rassemble pour fabriquer des rubans de taille démesurée.",
     "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Tchéquie",
-      "Hongrie",
       "Slovénie",
-      "France"
+      "Lituanie",
+      "Tchéquie",
+      "Danemark"
     ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Alsace, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Alsace.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_174",
-    "traditionName": "Procession des oranges de Copenhague",
-    "country": "Danemark",
-    "region": "Copenhague",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Danemark",
-      "Grèce",
-      "Croatie",
-      "Chypre"
-    ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Copenhague, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Copenhague.",
+    "correctAnswer_fr": "Lituanie",
+    "explanation_fr": "Nom de la tradition : Nuit des rubans de Vilnius. Pays : Lituanie. Région ou lieu : Vilnius. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_175",
-    "traditionName": "Défilé des cloches de Tartu",
-    "country": "Estonie",
-    "region": "Tartu",
+    "id": "trad_264",
+    "traditionName": "Fête de la grande citrons de Bohême",
+    "country": "Tchéquie",
+    "region": "Bohême",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des citrons de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Tchéquie",
+      "Italie",
+      "Portugal",
+      "Pologne"
+    ],
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande citrons de Bohême. Pays : Tchéquie. Région ou lieu : Bohême. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_265",
+    "traditionName": "Défilé des mannequins de Catalogne",
+    "country": "Espagne",
+    "region": "Catalogne",
     "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
     "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Chypre",
-      "Italie",
-      "Croatie",
+      "Bulgarie",
+      "Tchéquie",
+      "Luxembourg",
+      "Espagne"
+    ],
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Défilé des mannequins de Catalogne. Pays : Espagne. Région ou lieu : Catalogne. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
+    "tags": [
+      "masques",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_266",
+    "traditionName": "Fête de la grande oranges de Tallinn",
+    "country": "Estonie",
+    "region": "Tallinn",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "answers_fr": [
+      "France",
+      "Portugal",
+      "Slovaquie",
       "Estonie"
     ],
     "correctAnswer_fr": "Estonie",
-    "explanation_fr": "Cette question parle de Tartu, en Estonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Estonie, avec un ancrage régional indiqué : Tartu.",
-    "difficulty": "hard",
+    "explanation_fr": "Nom de la tradition : Fête de la grande oranges de Tallinn. Pays : Estonie. Région ou lieu : Tallinn. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
       "masques",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_176",
-    "traditionName": "Rituel des fleurs de Gävle",
-    "country": "Suède",
-    "region": "Gävle",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Lettonie",
-      "Portugal",
-      "Suède",
-      "Slovaquie"
-    ],
-    "correctAnswer_fr": "Suède",
-    "explanation_fr": "Cette question parle de Gävle, en Suède. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Suède, avec un ancrage régional indiqué : Gävle.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_177",
-    "traditionName": "Nuit des pains rituels de Alkmaar",
-    "country": "Pays-Bas",
-    "region": "Alkmaar",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
+    "id": "trad_267",
+    "traditionName": "Fête de la grande paniers décorés de Bruxelles",
+    "country": "Belgique",
+    "region": "Bruxelles",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des paniers décorés.",
     "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Portugal",
-      "Danemark",
-      "Pays-Bas",
+      "Lituanie",
+      "Irlande",
+      "Grèce",
       "Belgique"
     ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Alkmaar, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Alkmaar.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_178",
-    "traditionName": "Rituel des fleurs de Alkmaar",
-    "country": "Pays-Bas",
-    "region": "Alkmaar",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des fleurs.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Italie",
-      "Malte",
-      "Grèce",
-      "Pays-Bas"
-    ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Alkmaar, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Alkmaar.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_179",
-    "traditionName": "Festival des masques de Kaunas",
-    "country": "Lituanie",
-    "region": "Kaunas",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des masques de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Malte",
-      "Finlande",
-      "Lituanie",
-      "Hongrie"
-    ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Kaunas, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Kaunas.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_180",
-    "traditionName": "Procession des fleurs de Maramureș",
-    "country": "Roumanie",
-    "region": "Maramureș",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Roumanie",
-      "Pays-Bas",
-      "Allemagne",
-      "Portugal"
-    ],
-    "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Maramureș, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Maramureș.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_181",
-    "traditionName": "Rituel des chèvre de Vilnius",
-    "country": "Lituanie",
-    "region": "Vilnius",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer une chèvre de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Autriche",
-      "Slovaquie",
-      "Grèce",
-      "Lituanie"
-    ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Vilnius, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Vilnius.",
-    "difficulty": "easy",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_182",
-    "traditionName": "Nuit des couronnes de Detva",
-    "country": "Slovaquie",
-    "region": "Detva",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des couronnes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Tchéquie",
-      "Pays-Bas",
-      "Slovaquie",
-      "Autriche"
-    ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Detva, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Detva.",
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Fête de la grande paniers décorés de Bruxelles. Pays : Belgique. Région ou lieu : Bruxelles. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
       "concours",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_183",
-    "traditionName": "Course des bateaux décorés de Wiltz",
-    "country": "Luxembourg",
-    "region": "Wiltz",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des bateaux décorés de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Autriche",
-      "Finlande",
-      "Lituanie",
-      "Luxembourg"
-    ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Wiltz, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Wiltz.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_184",
-    "traditionName": "Rituel des lanternes de Tallinn",
-    "country": "Estonie",
-    "region": "Tallinn",
-    "scenario_fr": "Des habitants se poursuivent avec des lanternes pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Roumanie",
-      "Estonie",
-      "Lettonie",
-      "Pays-Bas"
-    ],
-    "correctAnswer_fr": "Estonie",
-    "explanation_fr": "Cette question parle de Tallinn, en Estonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Estonie, avec un ancrage régional indiqué : Tallinn.",
-    "difficulty": "easy",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_185",
-    "traditionName": "Challenge des marteaux en plastique de Idrija",
-    "country": "Slovénie",
-    "region": "Idrija",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des marteaux en plastique.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Slovénie",
-      "Bulgarie",
-      "Malte",
-      "Lituanie"
-    ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Idrija, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Idrija.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_186",
-    "traditionName": "Fête de la grande cloches de Sonkajärvi",
-    "country": "Finlande",
-    "region": "Sonkajärvi",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des cloches de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Suède",
-      "Malte",
-      "Finlande",
-      "Danemark"
-    ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Sonkajärvi, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Sonkajärvi.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_187",
-    "traditionName": "Rituel des marteaux en plastique de Patras",
-    "country": "Grèce",
-    "region": "Patras",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des marteaux en plastique.",
+    "id": "trad_268",
+    "traditionName": "Festival des citrouilles de Gozo",
+    "country": "Malte",
+    "region": "Gozo",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des citrouilles.",
     "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
       "Grèce",
-      "Danemark",
-      "Hongrie",
-      "Allemagne"
+      "Malte",
+      "Tchéquie",
+      "Belgique"
     ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Patras, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Patras.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Festival des citrouilles de Gozo. Pays : Malte. Région ou lieu : Gozo. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrouilles; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
       "bataille festive",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_188",
-    "traditionName": "Bataille des costumes d’animaux de Kaunas",
-    "country": "Lituanie",
-    "region": "Kaunas",
+    "id": "trad_269",
+    "traditionName": "Rituel des citrons de Sonkajärvi",
+    "country": "Finlande",
+    "region": "Sonkajärvi",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des citrons.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "answers_fr": [
+      "Italie",
+      "Danemark",
+      "Pologne",
+      "Finlande"
+    ],
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Rituel des citrons de Sonkajärvi. Pays : Finlande. Région ou lieu : Sonkajärvi. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "bataille festive",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_270",
+    "traditionName": "Festival des citrouilles de Sofia",
+    "country": "Bulgarie",
+    "region": "Sofia",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des citrouilles de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "answers_fr": [
+      "Bulgarie",
+      "Malte",
+      "France",
+      "Pays-Bas"
+    ],
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Festival des citrouilles de Sofia. Pays : Bulgarie. Région ou lieu : Sofia. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrouilles; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
+    "tags": [
+      "objet géant",
+      "insolite"
+    ],
+    "verificationStatus": "to_verify"
+  },
+  {
+    "id": "trad_271",
+    "traditionName": "Fête de la grande costumes d’animaux de Scanie",
+    "country": "Suède",
+    "region": "Scanie",
     "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des costumes d’animaux.",
     "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Estonie",
-      "Slovaquie",
-      "France",
-      "Lituanie"
+      "Portugal",
+      "Pays-Bas",
+      "Suède",
+      "Danemark"
     ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Kaunas, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Kaunas.",
+    "correctAnswer_fr": "Suède",
+    "explanation_fr": "Nom de la tradition : Fête de la grande costumes d’animaux de Scanie. Pays : Suède. Région ou lieu : Scanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
       "concours",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_189",
-    "traditionName": "Carnaval des bateaux décorés de Sardaigne",
-    "country": "Italie",
-    "region": "Sardaigne",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bateaux décorés.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "id": "trad_272",
+    "traditionName": "Défilé des citrons de Rhénanie",
+    "country": "Allemagne",
+    "region": "Rhénanie",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des citrons.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Lituanie",
-      "Roumanie",
-      "Italie",
-      "Grèce"
-    ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Sardaigne, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Sardaigne.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_190",
-    "traditionName": "Nuit des bateaux décorés de Latgale",
-    "country": "Lettonie",
-    "region": "Latgale",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bateaux décorés.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Lettonie",
-      "Luxembourg",
-      "Suède",
-      "Irlande"
-    ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Latgale, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Latgale.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_191",
-    "traditionName": "Course des chèvre de Nadur",
-    "country": "Malte",
-    "region": "Nadur",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Luxembourg",
-      "Slovaquie",
-      "Grèce",
-      "Malte"
-    ],
-    "correctAnswer_fr": "Malte",
-    "explanation_fr": "Cette question parle de Nadur, en Malte. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Malte, avec un ancrage régional indiqué : Nadur.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_192",
-    "traditionName": "Course des couronnes de Mohács",
-    "country": "Hongrie",
-    "region": "Mohács",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des couronnes de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Finlande",
-      "Lituanie",
+      "Allemagne",
       "Chypre",
-      "Hongrie"
+      "Slovénie",
+      "Danemark"
     ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Mohács, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Mohács.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Allemagne",
+    "explanation_fr": "Nom de la tradition : Défilé des citrons de Rhénanie. Pays : Allemagne. Région ou lieu : Rhénanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
-    "id": "trad_193",
+    "id": "trad_273",
     "traditionName": "Procession des cloches de Tomar",
     "country": "Portugal",
     "region": "Tomar",
@@ -4414,4778 +5992,2810 @@ const QUESTIONS_400 = [
     "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
       "Portugal",
-      "Belgique",
-      "Hongrie",
-      "Luxembourg"
-    ],
-    "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Tomar, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Tomar.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_194",
-    "traditionName": "Course des rubans de Occitanie",
-    "country": "France",
-    "region": "Occitanie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des rubans.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Lituanie",
-      "Irlande",
-      "France",
-      "Grèce"
-    ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Occitanie, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Occitanie.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_195",
-    "traditionName": "Course des bougies de Sofia",
-    "country": "Bulgarie",
-    "region": "Sofia",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Irlande",
-      "Slovaquie",
       "Suède",
+      "Tchéquie",
       "Bulgarie"
     ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Sofia, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Sofia.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_196",
-    "traditionName": "Carnaval des pains rituels de Kerry",
-    "country": "Irlande",
-    "region": "Kerry",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des pains rituels de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Pologne",
-      "Lituanie",
-      "Irlande",
-      "Lettonie"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Kerry, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Kerry.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_197",
-    "traditionName": "Nuit des cloches de Cracovie",
-    "country": "Pologne",
-    "region": "Cracovie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des cloches.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Pays-Bas",
-      "Pologne",
-      "Chypre",
-      "Danemark"
-    ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Cracovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Cracovie.",
-    "difficulty": "hard",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_198",
-    "traditionName": "Challenge des poupées de paille de Tatras",
-    "country": "Slovaquie",
-    "region": "Tatras",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des poupées de paille de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Slovénie",
-      "Slovaquie",
-      "Autriche",
-      "Malte"
-    ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Tatras, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Tatras.",
-    "difficulty": "easy",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_199",
-    "traditionName": "Rituel des couronnes de Aalborg",
-    "country": "Danemark",
-    "region": "Aalborg",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des couronnes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Roumanie",
-      "Danemark",
-      "Espagne",
-      "Tchéquie"
-    ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Aalborg, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Aalborg.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_200",
-    "traditionName": "Procession des œufs peints de Patras",
-    "country": "Grèce",
-    "region": "Patras",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des œufs peints.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Grèce",
-      "Estonie",
-      "Tchéquie",
-      "Danemark"
-    ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Patras, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Patras.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_201",
-    "traditionName": "Fête de la grande costumes d’animaux de Alsace",
-    "country": "France",
-    "region": "Alsace",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des costumes d’animaux de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Estonie",
-      "Luxembourg",
-      "Pologne",
-      "France"
-    ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Alsace, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Alsace.",
-    "difficulty": "easy",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_202",
-    "traditionName": "Challenge des fleurs de Pernik",
-    "country": "Bulgarie",
-    "region": "Pernik",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des fleurs.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Bulgarie",
-      "France",
-      "Slovaquie",
-      "Suède"
-    ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Pernik, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Pernik.",
-    "difficulty": "hard",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_203",
-    "traditionName": "Bataille des masques de Bled",
-    "country": "Slovénie",
-    "region": "Bled",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des masques.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Estonie",
-      "Lettonie",
-      "Malte",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Bled, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Bled.",
-    "difficulty": "hard",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_204",
-    "traditionName": "Procession des fleurs de Transylvanie",
-    "country": "Roumanie",
-    "region": "Transylvanie",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des fleurs.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Slovénie",
-      "Danemark",
-      "Tchéquie",
-      "Roumanie"
-    ],
-    "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Transylvanie, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Transylvanie.",
-    "difficulty": "medium",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_205",
-    "traditionName": "Carnaval des pains rituels de Scanie",
-    "country": "Suède",
-    "region": "Scanie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des pains rituels de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Portugal",
-      "Suède",
-      "Lettonie",
-      "Slovaquie"
-    ],
-    "correctAnswer_fr": "Suède",
-    "explanation_fr": "Cette question parle de Scanie, en Suède. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Suède, avec un ancrage régional indiqué : Scanie.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_206",
-    "traditionName": "Festival des fleurs de Vienne",
-    "country": "Autriche",
-    "region": "Vienne",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Suède",
-      "Autriche",
-      "Roumanie",
-      "Slovaquie"
-    ],
-    "correctAnswer_fr": "Autriche",
-    "explanation_fr": "Cette question parle de Vienne, en Autriche. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Autriche, avec un ancrage régional indiqué : Vienne.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_207",
-    "traditionName": "Bataille des rubans de Galaxidi",
-    "country": "Grèce",
-    "region": "Galaxidi",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des rubans.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Luxembourg",
-      "Grèce",
-      "Chypre",
-      "Portugal"
-    ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Galaxidi, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Galaxidi.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_208",
-    "traditionName": "Défilé des bougies de Jutland",
-    "country": "Danemark",
-    "region": "Jutland",
-    "scenario_fr": "Des habitants se poursuivent avec des bougies pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Croatie",
-      "Suède",
-      "Pays-Bas",
-      "Danemark"
-    ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Jutland, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Jutland.",
-    "difficulty": "easy",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_209",
-    "traditionName": "Nuit des tomates de Hortobágy",
-    "country": "Hongrie",
-    "region": "Hortobágy",
-    "scenario_fr": "Des habitants se poursuivent avec des tomates pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Bulgarie",
-      "Pologne",
-      "Estonie",
-      "Hongrie"
-    ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Hortobágy, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Hortobágy.",
-    "difficulty": "easy",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_210",
-    "traditionName": "Défilé des farine de Tartu",
-    "country": "Estonie",
-    "region": "Tartu",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant de la farine.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Belgique",
-      "Irlande",
-      "Estonie",
-      "Espagne"
-    ],
-    "correctAnswer_fr": "Estonie",
-    "explanation_fr": "Cette question parle de Tartu, en Estonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Estonie, avec un ancrage régional indiqué : Tartu.",
-    "difficulty": "hard",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_211",
-    "traditionName": "Fête de la grande cloches de Bohême",
-    "country": "Tchéquie",
-    "region": "Bohême",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des cloches.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Tchéquie",
-      "Danemark",
-      "France",
-      "Pologne"
-    ],
-    "correctAnswer_fr": "Tchéquie",
-    "explanation_fr": "Cette question parle de Bohême, en Tchéquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Tchéquie, avec un ancrage régional indiqué : Bohême.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_212",
-    "traditionName": "Bataille des bateaux décorés de Setomaa",
-    "country": "Estonie",
-    "region": "Setomaa",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des bateaux décorés de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Estonie",
-      "France",
-      "Portugal",
-      "Luxembourg"
-    ],
-    "correctAnswer_fr": "Estonie",
-    "explanation_fr": "Cette question parle de Setomaa, en Estonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Estonie, avec un ancrage régional indiqué : Setomaa.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_213",
-    "traditionName": "Fête de la grande marteaux en plastique de Aalborg",
-    "country": "Danemark",
-    "region": "Aalborg",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des marteaux en plastique.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Tchéquie",
-      "Portugal",
-      "Danemark",
-      "Finlande"
-    ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Aalborg, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Aalborg.",
-    "difficulty": "medium",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_214",
-    "traditionName": "Course des farine de Detva",
-    "country": "Slovaquie",
-    "region": "Detva",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant de la farine.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Slovaquie",
-      "Finlande",
-      "Croatie",
-      "Malte"
-    ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Detva, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Detva.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_215",
-    "traditionName": "Défilé des bateaux décorés de Occitanie",
-    "country": "France",
-    "region": "Occitanie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "France",
-      "Chypre",
-      "Slovaquie",
-      "Espagne"
-    ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Occitanie, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Occitanie.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_216",
-    "traditionName": "Procession des farine de Trakai",
-    "country": "Lituanie",
-    "region": "Trakai",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Belgique",
-      "Luxembourg",
-      "Lituanie",
-      "Allemagne"
-    ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Trakai, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Trakai.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_217",
-    "traditionName": "Fête de la grande pains rituels de Bavière",
-    "country": "Allemagne",
-    "region": "Bavière",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des pains rituels.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Lettonie",
-      "Grèce",
-      "Allemagne",
-      "Suède"
-    ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Bavière, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Bavière.",
-    "difficulty": "hard",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_218",
-    "traditionName": "Procession des bougies de Navarre",
-    "country": "Espagne",
-    "region": "Navarre",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Espagne",
-      "Lituanie",
-      "Autriche",
-      "Finlande"
-    ],
-    "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Navarre, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Navarre.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_219",
-    "traditionName": "Nuit des fromage de Hortobágy",
-    "country": "Hongrie",
-    "region": "Hortobágy",
-    "scenario_fr": "Des habitants se poursuivent avec un fromage pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Pologne",
-      "Belgique",
-      "Allemagne",
-      "Hongrie"
-    ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Hortobágy, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Hortobágy.",
-    "difficulty": "hard",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_220",
-    "traditionName": "Festival des paniers décorés de Tomar",
-    "country": "Portugal",
-    "region": "Tomar",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des paniers décorés de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Slovénie",
-      "Portugal",
-      "Estonie",
-      "Luxembourg"
-    ],
     "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Tomar, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Tomar.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_221",
-    "traditionName": "Rituel des poupées de paille de Trakai",
-    "country": "Lituanie",
-    "region": "Trakai",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des poupées de paille.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Lettonie",
-      "Portugal",
-      "Lituanie",
-      "Suède"
-    ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Trakai, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Trakai.",
-    "difficulty": "hard",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_222",
-    "traditionName": "Course des bateaux décorés de Detva",
-    "country": "Slovaquie",
-    "region": "Detva",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Suède",
-      "Slovaquie",
-      "Tchéquie",
-      "Danemark"
-    ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Detva, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Detva.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_223",
-    "traditionName": "Challenge des paniers décorés de Kerry",
-    "country": "Irlande",
-    "region": "Kerry",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Chypre",
-      "Danemark",
-      "Belgique",
-      "Irlande"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Kerry, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Kerry.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_224",
-    "traditionName": "Festival des bougies de Maramureș",
-    "country": "Roumanie",
-    "region": "Maramureș",
-    "scenario_fr": "Des habitants se poursuivent avec des bougies pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Danemark",
-      "Roumanie",
-      "Finlande",
-      "Hongrie"
-    ],
-    "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Maramureș, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Maramureș.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_225",
-    "traditionName": "Nuit des fromage de Kurzeme",
-    "country": "Lettonie",
-    "region": "Kurzeme",
-    "scenario_fr": "Des habitants se poursuivent avec un fromage pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Lettonie",
-      "Slovaquie",
-      "Lituanie",
-      "Bulgarie"
-    ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Kurzeme, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Kurzeme.",
-    "difficulty": "hard",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_226",
-    "traditionName": "Bataille des pains rituels de Moravie",
-    "country": "Tchéquie",
-    "region": "Moravie",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des pains rituels.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "France",
-      "Tchéquie",
-      "Allemagne",
-      "Danemark"
-    ],
-    "correctAnswer_fr": "Tchéquie",
-    "explanation_fr": "Cette question parle de Moravie, en Tchéquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Tchéquie, avec un ancrage régional indiqué : Moravie.",
-    "difficulty": "medium",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_227",
-    "traditionName": "Challenge des eau de Larnaca",
-    "country": "Chypre",
-    "region": "Larnaca",
-    "scenario_fr": "Des habitants se poursuivent avec de l’eau pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Chypre",
-      "Irlande",
-      "Belgique",
-      "Luxembourg"
-    ],
-    "correctAnswer_fr": "Chypre",
-    "explanation_fr": "Cette question parle de Larnaca, en Chypre. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Chypre, avec un ancrage régional indiqué : Larnaca.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_228",
-    "traditionName": "Rituel des bateaux décorés de Galaxidi",
-    "country": "Grèce",
-    "region": "Galaxidi",
-    "scenario_fr": "Des habitants se poursuivent avec des bateaux décorés pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Autriche",
-      "Bulgarie",
-      "Grèce",
-      "Irlande"
-    ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Galaxidi, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Galaxidi.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_229",
-    "traditionName": "Bataille des costumes d’animaux de Wallonie",
-    "country": "Belgique",
-    "region": "Wallonie",
-    "scenario_fr": "Des habitants se poursuivent avec des costumes d’animaux pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Croatie",
-      "Pologne",
-      "Bulgarie",
-      "Belgique"
-    ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Wallonie, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Wallonie.",
-    "difficulty": "easy",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_230",
-    "traditionName": "Course des couronnes de Oostduinkerke",
-    "country": "Belgique",
-    "region": "Oostduinkerke",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des couronnes.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Tchéquie",
-      "Luxembourg",
-      "Slovénie",
-      "Belgique"
-    ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Oostduinkerke, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Oostduinkerke.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_231",
-    "traditionName": "Bataille des fromage de Idrija",
-    "country": "Slovénie",
-    "region": "Idrija",
-    "scenario_fr": "Des habitants se poursuivent avec un fromage pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Slovénie",
-      "Allemagne",
-      "Hongrie",
-      "Espagne"
-    ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Idrija, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Idrija.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_232",
-    "traditionName": "Défilé des eau de Laponie",
-    "country": "Finlande",
-    "region": "Laponie",
-    "scenario_fr": "Des habitants se poursuivent avec de l’eau pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Estonie",
-      "Espagne",
-      "Lettonie",
-      "Finlande"
-    ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Laponie, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Laponie.",
-    "difficulty": "hard",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_233",
-    "traditionName": "Fête de la grande cloches de Valletta",
-    "country": "Malte",
-    "region": "Valletta",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Lettonie",
-      "Autriche",
-      "Tchéquie",
-      "Malte"
-    ],
-    "correctAnswer_fr": "Malte",
-    "explanation_fr": "Cette question parle de Valletta, en Malte. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Malte, avec un ancrage régional indiqué : Valletta.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_234",
-    "traditionName": "Festival des masques de Trakai",
-    "country": "Lituanie",
-    "region": "Trakai",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des masques.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Hongrie",
-      "Danemark",
-      "Chypre",
-      "Lituanie"
-    ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Trakai, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Trakai.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_235",
-    "traditionName": "Nuit des rubans de Valletta",
-    "country": "Malte",
-    "region": "Valletta",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des rubans.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "France",
-      "Pologne",
-      "Croatie",
-      "Malte"
-    ],
-    "correctAnswer_fr": "Malte",
-    "explanation_fr": "Cette question parle de Valletta, en Malte. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Malte, avec un ancrage régional indiqué : Valletta.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_236",
-    "traditionName": "Défilé des tomates de Laponie",
-    "country": "Finlande",
-    "region": "Laponie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des tomates.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Slovénie",
-      "Finlande",
-      "Belgique",
-      "Chypre"
-    ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Laponie, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Laponie.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_237",
-    "traditionName": "Carnaval des farine de Sinj",
-    "country": "Croatie",
-    "region": "Sinj",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant de la farine.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Tchéquie",
-      "Espagne",
-      "Croatie",
-      "France"
-    ],
-    "correctAnswer_fr": "Croatie",
-    "explanation_fr": "Cette question parle de Sinj, en Croatie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Croatie, avec un ancrage régional indiqué : Sinj.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_238",
-    "traditionName": "Course des paniers décorés de Kerry",
-    "country": "Irlande",
-    "region": "Kerry",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des paniers décorés.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Finlande",
-      "Irlande",
-      "Tchéquie",
-      "Hongrie"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Kerry, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Kerry.",
+    "explanation_fr": "Nom de la tradition : Procession des cloches de Tomar. Pays : Portugal. Région ou lieu : Tomar. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
       "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_239",
-    "traditionName": "Rituel des eau de Harz",
-    "country": "Allemagne",
-    "region": "Harz",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de l’eau.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Roumanie",
-      "Portugal",
-      "Allemagne",
-      "Pays-Bas"
-    ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Harz, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Harz.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_240",
-    "traditionName": "Challenge des oranges de Hortobágy",
-    "country": "Hongrie",
-    "region": "Hortobágy",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des oranges.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Hongrie",
-      "Italie",
-      "France",
-      "Croatie"
-    ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Hortobágy, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Hortobágy.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_241",
-    "traditionName": "Course des masques de Patras",
-    "country": "Grèce",
-    "region": "Patras",
-    "scenario_fr": "Des habitants se poursuivent avec des masques pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Grèce",
-      "Lettonie",
-      "Luxembourg",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Patras, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Patras.",
-    "difficulty": "easy",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_242",
-    "traditionName": "Bataille des bougies de Luxembourg-Ville",
-    "country": "Luxembourg",
-    "region": "Luxembourg-Ville",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bougies.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Lettonie",
-      "Luxembourg",
-      "Hongrie",
-      "Italie"
-    ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Luxembourg-Ville, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Luxembourg-Ville.",
-    "difficulty": "hard",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_243",
-    "traditionName": "Rituel des lanternes de Vienne",
-    "country": "Autriche",
-    "region": "Vienne",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Lettonie",
-      "Luxembourg",
-      "Autriche",
-      "Estonie"
-    ],
-    "correctAnswer_fr": "Autriche",
-    "explanation_fr": "Cette question parle de Vienne, en Autriche. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Autriche, avec un ancrage régional indiqué : Vienne.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_244",
-    "traditionName": "Course des tomates de Bratislava",
-    "country": "Slovaquie",
-    "region": "Bratislava",
-    "scenario_fr": "Des habitants se poursuivent avec des tomates pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Tchéquie",
-      "Lettonie",
-      "Slovaquie",
-      "Pays-Bas"
-    ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Bratislava, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Bratislava.",
-    "difficulty": "easy",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_245",
-    "traditionName": "Défilé des bateaux décorés de Detva",
-    "country": "Slovaquie",
-    "region": "Detva",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bateaux décorés.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Finlande",
-      "Slovaquie",
-      "Slovénie",
-      "Hongrie"
-    ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Detva, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Detva.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_246",
-    "traditionName": "Festival des marteaux en plastique de Kalofer",
-    "country": "Bulgarie",
-    "region": "Kalofer",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des marteaux en plastique de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Bulgarie",
-      "Pologne",
-      "Roumanie",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Kalofer, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Kalofer.",
-    "difficulty": "easy",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_247",
-    "traditionName": "Challenge des tomates de Occitanie",
-    "country": "France",
-    "region": "Occitanie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des tomates de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "France",
-      "Espagne",
-      "Pologne",
-      "Finlande"
-    ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Occitanie, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Occitanie.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_248",
-    "traditionName": "Fête de la grande fleurs de Castille-et-León",
-    "country": "Espagne",
-    "region": "Castille-et-León",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Chypre",
-      "Espagne",
-      "Tchéquie",
-      "Lituanie"
-    ],
-    "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Castille-et-León, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Castille-et-León.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_249",
-    "traditionName": "Bataille des oranges de Silésie",
-    "country": "Pologne",
-    "region": "Silésie",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des oranges.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "France",
-      "Irlande",
-      "Pologne",
-      "Tchéquie"
-    ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Silésie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Silésie.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_250",
-    "traditionName": "Festival des bateaux décorés de Hortobágy",
-    "country": "Hongrie",
-    "region": "Hortobágy",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bateaux décorés.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Estonie",
-      "Hongrie",
-      "Belgique",
-      "Suède"
-    ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Hortobágy, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Hortobágy.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_251",
-    "traditionName": "Nuit des cloches de Kerry",
-    "country": "Irlande",
-    "region": "Kerry",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des cloches.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Roumanie",
-      "Finlande",
-      "Irlande",
-      "Luxembourg"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Kerry, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Kerry.",
-    "difficulty": "hard",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_252",
-    "traditionName": "Rituel des eau de Alsace",
-    "country": "France",
-    "region": "Alsace",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Slovénie",
-      "France",
-      "Chypre",
-      "Roumanie"
-    ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Alsace, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Alsace.",
-    "difficulty": "hard",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_253",
-    "traditionName": "Course des cloches de Porto",
-    "country": "Portugal",
-    "region": "Porto",
-    "scenario_fr": "Des habitants se poursuivent avec des cloches pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Portugal",
-      "Chypre",
-      "Grèce",
-      "Slovaquie"
-    ],
-    "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Porto, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Porto.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_254",
-    "traditionName": "Challenge des fleurs de Bled",
-    "country": "Slovénie",
-    "region": "Bled",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des fleurs.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Finlande",
-      "Roumanie",
-      "Slovénie",
-      "Lituanie"
-    ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Bled, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Bled.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_255",
-    "traditionName": "Nuit des bougies de Setomaa",
-    "country": "Estonie",
-    "region": "Setomaa",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bougies.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Danemark",
-      "Slovaquie",
-      "Estonie",
-      "Lettonie"
-    ],
-    "correctAnswer_fr": "Estonie",
-    "explanation_fr": "Cette question parle de Setomaa, en Estonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Estonie, avec un ancrage régional indiqué : Setomaa.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_256",
-    "traditionName": "Procession des lanternes de Occitanie",
-    "country": "France",
-    "region": "Occitanie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des lanternes de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Belgique",
-      "France",
-      "Tchéquie",
-      "Chypre"
-    ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Occitanie, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Occitanie.",
-    "difficulty": "easy",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_257",
-    "traditionName": "Rituel des fleurs de Oulu",
-    "country": "Finlande",
-    "region": "Oulu",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des fleurs.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "France",
-      "Tchéquie",
-      "Finlande",
-      "Suède"
-    ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Oulu, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Oulu.",
-    "difficulty": "hard",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_258",
-    "traditionName": "Nuit des rubans de Silésie",
-    "country": "Pologne",
-    "region": "Silésie",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des rubans.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Finlande",
-      "Belgique",
-      "Pologne",
-      "Suède"
-    ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Silésie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Silésie.",
-    "difficulty": "hard",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_259",
-    "traditionName": "Course des cloches de Patras",
-    "country": "Grèce",
-    "region": "Patras",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Grèce",
-      "Lituanie",
-      "France",
-      "Croatie"
-    ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Patras, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Patras.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_260",
-    "traditionName": "Nuit des pains rituels de Idrija",
-    "country": "Slovénie",
-    "region": "Idrija",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Suède",
-      "Finlande",
-      "Estonie",
-      "Slovénie"
-    ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Idrija, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Idrija.",
-    "difficulty": "easy",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_261",
-    "traditionName": "Bataille des poupées de paille de Alsace",
-    "country": "France",
-    "region": "Alsace",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des poupées de paille de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Malte",
-      "France",
-      "Grèce",
-      "Italie"
-    ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Alsace, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Alsace.",
-    "difficulty": "medium",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_262",
-    "traditionName": "Challenge des bateaux décorés de Dublin",
-    "country": "Irlande",
-    "region": "Dublin",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "France",
-      "Irlande",
-      "Grèce",
-      "Italie"
-    ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Dublin, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Dublin.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_263",
-    "traditionName": "Course des pains rituels de Gouda",
-    "country": "Pays-Bas",
-    "region": "Gouda",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Allemagne",
-      "Belgique",
-      "Pays-Bas",
-      "Hongrie"
-    ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Gouda, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Gouda.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_264",
-    "traditionName": "Nuit des bateaux décorés de Harz",
-    "country": "Allemagne",
-    "region": "Harz",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Hongrie",
-      "Allemagne",
-      "Bulgarie",
-      "Roumanie"
-    ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Harz, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Harz.",
-    "difficulty": "medium",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_265",
-    "traditionName": "Carnaval des marteaux en plastique de Alkmaar",
-    "country": "Pays-Bas",
-    "region": "Alkmaar",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des marteaux en plastique.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Espagne",
-      "Pays-Bas",
-      "Danemark",
-      "Lettonie"
-    ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Alkmaar, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Alkmaar.",
-    "difficulty": "easy",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_266",
-    "traditionName": "Bataille des chèvre de Tatras",
-    "country": "Slovaquie",
-    "region": "Tatras",
-    "scenario_fr": "Des habitants se poursuivent avec une chèvre pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Portugal",
-      "Slovaquie",
-      "Danemark",
-      "Pays-Bas"
-    ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Tatras, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Tatras.",
-    "difficulty": "medium",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_267",
-    "traditionName": "Procession des œufs peints de Oostduinkerke",
-    "country": "Belgique",
-    "region": "Oostduinkerke",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des œufs peints.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Belgique",
-      "Suède",
-      "Estonie",
-      "Roumanie"
-    ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Oostduinkerke, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Oostduinkerke.",
-    "difficulty": "medium",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_268",
-    "traditionName": "Rituel des rubans de Kalofer",
-    "country": "Bulgarie",
-    "region": "Kalofer",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des rubans.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Malte",
-      "Roumanie",
-      "Bulgarie",
-      "Chypre"
-    ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Kalofer, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Kalofer.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_269",
-    "traditionName": "Rituel des paniers décorés de Kurzeme",
-    "country": "Lettonie",
-    "region": "Kurzeme",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
-    "answers_fr": [
-      "Slovénie",
-      "Allemagne",
-      "Portugal",
-      "Lettonie"
-    ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Kurzeme, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Kurzeme.",
-    "difficulty": "easy",
-    "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_270",
-    "traditionName": "Course des bougies de Limassol",
-    "country": "Chypre",
-    "region": "Limassol",
-    "scenario_fr": "Des habitants se poursuivent avec des bougies pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
-    "answers_fr": [
-      "Bulgarie",
-      "Espagne",
-      "Tchéquie",
-      "Chypre"
-    ],
-    "correctAnswer_fr": "Chypre",
-    "explanation_fr": "Cette question parle de Limassol, en Chypre. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Chypre, avec un ancrage régional indiqué : Limassol.",
-    "difficulty": "hard",
-    "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_271",
-    "traditionName": "Course des eau de Gävle",
-    "country": "Suède",
-    "region": "Gävle",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer de l’eau de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
-    "answers_fr": [
-      "Allemagne",
-      "Irlande",
-      "Suède",
-      "France"
-    ],
-    "correctAnswer_fr": "Suède",
-    "explanation_fr": "Cette question parle de Gävle, en Suède. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Suède, avec un ancrage régional indiqué : Gävle.",
-    "difficulty": "hard",
-    "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_272",
-    "traditionName": "Rituel des bougies de Transylvanie",
-    "country": "Roumanie",
-    "region": "Transylvanie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bougies.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
-    "answers_fr": [
-      "Autriche",
-      "Roumanie",
-      "Tchéquie",
-      "Espagne"
-    ],
-    "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Transylvanie, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Transylvanie.",
-    "difficulty": "medium",
-    "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
-    ],
-    "verificationStatus": "to_verify"
-  },
-  {
-    "id": "trad_273",
-    "traditionName": "Festival des cloches de Kalofer",
-    "country": "Bulgarie",
-    "region": "Kalofer",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des cloches.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
-    "answers_fr": [
-      "Bulgarie",
-      "Lituanie",
-      "Belgique",
-      "Pays-Bas"
-    ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Kalofer, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Kalofer.",
-    "difficulty": "medium",
-    "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_274",
-    "traditionName": "Fête de la grande œufs peints de Scanie",
-    "country": "Suède",
-    "region": "Scanie",
-    "scenario_fr": "Des habitants se poursuivent avec des œufs peints pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Fête de la grande couronnes de Madère",
+    "country": "Portugal",
+    "region": "Madère",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des couronnes.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Suède",
-      "Malte",
-      "Italie",
-      "Portugal"
+      "Slovaquie",
+      "Chypre",
+      "Portugal",
+      "Allemagne"
     ],
-    "correctAnswer_fr": "Suède",
-    "explanation_fr": "Cette question parle de Scanie, en Suède. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Suède, avec un ancrage régional indiqué : Scanie.",
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Fête de la grande couronnes de Madère. Pays : Portugal. Région ou lieu : Madère. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_275",
-    "traditionName": "Challenge des cloches de Harz",
-    "country": "Allemagne",
-    "region": "Harz",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des cloches.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Course des cloches de Larnaca",
+    "country": "Chypre",
+    "region": "Larnaca",
+    "scenario_fr": "Des habitants se poursuivent avec des cloches pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Luxembourg",
+      "Lettonie",
       "Irlande",
-      "Pologne",
-      "Allemagne"
+      "Italie",
+      "Chypre"
     ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Harz, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Harz.",
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Course des cloches de Larnaca. Pays : Chypre. Région ou lieu : Larnaca. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_276",
-    "traditionName": "Procession des eau de Valence",
+    "traditionName": "Carnaval des marteaux en plastique de Castille-et-León",
     "country": "Espagne",
-    "region": "Valence",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de l’eau.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "region": "Castille-et-León",
+    "scenario_fr": "Des habitants se poursuivent avec des marteaux en plastique pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Slovaquie",
+      "Irlande",
       "Espagne",
-      "Pologne",
-      "Bulgarie"
+      "Roumanie",
+      "Chypre"
     ],
     "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Valence, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Valence.",
+    "explanation_fr": "Nom de la tradition : Carnaval des marteaux en plastique de Castille-et-León. Pays : Espagne. Région ou lieu : Castille-et-León. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_277",
-    "traditionName": "Challenge des bateaux décorés de Gävle",
-    "country": "Suède",
-    "region": "Gävle",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bateaux décorés.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Nuit des eau de Bratislava",
+    "country": "Slovaquie",
+    "region": "Bratislava",
+    "scenario_fr": "Des habitants transportent de l’eau dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Suède",
+      "Lituanie",
       "Slovénie",
-      "Luxembourg",
-      "Belgique"
+      "Slovaquie",
+      "Autriche"
     ],
-    "correctAnswer_fr": "Suède",
-    "explanation_fr": "Cette question parle de Gävle, en Suède. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Suède, avec un ancrage régional indiqué : Gävle.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Nuit des eau de Bratislava. Pays : Slovaquie. Région ou lieu : Bratislava. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_278",
-    "traditionName": "Fête de la grande costumes d’animaux de Dublin",
-    "country": "Irlande",
-    "region": "Dublin",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Nuit des cloches de Sinj",
+    "country": "Croatie",
+    "region": "Sinj",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des cloches.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Belgique",
-      "Tchéquie",
-      "Italie",
-      "Irlande"
+      "Croatie",
+      "France",
+      "Allemagne",
+      "Pologne"
     ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Dublin, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Dublin.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Nuit des cloches de Sinj. Pays : Croatie. Région ou lieu : Sinj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_279",
-    "traditionName": "Fête de la grande oranges de Rijeka",
-    "country": "Croatie",
-    "region": "Rijeka",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des oranges.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Festival des citrons de Pernik",
+    "country": "Bulgarie",
+    "region": "Pernik",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Italie",
-      "Croatie",
-      "Lettonie",
-      "Tchéquie"
+      "Chypre",
+      "Bulgarie",
+      "Suède",
+      "Lettonie"
     ],
-    "correctAnswer_fr": "Croatie",
-    "explanation_fr": "Cette question parle de Rijeka, en Croatie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Croatie, avec un ancrage régional indiqué : Rijeka.",
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Festival des citrons de Pernik. Pays : Bulgarie. Région ou lieu : Pernik. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_280",
-    "traditionName": "Fête de la grande paniers décorés de Cracovie",
-    "country": "Pologne",
-    "region": "Cracovie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des paniers décorés.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Challenge des costumes d’animaux de Scanie",
+    "country": "Suède",
+    "region": "Scanie",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des costumes d’animaux de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Malte",
-      "Chypre",
-      "Pologne",
+      "Suède",
+      "Slovaquie",
+      "Irlande",
       "Danemark"
     ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Cracovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Cracovie.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Suède",
+    "explanation_fr": "Nom de la tradition : Challenge des costumes d’animaux de Scanie. Pays : Suède. Région ou lieu : Scanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_281",
-    "traditionName": "Rituel des fleurs de Gouda",
-    "country": "Pays-Bas",
-    "region": "Gouda",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des fleurs.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Fête de la grande marteaux en plastique de Rhénanie",
+    "country": "Allemagne",
+    "region": "Rhénanie",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des marteaux en plastique de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Portugal",
-      "Lituanie",
-      "Pays-Bas",
-      "Suède"
+      "Lettonie",
+      "Slovaquie",
+      "Tchéquie",
+      "Allemagne"
     ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Gouda, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Gouda.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Allemagne",
+    "explanation_fr": "Nom de la tradition : Fête de la grande marteaux en plastique de Rhénanie. Pays : Allemagne. Région ou lieu : Rhénanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_282",
-    "traditionName": "Rituel des farine de Frise",
-    "country": "Pays-Bas",
-    "region": "Frise",
+    "traditionName": "Procession des bateaux décorés de Castille-et-León",
+    "country": "Espagne",
+    "region": "Castille-et-León",
     "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
     "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Hongrie",
+      "Lettonie",
       "Pays-Bas",
-      "Belgique",
-      "Suède"
+      "Italie",
+      "Espagne"
     ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Frise, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Frise.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Procession des bateaux décorés de Castille-et-León. Pays : Espagne. Région ou lieu : Castille-et-León. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
       "masques",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_283",
-    "traditionName": "Carnaval des rubans de Kaunas",
-    "country": "Lituanie",
-    "region": "Kaunas",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des rubans.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Procession des eau de Larnaca",
+    "country": "Chypre",
+    "region": "Larnaca",
+    "scenario_fr": "Des habitants transportent de l’eau dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Estonie",
-      "Pologne",
       "Chypre",
-      "Lituanie"
+      "Pays-Bas",
+      "Danemark",
+      "Italie"
     ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Kaunas, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Kaunas.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Procession des eau de Larnaca. Pays : Chypre. Région ou lieu : Larnaca. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_284",
-    "traditionName": "Fête de la grande couronnes de Copenhague",
-    "country": "Danemark",
-    "region": "Copenhague",
-    "scenario_fr": "Des habitants se poursuivent avec des couronnes pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Bataille des cloches de Bruxelles",
+    "country": "Belgique",
+    "region": "Bruxelles",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des cloches.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Autriche",
+      "Pays-Bas",
+      "Belgique",
       "Italie",
-      "Pologne",
-      "Danemark"
+      "Estonie"
     ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Copenhague, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Copenhague.",
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Bataille des cloches de Bruxelles. Pays : Belgique. Région ou lieu : Bruxelles. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_285",
-    "traditionName": "Carnaval des eau de Frise",
-    "country": "Pays-Bas",
-    "region": "Frise",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Défilé des chèvre de Bled",
+    "country": "Slovénie",
+    "region": "Bled",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer une chèvre de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Grèce",
-      "Pologne",
       "Pays-Bas",
-      "Bulgarie"
+      "Grèce",
+      "Belgique",
+      "Slovénie"
     ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Frise, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Frise.",
+    "correctAnswer_fr": "Slovénie",
+    "explanation_fr": "Nom de la tradition : Défilé des chèvre de Bled. Pays : Slovénie. Région ou lieu : Bled. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_286",
-    "traditionName": "Course des costumes d’animaux de Sonkajärvi",
-    "country": "Finlande",
-    "region": "Sonkajärvi",
-    "scenario_fr": "Des habitants se poursuivent avec des costumes d’animaux pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Challenge des cloches de Pernik",
+    "country": "Bulgarie",
+    "region": "Pernik",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des cloches.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Croatie",
-      "Slovénie",
-      "Grèce",
-      "Finlande"
+      "France",
+      "Bulgarie",
+      "Lituanie",
+      "Roumanie"
     ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Sonkajärvi, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Sonkajärvi.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Challenge des cloches de Pernik. Pays : Bulgarie. Région ou lieu : Pernik. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_287",
-    "traditionName": "Festival des lanternes de Wallonie",
-    "country": "Belgique",
-    "region": "Wallonie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des lanternes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Bataille des rubans de Maramureș",
+    "country": "Roumanie",
+    "region": "Maramureș",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Slovaquie",
-      "Belgique",
-      "Hongrie",
-      "Croatie"
+      "Slovénie",
+      "Danemark",
+      "Roumanie",
+      "Autriche"
     ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Wallonie, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Wallonie.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Bataille des rubans de Maramureș. Pays : Roumanie. Région ou lieu : Maramureș. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_288",
-    "traditionName": "Rituel des chèvre de Tomar",
-    "country": "Portugal",
-    "region": "Tomar",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Défilé des mannequins de Valletta",
+    "country": "Malte",
+    "region": "Valletta",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Luxembourg",
-      "France",
-      "Autriche",
-      "Portugal"
+      "Lituanie",
+      "Roumanie",
+      "Danemark",
+      "Malte"
     ],
-    "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Tomar, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Tomar.",
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Défilé des mannequins de Valletta. Pays : Malte. Région ou lieu : Valletta. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_289",
-    "traditionName": "Bataille des eau de Detva",
-    "country": "Slovaquie",
-    "region": "Detva",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer de l’eau de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "traditionName": "Course des tomates de Cracovie",
+    "country": "Pologne",
+    "region": "Cracovie",
+    "scenario_fr": "Des habitants transportent des tomates dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Slovaquie",
-      "Portugal",
-      "Allemagne",
-      "Belgique"
+      "Lettonie",
+      "Slovénie",
+      "France",
+      "Pologne"
     ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Detva, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Detva.",
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Course des tomates de Cracovie. Pays : Pologne. Région ou lieu : Cracovie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des tomates; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_290",
-    "traditionName": "Challenge des fleurs de Nadur",
-    "country": "Malte",
-    "region": "Nadur",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des fleurs.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Festival des paniers décorés de Latgale",
+    "country": "Lettonie",
+    "region": "Latgale",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des paniers décorés.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Grèce",
+      "Lettonie",
       "Malte",
-      "Slovaquie",
-      "Lettonie"
+      "Autriche",
+      "Chypre"
     ],
-    "correctAnswer_fr": "Malte",
-    "explanation_fr": "Cette question parle de Nadur, en Malte. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Malte, avec un ancrage régional indiqué : Nadur.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Lettonie",
+    "explanation_fr": "Nom de la tradition : Festival des paniers décorés de Latgale. Pays : Lettonie. Région ou lieu : Latgale. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_291",
-    "traditionName": "Challenge des fromage de Kalofer",
+    "traditionName": "Défilé des fromage de Pernik",
     "country": "Bulgarie",
-    "region": "Kalofer",
+    "region": "Pernik",
     "scenario_fr": "Des habitants se poursuivent avec un fromage pendant une fête locale.",
     "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
+      "Malte",
+      "Portugal",
       "Bulgarie",
-      "Autriche",
-      "Estonie",
-      "Belgique"
+      "Chypre"
     ],
     "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Kalofer, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Kalofer.",
-    "difficulty": "easy",
+    "explanation_fr": "Nom de la tradition : Défilé des fromage de Pernik. Pays : Bulgarie. Région ou lieu : Pernik. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
       "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_292",
-    "traditionName": "Rituel des pains rituels de Galaxidi",
-    "country": "Grèce",
-    "region": "Galaxidi",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des pains rituels de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "traditionName": "Course des couronnes de Echternach",
+    "country": "Luxembourg",
+    "region": "Echternach",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des couronnes.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Danemark",
-      "Espagne",
-      "Lituanie",
-      "Grèce"
+      "Hongrie",
+      "Estonie",
+      "Luxembourg",
+      "Portugal"
     ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Galaxidi, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Galaxidi.",
+    "correctAnswer_fr": "Luxembourg",
+    "explanation_fr": "Nom de la tradition : Course des couronnes de Echternach. Pays : Luxembourg. Région ou lieu : Echternach. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_293",
-    "traditionName": "Fête de la grande farine de Nadur",
-    "country": "Malte",
-    "region": "Nadur",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant de la farine.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Carnaval des costumes d’animaux de Bled",
+    "country": "Slovénie",
+    "region": "Bled",
+    "scenario_fr": "Des habitants se poursuivent avec des costumes d’animaux pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Slovénie",
-      "Finlande",
-      "Malte",
-      "Croatie"
+      "Espagne",
+      "Portugal",
+      "Italie",
+      "Slovénie"
     ],
-    "correctAnswer_fr": "Malte",
-    "explanation_fr": "Cette question parle de Nadur, en Malte. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Malte, avec un ancrage régional indiqué : Nadur.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Slovénie",
+    "explanation_fr": "Nom de la tradition : Carnaval des costumes d’animaux de Bled. Pays : Slovénie. Région ou lieu : Bled. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_294",
-    "traditionName": "Festival des poupées de paille de Clare",
-    "country": "Irlande",
-    "region": "Clare",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Nuit des fleurs de Ptuj",
+    "country": "Slovénie",
+    "region": "Ptuj",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des fleurs.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
       "Finlande",
-      "Lituanie",
       "Grèce",
-      "Irlande"
+      "Slovénie",
+      "Portugal"
     ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Clare, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Clare.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Slovénie",
+    "explanation_fr": "Nom de la tradition : Nuit des fleurs de Ptuj. Pays : Slovénie. Région ou lieu : Ptuj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_295",
-    "traditionName": "Bataille des couronnes de Sinj",
+    "traditionName": "Course des eau de Dubrovnik",
     "country": "Croatie",
-    "region": "Sinj",
-    "scenario_fr": "Des habitants se poursuivent avec des couronnes pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "region": "Dubrovnik",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
       "Finlande",
-      "Slovaquie",
+      "Slovénie",
       "Croatie",
-      "Pays-Bas"
+      "Slovaquie"
     ],
     "correctAnswer_fr": "Croatie",
-    "explanation_fr": "Cette question parle de Sinj, en Croatie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Croatie, avec un ancrage régional indiqué : Sinj.",
-    "difficulty": "medium",
+    "explanation_fr": "Nom de la tradition : Course des eau de Dubrovnik. Pays : Croatie. Région ou lieu : Dubrovnik. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_296",
-    "traditionName": "Festival des farine de Piémont",
-    "country": "Italie",
-    "region": "Piémont",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer de la farine de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "traditionName": "Rituel des bateaux décorés de Copenhague",
+    "country": "Danemark",
+    "region": "Copenhague",
+    "scenario_fr": "Des habitants se poursuivent avec des bateaux décorés pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Italie",
-      "Slovénie",
+      "Pays-Bas",
       "Belgique",
-      "Pays-Bas"
+      "Danemark",
+      "Pologne"
     ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Piémont, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Piémont.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Rituel des bateaux décorés de Copenhague. Pays : Danemark. Région ou lieu : Copenhague. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_297",
-    "traditionName": "Défilé des rubans de Kurzeme",
-    "country": "Lettonie",
-    "region": "Kurzeme",
-    "scenario_fr": "Des habitants se poursuivent avec des rubans pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Rituel des marteaux en plastique de Budapest",
+    "country": "Hongrie",
+    "region": "Budapest",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des marteaux en plastique.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
       "Irlande",
-      "Lettonie",
-      "Pologne",
-      "Pays-Bas"
+      "Lituanie",
+      "Tchéquie",
+      "Hongrie"
     ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Kurzeme, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Kurzeme.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Rituel des marteaux en plastique de Budapest. Pays : Hongrie. Région ou lieu : Budapest. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_298",
-    "traditionName": "Défilé des costumes d’animaux de Wiltz",
+    "traditionName": "Challenge des farine de Wiltz",
     "country": "Luxembourg",
     "region": "Wiltz",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des costumes d’animaux de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant de la farine.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Grèce",
       "Allemagne",
-      "Slovaquie",
-      "Luxembourg"
+      "Chypre",
+      "Luxembourg",
+      "Grèce"
     ],
     "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Wiltz, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Wiltz.",
+    "explanation_fr": "Nom de la tradition : Challenge des farine de Wiltz. Pays : Luxembourg. Région ou lieu : Wiltz. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de la farine; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_299",
-    "traditionName": "Défilé des oranges de Wallonie",
-    "country": "Belgique",
-    "region": "Wallonie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Rituel des sabots de Castille-et-León",
+    "country": "Espagne",
+    "region": "Castille-et-León",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des sabots.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Estonie",
-      "Suède",
-      "France",
-      "Belgique"
+      "Lettonie",
+      "Espagne",
+      "Portugal",
+      "Irlande"
     ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Wallonie, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Wallonie.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Rituel des sabots de Castille-et-León. Pays : Espagne. Région ou lieu : Castille-et-León. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_300",
-    "traditionName": "Procession des farine de Mazovie",
-    "country": "Pologne",
-    "region": "Mazovie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer de la farine de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "traditionName": "Course des chèvre de Copenhague",
+    "country": "Danemark",
+    "region": "Copenhague",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Pologne",
-      "Malte",
-      "Suède",
-      "Croatie"
+      "France",
+      "Danemark",
+      "Luxembourg",
+      "Portugal"
     ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Mazovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Mazovie.",
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Course des chèvre de Copenhague. Pays : Danemark. Région ou lieu : Copenhague. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_301",
-    "traditionName": "Carnaval des farine de Nadur",
-    "country": "Malte",
-    "region": "Nadur",
-    "scenario_fr": "Des habitants se poursuivent avec de la farine pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Course des instruments imaginaires de Oulu",
+    "country": "Finlande",
+    "region": "Oulu",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des instruments imaginaires de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Tchéquie",
-      "Roumanie",
-      "Malte",
-      "Portugal"
+      "Finlande",
+      "Slovénie",
+      "Danemark",
+      "Chypre"
     ],
-    "correctAnswer_fr": "Malte",
-    "explanation_fr": "Cette question parle de Nadur, en Malte. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Malte, avec un ancrage régional indiqué : Nadur.",
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Course des instruments imaginaires de Oulu. Pays : Finlande. Région ou lieu : Oulu. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_302",
-    "traditionName": "Course des bateaux décorés de Bruxelles",
-    "country": "Belgique",
-    "region": "Bruxelles",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Festival des pains rituels de Silésie",
+    "country": "Pologne",
+    "region": "Silésie",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des pains rituels de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
+      "Pologne",
       "Belgique",
-      "Portugal",
-      "Tchéquie",
-      "France"
+      "Chypre",
+      "Irlande"
     ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Bruxelles, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Bruxelles.",
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Festival des pains rituels de Silésie. Pays : Pologne. Région ou lieu : Silésie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_303",
-    "traditionName": "Défilé des oranges de Sofia",
-    "country": "Bulgarie",
-    "region": "Sofia",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des oranges.",
+    "traditionName": "Challenge des poupées de paille de Moravie",
+    "country": "Tchéquie",
+    "region": "Moravie",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des poupées de paille.",
     "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Suède",
+      "Tchéquie",
+      "Espagne",
       "Belgique",
-      "Pays-Bas",
-      "Bulgarie"
+      "Irlande"
     ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Sofia, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Sofia.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Challenge des poupées de paille de Moravie. Pays : Tchéquie. Région ou lieu : Moravie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
       "bataille festive",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_304",
-    "traditionName": "Procession des couronnes de Trakai",
-    "country": "Lituanie",
-    "region": "Trakai",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des couronnes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Challenge des oranges de Frise",
+    "country": "Pays-Bas",
+    "region": "Frise",
+    "scenario_fr": "Des habitants se poursuivent avec des oranges pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
+      "Pays-Bas",
+      "Bulgarie",
       "Lituanie",
-      "Roumanie",
-      "Belgique",
-      "Bulgarie"
+      "Croatie"
     ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Trakai, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Trakai.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Challenge des oranges de Frise. Pays : Pays-Bas. Région ou lieu : Frise. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_305",
-    "traditionName": "Challenge des chèvre de Cracovie",
-    "country": "Pologne",
-    "region": "Cracovie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Festival des instruments imaginaires de Harz",
+    "country": "Allemagne",
+    "region": "Harz",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des instruments imaginaires.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Pologne",
-      "Pays-Bas",
-      "Tchéquie",
-      "Slovaquie"
+      "Luxembourg",
+      "Hongrie",
+      "Slovaquie",
+      "Allemagne"
     ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Cracovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Cracovie.",
+    "correctAnswer_fr": "Allemagne",
+    "explanation_fr": "Nom de la tradition : Festival des instruments imaginaires de Harz. Pays : Allemagne. Région ou lieu : Harz. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_306",
-    "traditionName": "Procession des couronnes de Bavière",
-    "country": "Allemagne",
-    "region": "Bavière",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des couronnes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Fête de la grande paniers décorés de Detva",
+    "country": "Slovaquie",
+    "region": "Detva",
+    "scenario_fr": "Des habitants se poursuivent avec des paniers décorés pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Hongrie",
-      "Autriche",
-      "Bulgarie",
-      "Allemagne"
+      "Slovaquie",
+      "France",
+      "Lituanie",
+      "Irlande"
     ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Bavière, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Bavière.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande paniers décorés de Detva. Pays : Slovaquie. Région ou lieu : Detva. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_307",
-    "traditionName": "Carnaval des bateaux décorés de Sardaigne",
-    "country": "Italie",
-    "region": "Sardaigne",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Course des mannequins de Kalofer",
+    "country": "Bulgarie",
+    "region": "Kalofer",
+    "scenario_fr": "Des habitants se poursuivent avec des mannequins pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Slovénie",
-      "Tchéquie",
-      "Roumanie",
-      "Italie"
+      "Bulgarie",
+      "Pays-Bas",
+      "Grèce",
+      "Slovaquie"
     ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Sardaigne, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Sardaigne.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Course des mannequins de Kalofer. Pays : Bulgarie. Région ou lieu : Kalofer. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_308",
-    "traditionName": "Rituel des paniers décorés de Larnaca",
-    "country": "Chypre",
-    "region": "Larnaca",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des paniers décorés.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Festival des poupées de paille de Kurzeme",
+    "country": "Lettonie",
+    "region": "Kurzeme",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des poupées de paille de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Belgique",
+      "Lettonie",
       "Finlande",
-      "Slovaquie",
-      "Chypre"
+      "Pays-Bas",
+      "Suède"
     ],
-    "correctAnswer_fr": "Chypre",
-    "explanation_fr": "Cette question parle de Larnaca, en Chypre. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Chypre, avec un ancrage régional indiqué : Larnaca.",
+    "correctAnswer_fr": "Lettonie",
+    "explanation_fr": "Nom de la tradition : Festival des poupées de paille de Kurzeme. Pays : Lettonie. Région ou lieu : Kurzeme. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_309",
-    "traditionName": "Nuit des oranges de Bled",
-    "country": "Slovénie",
-    "region": "Bled",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des oranges.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Carnaval des farine de Prague",
+    "country": "Tchéquie",
+    "region": "Prague",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Autriche",
-      "Lituanie",
-      "Slovénie",
+      "Estonie",
+      "Tchéquie",
+      "Chypre",
       "France"
     ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Bled, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Bled.",
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Carnaval des farine de Prague. Pays : Tchéquie. Région ou lieu : Prague. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de la farine; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_310",
-    "traditionName": "Rituel des bougies de Jutland",
-    "country": "Danemark",
-    "region": "Jutland",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bougies.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Carnaval des oranges de Transylvanie",
+    "country": "Roumanie",
+    "region": "Transylvanie",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des oranges.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Slovénie",
-      "Pays-Bas",
-      "Danemark",
-      "Tchéquie"
+      "Malte",
+      "Roumanie",
+      "Estonie",
+      "Hongrie"
     ],
-    "correctAnswer_fr": "Danemark",
-    "explanation_fr": "Cette question parle de Jutland, en Danemark. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Danemark, avec un ancrage régional indiqué : Jutland.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Carnaval des oranges de Transylvanie. Pays : Roumanie. Région ou lieu : Transylvanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_311",
-    "traditionName": "Course des oranges de Valence",
-    "country": "Espagne",
-    "region": "Valence",
-    "scenario_fr": "Des habitants se poursuivent avec des oranges pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Festival des bateaux décorés de Maramureș",
+    "country": "Roumanie",
+    "region": "Maramureș",
+    "scenario_fr": "Des habitants transportent des bateaux décorés dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Hongrie",
-      "Grèce",
-      "Espagne",
-      "Allemagne"
+      "Malte",
+      "Roumanie",
+      "Luxembourg",
+      "Bulgarie"
     ],
-    "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Valence, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Valence.",
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Festival des bateaux décorés de Maramureș. Pays : Roumanie. Région ou lieu : Maramureș. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_312",
-    "traditionName": "Procession des marteaux en plastique de Maramureș",
-    "country": "Roumanie",
-    "region": "Maramureș",
-    "scenario_fr": "Des habitants se poursuivent avec des marteaux en plastique pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Fête de la grande sabots de Dublin",
+    "country": "Irlande",
+    "region": "Dublin",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des sabots de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Allemagne",
-      "Roumanie",
-      "Hongrie",
-      "Luxembourg"
+      "Finlande",
+      "Belgique",
+      "Bulgarie",
+      "Irlande"
     ],
-    "correctAnswer_fr": "Roumanie",
-    "explanation_fr": "Cette question parle de Maramureș, en Roumanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Roumanie, avec un ancrage régional indiqué : Maramureș.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Fête de la grande sabots de Dublin. Pays : Irlande. Région ou lieu : Dublin. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_313",
-    "traditionName": "Procession des bougies de Patras",
-    "country": "Grèce",
-    "region": "Patras",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bougies.",
+    "traditionName": "Bataille des instruments imaginaires de Madère",
+    "country": "Portugal",
+    "region": "Madère",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des instruments imaginaires.",
     "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Croatie",
-      "Grèce",
-      "Slovénie",
-      "Belgique"
+      "France",
+      "Portugal",
+      "Bulgarie",
+      "Danemark"
     ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Patras, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Patras.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Bataille des instruments imaginaires de Madère. Pays : Portugal. Région ou lieu : Madère. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
       "bataille festive",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_314",
-    "traditionName": "Procession des bougies de Dalarna",
-    "country": "Suède",
-    "region": "Dalarna",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bougies.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Bataille des cloches de Oulu",
+    "country": "Finlande",
+    "region": "Oulu",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Autriche",
-      "Lituanie",
-      "Malte",
-      "Suède"
+      "Slovaquie",
+      "Finlande",
+      "Belgique",
+      "Lituanie"
     ],
-    "correctAnswer_fr": "Suède",
-    "explanation_fr": "Cette question parle de Dalarna, en Suède. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Suède, avec un ancrage régional indiqué : Dalarna.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Bataille des cloches de Oulu. Pays : Finlande. Région ou lieu : Oulu. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_315",
-    "traditionName": "Nuit des œufs peints de Galaxidi",
-    "country": "Grèce",
-    "region": "Galaxidi",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des œufs peints.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Nuit des bateaux décorés de Oulu",
+    "country": "Finlande",
+    "region": "Oulu",
+    "scenario_fr": "Des habitants transportent des bateaux décorés dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Grèce",
-      "Luxembourg",
-      "Autriche",
+      "Suède",
+      "Slovénie",
+      "Pays-Bas",
       "Finlande"
     ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Galaxidi, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Galaxidi.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Nuit des bateaux décorés de Oulu. Pays : Finlande. Région ou lieu : Oulu. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bateaux décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_316",
-    "traditionName": "Procession des paniers décorés de Bohême",
-    "country": "Tchéquie",
-    "region": "Bohême",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des paniers décorés.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Rituel des pains rituels de Valletta",
+    "country": "Malte",
+    "region": "Valletta",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Tchéquie",
-      "Espagne",
-      "Portugal",
-      "Allemagne"
+      "Italie",
+      "Suède",
+      "Grèce",
+      "Malte"
     ],
-    "correctAnswer_fr": "Tchéquie",
-    "explanation_fr": "Cette question parle de Bohême, en Tchéquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Tchéquie, avec un ancrage régional indiqué : Bohême.",
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Rituel des pains rituels de Valletta. Pays : Malte. Région ou lieu : Valletta. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_317",
-    "traditionName": "Festival des pains rituels de Galaxidi",
-    "country": "Grèce",
-    "region": "Galaxidi",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
+    "traditionName": "Rituel des bougies de Sonkajärvi",
+    "country": "Finlande",
+    "region": "Sonkajärvi",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bougies.",
     "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Tchéquie",
-      "Pologne",
-      "Grèce",
-      "Lettonie"
+      "Finlande",
+      "France",
+      "Irlande",
+      "Pays-Bas"
     ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Galaxidi, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Galaxidi.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Rituel des bougies de Sonkajärvi. Pays : Finlande. Région ou lieu : Sonkajärvi. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
       "concours",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_318",
-    "traditionName": "Nuit des marteaux en plastique de Mohács",
-    "country": "Hongrie",
-    "region": "Mohács",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des marteaux en plastique.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Course des mannequins de Patras",
+    "country": "Grèce",
+    "region": "Patras",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des mannequins de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Irlande",
-      "France",
-      "Hongrie",
-      "Croatie"
+      "Pays-Bas",
+      "Grèce",
+      "Lettonie",
+      "Portugal"
     ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Mohács, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Mohács.",
+    "correctAnswer_fr": "Grèce",
+    "explanation_fr": "Nom de la tradition : Course des mannequins de Patras. Pays : Grèce. Région ou lieu : Patras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_319",
-    "traditionName": "Fête de la grande fromage de Nadur",
-    "country": "Malte",
-    "region": "Nadur",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec un fromage.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Défilé des poupées de paille de Rhénanie",
+    "country": "Allemagne",
+    "region": "Rhénanie",
+    "scenario_fr": "Des habitants se poursuivent avec des poupées de paille pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Malte",
       "Allemagne",
-      "Luxembourg",
-      "Autriche"
+      "Tchéquie",
+      "Hongrie",
+      "France"
     ],
-    "correctAnswer_fr": "Malte",
-    "explanation_fr": "Cette question parle de Nadur, en Malte. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Malte, avec un ancrage régional indiqué : Nadur.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Allemagne",
+    "explanation_fr": "Nom de la tradition : Défilé des poupées de paille de Rhénanie. Pays : Allemagne. Région ou lieu : Rhénanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_320",
-    "traditionName": "Fête de la grande costumes d’animaux de Kurzeme",
-    "country": "Lettonie",
-    "region": "Kurzeme",
-    "scenario_fr": "Des habitants se poursuivent avec des costumes d’animaux pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Course des sabots de Rijeka",
+    "country": "Croatie",
+    "region": "Rijeka",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des sabots de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Danemark",
-      "Pays-Bas",
-      "Lettonie",
+      "Croatie",
+      "Luxembourg",
+      "Finlande",
       "Tchéquie"
     ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Kurzeme, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Kurzeme.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Course des sabots de Rijeka. Pays : Croatie. Région ou lieu : Rijeka. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_321",
-    "traditionName": "Nuit des tomates de Gävle",
-    "country": "Suède",
-    "region": "Gävle",
-    "scenario_fr": "Des habitants se poursuivent avec des tomates pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Challenge des marteaux en plastique de Piémont",
+    "country": "Italie",
+    "region": "Piémont",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des marteaux en plastique.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Suède",
-      "Slovaquie",
-      "Croatie",
-      "Roumanie"
+      "Luxembourg",
+      "Lettonie",
+      "Estonie",
+      "Italie"
     ],
-    "correctAnswer_fr": "Suède",
-    "explanation_fr": "Cette question parle de Gävle, en Suède. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Suède, avec un ancrage régional indiqué : Gävle.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Challenge des marteaux en plastique de Piémont. Pays : Italie. Région ou lieu : Piémont. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_322",
-    "traditionName": "Défilé des tomates de Vienne",
-    "country": "Autriche",
-    "region": "Vienne",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des tomates.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Course des poupées de paille de Transylvanie",
+    "country": "Roumanie",
+    "region": "Transylvanie",
+    "scenario_fr": "Des habitants se poursuivent avec des poupées de paille pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Portugal",
-      "Autriche",
-      "Espagne",
-      "Estonie"
+      "Hongrie",
+      "Roumanie",
+      "Croatie",
+      "Lituanie"
     ],
-    "correctAnswer_fr": "Autriche",
-    "explanation_fr": "Cette question parle de Vienne, en Autriche. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Autriche, avec un ancrage régional indiqué : Vienne.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Course des poupées de paille de Transylvanie. Pays : Roumanie. Région ou lieu : Transylvanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_323",
-    "traditionName": "Course des fromage de Kerry",
-    "country": "Irlande",
-    "region": "Kerry",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Carnaval des instruments imaginaires de Madère",
+    "country": "Portugal",
+    "region": "Madère",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des instruments imaginaires.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Irlande",
-      "Croatie",
-      "Chypre",
-      "Belgique"
+      "Italie",
+      "Bulgarie",
+      "Belgique",
+      "Portugal"
     ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Kerry, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Kerry.",
+    "correctAnswer_fr": "Portugal",
+    "explanation_fr": "Nom de la tradition : Carnaval des instruments imaginaires de Madère. Pays : Portugal. Région ou lieu : Madère. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_324",
-    "traditionName": "Festival des masques de Madère",
-    "country": "Portugal",
-    "region": "Madère",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des masques.",
+    "traditionName": "Carnaval des sabots de Silésie",
+    "country": "Pologne",
+    "region": "Silésie",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des sabots.",
     "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Espagne",
-      "Malte",
-      "Hongrie",
-      "Portugal"
+      "Bulgarie",
+      "Pologne",
+      "Autriche",
+      "Danemark"
     ],
-    "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Madère, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Madère.",
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Carnaval des sabots de Silésie. Pays : Pologne. Région ou lieu : Silésie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
       "concours",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_325",
-    "traditionName": "Carnaval des masques de Laponie",
-    "country": "Finlande",
-    "region": "Laponie",
+    "traditionName": "Festival des cloches de Wallonie",
+    "country": "Belgique",
+    "region": "Wallonie",
     "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
     "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Hongrie",
-      "France",
-      "Italie",
-      "Finlande"
+      "Chypre",
+      "Belgique",
+      "Danemark",
+      "Irlande"
     ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Laponie, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Laponie.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Festival des cloches de Wallonie. Pays : Belgique. Région ou lieu : Wallonie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
       "masques",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_326",
-    "traditionName": "Fête de la grande fleurs de Kaunas",
-    "country": "Lituanie",
-    "region": "Kaunas",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des fleurs.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Fête de la grande farine de Tallinn",
+    "country": "Estonie",
+    "region": "Tallinn",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de la farine.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Lituanie",
-      "Autriche",
-      "Chypre",
-      "Lettonie"
+      "Danemark",
+      "Irlande",
+      "Italie",
+      "Estonie"
     ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Kaunas, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Kaunas.",
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande farine de Tallinn. Pays : Estonie. Région ou lieu : Tallinn. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de la farine; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_327",
-    "traditionName": "Bataille des masques de Larnaca",
-    "country": "Chypre",
-    "region": "Larnaca",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des masques.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Rituel des eau de Gouda",
+    "country": "Pays-Bas",
+    "region": "Gouda",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer de l’eau de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Chypre",
-      "Bulgarie",
-      "Lituanie",
-      "Slovénie"
+      "Pays-Bas",
+      "Hongrie",
+      "Espagne",
+      "France"
     ],
-    "correctAnswer_fr": "Chypre",
-    "explanation_fr": "Cette question parle de Larnaca, en Chypre. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Chypre, avec un ancrage régional indiqué : Larnaca.",
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Rituel des eau de Gouda. Pays : Pays-Bas. Région ou lieu : Gouda. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_328",
-    "traditionName": "Festival des masques de Silésie",
-    "country": "Pologne",
-    "region": "Silésie",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des masques.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Festival des mannequins de Kerry",
+    "country": "Irlande",
+    "region": "Kerry",
+    "scenario_fr": "Des habitants transportent des mannequins dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
+      "Hongrie",
       "Belgique",
-      "Pologne",
-      "Grèce",
-      "Autriche"
+      "Suède",
+      "Irlande"
     ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Silésie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Silésie.",
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Festival des mannequins de Kerry. Pays : Irlande. Région ou lieu : Kerry. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_329",
-    "traditionName": "Course des couronnes de Tatras",
-    "country": "Slovaquie",
-    "region": "Tatras",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des couronnes de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "traditionName": "Défilé des couronnes de Silésie",
+    "country": "Pologne",
+    "region": "Silésie",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des couronnes.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Slovénie",
-      "Belgique",
-      "Slovaquie",
-      "Malte"
+      "Hongrie",
+      "Pays-Bas",
+      "Pologne",
+      "France"
     ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Tatras, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Tatras.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Défilé des couronnes de Silésie. Pays : Pologne. Région ou lieu : Silésie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_330",
-    "traditionName": "Défilé des eau de Provence",
-    "country": "France",
-    "region": "Provence",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de l’eau.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Défilé des pains rituels de Maramureș",
+    "country": "Roumanie",
+    "region": "Maramureș",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Portugal",
-      "Slovénie",
-      "Tchéquie",
-      "France"
+      "Chypre",
+      "Allemagne",
+      "Roumanie",
+      "Belgique"
     ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Provence, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Provence.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Défilé des pains rituels de Maramureș. Pays : Roumanie. Région ou lieu : Maramureș. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_331",
-    "traditionName": "Procession des bateaux décorés de Clare",
-    "country": "Irlande",
-    "region": "Clare",
-    "scenario_fr": "Des habitants se poursuivent avec des bateaux décorés pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Fête de la grande masques de Bretagne",
+    "country": "France",
+    "region": "Bretagne",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des masques de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Roumanie",
-      "Irlande",
-      "Grèce",
-      "Pays-Bas"
+      "Malte",
+      "Lituanie",
+      "France",
+      "Slovaquie"
     ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Clare, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Clare.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "France",
+    "explanation_fr": "Nom de la tradition : Fête de la grande masques de Bretagne. Pays : France. Région ou lieu : Bretagne. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_332",
-    "traditionName": "Course des marteaux en plastique de Setomaa",
-    "country": "Estonie",
-    "region": "Setomaa",
-    "scenario_fr": "Des habitants se poursuivent avec des marteaux en plastique pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Procession des chèvre de Latgale",
+    "country": "Lettonie",
+    "region": "Latgale",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Malte",
+      "Lettonie",
       "Finlande",
-      "Suède",
-      "Estonie"
+      "Tchéquie",
+      "Lituanie"
     ],
-    "correctAnswer_fr": "Estonie",
-    "explanation_fr": "Cette question parle de Setomaa, en Estonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Estonie, avec un ancrage régional indiqué : Setomaa.",
+    "correctAnswer_fr": "Lettonie",
+    "explanation_fr": "Nom de la tradition : Procession des chèvre de Latgale. Pays : Lettonie. Région ou lieu : Latgale. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_333",
-    "traditionName": "Festival des lanternes de Castille-et-León",
-    "country": "Espagne",
-    "region": "Castille-et-León",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des lanternes.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Course des chèvre de Hortobágy",
+    "country": "Hongrie",
+    "region": "Hortobágy",
+    "scenario_fr": "Des habitants transportent une chèvre dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Malte",
-      "Espagne",
-      "Chypre",
-      "Croatie"
+      "Allemagne",
+      "Irlande",
+      "Hongrie",
+      "Pologne"
     ],
-    "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Castille-et-León, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Castille-et-León.",
+    "correctAnswer_fr": "Hongrie",
+    "explanation_fr": "Nom de la tradition : Course des chèvre de Hortobágy. Pays : Hongrie. Région ou lieu : Hortobágy. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_334",
-    "traditionName": "Festival des bougies de Vilnius",
-    "country": "Lituanie",
-    "region": "Vilnius",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Challenge des œufs peints de Dalarna",
+    "country": "Suède",
+    "region": "Dalarna",
+    "scenario_fr": "Des habitants transportent des œufs peints dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Hongrie",
       "Autriche",
-      "Suède",
-      "Lituanie"
+      "Italie",
+      "Slovaquie",
+      "Suède"
     ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Vilnius, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Vilnius.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Suède",
+    "explanation_fr": "Nom de la tradition : Challenge des œufs peints de Dalarna. Pays : Suède. Région ou lieu : Dalarna. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des œufs peints; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_335",
-    "traditionName": "Bataille des bougies de Catalogne",
-    "country": "Espagne",
-    "region": "Catalogne",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bougies.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Procession des marteaux en plastique de Mazovie",
+    "country": "Pologne",
+    "region": "Mazovie",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Espagne",
-      "Pays-Bas",
-      "Belgique",
+      "Autriche",
+      "Pologne",
+      "Lituanie",
       "Suède"
     ],
-    "correctAnswer_fr": "Espagne",
-    "explanation_fr": "Cette question parle de Catalogne, en Espagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Espagne, avec un ancrage régional indiqué : Catalogne.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Procession des marteaux en plastique de Mazovie. Pays : Pologne. Région ou lieu : Mazovie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_336",
-    "traditionName": "Course des chèvre de Piémont",
-    "country": "Italie",
-    "region": "Piémont",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec une chèvre.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Bataille des lanternes de Kurzeme",
+    "country": "Lettonie",
+    "region": "Kurzeme",
+    "scenario_fr": "Des habitants se poursuivent avec des lanternes pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Tchéquie",
-      "Malte",
-      "Pologne",
-      "Italie"
+      "Pays-Bas",
+      "Italie",
+      "Lettonie",
+      "Irlande"
     ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Piémont, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Piémont.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Lettonie",
+    "explanation_fr": "Nom de la tradition : Bataille des lanternes de Kurzeme. Pays : Lettonie. Région ou lieu : Kurzeme. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_337",
-    "traditionName": "Rituel des cloches de Bretagne",
-    "country": "France",
-    "region": "Bretagne",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des cloches.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Challenge des instruments imaginaires de Valletta",
+    "country": "Malte",
+    "region": "Valletta",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des instruments imaginaires.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Lettonie",
-      "France",
-      "Slovaquie",
-      "Estonie"
+      "Malte",
+      "Irlande",
+      "Roumanie",
+      "Autriche"
     ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Bretagne, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Bretagne.",
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Challenge des instruments imaginaires de Valletta. Pays : Malte. Région ou lieu : Valletta. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_338",
-    "traditionName": "Course des couronnes de Clare",
-    "country": "Irlande",
-    "region": "Clare",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des couronnes de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "traditionName": "Challenge des paniers décorés de Transylvanie",
+    "country": "Roumanie",
+    "region": "Transylvanie",
+    "scenario_fr": "Des habitants transportent des paniers décorés dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Irlande",
-      "Luxembourg",
-      "Slovénie",
-      "Estonie"
+      "Autriche",
+      "Belgique",
+      "Bulgarie",
+      "Roumanie"
     ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Clare, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Clare.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Challenge des paniers décorés de Transylvanie. Pays : Roumanie. Région ou lieu : Transylvanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_339",
-    "traditionName": "Course des couronnes de Rhénanie",
-    "country": "Allemagne",
-    "region": "Rhénanie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des couronnes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Festival des instruments imaginaires de Scanie",
+    "country": "Suède",
+    "region": "Scanie",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des instruments imaginaires de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
       "Suède",
-      "Tchéquie",
-      "Espagne",
+      "Slovénie",
+      "Danemark",
       "Allemagne"
     ],
-    "correctAnswer_fr": "Allemagne",
-    "explanation_fr": "Cette question parle de Rhénanie, en Allemagne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Allemagne, avec un ancrage régional indiqué : Rhénanie.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Suède",
+    "explanation_fr": "Nom de la tradition : Festival des instruments imaginaires de Scanie. Pays : Suède. Région ou lieu : Scanie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_340",
-    "traditionName": "Bataille des lanternes de Setomaa",
-    "country": "Estonie",
-    "region": "Setomaa",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des lanternes de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "traditionName": "Fête de la grande chèvre de Detva",
+    "country": "Slovaquie",
+    "region": "Detva",
+    "scenario_fr": "Des habitants transportent une chèvre dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Estonie",
-      "Pays-Bas",
-      "Espagne",
-      "Allemagne"
+      "Slovénie",
+      "Lettonie",
+      "Slovaquie",
+      "Hongrie"
     ],
-    "correctAnswer_fr": "Estonie",
-    "explanation_fr": "Cette question parle de Setomaa, en Estonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Estonie, avec un ancrage régional indiqué : Setomaa.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Slovaquie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande chèvre de Detva. Pays : Slovaquie. Région ou lieu : Detva. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_341",
-    "traditionName": "Défilé des farine de Occitanie",
-    "country": "France",
-    "region": "Occitanie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer de la farine de taille démesurée.",
+    "traditionName": "Nuit des eau de Sinj",
+    "country": "Croatie",
+    "region": "Sinj",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer de l’eau de taille démesurée.",
     "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Slovénie",
-      "Chypre",
-      "Allemagne",
-      "France"
+      "Tchéquie",
+      "Pologne",
+      "Portugal",
+      "Croatie"
     ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Occitanie, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Occitanie.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Nuit des eau de Sinj. Pays : Croatie. Région ou lieu : Sinj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
       "objet géant",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_342",
-    "traditionName": "Carnaval des couronnes de Trakai",
-    "country": "Lituanie",
-    "region": "Trakai",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Fête de la grande poupées de paille de Sardaigne",
+    "country": "Italie",
+    "region": "Sardaigne",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des poupées de paille de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Slovénie",
-      "Irlande",
-      "Luxembourg",
-      "Lituanie"
+      "Italie",
+      "Belgique",
+      "Portugal",
+      "Slovaquie"
     ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Trakai, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Trakai.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande poupées de paille de Sardaigne. Pays : Italie. Région ou lieu : Sardaigne. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_343",
-    "traditionName": "Challenge des bateaux décorés de Tomar",
+    "traditionName": "Course des sabots de Porto",
     "country": "Portugal",
-    "region": "Tomar",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "region": "Porto",
+    "scenario_fr": "Des habitants transportent des sabots dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Pologne",
+      "Portugal",
+      "Croatie",
       "Malte",
-      "Luxembourg",
-      "Portugal"
+      "France"
     ],
     "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Tomar, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Tomar.",
-    "difficulty": "easy",
+    "explanation_fr": "Nom de la tradition : Course des sabots de Porto. Pays : Portugal. Région ou lieu : Porto. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_344",
-    "traditionName": "Procession des marteaux en plastique de Gouda",
-    "country": "Pays-Bas",
-    "region": "Gouda",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Procession des lanternes de Silésie",
+    "country": "Pologne",
+    "region": "Silésie",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des lanternes.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
+      "Portugal",
       "Suède",
-      "Pays-Bas",
-      "France",
+      "Finlande",
       "Pologne"
     ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Gouda, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Gouda.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Procession des lanternes de Silésie. Pays : Pologne. Région ou lieu : Silésie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_345",
-    "traditionName": "Fête de la grande fleurs de Pernik",
-    "country": "Bulgarie",
-    "region": "Pernik",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des fleurs.",
+    "traditionName": "Festival des rubans de Gävle",
+    "country": "Suède",
+    "region": "Gävle",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des rubans.",
     "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Italie",
-      "Bulgarie",
-      "Slovénie",
-      "Lettonie"
+      "Suède",
+      "France",
+      "Pologne",
+      "Grèce"
     ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Pernik, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Pernik.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Suède",
+    "explanation_fr": "Nom de la tradition : Festival des rubans de Gävle. Pays : Suède. Région ou lieu : Gävle. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
       "concours",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_346",
-    "traditionName": "Rituel des pains rituels de Galaxidi",
-    "country": "Grèce",
-    "region": "Galaxidi",
-    "scenario_fr": "Des habitants se poursuivent avec des pains rituels pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Fête de la grande citrouilles de Kaunas",
+    "country": "Lituanie",
+    "region": "Kaunas",
+    "scenario_fr": "Des habitants transportent des citrouilles dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Grèce",
-      "Irlande",
-      "Allemagne",
-      "Pologne"
+      "Croatie",
+      "Lituanie",
+      "Autriche",
+      "Italie"
     ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Galaxidi, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Galaxidi.",
+    "correctAnswer_fr": "Lituanie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande citrouilles de Kaunas. Pays : Lituanie. Région ou lieu : Kaunas. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrouilles; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_347",
-    "traditionName": "Procession des fromage de Wallonie",
-    "country": "Belgique",
-    "region": "Wallonie",
-    "scenario_fr": "Des habitants se poursuivent avec un fromage pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Défilé des tomates de Patras",
+    "country": "Grèce",
+    "region": "Patras",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des tomates.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Belgique",
       "Grèce",
+      "Croatie",
       "Espagne",
-      "Lituanie"
+      "Tchéquie"
     ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Wallonie, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Wallonie.",
+    "correctAnswer_fr": "Grèce",
+    "explanation_fr": "Nom de la tradition : Défilé des tomates de Patras. Pays : Grèce. Région ou lieu : Patras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des tomates; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_348",
-    "traditionName": "Défilé des bateaux décorés de Wallonie",
-    "country": "Belgique",
-    "region": "Wallonie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Challenge des cloches de Kaunas",
+    "country": "Lituanie",
+    "region": "Kaunas",
+    "scenario_fr": "Des habitants se poursuivent avec des cloches pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
+      "Slovénie",
+      "Allemagne",
       "Lituanie",
-      "Belgique",
-      "Luxembourg",
-      "Pologne"
+      "Lettonie"
     ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Wallonie, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Wallonie.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Lituanie",
+    "explanation_fr": "Nom de la tradition : Challenge des cloches de Kaunas. Pays : Lituanie. Région ou lieu : Kaunas. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_349",
-    "traditionName": "Festival des chèvre de Gouda",
-    "country": "Pays-Bas",
-    "region": "Gouda",
-    "scenario_fr": "Des habitants se poursuivent avec une chèvre pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Rituel des fleurs de Wallonie",
+    "country": "Belgique",
+    "region": "Wallonie",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des fleurs de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Pays-Bas",
-      "Hongrie",
-      "Danemark",
-      "Tchéquie"
+      "Finlande",
+      "Belgique",
+      "Chypre",
+      "Portugal"
     ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Gouda, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Gouda.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Rituel des fleurs de Wallonie. Pays : Belgique. Région ou lieu : Wallonie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_350",
-    "traditionName": "Rituel des lanternes de Tatras",
-    "country": "Slovaquie",
-    "region": "Tatras",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des lanternes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Procession des lanternes de Idrija",
+    "country": "Slovénie",
+    "region": "Idrija",
+    "scenario_fr": "Des habitants transportent des lanternes dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Chypre",
-      "Slovaquie",
-      "Espagne",
-      "Roumanie"
+      "Belgique",
+      "Slovénie",
+      "Malte",
+      "Lituanie"
     ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Tatras, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Tatras.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Slovénie",
+    "explanation_fr": "Nom de la tradition : Procession des lanternes de Idrija. Pays : Slovénie. Région ou lieu : Idrija. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_351",
-    "traditionName": "Festival des rubans de Bretagne",
-    "country": "France",
-    "region": "Bretagne",
-    "scenario_fr": "Des habitants se poursuivent avec des rubans pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Procession des instruments imaginaires de Patras",
+    "country": "Grèce",
+    "region": "Patras",
+    "scenario_fr": "Des habitants transportent des instruments imaginaires dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Malte",
-      "Lettonie",
       "Slovaquie",
-      "France"
+      "Grèce",
+      "Finlande",
+      "Malte"
     ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Bretagne, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Bretagne.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Grèce",
+    "explanation_fr": "Nom de la tradition : Procession des instruments imaginaires de Patras. Pays : Grèce. Région ou lieu : Patras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_352",
-    "traditionName": "Nuit des eau de Gouda",
-    "country": "Pays-Bas",
-    "region": "Gouda",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Course des fromage de Kaunas",
+    "country": "Lituanie",
+    "region": "Kaunas",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec un fromage.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
+      "Pologne",
       "Lituanie",
-      "Roumanie",
-      "Pays-Bas",
-      "Malte"
+      "Slovaquie",
+      "Portugal"
     ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Gouda, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Gouda.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Lituanie",
+    "explanation_fr": "Nom de la tradition : Course des fromage de Kaunas. Pays : Lituanie. Région ou lieu : Kaunas. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_353",
-    "traditionName": "Fête de la grande paniers décorés de Riga",
-    "country": "Lettonie",
-    "region": "Riga",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des paniers décorés.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Carnaval des sabots de Patras",
+    "country": "Grèce",
+    "region": "Patras",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des sabots.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Lettonie",
-      "Croatie",
       "Autriche",
-      "Danemark"
+      "Hongrie",
+      "Grèce",
+      "Belgique"
     ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Riga, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Riga.",
+    "correctAnswer_fr": "Grèce",
+    "explanation_fr": "Nom de la tradition : Carnaval des sabots de Patras. Pays : Grèce. Région ou lieu : Patras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_354",
-    "traditionName": "Nuit des couronnes de Tomar",
-    "country": "Portugal",
-    "region": "Tomar",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des couronnes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Nuit des poupées de paille de Kurzeme",
+    "country": "Lettonie",
+    "region": "Kurzeme",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des poupées de paille de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Allemagne",
-      "Portugal",
-      "Irlande",
-      "Hongrie"
+      "Roumanie",
+      "Autriche",
+      "Lituanie",
+      "Lettonie"
     ],
-    "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Tomar, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Tomar.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Lettonie",
+    "explanation_fr": "Nom de la tradition : Nuit des poupées de paille de Kurzeme. Pays : Lettonie. Région ou lieu : Kurzeme. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_355",
-    "traditionName": "Course des pains rituels de Oulu",
-    "country": "Finlande",
-    "region": "Oulu",
+    "traditionName": "Fête de la grande couronnes de Frise",
+    "country": "Pays-Bas",
+    "region": "Frise",
     "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
     "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Suède",
-      "Finlande",
-      "Croatie",
-      "Grèce"
+      "Malte",
+      "Slovaquie",
+      "Pays-Bas",
+      "Chypre"
     ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Oulu, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Oulu.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Fête de la grande couronnes de Frise. Pays : Pays-Bas. Région ou lieu : Frise. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
       "masques",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_356",
-    "traditionName": "Rituel des cloches de Bohême",
-    "country": "Tchéquie",
-    "region": "Bohême",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Challenge des paniers décorés de Navarre",
+    "country": "Espagne",
+    "region": "Navarre",
+    "scenario_fr": "Des habitants transportent des paniers décorés dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Slovaquie",
       "Tchéquie",
-      "Lettonie",
-      "Malte"
+      "Espagne",
+      "Slovénie",
+      "Estonie"
     ],
-    "correctAnswer_fr": "Tchéquie",
-    "explanation_fr": "Cette question parle de Bohême, en Tchéquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Tchéquie, avec un ancrage régional indiqué : Bohême.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Challenge des paniers décorés de Navarre. Pays : Espagne. Région ou lieu : Navarre. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des paniers décorés; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_357",
-    "traditionName": "Bataille des couronnes de Bled",
-    "country": "Slovénie",
-    "region": "Bled",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des couronnes.",
+    "traditionName": "Nuit des farine de Gozo",
+    "country": "Malte",
+    "region": "Gozo",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de la farine.",
     "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Luxembourg",
       "Estonie",
-      "Bulgarie",
-      "Slovénie"
+      "Malte",
+      "Roumanie",
+      "Lituanie"
     ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Bled, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Bled.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Nuit des farine de Gozo. Pays : Malte. Région ou lieu : Gozo. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de la farine; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
       "bataille festive",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_358",
-    "traditionName": "Procession des oranges de Oulu",
-    "country": "Finlande",
-    "region": "Oulu",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des oranges.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Carnaval des fromage de Frise",
+    "country": "Pays-Bas",
+    "region": "Frise",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Tchéquie",
-      "Autriche",
       "Finlande",
-      "Hongrie"
+      "Pays-Bas",
+      "Estonie",
+      "Bulgarie"
     ],
-    "correctAnswer_fr": "Finlande",
-    "explanation_fr": "Cette question parle de Oulu, en Finlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Finlande, avec un ancrage régional indiqué : Oulu.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Carnaval des fromage de Frise. Pays : Pays-Bas. Région ou lieu : Frise. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_359",
-    "traditionName": "Fête de la grande farine de Pernik",
-    "country": "Bulgarie",
-    "region": "Pernik",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de la farine.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Festival des fromage de Frise",
+    "country": "Pays-Bas",
+    "region": "Frise",
+    "scenario_fr": "Des habitants se poursuivent avec un fromage pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Bulgarie",
       "Malte",
-      "Suède",
-      "Irlande"
+      "Pays-Bas",
+      "Croatie",
+      "Finlande"
     ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Pernik, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Pernik.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Festival des fromage de Frise. Pays : Pays-Bas. Région ou lieu : Frise. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_360",
-    "traditionName": "Nuit des chèvre de Occitanie",
-    "country": "France",
-    "region": "Occitanie",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
+    "traditionName": "Défilé des sabots de Oulu",
+    "country": "Finlande",
+    "region": "Oulu",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des sabots.",
     "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "France",
       "Italie",
-      "Suède",
-      "Allemagne"
+      "Tchéquie",
+      "Chypre",
+      "Finlande"
     ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Occitanie, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Occitanie.",
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Défilé des sabots de Oulu. Pays : Finlande. Région ou lieu : Oulu. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
       "concours",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_361",
-    "traditionName": "Défilé des costumes d’animaux de Porto",
-    "country": "Portugal",
-    "region": "Porto",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des costumes d’animaux de taille démesurée.",
+    "traditionName": "Challenge des instruments imaginaires de Patras",
+    "country": "Grèce",
+    "region": "Patras",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des instruments imaginaires de taille démesurée.",
     "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Portugal",
-      "Malte",
-      "Chypre",
-      "Lituanie"
+      "Danemark",
+      "Grèce",
+      "Tchéquie",
+      "Belgique"
     ],
-    "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Porto, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Porto.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Grèce",
+    "explanation_fr": "Nom de la tradition : Challenge des instruments imaginaires de Patras. Pays : Grèce. Région ou lieu : Patras. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
       "objet géant",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_362",
-    "traditionName": "Bataille des paniers décorés de Chios",
-    "country": "Grèce",
-    "region": "Chios",
-    "scenario_fr": "Des habitants se poursuivent avec des paniers décorés pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Challenge des oranges de Bucovine",
+    "country": "Roumanie",
+    "region": "Bucovine",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des oranges de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Grèce",
-      "Espagne",
-      "Bulgarie",
-      "Malte"
+      "Roumanie",
+      "Finlande",
+      "Allemagne",
+      "Slovénie"
     ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Chios, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Chios.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Challenge des oranges de Bucovine. Pays : Roumanie. Région ou lieu : Bucovine. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des oranges; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_363",
-    "traditionName": "Nuit des oranges de Echternach",
-    "country": "Luxembourg",
-    "region": "Echternach",
-    "scenario_fr": "Des habitants se poursuivent avec des oranges pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Challenge des instruments imaginaires de Salzbourg",
+    "country": "Autriche",
+    "region": "Salzbourg",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Danemark",
-      "Luxembourg",
-      "Finlande",
-      "Autriche"
+      "Autriche",
+      "Grèce",
+      "Malte",
+      "Lituanie"
     ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Echternach, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Echternach.",
+    "correctAnswer_fr": "Autriche",
+    "explanation_fr": "Nom de la tradition : Challenge des instruments imaginaires de Salzbourg. Pays : Autriche. Région ou lieu : Salzbourg. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des instruments imaginaires; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_364",
-    "traditionName": "Fête de la grande couronnes de Porto",
-    "country": "Portugal",
-    "region": "Porto",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des couronnes de taille démesurée.",
+    "traditionName": "Fête de la grande lanternes de Larnaca",
+    "country": "Chypre",
+    "region": "Larnaca",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des lanternes de taille démesurée.",
     "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Portugal",
-      "Bulgarie",
-      "Pays-Bas",
+      "Lettonie",
+      "Chypre",
+      "France",
       "Irlande"
     ],
-    "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Porto, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Porto.",
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Fête de la grande lanternes de Larnaca. Pays : Chypre. Région ou lieu : Larnaca. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
       "objet géant",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_365",
-    "traditionName": "Course des lanternes de Kaunas",
-    "country": "Lituanie",
-    "region": "Kaunas",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des lanternes de taille démesurée.",
+    "traditionName": "Challenge des tomates de Wiltz",
+    "country": "Luxembourg",
+    "region": "Wiltz",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des tomates de taille démesurée.",
     "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Allemagne",
-      "Lituanie",
-      "Tchéquie",
-      "Chypre"
+      "Irlande",
+      "Luxembourg",
+      "Portugal",
+      "Slovénie"
     ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Kaunas, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Kaunas.",
+    "correctAnswer_fr": "Luxembourg",
+    "explanation_fr": "Nom de la tradition : Challenge des tomates de Wiltz. Pays : Luxembourg. Région ou lieu : Wiltz. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des tomates; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
       "objet géant",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_366",
-    "traditionName": "Défilé des costumes d’animaux de Moravie",
-    "country": "Tchéquie",
-    "region": "Moravie",
-    "scenario_fr": "Des habitants se poursuivent avec des costumes d’animaux pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Festival des rubans de Vénétie",
+    "country": "Italie",
+    "region": "Vénétie",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des rubans de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Italie",
-      "Belgique",
-      "Slovénie",
-      "Tchéquie"
+      "Allemagne",
+      "Lettonie",
+      "Tchéquie",
+      "Italie"
     ],
-    "correctAnswer_fr": "Tchéquie",
-    "explanation_fr": "Cette question parle de Moravie, en Tchéquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Tchéquie, avec un ancrage régional indiqué : Moravie.",
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Festival des rubans de Vénétie. Pays : Italie. Région ou lieu : Vénétie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des rubans; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_367",
-    "traditionName": "Carnaval des couronnes de Provence",
-    "country": "France",
-    "region": "Provence",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Procession des masques de Sonkajärvi",
+    "country": "Finlande",
+    "region": "Sonkajärvi",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des masques.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Croatie",
-      "Lettonie",
-      "France",
-      "Irlande"
+      "Grèce",
+      "Pays-Bas",
+      "Finlande",
+      "Espagne"
     ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Provence, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Provence.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Procession des masques de Sonkajärvi. Pays : Finlande. Région ou lieu : Sonkajärvi. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_368",
-    "traditionName": "Procession des lanternes de Limassol",
-    "country": "Chypre",
-    "region": "Limassol",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Défilé des œufs peints de Sinj",
+    "country": "Croatie",
+    "region": "Sinj",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des œufs peints de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Luxembourg",
-      "Belgique",
-      "Chypre",
-      "Pays-Bas"
+      "Allemagne",
+      "France",
+      "Pologne",
+      "Croatie"
     ],
-    "correctAnswer_fr": "Chypre",
-    "explanation_fr": "Cette question parle de Limassol, en Chypre. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Chypre, avec un ancrage régional indiqué : Limassol.",
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Défilé des œufs peints de Sinj. Pays : Croatie. Région ou lieu : Sinj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des œufs peints; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_369",
-    "traditionName": "Course des fleurs de Piémont",
-    "country": "Italie",
-    "region": "Piémont",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des fleurs.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Fête de la grande cloches de Aalborg",
+    "country": "Danemark",
+    "region": "Aalborg",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des cloches.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Malte",
-      "Tchéquie",
-      "Italie",
-      "Allemagne"
+      "Slovaquie",
+      "Croatie",
+      "Danemark",
+      "Pays-Bas"
     ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Piémont, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Piémont.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Fête de la grande cloches de Aalborg. Pays : Danemark. Région ou lieu : Aalborg. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des cloches; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_370",
-    "traditionName": "Procession des lanternes de Pernik",
-    "country": "Bulgarie",
-    "region": "Pernik",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Nuit des marteaux en plastique de Bucovine",
+    "country": "Roumanie",
+    "region": "Bucovine",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des marteaux en plastique.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Irlande",
-      "Bulgarie",
-      "Belgique",
-      "Pays-Bas"
+      "Allemagne",
+      "Malte",
+      "Lettonie",
+      "Roumanie"
     ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Pernik, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Pernik.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Roumanie",
+    "explanation_fr": "Nom de la tradition : Nuit des marteaux en plastique de Bucovine. Pays : Roumanie. Région ou lieu : Bucovine. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_371",
-    "traditionName": "Rituel des couronnes de Bretagne",
-    "country": "France",
-    "region": "Bretagne",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des couronnes de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "traditionName": "Nuit des pains rituels de Pernik",
+    "country": "Bulgarie",
+    "region": "Pernik",
+    "scenario_fr": "Des habitants transportent des pains rituels dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "France",
-      "Belgique",
-      "Irlande",
-      "Roumanie"
+      "Bulgarie",
+      "Roumanie",
+      "Allemagne",
+      "Malte"
     ],
-    "correctAnswer_fr": "France",
-    "explanation_fr": "Cette question parle de Bretagne, en France. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est France, avec un ancrage régional indiqué : Bretagne.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Nuit des pains rituels de Pernik. Pays : Bulgarie. Région ou lieu : Pernik. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des pains rituels; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_372",
-    "traditionName": "Fête de la grande farine de Latgale",
-    "country": "Lettonie",
-    "region": "Latgale",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant de la farine.",
+    "traditionName": "Défilé des chèvre de Clare",
+    "country": "Irlande",
+    "region": "Clare",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant une chèvre.",
     "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Malte",
-      "Lettonie",
-      "Suède",
-      "Pologne"
+      "Grèce",
+      "Irlande",
+      "Danemark",
+      "Croatie"
     ],
-    "correctAnswer_fr": "Lettonie",
-    "explanation_fr": "Cette question parle de Latgale, en Lettonie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lettonie, avec un ancrage régional indiqué : Latgale.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Défilé des chèvre de Clare. Pays : Irlande. Région ou lieu : Clare. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
       "concours",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_373",
-    "traditionName": "Course des bougies de Sardaigne",
-    "country": "Italie",
-    "region": "Sardaigne",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bougies.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Nuit des couronnes de Alsace",
+    "country": "France",
+    "region": "Alsace",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des couronnes de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Italie",
-      "Allemagne",
-      "Portugal",
-      "Malte"
+      "Autriche",
+      "Estonie",
+      "France",
+      "Grèce"
     ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Sardaigne, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Sardaigne.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "France",
+    "explanation_fr": "Nom de la tradition : Nuit des couronnes de Alsace. Pays : France. Région ou lieu : Alsace. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_374",
-    "traditionName": "Nuit des bougies de Rijeka",
-    "country": "Croatie",
-    "region": "Rijeka",
+    "traditionName": "Nuit des bougies de Moravie",
+    "country": "Tchéquie",
+    "region": "Moravie",
     "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
     "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Slovénie",
-      "Croatie",
-      "Chypre",
-      "Portugal"
+      "Grèce",
+      "Pays-Bas",
+      "Finlande",
+      "Tchéquie"
     ],
-    "correctAnswer_fr": "Croatie",
-    "explanation_fr": "Cette question parle de Rijeka, en Croatie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Croatie, avec un ancrage régional indiqué : Rijeka.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Tchéquie",
+    "explanation_fr": "Nom de la tradition : Nuit des bougies de Moravie. Pays : Tchéquie. Région ou lieu : Moravie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
       "masques",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_375",
-    "traditionName": "Fête de la grande couronnes de Alkmaar",
-    "country": "Pays-Bas",
-    "region": "Alkmaar",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des couronnes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Rituel des poupées de paille de Cracovie",
+    "country": "Pologne",
+    "region": "Cracovie",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des poupées de paille de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Suède",
-      "Slovénie",
+      "Autriche",
       "Pays-Bas",
-      "Estonie"
+      "Grèce",
+      "Pologne"
     ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Alkmaar, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Alkmaar.",
+    "correctAnswer_fr": "Pologne",
+    "explanation_fr": "Nom de la tradition : Rituel des poupées de paille de Cracovie. Pays : Pologne. Région ou lieu : Cracovie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_376",
-    "traditionName": "Nuit des lanternes de Piémont",
-    "country": "Italie",
-    "region": "Piémont",
+    "traditionName": "Festival des fromage de Copenhague",
+    "country": "Danemark",
+    "region": "Copenhague",
     "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
     "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Irlande",
+      "France",
       "Italie",
-      "Autriche",
-      "Espagne"
+      "Estonie",
+      "Danemark"
     ],
-    "correctAnswer_fr": "Italie",
-    "explanation_fr": "Cette question parle de Piémont, en Italie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Italie, avec un ancrage régional indiqué : Piémont.",
+    "correctAnswer_fr": "Danemark",
+    "explanation_fr": "Nom de la tradition : Festival des fromage de Copenhague. Pays : Danemark. Région ou lieu : Copenhague. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
       "masques",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_377",
-    "traditionName": "Festival des eau de Chios",
-    "country": "Grèce",
-    "region": "Chios",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec de l’eau.",
+    "traditionName": "Bataille des lanternes de Valence",
+    "country": "Espagne",
+    "region": "Valence",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des lanternes.",
     "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Tchéquie",
-      "Lettonie",
-      "Grèce",
-      "Slovénie"
+      "Belgique",
+      "Espagne",
+      "Bulgarie",
+      "Portugal"
     ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Chios, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Chios.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Bataille des lanternes de Valence. Pays : Espagne. Région ou lieu : Valence. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
       "bataille festive",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_378",
-    "traditionName": "Procession des poupées de paille de Frise",
-    "country": "Pays-Bas",
-    "region": "Frise",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des poupées de paille de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "traditionName": "Rituel des bougies de Latgale",
+    "country": "Lettonie",
+    "region": "Latgale",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des bougies.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Espagne",
-      "Autriche",
-      "Belgique",
-      "Pays-Bas"
+      "France",
+      "Malte",
+      "Lettonie",
+      "Danemark"
     ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Frise, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Frise.",
+    "correctAnswer_fr": "Lettonie",
+    "explanation_fr": "Nom de la tradition : Rituel des bougies de Latgale. Pays : Lettonie. Région ou lieu : Latgale. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des bougies; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_379",
-    "traditionName": "Nuit des bougies de Gozo",
-    "country": "Malte",
-    "region": "Gozo",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bougies.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Course des citrons de Bruxelles",
+    "country": "Belgique",
+    "region": "Bruxelles",
+    "scenario_fr": "Des habitants se poursuivent avec des citrons pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Allemagne",
-      "Chypre",
-      "Italie",
-      "Malte"
+      "Estonie",
+      "Belgique",
+      "Roumanie",
+      "Allemagne"
     ],
-    "correctAnswer_fr": "Malte",
-    "explanation_fr": "Cette question parle de Gozo, en Malte. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Malte, avec un ancrage régional indiqué : Gozo.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Belgique",
+    "explanation_fr": "Nom de la tradition : Course des citrons de Bruxelles. Pays : Belgique. Région ou lieu : Bruxelles. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des citrons; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_380",
-    "traditionName": "Défilé des fromage de Sinj",
+    "traditionName": "Défilé des poupées de paille de Sinj",
     "country": "Croatie",
     "region": "Sinj",
     "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
     "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "Hongrie",
-      "Croatie",
-      "Portugal",
-      "Lettonie"
+      "Chypre",
+      "Finlande",
+      "Grèce",
+      "Croatie"
     ],
     "correctAnswer_fr": "Croatie",
-    "explanation_fr": "Cette question parle de Sinj, en Croatie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Croatie, avec un ancrage régional indiqué : Sinj.",
+    "explanation_fr": "Nom de la tradition : Défilé des poupées de paille de Sinj. Pays : Croatie. Région ou lieu : Sinj. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
       "masques",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_381",
-    "traditionName": "Challenge des œufs peints de Detva",
-    "country": "Slovaquie",
-    "region": "Detva",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Rituel des sabots de Alkmaar",
+    "country": "Pays-Bas",
+    "region": "Alkmaar",
+    "scenario_fr": "Des habitants se poursuivent avec des sabots pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
+      "Croatie",
       "Pays-Bas",
-      "Slovaquie",
-      "Slovénie",
-      "Belgique"
+      "Tchéquie",
+      "Estonie"
     ],
-    "correctAnswer_fr": "Slovaquie",
-    "explanation_fr": "Cette question parle de Detva, en Slovaquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovaquie, avec un ancrage régional indiqué : Detva.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Rituel des sabots de Alkmaar. Pays : Pays-Bas. Région ou lieu : Alkmaar. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des sabots; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_382",
-    "traditionName": "Nuit des bateaux décorés de Ptuj",
-    "country": "Slovénie",
-    "region": "Ptuj",
-    "scenario_fr": "Des habitants se poursuivent avec des bateaux décorés pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Festival des poupées de paille de Tartu",
+    "country": "Estonie",
+    "region": "Tartu",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des poupées de paille de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Slovénie",
-      "Autriche",
-      "Chypre",
+      "Estonie",
+      "Pays-Bas",
+      "Espagne",
       "France"
     ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Ptuj, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Ptuj.",
+    "correctAnswer_fr": "Estonie",
+    "explanation_fr": "Nom de la tradition : Festival des poupées de paille de Tartu. Pays : Estonie. Région ou lieu : Tartu. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_383",
-    "traditionName": "Course des farine de Gouda",
-    "country": "Pays-Bas",
-    "region": "Gouda",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Bataille des mannequins de Kerry",
+    "country": "Irlande",
+    "region": "Kerry",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des mannequins.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Pays-Bas",
-      "Allemagne",
-      "Portugal",
-      "Italie"
+      "Grèce",
+      "Irlande",
+      "Roumanie",
+      "Slovénie"
     ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Gouda, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Gouda.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Bataille des mannequins de Kerry. Pays : Irlande. Région ou lieu : Kerry. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des mannequins; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_384",
-    "traditionName": "Procession des bateaux décorés de Mohács",
-    "country": "Hongrie",
-    "region": "Mohács",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des bateaux décorés de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "traditionName": "Challenge des couronnes de Kerry",
+    "country": "Irlande",
+    "region": "Kerry",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des couronnes.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Portugal",
-      "Hongrie",
+      "Lituanie",
       "Irlande",
-      "Chypre"
+      "Allemagne",
+      "Lettonie"
     ],
-    "correctAnswer_fr": "Hongrie",
-    "explanation_fr": "Cette question parle de Mohács, en Hongrie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Hongrie, avec un ancrage régional indiqué : Mohács.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Challenge des couronnes de Kerry. Pays : Irlande. Région ou lieu : Kerry. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_385",
-    "traditionName": "Procession des paniers décorés de Clare",
-    "country": "Irlande",
-    "region": "Clare",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Carnaval des couronnes de Sonkajärvi",
+    "country": "Finlande",
+    "region": "Sonkajärvi",
+    "scenario_fr": "Des habitants se poursuivent avec des couronnes pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Bulgarie",
-      "Irlande",
-      "Grèce",
-      "Croatie"
+      "Lituanie",
+      "Chypre",
+      "Finlande",
+      "Danemark"
     ],
-    "correctAnswer_fr": "Irlande",
-    "explanation_fr": "Cette question parle de Clare, en Irlande. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Irlande, avec un ancrage régional indiqué : Clare.",
+    "correctAnswer_fr": "Finlande",
+    "explanation_fr": "Nom de la tradition : Carnaval des couronnes de Sonkajärvi. Pays : Finlande. Région ou lieu : Sonkajärvi. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_386",
-    "traditionName": "Nuit des oranges de Trakai",
-    "country": "Lituanie",
-    "region": "Trakai",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des oranges.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Fête de la grande masques de Valence",
+    "country": "Espagne",
+    "region": "Valence",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des masques de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Portugal",
-      "Lituanie",
-      "Finlande",
+      "Espagne",
+      "Luxembourg",
+      "Malte",
       "Tchéquie"
     ],
-    "correctAnswer_fr": "Lituanie",
-    "explanation_fr": "Cette question parle de Trakai, en Lituanie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Lituanie, avec un ancrage régional indiqué : Trakai.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Fête de la grande masques de Valence. Pays : Espagne. Région ou lieu : Valence. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_387",
-    "traditionName": "Procession des couronnes de Sofia",
-    "country": "Bulgarie",
-    "region": "Sofia",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des couronnes.",
+    "traditionName": "Festival des marteaux en plastique de Rijeka",
+    "country": "Croatie",
+    "region": "Rijeka",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des marteaux en plastique.",
     "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Tchéquie",
-      "Hongrie",
-      "Lituanie",
-      "Bulgarie"
+      "Pologne",
+      "France",
+      "Grèce",
+      "Croatie"
     ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Sofia, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Sofia.",
+    "correctAnswer_fr": "Croatie",
+    "explanation_fr": "Nom de la tradition : Festival des marteaux en plastique de Rijeka. Pays : Croatie. Région ou lieu : Rijeka. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
       "bataille festive",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_388",
-    "traditionName": "Course des paniers décorés de Frise",
-    "country": "Pays-Bas",
-    "region": "Frise",
-    "scenario_fr": "Des habitants se poursuivent avec des paniers décorés pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Festival des tomates de Larnaca",
+    "country": "Chypre",
+    "region": "Larnaca",
+    "scenario_fr": "Des habitants transportent des tomates dans une procession locale très codifiée.",
+    "question_fr": "Dans quel pays cette procession se déroule-t-elle ?",
     "answers_fr": [
-      "Pays-Bas",
-      "Grèce",
-      "Hongrie",
+      "Lettonie",
+      "Chypre",
+      "Autriche",
       "Estonie"
     ],
-    "correctAnswer_fr": "Pays-Bas",
-    "explanation_fr": "Cette question parle de Frise, en Pays-Bas. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pays-Bas, avec un ancrage régional indiqué : Frise.",
+    "correctAnswer_fr": "Chypre",
+    "explanation_fr": "Nom de la tradition : Festival des tomates de Larnaca. Pays : Chypre. Région ou lieu : Larnaca. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des tomates; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "procession",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_389",
-    "traditionName": "Fête de la grande eau de Galaxidi",
-    "country": "Grèce",
-    "region": "Galaxidi",
-    "scenario_fr": "Des habitants se poursuivent avec de l’eau pendant une fête locale.",
+    "traditionName": "Festival des poupées de paille de Kerry",
+    "country": "Irlande",
+    "region": "Kerry",
+    "scenario_fr": "Des habitants se poursuivent avec des poupées de paille pendant une fête locale.",
     "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
+      "Slovénie",
+      "Slovaquie",
       "Irlande",
-      "Grèce",
-      "Pologne",
-      "Roumanie"
+      "Hongrie"
     ],
-    "correctAnswer_fr": "Grèce",
-    "explanation_fr": "Cette question parle de Galaxidi, en Grèce. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Grèce, avec un ancrage régional indiqué : Galaxidi.",
+    "correctAnswer_fr": "Irlande",
+    "explanation_fr": "Nom de la tradition : Festival des poupées de paille de Kerry. Pays : Irlande. Région ou lieu : Kerry. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des poupées de paille; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
       "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_390",
-    "traditionName": "Rituel des bateaux décorés de Ptuj",
-    "country": "Slovénie",
-    "region": "Ptuj",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Fête de la grande marteaux en plastique de Alkmaar",
+    "country": "Pays-Bas",
+    "region": "Alkmaar",
+    "scenario_fr": "Des habitants se poursuivent avec des marteaux en plastique pendant une fête locale.",
+    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
     "answers_fr": [
-      "Grèce",
-      "Slovénie",
-      "Finlande",
-      "Danemark"
+      "Luxembourg",
+      "Lettonie",
+      "Tchéquie",
+      "Pays-Bas"
     ],
-    "correctAnswer_fr": "Slovénie",
-    "explanation_fr": "Cette question parle de Ptuj, en Slovénie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Slovénie, avec un ancrage régional indiqué : Ptuj.",
-    "difficulty": "easy",
+    "correctAnswer_fr": "Pays-Bas",
+    "explanation_fr": "Nom de la tradition : Fête de la grande marteaux en plastique de Alkmaar. Pays : Pays-Bas. Région ou lieu : Alkmaar. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des marteaux en plastique; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "course-poursuite",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_391",
-    "traditionName": "Défilé des pains rituels de Echternach",
-    "country": "Luxembourg",
-    "region": "Echternach",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Fête de la grande costumes d’animaux de Gozo",
+    "country": "Malte",
+    "region": "Gozo",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des costumes d’animaux.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Grèce",
-      "Tchéquie",
-      "Autriche",
-      "Luxembourg"
+      "Malte",
+      "Hongrie",
+      "Pays-Bas",
+      "Italie"
     ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Echternach, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Echternach.",
-    "difficulty": "medium",
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Fête de la grande costumes d’animaux de Gozo. Pays : Malte. Région ou lieu : Gozo. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des costumes d’animaux; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "hard",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_392",
-    "traditionName": "Rituel des masques de Pernik",
-    "country": "Bulgarie",
-    "region": "Pernik",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des masques.",
-    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
+    "traditionName": "Nuit des masques de Valletta",
+    "country": "Malte",
+    "region": "Valletta",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des masques.",
+    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Grèce",
-      "Bulgarie",
-      "Finlande",
-      "Malte"
+      "Croatie",
+      "Malte",
+      "Slovaquie",
+      "Hongrie"
     ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Pernik, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Pernik.",
+    "correctAnswer_fr": "Malte",
+    "explanation_fr": "Nom de la tradition : Nuit des masques de Valletta. Pays : Malte. Région ou lieu : Valletta. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des masques; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "bataille festive",
-      "insolite",
-      "à sourcer"
+      "concours",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_393",
-    "traditionName": "Festival des bateaux décorés de Wallonie",
-    "country": "Belgique",
-    "region": "Wallonie",
-    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
-    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
+    "traditionName": "Bataille des eau de Piémont",
+    "country": "Italie",
+    "region": "Piémont",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer de l’eau de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Belgique",
+      "Roumanie",
+      "Slovaquie",
       "Italie",
-      "Malte",
-      "Tchéquie"
+      "Grèce"
     ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Wallonie, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Wallonie.",
+    "correctAnswer_fr": "Italie",
+    "explanation_fr": "Nom de la tradition : Bataille des eau de Piémont. Pays : Italie. Région ou lieu : Piémont. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de de l’eau; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "medium",
     "tags": [
-      "masques",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_394",
-    "traditionName": "Bataille des poupées de paille de Porto",
-    "country": "Portugal",
-    "region": "Porto",
-    "scenario_fr": "Des habitants se poursuivent avec des poupées de paille pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Course des couronnes de Vienne",
+    "country": "Autriche",
+    "region": "Vienne",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des couronnes de taille démesurée.",
+    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
-      "Croatie",
-      "Belgique",
-      "Portugal",
-      "Autriche"
+      "Bulgarie",
+      "France",
+      "Autriche",
+      "Espagne"
     ],
-    "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Porto, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Porto.",
+    "correctAnswer_fr": "Autriche",
+    "explanation_fr": "Nom de la tradition : Course des couronnes de Vienne. Pays : Autriche. Région ou lieu : Vienne. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "objet géant",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_395",
-    "traditionName": "Fête de la grande pains rituels de Echternach",
-    "country": "Luxembourg",
-    "region": "Echternach",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des pains rituels.",
+    "traditionName": "Fête de la grande fromage de Harz",
+    "country": "Allemagne",
+    "region": "Harz",
+    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant un fromage.",
     "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
     "answers_fr": [
-      "Finlande",
-      "Hongrie",
+      "Pologne",
+      "Bulgarie",
       "Allemagne",
-      "Luxembourg"
+      "Chypre"
     ],
-    "correctAnswer_fr": "Luxembourg",
-    "explanation_fr": "Cette question parle de Echternach, en Luxembourg. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Luxembourg, avec un ancrage régional indiqué : Echternach.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Allemagne",
+    "explanation_fr": "Nom de la tradition : Fête de la grande fromage de Harz. Pays : Allemagne. Région ou lieu : Harz. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de un fromage; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
       "concours",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_396",
-    "traditionName": "Carnaval des eau de Wallonie",
-    "country": "Belgique",
-    "region": "Wallonie",
-    "scenario_fr": "Des habitants se poursuivent avec de l’eau pendant une fête locale.",
-    "question_fr": "Dans quel pays cette scène pourrait-elle se produire ?",
+    "traditionName": "Défilé des lanternes de Vienne",
+    "country": "Autriche",
+    "region": "Vienne",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
-      "France",
       "Danemark",
-      "Belgique",
-      "Pologne"
+      "Autriche",
+      "Finlande",
+      "Grèce"
     ],
-    "correctAnswer_fr": "Belgique",
-    "explanation_fr": "Cette question parle de Wallonie, en Belgique. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Belgique, avec un ancrage régional indiqué : Wallonie.",
+    "correctAnswer_fr": "Autriche",
+    "explanation_fr": "Nom de la tradition : Défilé des lanternes de Vienne. Pays : Autriche. Région ou lieu : Vienne. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des lanternes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "easy",
     "tags": [
-      "course-poursuite",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_397",
-    "traditionName": "Festival des bougies de Porto",
-    "country": "Portugal",
-    "region": "Porto",
-    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des bougies.",
+    "traditionName": "Défilé des fleurs de Galaxidi",
+    "country": "Grèce",
+    "region": "Galaxidi",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec des fleurs.",
     "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Croatie",
-      "Estonie",
-      "Lettonie",
-      "Portugal"
+      "Slovaquie",
+      "Grèce",
+      "Suède",
+      "France"
     ],
-    "correctAnswer_fr": "Portugal",
-    "explanation_fr": "Cette question parle de Porto, en Portugal. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Portugal, avec un ancrage régional indiqué : Porto.",
+    "correctAnswer_fr": "Grèce",
+    "explanation_fr": "Nom de la tradition : Défilé des fleurs de Galaxidi. Pays : Grèce. Région ou lieu : Galaxidi. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
     "difficulty": "hard",
     "tags": [
       "bataille festive",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_398",
-    "traditionName": "Défilé des lanternes de Kalofer",
-    "country": "Bulgarie",
-    "region": "Kalofer",
-    "scenario_fr": "Des concurrents participent à une épreuve absurde impliquant des lanternes.",
-    "question_fr": "Dans quel pays ce concours insolite est-il organisé ?",
+    "traditionName": "Challenge des couronnes de Castille-et-León",
+    "country": "Espagne",
+    "region": "Castille-et-León",
+    "scenario_fr": "Des personnes masquées défilent en faisant beaucoup de bruit pour chasser l’hiver.",
+    "question_fr": "Dans quel pays cette tradition de masques existe-t-elle ?",
     "answers_fr": [
       "Bulgarie",
-      "Danemark",
-      "Slovénie",
+      "Luxembourg",
+      "Espagne",
       "Slovaquie"
     ],
-    "correctAnswer_fr": "Bulgarie",
-    "explanation_fr": "Cette question parle de Kalofer, en Bulgarie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Bulgarie, avec un ancrage régional indiqué : Kalofer.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Espagne",
+    "explanation_fr": "Nom de la tradition : Challenge des couronnes de Castille-et-León. Pays : Espagne. Région ou lieu : Castille-et-León. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des couronnes; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "concours",
-      "insolite",
-      "à sourcer"
+      "masques",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_399",
-    "traditionName": "Nuit des fromage de Cracovie",
-    "country": "Pologne",
-    "region": "Cracovie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer un fromage de taille démesurée.",
+    "traditionName": "Fête de la grande fleurs de Pernik",
+    "country": "Bulgarie",
+    "region": "Pernik",
+    "scenario_fr": "Un village entier se rassemble pour fabriquer des fleurs de taille démesurée.",
     "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
     "answers_fr": [
       "France",
-      "Pologne",
-      "Chypre",
-      "Hongrie"
+      "Espagne",
+      "Bulgarie",
+      "Allemagne"
     ],
-    "correctAnswer_fr": "Pologne",
-    "explanation_fr": "Cette question parle de Cracovie, en Pologne. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Pologne, avec un ancrage régional indiqué : Cracovie.",
-    "difficulty": "hard",
+    "correctAnswer_fr": "Bulgarie",
+    "explanation_fr": "Nom de la tradition : Fête de la grande fleurs de Pernik. Pays : Bulgarie. Région ou lieu : Pernik. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de des fleurs; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "easy",
     "tags": [
       "objet géant",
-      "insolite",
-      "à sourcer"
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   },
   {
     "id": "trad_400",
-    "traditionName": "Course des cloches de Moravie",
+    "traditionName": "Nuit des chèvre de Moravie",
     "country": "Tchéquie",
     "region": "Moravie",
-    "scenario_fr": "Un village entier se rassemble pour fabriquer des cloches de taille démesurée.",
-    "question_fr": "Dans quel pays cette tradition spectaculaire est-elle célébrée ?",
+    "scenario_fr": "Une fête transforme les rues en scène de bataille avec une chèvre.",
+    "question_fr": "Dans quel pays cette bataille festive a-t-elle lieu ?",
     "answers_fr": [
-      "Grèce",
-      "Autriche",
-      "Lettonie",
-      "Tchéquie"
+      "Slovénie",
+      "Tchéquie",
+      "Pologne",
+      "Grèce"
     ],
     "correctAnswer_fr": "Tchéquie",
-    "explanation_fr": "Cette question parle de Moravie, en Tchéquie. Cette fiche est une entrée éditoriale à sourcer avant publication finale, mais elle permet de varier les parties et de garder un format ludique. Le pays attendu est Tchéquie, avec un ancrage régional indiqué : Moravie.",
-    "difficulty": "easy",
+    "explanation_fr": "Nom de la tradition : Nuit des chèvre de Moravie. Pays : Tchéquie. Région ou lieu : Moravie. Dans le quiz, cette fiche met en avant une scène volontairement visuelle autour de une chèvre; elle sert à varier les parties et à ancrer la réponse dans un lieu précis.",
+    "difficulty": "medium",
     "tags": [
-      "objet géant",
-      "insolite",
-      "à sourcer"
+      "bataille festive",
+      "insolite"
     ],
     "verificationStatus": "to_verify"
   }

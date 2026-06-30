@@ -1,11 +1,10 @@
-# CoR Traditions Challenge V3.1 — 400 traditions
+# CoR Traditions Challenge V3.2 — 400 traditions
 
 Corrections :
-- Visuel élargi pour écran navigateur et projection.
-- Bouton “Question suivante” visible grâce à une zone sticky en bas du contenu.
-- Explications enrichies avec pays, région/lieu et nom de la tradition.
-- Base de 400 traditions intégrée dans `questions-400.js`.
-- Tirage de 30 questions aléatoires, maximum 2 par pays.
+- Hauteur de fenêtre élargie : stage jusqu’à 920px et page scrollable si nécessaire.
+- Suppression du message “fiche éditoriale à sourcer” dans l’explication visible principale.
+- Explication enrichie avec nom de la tradition, pays, région/lieu et détails contextuels.
+- Bouton Question suivante replacé dans le flux, visible sous l’explication.
+- Base de 400 traditions intégrée.
 
-Déployez tous les fichiers à la racine du repository GitHub Pages.
-Après upload : Ctrl+F5 ou URL avec `?v=4100`.
+Déployer tous les fichiers à la racine GitHub Pages. Après upload : Ctrl+F5 ou `?v=4200`.

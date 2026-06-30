@@ -1,14 +1,11 @@
-# CoR Traditions Challenge V5 — 30 traditions vérifiées / 10 questions
+# CoR Traditions Challenge V5 — multilingue EN/FR/NL
 
-Corrections V5 :
-
-- Suppression des indications avant réponse : plus de pays, région, difficulté ou tags visibles avant que le joueur réponde.
-- Le haut de question affiche uniquement : numéro de question, score et timer.
-- Dans le bloc réponse, le libellé est `Région` et non plus `Région / lieu`.
-- Le texte d’explication ne répète plus le pays ou la région : ces informations sont affichées dans des lignes séparées.
+- Version multilingue complète : interface, questions, réponses, pays, régions, explications.
 - Base : 30 traditions vérifiées/sourcées.
-- Tirage : 10 questions aléatoires par partie.
+- Le quiz pose 10 questions aléatoires par partie.
+- Suppression des indices avant réponse : aucun pays, région, difficulté ou tag n’est affiché avant que le joueur réponde.
+- Bloc réponse : `Région` et non `Région / lieu`.
 - Mode classique + duel équipes.
 - Aucun backend, aucun build.
 
-Déploiement GitHub Pages : uploader tous les fichiers à la racine, puis Ctrl+F5 ou ouvrir l’URL avec `?v=6000`.
+Déploiement GitHub Pages : uploader tous les fichiers à la racine, puis Ctrl+F5 ou ouvrir l’URL avec `?v=7000`.

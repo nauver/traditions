@@ -1,6 +1,11 @@
 {
-  "version": "V5_verified_30_10_questions_no_pre_answer_hints",
+  "version": "V5_multilingual_verified_30_10_questions",
+  "languages": [
+    "fr",
+    "en",
+    "nl"
+  ],
   "questionPool": 30,
   "quizLength": 10,
-  "generated": "2026-06-30T10:33:43.538593+00:00"
+  "generated": "2026-06-30T11:11:38.568517+00:00"
 }

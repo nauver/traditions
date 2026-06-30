@@ -1,26 +1,10 @@
-# CoR Odd Traditions Quiz V1 Multilingual
+# CoR Traditions Challenge V1.2
 
-Static GitHub Pages package.
+Fixes:
+- The launch screen is now vertically and horizontally centred correctly.
+- The footer no longer overflows outside the main container.
+- The title has been changed to **Europe’s Traditions Challenge** to avoid the negative interpretation of “Odd”.
+- The provided CoR logo is used from `assets/CoR_logo.png`.
+- The general visual style is closer to the EU quiz / competing buttons layout: strong CoR blue header, yellow separator, large central stage, rounded buttons.
 
-## Included
-- index.html
-- style.css
-- app.js
-- questions-i18n.js
-
-## Features
-- CoR-inspired blue/yellow/white style
-- Full EN/FR/NL UI
-- EN/FR/NL questions, answers and explanations
-- 120 questions generated from 40 European traditions
-- 30 random questions per session
-- Timer and score
-- No build step and no backend
-
-## GitHub Pages deployment
-1. Create a repository.
-2. Upload the files at the repository root.
-3. Go to Settings > Pages.
-4. Select Deploy from branch.
-5. Choose main and /root.
-6. Save.
+Deploy on GitHub Pages by replacing all existing files with this ZIP content.

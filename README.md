@@ -1,1 +1,1 @@
-V10.3: unique legend descriptions, no repeated generic phrase, culinary images restored, 4 languages.
+V10.4: culinary quiz converted into a real gastronomic culture game. 7 question types per dish, images restored, no duplicate dish in one session.

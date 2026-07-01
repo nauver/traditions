@@ -1,5 +1,5 @@
 {
-  "version": "V10.3_unique_legend_descriptions",
+  "version": "V10.4_culinary_game",
   "languages": [
     "fr",
     "en",
@@ -7,10 +7,9 @@
     "de"
   ],
   "traditionsPool": 30,
-  "culinaryPool": 50,
-  "culinaryImages": 15,
-  "legendQuestions": 162,
-  "legendSubjects": 54,
+  "culinaryQuestions": 105,
+  "culinarySubjects": 15,
+  "legendQuestions": 92,
   "quizLength": 10,
-  "updated": "2026-07-01T15:13:47.741326+00:00"
+  "updated": "2026-07-01T15:25:40.845264+00:00"
 }

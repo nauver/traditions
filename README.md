@@ -1,1 +1,1 @@
-V10 final: four languages FR/EN/NL/DE.
+V10.1 final: 4 languages, translated title, correct logo, mixed legend question types, no duplicate legend subjects in one session.

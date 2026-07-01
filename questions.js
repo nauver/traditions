@@ -3,8 +3,9 @@ const UI={
     "title": "Europe Uncovered: Culture, Curiosities & Legends",
     "traditions": "Traditions of Europe",
     "culinary": "Curiosités culinaires",
+    "legends": "Légendes d’Europe",
     "homeTitle": "Choisissez votre quiz",
-    "homeSub": "Explorez la culture européenne à travers traditions, goûts surprenants et bientôt légendes.",
+    "homeSub": "Explorez la culture européenne à travers traditions, goûts surprenants et légendes.",
     "start": "Commencer",
     "question": "Question",
     "of": "sur",
@@ -33,8 +34,9 @@ const UI={
     "title": "Europe Uncovered: Culture, Curiosities & Legends",
     "traditions": "Traditions of Europe",
     "culinary": "Culinary Curiosities",
+    "legends": "Legends of Europe",
     "homeTitle": "Choose your quiz",
-    "homeSub": "Explore European culture through traditions, surprising tastes and, soon, legends.",
+    "homeSub": "Explore European culture through traditions, surprising tastes and legends.",
     "start": "Start",
     "question": "Question",
     "of": "of",
@@ -63,8 +65,9 @@ const UI={
     "title": "Europe Uncovered: Culture, Curiosities & Legends",
     "traditions": "Traditions of Europe",
     "culinary": "Culinaire curiositeiten",
+    "legends": "Legenden van Europa",
     "homeTitle": "Kies je quiz",
-    "homeSub": "Ontdek Europese cultuur via tradities, verrassende smaken en binnenkort legendes.",
+    "homeSub": "Ontdek Europese cultuur via tradities, verrassende smaken en legendes.",
     "start": "Start",
     "question": "Vraag",
     "of": "van",
@@ -156,55 +159,55 @@ const TRADITIONS_30=[
     "id": "t002",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
-    "zone": "south",
+    "zone": "west",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Espagne",
-        "Italie",
-        "France",
-        "Slovénie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Spain",
-        "Italy",
-        "France",
-        "Slovenia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Spanje",
-        "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -217,55 +220,55 @@ const TRADITIONS_30=[
     "id": "t003",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
     },
     "zone": "south",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
+      "en": "In which country does this tradition take place?",
+      "nl": "In welk land vindt deze traditie plaats?"
     },
     "answers": {
       "fr": [
-        "Espagne",
         "Italie",
-        "France",
-        "Slovénie"
+        "Espagne",
+        "Portugal",
+        "Grèce"
       ],
       "en": [
-        "Spain",
         "Italy",
-        "France",
-        "Slovenia"
+        "Spain",
+        "Portugal",
+        "Greece"
       ],
       "nl": [
-        "Spanje",
         "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "Spanje",
+        "Portugal",
+        "Griekenland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -339,55 +342,55 @@ const TRADITIONS_30=[
     "id": "t005",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
-    "zone": "south",
+    "zone": "west",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Espagne",
-        "Italie",
-        "France",
-        "Slovénie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Spain",
-        "Italy",
-        "France",
-        "Slovenia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Spanje",
-        "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -400,55 +403,55 @@ const TRADITIONS_30=[
     "id": "t006",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
     },
     "zone": "south",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
+      "en": "In which country does this tradition take place?",
+      "nl": "In welk land vindt deze traditie plaats?"
     },
     "answers": {
       "fr": [
-        "Espagne",
         "Italie",
-        "France",
-        "Slovénie"
+        "Espagne",
+        "Portugal",
+        "Grèce"
       ],
       "en": [
-        "Spain",
         "Italy",
-        "France",
-        "Slovenia"
+        "Spain",
+        "Portugal",
+        "Greece"
       ],
       "nl": [
-        "Spanje",
         "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "Spanje",
+        "Portugal",
+        "Griekenland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -522,55 +525,55 @@ const TRADITIONS_30=[
     "id": "t008",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
-    "zone": "south",
+    "zone": "west",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Espagne",
-        "Italie",
-        "France",
-        "Slovénie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Spain",
-        "Italy",
-        "France",
-        "Slovenia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Spanje",
-        "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -583,55 +586,55 @@ const TRADITIONS_30=[
     "id": "t009",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
     },
     "zone": "south",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
+      "en": "In which country does this tradition take place?",
+      "nl": "In welk land vindt deze traditie plaats?"
     },
     "answers": {
       "fr": [
-        "Espagne",
         "Italie",
-        "France",
-        "Slovénie"
+        "Espagne",
+        "Portugal",
+        "Grèce"
       ],
       "en": [
-        "Spain",
         "Italy",
-        "France",
-        "Slovenia"
+        "Spain",
+        "Portugal",
+        "Greece"
       ],
       "nl": [
-        "Spanje",
         "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "Spanje",
+        "Portugal",
+        "Griekenland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -705,55 +708,55 @@ const TRADITIONS_30=[
     "id": "t011",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
-    "zone": "south",
+    "zone": "west",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Espagne",
-        "Italie",
-        "France",
-        "Slovénie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Spain",
-        "Italy",
-        "France",
-        "Slovenia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Spanje",
-        "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -766,55 +769,55 @@ const TRADITIONS_30=[
     "id": "t012",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
     },
     "zone": "south",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
+      "en": "In which country does this tradition take place?",
+      "nl": "In welk land vindt deze traditie plaats?"
     },
     "answers": {
       "fr": [
-        "Espagne",
         "Italie",
-        "France",
-        "Slovénie"
+        "Espagne",
+        "Portugal",
+        "Grèce"
       ],
       "en": [
-        "Spain",
         "Italy",
-        "France",
-        "Slovenia"
+        "Spain",
+        "Portugal",
+        "Greece"
       ],
       "nl": [
-        "Spanje",
         "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "Spanje",
+        "Portugal",
+        "Griekenland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -888,55 +891,55 @@ const TRADITIONS_30=[
     "id": "t014",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
-    "zone": "south",
+    "zone": "west",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Espagne",
-        "Italie",
-        "France",
-        "Slovénie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Spain",
-        "Italy",
-        "France",
-        "Slovenia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Spanje",
-        "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -949,55 +952,55 @@ const TRADITIONS_30=[
     "id": "t015",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
     },
     "zone": "south",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
+      "en": "In which country does this tradition take place?",
+      "nl": "In welk land vindt deze traditie plaats?"
     },
     "answers": {
       "fr": [
-        "Espagne",
         "Italie",
-        "France",
-        "Slovénie"
+        "Espagne",
+        "Portugal",
+        "Grèce"
       ],
       "en": [
-        "Spain",
         "Italy",
-        "France",
-        "Slovenia"
+        "Spain",
+        "Portugal",
+        "Greece"
       ],
       "nl": [
-        "Spanje",
         "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "Spanje",
+        "Portugal",
+        "Griekenland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1071,55 +1074,55 @@ const TRADITIONS_30=[
     "id": "t017",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
-    "zone": "south",
+    "zone": "west",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Espagne",
-        "Italie",
-        "France",
-        "Slovénie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Spain",
-        "Italy",
-        "France",
-        "Slovenia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Spanje",
-        "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1132,55 +1135,55 @@ const TRADITIONS_30=[
     "id": "t018",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
     },
     "zone": "south",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
+      "en": "In which country does this tradition take place?",
+      "nl": "In welk land vindt deze traditie plaats?"
     },
     "answers": {
       "fr": [
-        "Espagne",
         "Italie",
-        "France",
-        "Slovénie"
+        "Espagne",
+        "Portugal",
+        "Grèce"
       ],
       "en": [
-        "Spain",
         "Italy",
-        "France",
-        "Slovenia"
+        "Spain",
+        "Portugal",
+        "Greece"
       ],
       "nl": [
-        "Spanje",
         "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "Spanje",
+        "Portugal",
+        "Griekenland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1254,55 +1257,55 @@ const TRADITIONS_30=[
     "id": "t020",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
-    "zone": "south",
+    "zone": "west",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Espagne",
-        "Italie",
-        "France",
-        "Slovénie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Spain",
-        "Italy",
-        "France",
-        "Slovenia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Spanje",
-        "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1315,55 +1318,55 @@ const TRADITIONS_30=[
     "id": "t021",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
     },
     "zone": "south",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
+      "en": "In which country does this tradition take place?",
+      "nl": "In welk land vindt deze traditie plaats?"
     },
     "answers": {
       "fr": [
-        "Espagne",
         "Italie",
-        "France",
-        "Slovénie"
+        "Espagne",
+        "Portugal",
+        "Grèce"
       ],
       "en": [
-        "Spain",
         "Italy",
-        "France",
-        "Slovenia"
+        "Spain",
+        "Portugal",
+        "Greece"
       ],
       "nl": [
-        "Spanje",
         "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "Spanje",
+        "Portugal",
+        "Griekenland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1437,55 +1440,55 @@ const TRADITIONS_30=[
     "id": "t023",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
-    "zone": "south",
+    "zone": "west",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Espagne",
-        "Italie",
-        "France",
-        "Slovénie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Spain",
-        "Italy",
-        "France",
-        "Slovenia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Spanje",
-        "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1498,55 +1501,55 @@ const TRADITIONS_30=[
     "id": "t024",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
     },
     "zone": "south",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
+      "en": "In which country does this tradition take place?",
+      "nl": "In welk land vindt deze traditie plaats?"
     },
     "answers": {
       "fr": [
-        "Espagne",
         "Italie",
-        "France",
-        "Slovénie"
+        "Espagne",
+        "Portugal",
+        "Grèce"
       ],
       "en": [
-        "Spain",
         "Italy",
-        "France",
-        "Slovenia"
+        "Spain",
+        "Portugal",
+        "Greece"
       ],
       "nl": [
-        "Spanje",
         "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "Spanje",
+        "Portugal",
+        "Griekenland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1620,55 +1623,55 @@ const TRADITIONS_30=[
     "id": "t026",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
-    "zone": "south",
+    "zone": "west",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Espagne",
-        "Italie",
-        "France",
-        "Slovénie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Spain",
-        "Italy",
-        "France",
-        "Slovenia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Spanje",
-        "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1681,55 +1684,55 @@ const TRADITIONS_30=[
     "id": "t027",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
     },
     "zone": "south",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
+      "en": "In which country does this tradition take place?",
+      "nl": "In welk land vindt deze traditie plaats?"
     },
     "answers": {
       "fr": [
-        "Espagne",
         "Italie",
-        "France",
-        "Slovénie"
+        "Espagne",
+        "Portugal",
+        "Grèce"
       ],
       "en": [
-        "Spain",
         "Italy",
-        "France",
-        "Slovenia"
+        "Spain",
+        "Portugal",
+        "Greece"
       ],
       "nl": [
-        "Spanje",
         "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "Spanje",
+        "Portugal",
+        "Griekenland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1803,55 +1806,55 @@ const TRADITIONS_30=[
     "id": "t029",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
-    "zone": "south",
+    "zone": "west",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Espagne",
-        "Italie",
-        "France",
-        "Slovénie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Spain",
-        "Italy",
-        "France",
-        "Slovenia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Spanje",
-        "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1864,55 +1867,55 @@ const TRADITIONS_30=[
     "id": "t030",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Bataille des oranges",
-      "en": "Battle of the Oranges",
-      "nl": "Sinaasappelgevecht"
+      "fr": "El Colacho",
+      "en": "El Colacho",
+      "nl": "El Colacho"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "region": {
-      "fr": "Ivrea, Piémont",
-      "en": "Ivrea, Piedmont",
-      "nl": "Ivrea, Piëmont"
+      "fr": "Castrillo de Murcia",
+      "en": "Castrillo de Murcia",
+      "nl": "Castrillo de Murcia"
     },
     "zone": "south",
     "scenario": {
-      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
-      "en": "During a carnival, teams throw oranges at each other.",
-      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
+      "en": "Costumed participants jump over babies lying on mattresses.",
+      "nl": "Verklede deelnemers springen over baby’s op matrassen."
     },
     "question": {
-      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
-      "en": "In which country does this citrus battle take place?",
-      "nl": "In welk land vindt dit citrusgevecht plaats?"
+      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
+      "en": "In which country does this tradition take place?",
+      "nl": "In welk land vindt deze traditie plaats?"
     },
     "answers": {
       "fr": [
-        "Espagne",
         "Italie",
-        "France",
-        "Slovénie"
+        "Espagne",
+        "Portugal",
+        "Grèce"
       ],
       "en": [
-        "Spain",
         "Italy",
-        "France",
-        "Slovenia"
+        "Spain",
+        "Portugal",
+        "Greece"
       ],
       "nl": [
-        "Spanje",
         "Italië",
-        "Frankrijk",
-        "Slovenië"
+        "Spanje",
+        "Portugal",
+        "Griekenland"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1978,9 +1981,9 @@ const CULINARY_50=[
       "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple. Il est généralement cité comme l’un des exemples les plus extrêmes de la gastronomie traditionnelle européenne.",
-      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture. It is often cited as one of the most extreme examples of traditional European food culture.",
-      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft. Het gerecht wordt vaak genoemd als een van de meest extreme voorbeelden van traditionele Europese eetcultuur."
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft."
     },
     "image": {
       "file": "casu-marzu.jpg",
@@ -2050,9 +2053,9 @@ const CULINARY_50=[
       "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices. Il est souvent servi avec des navets et des pommes de terre, et reste fortement associé aux repas traditionnels écossais.",
-      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices. It is often served with neeps and tatties, and remains strongly associated with traditional Scottish meals.",
-      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden. Het wordt vaak geserveerd met raap en aardappelen en blijft sterk verbonden met traditionele Schotse maaltijden."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden."
     },
     "image": {
       "file": "haggis.jpg",
@@ -2122,9 +2125,9 @@ const CULINARY_50=[
       "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte. Son odeur très puissante fait partie de sa réputation, mais il s’inscrit aussi dans une vraie tradition alimentaire du nord de la Suède.",
-      "en": "Surströmming is fermented Baltic herring, usually sold in tins. Its extremely strong smell is part of its reputation, but it also belongs to a genuine food tradition in northern Sweden.",
-      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik. De zeer sterke geur maakt deel uit van de reputatie, maar het gerecht hoort ook bij een echte voedseltraditie in Noord-Zweden."
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte, avec une odeur très puissante.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins, with an extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik, met een zeer sterke geur."
     },
     "image": {
       "file": "surstromming.jpg",
@@ -2194,9 +2197,9 @@ const CULINARY_50=[
       "nl": "Gefermenteerde haai"
     },
     "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché. Son goût très marqué et son odeur d’ammoniaque en font un plat de dégustation souvent présenté comme un rite de passage culinaire.",
-      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark. Its powerful taste and ammonia-like smell make it a tasting dish often presented as a culinary rite of passage.",
-      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai. De sterke smaak en ammoniakachtige geur maken het tot een gerecht dat vaak als culinaire proef wordt voorgesteld."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a very powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai, met een zeer uitgesproken smaak."
     },
     "image": {
       "file": "hakarl.jpg",
@@ -2266,9 +2269,9 @@ const CULINARY_50=[
       "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Le Smalahove est un plat norvégien traditionnel composé d’une tête de mouton préparée entière ou presque entière. Il est associé à certaines périodes festives et illustre une cuisine ancienne où presque toutes les parties de l’animal étaient utilisées.",
-      "en": "Smalahove is a traditional Norwegian dish consisting of a sheep’s head served whole or almost whole. It is associated with particular festive periods and reflects an older food culture in which almost every part of the animal was used.",
-      "nl": "Smalahove is een traditioneel Noors gerecht bestaande uit een hele of bijna hele schapenkop. Het wordt met bepaalde feestperiodes verbonden en toont een oudere eetcultuur waarin bijna alle delen van het dier werden gebruikt."
+      "fr": "Le Smalahove est un plat norvégien composé d’une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a Norwegian dish consisting of a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een Noors gerecht bestaande uit een hele of bijna hele schapenkop."
     },
     "image": {
       "file": "smalahove.jpg",
@@ -2287,71 +2290,71 @@ const CULINARY_50=[
     "id": "c006",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Zweden"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië"
     },
-    "zone": "north",
+    "zone": "south",
     "scenario": {
       "fr": "",
       "en": "",
       "nl": ""
     },
     "question": {
-      "fr": "Que sont les Blodplättar ?",
-      "en": "What are Blodplättar?",
-      "nl": "Wat zijn Blodplättar?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Des crêpes au sang",
+        "Un fromage contenant des larves vivantes",
         "Une soupe de poisson",
         "Une charcuterie fumée",
         "Un dessert aux céréales"
       ],
       "en": [
-        "Blood pancakes",
+        "A cheese containing live larvae",
         "A fish soup",
         "Smoked charcuterie",
         "A cereal dessert"
       ],
       "nl": [
-        "Bloedpannenkoeken",
+        "Een kaas met levende larven",
         "Een vissoep",
         "Gerookte vleeswaren",
         "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Des crêpes au sang",
-      "en": "Blood pancakes",
-      "nl": "Bloedpannenkoeken"
+      "fr": "Un fromage contenant des larves vivantes",
+      "en": "A cheese containing live larvae",
+      "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques. La préparation peut surprendre, mais elle appartient à une logique de cuisine rurale qui utilisait les ingrédients disponibles sans gaspillage.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions. The preparation may surprise visitors, but it belongs to a rural cooking logic that used available ingredients without waste.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen. De bereiding kan verrassend zijn, maar past binnen een landelijke kooktraditie waarin beschikbare ingrediënten zonder verspilling werden gebruikt."
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft."
     },
     "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Blodplättar",
-        "en": "Non-AI Adobe Stock photo: Blodplättar",
-        "nl": "Niet-AI Adobe Stock-foto: Blodplättar"
+        "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
+        "en": "Non-AI Adobe Stock photo: Casu Marzu",
+        "nl": "Niet-AI Adobe Stock-foto: Casu Marzu"
       }
     }
   },
@@ -2359,19 +2362,19 @@ const CULINARY_50=[
     "id": "c007",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis"
     },
     "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
     },
     "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
     },
     "zone": "west",
     "scenario": {
@@ -2380,50 +2383,50 @@ const CULINARY_50=[
       "nl": ""
     },
     "question": {
-      "fr": "Que sont les Andouillette ?",
-      "en": "What are Andouillette?",
-      "nl": "Wat zijn Andouillette?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?"
     },
     "answers": {
       "fr": [
-        "Une saucisse à base d’intestins de porc",
+        "Un plat à base d’abats de mouton",
         "Une charcuterie fumée",
         "Un dessert aux céréales",
         "Un fromage fermenté"
       ],
       "en": [
-        "A sausage made with pork intestines",
+        "A dish made with sheep offal",
         "Smoked charcuterie",
         "A cereal dessert",
         "A fermented cheese"
       ],
       "nl": [
-        "Een worst gemaakt met varkensdarmen",
+        "Een gerecht met schapenorgaanvlees",
         "Gerookte vleeswaren",
         "Een graandessert",
         "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
-      "fr": "Une saucisse à base d’intestins de porc",
-      "en": "A sausage made with pork intestines",
-      "nl": "Een worst gemaakt met varkensdarmen"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "L’Andouillette est une spécialité française de charcuterie élaborée principalement avec des éléments du système digestif du porc. Son goût et son odeur très reconnaissables en font un plat clivant, apprécié par les amateurs de cuisine de caractère.",
-      "en": "Andouillette is a French charcuterie speciality made mainly with parts of the pig’s digestive tract. Its very recognisable taste and smell make it a divisive dish, appreciated by fans of strongly flavoured food.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit, voornamelijk gemaakt met delen van het spijsverteringsstelsel van het varken. De uitgesproken smaak en geur maken het een uitgesproken gerecht voor liefhebbers van krachtige smaken."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden."
     },
     "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Andouillette",
-        "en": "Non-AI Adobe Stock photo: Andouillette",
-        "nl": "Niet-AI Adobe Stock-foto: Andouillette"
+        "fr": "Photo Adobe Stock non générée par IA : Haggis",
+        "en": "Non-AI Adobe Stock photo: Haggis",
+        "nl": "Niet-AI Adobe Stock-foto: Haggis"
       }
     }
   },
@@ -2431,19 +2434,19 @@ const CULINARY_50=[
     "id": "c008",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
     },
     "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden"
     },
     "zone": "north",
     "scenario": {
@@ -2452,50 +2455,50 @@ const CULINARY_50=[
       "nl": ""
     },
     "question": {
-      "fr": "Que sont les Mämmi ?",
-      "en": "What are Mämmi?",
-      "nl": "Wat zijn Mämmi?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?"
     },
     "answers": {
       "fr": [
-        "Un dessert de Pâques au seigle et au malt",
+        "Du hareng fermenté",
         "Un dessert aux céréales",
         "Un fromage fermenté",
         "Une soupe de poisson"
       ],
       "en": [
-        "An Easter dessert made with rye and malt",
+        "Fermented herring",
         "A cereal dessert",
         "A fermented cheese",
         "A fish soup"
       ],
       "nl": [
-        "Een paasdessert met rogge en mout",
+        "Gefermenteerde haring",
         "Een graandessert",
         "Een gefermenteerde kaas",
         "Een vissoep"
       ]
     },
     "correctAnswer": {
-      "fr": "Un dessert de Pâques au seigle et au malt",
-      "en": "An Easter dessert made with rye and malt",
-      "nl": "Een paasdessert met rogge en mout"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt. Sa couleur sombre contraste avec son goût doux, souvent adouci avec de la crème ou du lait.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt. Its dark colour contrasts with its mildly sweet taste, often softened with cream or milk.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout. De donkere kleur contrasteert met de zachte, licht zoete smaak, vaak verzacht met room of melk."
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte, avec une odeur très puissante.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins, with an extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik, met een zeer sterke geur."
     },
     "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Mämmi",
-        "en": "Non-AI Adobe Stock photo: Mämmi",
-        "nl": "Niet-AI Adobe Stock-foto: Mämmi"
+        "fr": "Photo Adobe Stock non générée par IA : Surströmming",
+        "en": "Non-AI Adobe Stock photo: Surströmming",
+        "nl": "Niet-AI Adobe Stock-foto: Surströmming"
       }
     }
   },
@@ -2503,19 +2506,235 @@ const CULINARY_50=[
     "id": "c009",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl"
     },
     "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
     },
     "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
+    },
+    "zone": "north",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?"
+    },
+    "answers": {
+      "fr": [
+        "Du requin fermenté",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
+      ],
+      "en": [
+        "Fermented shark",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
+      ],
+      "nl": [
+        "Gefermenteerde haai",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai"
+    },
+    "explanation": {
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a very powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai, met een zeer uitgesproken smaak."
+    },
+    "image": {
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Hákarl",
+        "en": "Non-AI Adobe Stock photo: Hákarl",
+        "nl": "Niet-AI Adobe Stock-foto: Hákarl"
+      }
+    }
+  },
+  {
+    "id": "c010",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove"
+    },
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen"
+    },
+    "region": {
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen"
+    },
+    "zone": "north",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?"
+    },
+    "answers": {
+      "fr": [
+        "Une tête de mouton traditionnelle",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
+      ],
+      "en": [
+        "A traditional sheep’s head",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
+      ],
+      "nl": [
+        "Een traditionele schapenkop",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop"
+    },
+    "explanation": {
+      "fr": "Le Smalahove est un plat norvégien composé d’une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a Norwegian dish consisting of a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een Noors gerecht bestaande uit een hele of bijna hele schapenkop."
+    },
+    "image": {
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Smalahove",
+        "en": "Non-AI Adobe Stock photo: Smalahove",
+        "nl": "Niet-AI Adobe Stock-foto: Smalahove"
+      }
+    }
+  },
+  {
+    "id": "c011",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië"
+    },
+    "zone": "south",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?"
+    },
+    "answers": {
+      "fr": [
+        "Un fromage contenant des larves vivantes",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Un fromage fermenté"
+      ],
+      "en": [
+        "A cheese containing live larvae",
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A fermented cheese"
+      ],
+      "nl": [
+        "Een kaas met levende larven",
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een gefermenteerde kaas"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un fromage contenant des larves vivantes",
+      "en": "A cheese containing live larvae",
+      "nl": "Een kaas met levende larven"
+    },
+    "explanation": {
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft."
+    },
+    "image": {
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
+        "en": "Non-AI Adobe Stock photo: Casu Marzu",
+        "nl": "Niet-AI Adobe Stock-foto: Casu Marzu"
+      }
+    }
+  },
+  {
+    "id": "c012",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis"
+    },
+    "country": {
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
+    },
+    "region": {
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
     },
     "zone": "west",
     "scenario": {
@@ -2524,266 +2743,50 @@ const CULINARY_50=[
       "nl": ""
     },
     "question": {
-      "fr": "Que sont les Jellied eels ?",
-      "en": "What are Jellied eels?",
-      "nl": "Wat zijn Jellied eels?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?"
     },
     "answers": {
       "fr": [
-        "Des anguilles servies dans une gelée froide",
-        "Un fromage fermenté",
-        "Une soupe de poisson",
-        "Une charcuterie fumée"
-      ],
-      "en": [
-        "Eels served in cold jelly",
-        "A fermented cheese",
-        "A fish soup",
-        "Smoked charcuterie"
-      ],
-      "nl": [
-        "Paling geserveerd in koude gelei",
-        "Een gefermenteerde kaas",
-        "Een vissoep",
-        "Gerookte vleeswaren"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Des anguilles servies dans une gelée froide",
-      "en": "Eels served in cold jelly",
-      "nl": "Paling geserveerd in koude gelei"
-    },
-    "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien : des morceaux d’anguille cuits puis pris dans une gelée froide. Ce plat est lié à une culture populaire urbaine et à la cuisine de rue britannique.",
-      "en": "Jellied eels are a historic speciality of London’s East End: pieces of eel cooked and set in a cold jelly. The dish is linked to urban working-class culture and British street food history.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen: stukjes paling gekookt en daarna opgesteven in koude gelei. Het gerecht is verbonden met stedelijke volkscultuur en Britse streetfoodgeschiedenis."
-    },
-    "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Jellied eels",
-        "en": "Non-AI Adobe Stock photo: Jellied eels",
-        "nl": "Niet-AI Adobe Stock-foto: Jellied eels"
-      }
-    }
-  },
-  {
-    "id": "c010",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina"
-    },
-    "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
-    },
-    "region": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
-    },
-    "zone": "central",
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": ""
-    },
-    "question": {
-      "fr": "Que sont les Czernina ?",
-      "en": "What are Czernina?",
-      "nl": "Wat zijn Czernina?"
-    },
-    "answers": {
-      "fr": [
-        "Une soupe au sang de canard",
-        "Une soupe de poisson",
-        "Une charcuterie fumée",
-        "Un dessert aux céréales"
-      ],
-      "en": [
-        "A duck-blood soup",
-        "A fish soup",
-        "Smoked charcuterie",
-        "A cereal dessert"
-      ],
-      "nl": [
-        "Een soep met eendenbloed",
-        "Een vissoep",
-        "Gerookte vleeswaren",
-        "Een graandessert"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une soupe au sang de canard",
-      "en": "A duck-blood soup",
-      "nl": "Een soep met eendenbloed"
-    },
-    "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard, souvent équilibrée par des notes aigres-douces. Elle montre comment certaines cuisines européennes transforment des ingrédients très forts en plats rituels et familiaux.",
-      "en": "Czernina is a traditional Polish duck-blood soup, often balanced with sweet-and-sour notes. It shows how some European cuisines turn very strong ingredients into family and ritual dishes.",
-      "nl": "Czernina is een traditionele Poolse soep met eendenbloed, vaak in balans gebracht met zoetzure tonen. Het toont hoe sommige Europese keukens krachtige ingrediënten omvormen tot familiale en rituele gerechten."
-    },
-    "image": {
-      "file": "czernina.jpg",
-      "path": "assets/food/czernina.jpg",
-      "adobeStockId": "20264185",
-      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Czernina",
-        "en": "Non-AI Adobe Stock photo: Czernina",
-        "nl": "Niet-AI Adobe Stock-foto: Czernina"
-      }
-    }
-  },
-  {
-    "id": "c011",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië"
-    },
-    "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië"
-    },
-    "zone": "east",
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": ""
-    },
-    "question": {
-      "fr": "Que sont les Ciorbă de burtă ?",
-      "en": "What are Ciorbă de burtă?",
-      "nl": "Wat zijn Ciorbă de burtă?"
-    },
-    "answers": {
-      "fr": [
-        "Une soupe de tripes",
-        "Une charcuterie fumée",
-        "Un dessert aux céréales",
-        "Un fromage fermenté"
-      ],
-      "en": [
-        "A tripe soup",
-        "Smoked charcuterie",
-        "A cereal dessert",
-        "A fermented cheese"
-      ],
-      "nl": [
-        "Een penssoep",
-        "Gerookte vleeswaren",
-        "Een graandessert",
-        "Een gefermenteerde kaas"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une soupe de tripes",
-      "en": "A tripe soup",
-      "nl": "Een penssoep"
-    },
-    "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail, vinaigre ou piment. Elle est réputée pour sa texture riche et son goût acidulé.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic, vinegar or chilli. It is known for its rich texture and tangy flavour.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak geserveerd met room, knoflook, azijn of chili. Het gerecht staat bekend om zijn rijke textuur en frisse, zurige smaak."
-    },
-    "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Ciorbă de burtă",
-        "en": "Non-AI Adobe Stock photo: Ciorbă de burtă",
-        "nl": "Niet-AI Adobe Stock-foto: Ciorbă de burtă"
-      }
-    }
-  },
-  {
-    "id": "c012",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland"
-    },
-    "region": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland"
-    },
-    "zone": "south",
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": ""
-    },
-    "question": {
-      "fr": "Que sont les Kokoretsi ?",
-      "en": "What are Kokoretsi?",
-      "nl": "Wat zijn Kokoretsi?"
-    },
-    "answers": {
-      "fr": [
-        "Une spécialité d’abats grillés",
+        "Un plat à base d’abats de mouton",
         "Un dessert aux céréales",
         "Un fromage fermenté",
         "Une soupe de poisson"
       ],
       "en": [
-        "A grilled offal speciality",
+        "A dish made with sheep offal",
         "A cereal dessert",
         "A fermented cheese",
         "A fish soup"
       ],
       "nl": [
-        "Een specialiteit van gegrild orgaanvlees",
+        "Een gerecht met schapenorgaanvlees",
         "Een graandessert",
         "Een gefermenteerde kaas",
         "Een vissoep"
       ]
     },
     "correctAnswer": {
-      "fr": "Une spécialité d’abats grillés",
-      "en": "A grilled offal speciality",
-      "nl": "Een specialiteit van gegrild orgaanvlees"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats enroulés puis grillés à la broche. Il est souvent associé aux repas de fête, notamment autour de Pâques.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal wrapped and grilled on a spit. It is often associated with festive meals, especially around Easter.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van orgaanvlees dat wordt omwikkeld en aan het spit gegrild. Het wordt vaak gelinkt aan feestmaaltijden, vooral rond Pasen."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden."
     },
     "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Kokoretsi",
-        "en": "Non-AI Adobe Stock photo: Kokoretsi",
-        "nl": "Niet-AI Adobe Stock-foto: Kokoretsi"
+        "fr": "Photo Adobe Stock non générée par IA : Haggis",
+        "en": "Non-AI Adobe Stock photo: Haggis",
+        "nl": "Niet-AI Adobe Stock-foto: Haggis"
       }
     }
   },
@@ -2791,163 +2794,19 @@ const CULINARY_50=[
     "id": "c013",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming"
     },
     "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
     },
     "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland"
-    },
-    "zone": "central",
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": ""
-    },
-    "question": {
-      "fr": "Que sont les Labskaus ?",
-      "en": "What are Labskaus?",
-      "nl": "Wat zijn Labskaus?"
-    },
-    "answers": {
-      "fr": [
-        "Un plat de marins à base de viande, pommes de terre et betterave",
-        "Un fromage fermenté",
-        "Une soupe de poisson",
-        "Une charcuterie fumée"
-      ],
-      "en": [
-        "A sailors’ dish with meat, potatoes and beetroot",
-        "A fermented cheese",
-        "A fish soup",
-        "Smoked charcuterie"
-      ],
-      "nl": [
-        "Een zeemansgerecht met vlees, aardappelen en biet",
-        "Een gefermenteerde kaas",
-        "Een vissoep",
-        "Gerookte vleeswaren"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Un plat de marins à base de viande, pommes de terre et betterave",
-      "en": "A sailors’ dish with meat, potatoes and beetroot",
-      "nl": "Een zeemansgerecht met vlees, aardappelen en biet"
-    },
-    "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime. Il mélange généralement pommes de terre, viande salée, betterave, hareng ou cornichons, avec un œuf au plat en garniture.",
-      "en": "Labskaus is a northern German dish associated with maritime culture. It usually combines potatoes, salted meat, beetroot, herring or pickles, often topped with a fried egg.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur. Het combineert meestal aardappelen, gezouten vlees, biet, haring of augurken, vaak afgewerkt met een spiegelei."
-    },
-    "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Labskaus",
-        "en": "Non-AI Adobe Stock photo: Labskaus",
-        "nl": "Niet-AI Adobe Stock-foto: Labskaus"
-      }
-    }
-  },
-  {
-    "id": "c014",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal"
-    },
-    "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto"
-    },
-    "zone": "south",
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": ""
-    },
-    "question": {
-      "fr": "Que sont les Tripas à moda do Porto ?",
-      "en": "What are Tripas à moda do Porto?",
-      "nl": "Wat zijn Tripas à moda do Porto?"
-    },
-    "answers": {
-      "fr": [
-        "Un plat de tripes traditionnel",
-        "Une soupe de poisson",
-        "Une charcuterie fumée",
-        "Un dessert aux céréales"
-      ],
-      "en": [
-        "A traditional tripe dish",
-        "A fish soup",
-        "Smoked charcuterie",
-        "A cereal dessert"
-      ],
-      "nl": [
-        "Een traditioneel pensgerecht",
-        "Een vissoep",
-        "Gerookte vleeswaren",
-        "Een graandessert"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Un plat de tripes traditionnel",
-      "en": "A traditional tripe dish",
-      "nl": "Een traditioneel pensgerecht"
-    },
-    "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais de Porto à base de tripes, haricots et charcuteries. Cette recette robuste est fortement associée à l’identité culinaire de la ville.",
-      "en": "Tripas à moda do Porto is a Portuguese dish from Porto made with tripe, beans and cured meats. This robust recipe is strongly associated with the city’s culinary identity.",
-      "nl": "Tripas à moda do Porto is een Portugees gerecht uit Porto met pens, bonen en vleeswaren. Dit stevige recept is sterk verbonden met de culinaire identiteit van de stad."
-    },
-    "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Tripas à moda do Porto",
-        "en": "Non-AI Adobe Stock photo: Tripas à moda do Porto",
-        "nl": "Niet-AI Adobe Stock-foto: Tripas à moda do Porto"
-      }
-    }
-  },
-  {
-    "id": "c015",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland"
-    },
-    "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden"
     },
     "zone": "north",
     "scenario": {
@@ -2956,50 +2815,194 @@ const CULINARY_50=[
       "nl": ""
     },
     "question": {
-      "fr": "Que sont les Sklandrausis ?",
-      "en": "What are Sklandrausis?",
-      "nl": "Wat zijn Sklandrausis?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?"
     },
     "answers": {
       "fr": [
-        "Une tartelette traditionnelle au seigle et aux légumes",
+        "Du hareng fermenté",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
+      ],
+      "en": [
+        "Fermented herring",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
+      ],
+      "nl": [
+        "Gefermenteerde haring",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring"
+    },
+    "explanation": {
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte, avec une odeur très puissante.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins, with an extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik, met een zeer sterke geur."
+    },
+    "image": {
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Surströmming",
+        "en": "Non-AI Adobe Stock photo: Surströmming",
+        "nl": "Niet-AI Adobe Stock-foto: Surströmming"
+      }
+    }
+  },
+  {
+    "id": "c014",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl"
+    },
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
+    },
+    "region": {
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
+    },
+    "zone": "north",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?"
+    },
+    "answers": {
+      "fr": [
+        "Du requin fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
+      ],
+      "en": [
+        "Fermented shark",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
+      ],
+      "nl": [
+        "Gefermenteerde haai",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai"
+    },
+    "explanation": {
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a very powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai, met een zeer uitgesproken smaak."
+    },
+    "image": {
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Hákarl",
+        "en": "Non-AI Adobe Stock photo: Hákarl",
+        "nl": "Niet-AI Adobe Stock-foto: Hákarl"
+      }
+    }
+  },
+  {
+    "id": "c015",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove"
+    },
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen"
+    },
+    "region": {
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen"
+    },
+    "zone": "north",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?"
+    },
+    "answers": {
+      "fr": [
+        "Une tête de mouton traditionnelle",
         "Une charcuterie fumée",
         "Un dessert aux céréales",
         "Un fromage fermenté"
       ],
       "en": [
-        "A traditional rye and vegetable tartlet",
+        "A traditional sheep’s head",
         "Smoked charcuterie",
         "A cereal dessert",
         "A fermented cheese"
       ],
       "nl": [
-        "Een traditioneel taartje met rogge en groenten",
+        "Een traditionele schapenkop",
         "Gerookte vleeswaren",
         "Een graandessert",
         "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
-      "fr": "Une tartelette traditionnelle au seigle et aux légumes",
-      "en": "A traditional rye and vegetable tartlet",
-      "nl": "Een traditioneel taartje met rogge en groenten"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Le Sklandrausis est une petite tarte lettone à base de pâte de seigle garnie, souvent avec carotte et pomme de terre. Son goût doux et rustique reflète une tradition paysanne balte.",
-      "en": "Sklandrausis is a small Latvian tart made with rye dough and usually filled with carrot and potato. Its sweet, rustic flavour reflects a Baltic rural food tradition.",
-      "nl": "Sklandrausis is een Lets taartje van roggedeeg, meestal gevuld met wortel en aardappel. De zachte, rustieke smaak weerspiegelt een Baltische plattelandstraditie."
+      "fr": "Le Smalahove est un plat norvégien composé d’une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a Norwegian dish consisting of a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een Noors gerecht bestaande uit een hele of bijna hele schapenkop."
     },
     "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Sklandrausis",
-        "en": "Non-AI Adobe Stock photo: Sklandrausis",
-        "nl": "Niet-AI Adobe Stock-foto: Sklandrausis"
+        "fr": "Photo Adobe Stock non générée par IA : Smalahove",
+        "en": "Non-AI Adobe Stock photo: Smalahove",
+        "nl": "Niet-AI Adobe Stock-foto: Smalahove"
       }
     }
   },
@@ -3058,9 +3061,9 @@ const CULINARY_50=[
       "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple. Il est généralement cité comme l’un des exemples les plus extrêmes de la gastronomie traditionnelle européenne.",
-      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture. It is often cited as one of the most extreme examples of traditional European food culture.",
-      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft. Het gerecht wordt vaak genoemd als een van de meest extreme voorbeelden van traditionele Europese eetcultuur."
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft."
     },
     "image": {
       "file": "casu-marzu.jpg",
@@ -3130,9 +3133,9 @@ const CULINARY_50=[
       "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices. Il est souvent servi avec des navets et des pommes de terre, et reste fortement associé aux repas traditionnels écossais.",
-      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices. It is often served with neeps and tatties, and remains strongly associated with traditional Scottish meals.",
-      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden. Het wordt vaak geserveerd met raap en aardappelen en blijft sterk verbonden met traditionele Schotse maaltijden."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden."
     },
     "image": {
       "file": "haggis.jpg",
@@ -3202,9 +3205,9 @@ const CULINARY_50=[
       "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte. Son odeur très puissante fait partie de sa réputation, mais il s’inscrit aussi dans une vraie tradition alimentaire du nord de la Suède.",
-      "en": "Surströmming is fermented Baltic herring, usually sold in tins. Its extremely strong smell is part of its reputation, but it also belongs to a genuine food tradition in northern Sweden.",
-      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik. De zeer sterke geur maakt deel uit van de reputatie, maar het gerecht hoort ook bij een echte voedseltraditie in Noord-Zweden."
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte, avec une odeur très puissante.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins, with an extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik, met een zeer sterke geur."
     },
     "image": {
       "file": "surstromming.jpg",
@@ -3274,9 +3277,9 @@ const CULINARY_50=[
       "nl": "Gefermenteerde haai"
     },
     "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché. Son goût très marqué et son odeur d’ammoniaque en font un plat de dégustation souvent présenté comme un rite de passage culinaire.",
-      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark. Its powerful taste and ammonia-like smell make it a tasting dish often presented as a culinary rite of passage.",
-      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai. De sterke smaak en ammoniakachtige geur maken het tot een gerecht dat vaak als culinaire proef wordt voorgesteld."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a very powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai, met een zeer uitgesproken smaak."
     },
     "image": {
       "file": "hakarl.jpg",
@@ -3346,9 +3349,9 @@ const CULINARY_50=[
       "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Le Smalahove est un plat norvégien traditionnel composé d’une tête de mouton préparée entière ou presque entière. Il est associé à certaines périodes festives et illustre une cuisine ancienne où presque toutes les parties de l’animal étaient utilisées.",
-      "en": "Smalahove is a traditional Norwegian dish consisting of a sheep’s head served whole or almost whole. It is associated with particular festive periods and reflects an older food culture in which almost every part of the animal was used.",
-      "nl": "Smalahove is een traditioneel Noors gerecht bestaande uit een hele of bijna hele schapenkop. Het wordt met bepaalde feestperiodes verbonden en toont een oudere eetcultuur waarin bijna alle delen van het dier werden gebruikt."
+      "fr": "Le Smalahove est un plat norvégien composé d’une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a Norwegian dish consisting of a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een Noors gerecht bestaande uit een hele of bijna hele schapenkop."
     },
     "image": {
       "file": "smalahove.jpg",
@@ -3367,71 +3370,71 @@ const CULINARY_50=[
     "id": "c021",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Zweden"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië"
     },
-    "zone": "north",
+    "zone": "south",
     "scenario": {
       "fr": "",
       "en": "",
       "nl": ""
     },
     "question": {
-      "fr": "Que sont les Blodplättar ?",
-      "en": "What are Blodplättar?",
-      "nl": "Wat zijn Blodplättar?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Des crêpes au sang",
+        "Un fromage contenant des larves vivantes",
         "Un fromage fermenté",
         "Une soupe de poisson",
         "Une charcuterie fumée"
       ],
       "en": [
-        "Blood pancakes",
+        "A cheese containing live larvae",
         "A fermented cheese",
         "A fish soup",
         "Smoked charcuterie"
       ],
       "nl": [
-        "Bloedpannenkoeken",
+        "Een kaas met levende larven",
         "Een gefermenteerde kaas",
         "Een vissoep",
         "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
-      "fr": "Des crêpes au sang",
-      "en": "Blood pancakes",
-      "nl": "Bloedpannenkoeken"
+      "fr": "Un fromage contenant des larves vivantes",
+      "en": "A cheese containing live larvae",
+      "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques. La préparation peut surprendre, mais elle appartient à une logique de cuisine rurale qui utilisait les ingrédients disponibles sans gaspillage.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions. The preparation may surprise visitors, but it belongs to a rural cooking logic that used available ingredients without waste.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen. De bereiding kan verrassend zijn, maar past binnen een landelijke kooktraditie waarin beschikbare ingrediënten zonder verspilling werden gebruikt."
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft."
     },
     "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Blodplättar",
-        "en": "Non-AI Adobe Stock photo: Blodplättar",
-        "nl": "Niet-AI Adobe Stock-foto: Blodplättar"
+        "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
+        "en": "Non-AI Adobe Stock photo: Casu Marzu",
+        "nl": "Niet-AI Adobe Stock-foto: Casu Marzu"
       }
     }
   },
@@ -3439,19 +3442,19 @@ const CULINARY_50=[
     "id": "c022",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis"
     },
     "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
     },
     "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
     },
     "zone": "west",
     "scenario": {
@@ -3460,50 +3463,50 @@ const CULINARY_50=[
       "nl": ""
     },
     "question": {
-      "fr": "Que sont les Andouillette ?",
-      "en": "What are Andouillette?",
-      "nl": "Wat zijn Andouillette?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?"
     },
     "answers": {
       "fr": [
-        "Une saucisse à base d’intestins de porc",
+        "Un plat à base d’abats de mouton",
         "Une soupe de poisson",
         "Une charcuterie fumée",
         "Un dessert aux céréales"
       ],
       "en": [
-        "A sausage made with pork intestines",
+        "A dish made with sheep offal",
         "A fish soup",
         "Smoked charcuterie",
         "A cereal dessert"
       ],
       "nl": [
-        "Een worst gemaakt met varkensdarmen",
+        "Een gerecht met schapenorgaanvlees",
         "Een vissoep",
         "Gerookte vleeswaren",
         "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Une saucisse à base d’intestins de porc",
-      "en": "A sausage made with pork intestines",
-      "nl": "Een worst gemaakt met varkensdarmen"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "L’Andouillette est une spécialité française de charcuterie élaborée principalement avec des éléments du système digestif du porc. Son goût et son odeur très reconnaissables en font un plat clivant, apprécié par les amateurs de cuisine de caractère.",
-      "en": "Andouillette is a French charcuterie speciality made mainly with parts of the pig’s digestive tract. Its very recognisable taste and smell make it a divisive dish, appreciated by fans of strongly flavoured food.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit, voornamelijk gemaakt met delen van het spijsverteringsstelsel van het varken. De uitgesproken smaak en geur maken het een uitgesproken gerecht voor liefhebbers van krachtige smaken."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden."
     },
     "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Andouillette",
-        "en": "Non-AI Adobe Stock photo: Andouillette",
-        "nl": "Niet-AI Adobe Stock-foto: Andouillette"
+        "fr": "Photo Adobe Stock non générée par IA : Haggis",
+        "en": "Non-AI Adobe Stock photo: Haggis",
+        "nl": "Niet-AI Adobe Stock-foto: Haggis"
       }
     }
   },
@@ -3511,19 +3514,19 @@ const CULINARY_50=[
     "id": "c023",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
     },
     "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden"
     },
     "zone": "north",
     "scenario": {
@@ -3532,50 +3535,50 @@ const CULINARY_50=[
       "nl": ""
     },
     "question": {
-      "fr": "Que sont les Mämmi ?",
-      "en": "What are Mämmi?",
-      "nl": "Wat zijn Mämmi?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?"
     },
     "answers": {
       "fr": [
-        "Un dessert de Pâques au seigle et au malt",
+        "Du hareng fermenté",
         "Une charcuterie fumée",
         "Un dessert aux céréales",
         "Un fromage fermenté"
       ],
       "en": [
-        "An Easter dessert made with rye and malt",
+        "Fermented herring",
         "Smoked charcuterie",
         "A cereal dessert",
         "A fermented cheese"
       ],
       "nl": [
-        "Een paasdessert met rogge en mout",
+        "Gefermenteerde haring",
         "Gerookte vleeswaren",
         "Een graandessert",
         "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
-      "fr": "Un dessert de Pâques au seigle et au malt",
-      "en": "An Easter dessert made with rye and malt",
-      "nl": "Een paasdessert met rogge en mout"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt. Sa couleur sombre contraste avec son goût doux, souvent adouci avec de la crème ou du lait.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt. Its dark colour contrasts with its mildly sweet taste, often softened with cream or milk.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout. De donkere kleur contrasteert met de zachte, licht zoete smaak, vaak verzacht met room of melk."
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte, avec une odeur très puissante.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins, with an extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik, met een zeer sterke geur."
     },
     "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Mämmi",
-        "en": "Non-AI Adobe Stock photo: Mämmi",
-        "nl": "Niet-AI Adobe Stock-foto: Mämmi"
+        "fr": "Photo Adobe Stock non générée par IA : Surströmming",
+        "en": "Non-AI Adobe Stock photo: Surströmming",
+        "nl": "Niet-AI Adobe Stock-foto: Surströmming"
       }
     }
   },
@@ -3583,19 +3586,235 @@ const CULINARY_50=[
     "id": "c024",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl"
     },
     "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
     },
     "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
+    },
+    "zone": "north",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?"
+    },
+    "answers": {
+      "fr": [
+        "Du requin fermenté",
+        "Un dessert aux céréales",
+        "Un fromage fermenté",
+        "Une soupe de poisson"
+      ],
+      "en": [
+        "Fermented shark",
+        "A cereal dessert",
+        "A fermented cheese",
+        "A fish soup"
+      ],
+      "nl": [
+        "Gefermenteerde haai",
+        "Een graandessert",
+        "Een gefermenteerde kaas",
+        "Een vissoep"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai"
+    },
+    "explanation": {
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a very powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai, met een zeer uitgesproken smaak."
+    },
+    "image": {
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Hákarl",
+        "en": "Non-AI Adobe Stock photo: Hákarl",
+        "nl": "Niet-AI Adobe Stock-foto: Hákarl"
+      }
+    }
+  },
+  {
+    "id": "c025",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove"
+    },
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen"
+    },
+    "region": {
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen"
+    },
+    "zone": "north",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?"
+    },
+    "answers": {
+      "fr": [
+        "Une tête de mouton traditionnelle",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
+      ],
+      "en": [
+        "A traditional sheep’s head",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
+      ],
+      "nl": [
+        "Een traditionele schapenkop",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop"
+    },
+    "explanation": {
+      "fr": "Le Smalahove est un plat norvégien composé d’une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a Norwegian dish consisting of a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een Noors gerecht bestaande uit een hele of bijna hele schapenkop."
+    },
+    "image": {
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Smalahove",
+        "en": "Non-AI Adobe Stock photo: Smalahove",
+        "nl": "Niet-AI Adobe Stock-foto: Smalahove"
+      }
+    }
+  },
+  {
+    "id": "c026",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië"
+    },
+    "zone": "south",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?"
+    },
+    "answers": {
+      "fr": [
+        "Un fromage contenant des larves vivantes",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
+      ],
+      "en": [
+        "A cheese containing live larvae",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
+      ],
+      "nl": [
+        "Een kaas met levende larven",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un fromage contenant des larves vivantes",
+      "en": "A cheese containing live larvae",
+      "nl": "Een kaas met levende larven"
+    },
+    "explanation": {
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft."
+    },
+    "image": {
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
+        "en": "Non-AI Adobe Stock photo: Casu Marzu",
+        "nl": "Niet-AI Adobe Stock-foto: Casu Marzu"
+      }
+    }
+  },
+  {
+    "id": "c027",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis"
+    },
+    "country": {
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
+    },
+    "region": {
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
     },
     "zone": "west",
     "scenario": {
@@ -3604,266 +3823,50 @@ const CULINARY_50=[
       "nl": ""
     },
     "question": {
-      "fr": "Que sont les Jellied eels ?",
-      "en": "What are Jellied eels?",
-      "nl": "Wat zijn Jellied eels?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?"
     },
     "answers": {
       "fr": [
-        "Des anguilles servies dans une gelée froide",
-        "Un dessert aux céréales",
-        "Un fromage fermenté",
-        "Une soupe de poisson"
-      ],
-      "en": [
-        "Eels served in cold jelly",
-        "A cereal dessert",
-        "A fermented cheese",
-        "A fish soup"
-      ],
-      "nl": [
-        "Paling geserveerd in koude gelei",
-        "Een graandessert",
-        "Een gefermenteerde kaas",
-        "Een vissoep"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Des anguilles servies dans une gelée froide",
-      "en": "Eels served in cold jelly",
-      "nl": "Paling geserveerd in koude gelei"
-    },
-    "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien : des morceaux d’anguille cuits puis pris dans une gelée froide. Ce plat est lié à une culture populaire urbaine et à la cuisine de rue britannique.",
-      "en": "Jellied eels are a historic speciality of London’s East End: pieces of eel cooked and set in a cold jelly. The dish is linked to urban working-class culture and British street food history.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen: stukjes paling gekookt en daarna opgesteven in koude gelei. Het gerecht is verbonden met stedelijke volkscultuur en Britse streetfoodgeschiedenis."
-    },
-    "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Jellied eels",
-        "en": "Non-AI Adobe Stock photo: Jellied eels",
-        "nl": "Niet-AI Adobe Stock-foto: Jellied eels"
-      }
-    }
-  },
-  {
-    "id": "c025",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina"
-    },
-    "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
-    },
-    "region": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
-    },
-    "zone": "central",
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": ""
-    },
-    "question": {
-      "fr": "Que sont les Czernina ?",
-      "en": "What are Czernina?",
-      "nl": "Wat zijn Czernina?"
-    },
-    "answers": {
-      "fr": [
-        "Une soupe au sang de canard",
-        "Un fromage fermenté",
-        "Une soupe de poisson",
-        "Une charcuterie fumée"
-      ],
-      "en": [
-        "A duck-blood soup",
-        "A fermented cheese",
-        "A fish soup",
-        "Smoked charcuterie"
-      ],
-      "nl": [
-        "Een soep met eendenbloed",
-        "Een gefermenteerde kaas",
-        "Een vissoep",
-        "Gerookte vleeswaren"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une soupe au sang de canard",
-      "en": "A duck-blood soup",
-      "nl": "Een soep met eendenbloed"
-    },
-    "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard, souvent équilibrée par des notes aigres-douces. Elle montre comment certaines cuisines européennes transforment des ingrédients très forts en plats rituels et familiaux.",
-      "en": "Czernina is a traditional Polish duck-blood soup, often balanced with sweet-and-sour notes. It shows how some European cuisines turn very strong ingredients into family and ritual dishes.",
-      "nl": "Czernina is een traditionele Poolse soep met eendenbloed, vaak in balans gebracht met zoetzure tonen. Het toont hoe sommige Europese keukens krachtige ingrediënten omvormen tot familiale en rituele gerechten."
-    },
-    "image": {
-      "file": "czernina.jpg",
-      "path": "assets/food/czernina.jpg",
-      "adobeStockId": "20264185",
-      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Czernina",
-        "en": "Non-AI Adobe Stock photo: Czernina",
-        "nl": "Niet-AI Adobe Stock-foto: Czernina"
-      }
-    }
-  },
-  {
-    "id": "c026",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië"
-    },
-    "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië"
-    },
-    "zone": "east",
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": ""
-    },
-    "question": {
-      "fr": "Que sont les Ciorbă de burtă ?",
-      "en": "What are Ciorbă de burtă?",
-      "nl": "Wat zijn Ciorbă de burtă?"
-    },
-    "answers": {
-      "fr": [
-        "Une soupe de tripes",
-        "Une soupe de poisson",
-        "Une charcuterie fumée",
-        "Un dessert aux céréales"
-      ],
-      "en": [
-        "A tripe soup",
-        "A fish soup",
-        "Smoked charcuterie",
-        "A cereal dessert"
-      ],
-      "nl": [
-        "Een penssoep",
-        "Een vissoep",
-        "Gerookte vleeswaren",
-        "Een graandessert"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une soupe de tripes",
-      "en": "A tripe soup",
-      "nl": "Een penssoep"
-    },
-    "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail, vinaigre ou piment. Elle est réputée pour sa texture riche et son goût acidulé.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic, vinegar or chilli. It is known for its rich texture and tangy flavour.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak geserveerd met room, knoflook, azijn of chili. Het gerecht staat bekend om zijn rijke textuur en frisse, zurige smaak."
-    },
-    "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Ciorbă de burtă",
-        "en": "Non-AI Adobe Stock photo: Ciorbă de burtă",
-        "nl": "Niet-AI Adobe Stock-foto: Ciorbă de burtă"
-      }
-    }
-  },
-  {
-    "id": "c027",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland"
-    },
-    "region": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland"
-    },
-    "zone": "south",
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": ""
-    },
-    "question": {
-      "fr": "Que sont les Kokoretsi ?",
-      "en": "What are Kokoretsi?",
-      "nl": "Wat zijn Kokoretsi?"
-    },
-    "answers": {
-      "fr": [
-        "Une spécialité d’abats grillés",
+        "Un plat à base d’abats de mouton",
         "Une charcuterie fumée",
         "Un dessert aux céréales",
         "Un fromage fermenté"
       ],
       "en": [
-        "A grilled offal speciality",
+        "A dish made with sheep offal",
         "Smoked charcuterie",
         "A cereal dessert",
         "A fermented cheese"
       ],
       "nl": [
-        "Een specialiteit van gegrild orgaanvlees",
+        "Een gerecht met schapenorgaanvlees",
         "Gerookte vleeswaren",
         "Een graandessert",
         "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
-      "fr": "Une spécialité d’abats grillés",
-      "en": "A grilled offal speciality",
-      "nl": "Een specialiteit van gegrild orgaanvlees"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats enroulés puis grillés à la broche. Il est souvent associé aux repas de fête, notamment autour de Pâques.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal wrapped and grilled on a spit. It is often associated with festive meals, especially around Easter.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van orgaanvlees dat wordt omwikkeld en aan het spit gegrild. Het wordt vaak gelinkt aan feestmaaltijden, vooral rond Pasen."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden."
     },
     "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Kokoretsi",
-        "en": "Non-AI Adobe Stock photo: Kokoretsi",
-        "nl": "Niet-AI Adobe Stock-foto: Kokoretsi"
+        "fr": "Photo Adobe Stock non générée par IA : Haggis",
+        "en": "Non-AI Adobe Stock photo: Haggis",
+        "nl": "Niet-AI Adobe Stock-foto: Haggis"
       }
     }
   },
@@ -3871,163 +3874,19 @@ const CULINARY_50=[
     "id": "c028",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming"
     },
     "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
     },
     "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland"
-    },
-    "zone": "central",
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": ""
-    },
-    "question": {
-      "fr": "Que sont les Labskaus ?",
-      "en": "What are Labskaus?",
-      "nl": "Wat zijn Labskaus?"
-    },
-    "answers": {
-      "fr": [
-        "Un plat de marins à base de viande, pommes de terre et betterave",
-        "Un dessert aux céréales",
-        "Un fromage fermenté",
-        "Une soupe de poisson"
-      ],
-      "en": [
-        "A sailors’ dish with meat, potatoes and beetroot",
-        "A cereal dessert",
-        "A fermented cheese",
-        "A fish soup"
-      ],
-      "nl": [
-        "Een zeemansgerecht met vlees, aardappelen en biet",
-        "Een graandessert",
-        "Een gefermenteerde kaas",
-        "Een vissoep"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Un plat de marins à base de viande, pommes de terre et betterave",
-      "en": "A sailors’ dish with meat, potatoes and beetroot",
-      "nl": "Een zeemansgerecht met vlees, aardappelen en biet"
-    },
-    "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime. Il mélange généralement pommes de terre, viande salée, betterave, hareng ou cornichons, avec un œuf au plat en garniture.",
-      "en": "Labskaus is a northern German dish associated with maritime culture. It usually combines potatoes, salted meat, beetroot, herring or pickles, often topped with a fried egg.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur. Het combineert meestal aardappelen, gezouten vlees, biet, haring of augurken, vaak afgewerkt met een spiegelei."
-    },
-    "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Labskaus",
-        "en": "Non-AI Adobe Stock photo: Labskaus",
-        "nl": "Niet-AI Adobe Stock-foto: Labskaus"
-      }
-    }
-  },
-  {
-    "id": "c029",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal"
-    },
-    "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto"
-    },
-    "zone": "south",
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": ""
-    },
-    "question": {
-      "fr": "Que sont les Tripas à moda do Porto ?",
-      "en": "What are Tripas à moda do Porto?",
-      "nl": "Wat zijn Tripas à moda do Porto?"
-    },
-    "answers": {
-      "fr": [
-        "Un plat de tripes traditionnel",
-        "Un fromage fermenté",
-        "Une soupe de poisson",
-        "Une charcuterie fumée"
-      ],
-      "en": [
-        "A traditional tripe dish",
-        "A fermented cheese",
-        "A fish soup",
-        "Smoked charcuterie"
-      ],
-      "nl": [
-        "Een traditioneel pensgerecht",
-        "Een gefermenteerde kaas",
-        "Een vissoep",
-        "Gerookte vleeswaren"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Un plat de tripes traditionnel",
-      "en": "A traditional tripe dish",
-      "nl": "Een traditioneel pensgerecht"
-    },
-    "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais de Porto à base de tripes, haricots et charcuteries. Cette recette robuste est fortement associée à l’identité culinaire de la ville.",
-      "en": "Tripas à moda do Porto is a Portuguese dish from Porto made with tripe, beans and cured meats. This robust recipe is strongly associated with the city’s culinary identity.",
-      "nl": "Tripas à moda do Porto is een Portugees gerecht uit Porto met pens, bonen en vleeswaren. Dit stevige recept is sterk verbonden met de culinaire identiteit van de stad."
-    },
-    "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Tripas à moda do Porto",
-        "en": "Non-AI Adobe Stock photo: Tripas à moda do Porto",
-        "nl": "Niet-AI Adobe Stock-foto: Tripas à moda do Porto"
-      }
-    }
-  },
-  {
-    "id": "c030",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland"
-    },
-    "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden"
     },
     "zone": "north",
     "scenario": {
@@ -4036,50 +3895,194 @@ const CULINARY_50=[
       "nl": ""
     },
     "question": {
-      "fr": "Que sont les Sklandrausis ?",
-      "en": "What are Sklandrausis?",
-      "nl": "Wat zijn Sklandrausis?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?"
     },
     "answers": {
       "fr": [
-        "Une tartelette traditionnelle au seigle et aux légumes",
+        "Du hareng fermenté",
+        "Un dessert aux céréales",
+        "Un fromage fermenté",
+        "Une soupe de poisson"
+      ],
+      "en": [
+        "Fermented herring",
+        "A cereal dessert",
+        "A fermented cheese",
+        "A fish soup"
+      ],
+      "nl": [
+        "Gefermenteerde haring",
+        "Een graandessert",
+        "Een gefermenteerde kaas",
+        "Een vissoep"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring"
+    },
+    "explanation": {
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte, avec une odeur très puissante.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins, with an extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik, met een zeer sterke geur."
+    },
+    "image": {
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Surströmming",
+        "en": "Non-AI Adobe Stock photo: Surströmming",
+        "nl": "Niet-AI Adobe Stock-foto: Surströmming"
+      }
+    }
+  },
+  {
+    "id": "c029",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl"
+    },
+    "country": {
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
+    },
+    "region": {
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
+    },
+    "zone": "north",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?"
+    },
+    "answers": {
+      "fr": [
+        "Du requin fermenté",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
+      ],
+      "en": [
+        "Fermented shark",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
+      ],
+      "nl": [
+        "Gefermenteerde haai",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai"
+    },
+    "explanation": {
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a very powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai, met een zeer uitgesproken smaak."
+    },
+    "image": {
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Hákarl",
+        "en": "Non-AI Adobe Stock photo: Hákarl",
+        "nl": "Niet-AI Adobe Stock-foto: Hákarl"
+      }
+    }
+  },
+  {
+    "id": "c030",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove"
+    },
+    "country": {
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen"
+    },
+    "region": {
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen"
+    },
+    "zone": "north",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?"
+    },
+    "answers": {
+      "fr": [
+        "Une tête de mouton traditionnelle",
         "Une soupe de poisson",
         "Une charcuterie fumée",
         "Un dessert aux céréales"
       ],
       "en": [
-        "A traditional rye and vegetable tartlet",
+        "A traditional sheep’s head",
         "A fish soup",
         "Smoked charcuterie",
         "A cereal dessert"
       ],
       "nl": [
-        "Een traditioneel taartje met rogge en groenten",
+        "Een traditionele schapenkop",
         "Een vissoep",
         "Gerookte vleeswaren",
         "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Une tartelette traditionnelle au seigle et aux légumes",
-      "en": "A traditional rye and vegetable tartlet",
-      "nl": "Een traditioneel taartje met rogge en groenten"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Le Sklandrausis est une petite tarte lettone à base de pâte de seigle garnie, souvent avec carotte et pomme de terre. Son goût doux et rustique reflète une tradition paysanne balte.",
-      "en": "Sklandrausis is a small Latvian tart made with rye dough and usually filled with carrot and potato. Its sweet, rustic flavour reflects a Baltic rural food tradition.",
-      "nl": "Sklandrausis is een Lets taartje van roggedeeg, meestal gevuld met wortel en aardappel. De zachte, rustieke smaak weerspiegelt een Baltische plattelandstraditie."
+      "fr": "Le Smalahove est un plat norvégien composé d’une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a Norwegian dish consisting of a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een Noors gerecht bestaande uit een hele of bijna hele schapenkop."
     },
     "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Sklandrausis",
-        "en": "Non-AI Adobe Stock photo: Sklandrausis",
-        "nl": "Niet-AI Adobe Stock-foto: Sklandrausis"
+        "fr": "Photo Adobe Stock non générée par IA : Smalahove",
+        "en": "Non-AI Adobe Stock photo: Smalahove",
+        "nl": "Niet-AI Adobe Stock-foto: Smalahove"
       }
     }
   },
@@ -4103,44 +4106,44 @@ const CULINARY_50=[
     },
     "zone": "south",
     "scenario": {
-      "fr": "Le plat s’appelle Casu Marzu.",
-      "en": "The dish is called Casu Marzu.",
-      "nl": "Het gerecht heet Casu Marzu."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Casu Marzu est-il traditionnel ?",
-      "en": "In which country or region is Casu Marzu traditional?",
-      "nl": "In welk land of welke regio is Casu Marzu traditioneel?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Italie",
-        "France",
-        "Italie",
-        "Suède"
+        "Un fromage contenant des larves vivantes",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Un fromage fermenté"
       ],
       "en": [
-        "Italy",
-        "France",
-        "Italy",
-        "Sweden"
+        "A cheese containing live larvae",
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A fermented cheese"
       ],
       "nl": [
-        "Italië",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Een kaas met levende larven",
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Un fromage contenant des larves vivantes",
+      "en": "A cheese containing live larvae",
+      "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple. Il est généralement cité comme l’un des exemples les plus extrêmes de la gastronomie traditionnelle européenne.",
-      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture. It is often cited as one of the most extreme examples of traditional European food culture.",
-      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft. Het gerecht wordt vaak genoemd als een van de meest extreme voorbeelden van traditionele Europese eetcultuur."
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft."
     },
     "image": {
       "file": "casu-marzu.jpg",
@@ -4175,44 +4178,44 @@ const CULINARY_50=[
     },
     "zone": "west",
     "scenario": {
-      "fr": "Le plat s’appelle Haggis.",
-      "en": "The dish is called Haggis.",
-      "nl": "Het gerecht heet Haggis."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Haggis est-il traditionnel ?",
-      "en": "In which country or region is Haggis traditional?",
-      "nl": "In welk land of welke regio is Haggis traditioneel?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?"
     },
     "answers": {
       "fr": [
-        "Écosse",
-        "France",
-        "Italie",
-        "Suède"
+        "Un plat à base d’abats de mouton",
+        "Un dessert aux céréales",
+        "Un fromage fermenté",
+        "Une soupe de poisson"
       ],
       "en": [
-        "Scotland",
-        "France",
-        "Italy",
-        "Sweden"
+        "A dish made with sheep offal",
+        "A cereal dessert",
+        "A fermented cheese",
+        "A fish soup"
       ],
       "nl": [
-        "Schotland",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Een gerecht met schapenorgaanvlees",
+        "Een graandessert",
+        "Een gefermenteerde kaas",
+        "Een vissoep"
       ]
     },
     "correctAnswer": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices. Il est souvent servi avec des navets et des pommes de terre, et reste fortement associé aux repas traditionnels écossais.",
-      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices. It is often served with neeps and tatties, and remains strongly associated with traditional Scottish meals.",
-      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden. Het wordt vaak geserveerd met raap en aardappelen en blijft sterk verbonden met traditionele Schotse maaltijden."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden."
     },
     "image": {
       "file": "haggis.jpg",
@@ -4247,44 +4250,44 @@ const CULINARY_50=[
     },
     "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Surströmming.",
-      "en": "The dish is called Surströmming.",
-      "nl": "Het gerecht heet Surströmming."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Surströmming est-il traditionnel ?",
-      "en": "In which country or region is Surströmming traditional?",
-      "nl": "In welk land of welke regio is Surströmming traditioneel?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?"
     },
     "answers": {
       "fr": [
-        "Suède",
-        "France",
-        "Italie",
-        "Suède"
+        "Du hareng fermenté",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
       ],
       "en": [
-        "Sweden",
-        "France",
-        "Italy",
-        "Sweden"
+        "Fermented herring",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
       ],
       "nl": [
-        "Zweden",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Gefermenteerde haring",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte. Son odeur très puissante fait partie de sa réputation, mais il s’inscrit aussi dans une vraie tradition alimentaire du nord de la Suède.",
-      "en": "Surströmming is fermented Baltic herring, usually sold in tins. Its extremely strong smell is part of its reputation, but it also belongs to a genuine food tradition in northern Sweden.",
-      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik. De zeer sterke geur maakt deel uit van de reputatie, maar het gerecht hoort ook bij een echte voedseltraditie in Noord-Zweden."
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte, avec une odeur très puissante.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins, with an extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik, met een zeer sterke geur."
     },
     "image": {
       "file": "surstromming.jpg",
@@ -4319,44 +4322,44 @@ const CULINARY_50=[
     },
     "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Hákarl.",
-      "en": "The dish is called Hákarl.",
-      "nl": "Het gerecht heet Hákarl."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Hákarl est-il traditionnel ?",
-      "en": "In which country or region is Hákarl traditional?",
-      "nl": "In welk land of welke regio is Hákarl traditioneel?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?"
     },
     "answers": {
       "fr": [
-        "Islande",
-        "France",
-        "Italie",
-        "Suède"
+        "Du requin fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Iceland",
-        "France",
-        "Italy",
-        "Sweden"
+        "Fermented shark",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
-        "IJsland",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Gefermenteerde haai",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai"
     },
     "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché. Son goût très marqué et son odeur d’ammoniaque en font un plat de dégustation souvent présenté comme un rite de passage culinaire.",
-      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark. Its powerful taste and ammonia-like smell make it a tasting dish often presented as a culinary rite of passage.",
-      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai. De sterke smaak en ammoniakachtige geur maken het tot een gerecht dat vaak als culinaire proef wordt voorgesteld."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a very powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai, met een zeer uitgesproken smaak."
     },
     "image": {
       "file": "hakarl.jpg",
@@ -4391,44 +4394,44 @@ const CULINARY_50=[
     },
     "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Smalahove.",
-      "en": "The dish is called Smalahove.",
-      "nl": "Het gerecht heet Smalahove."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Smalahove est-il traditionnel ?",
-      "en": "In which country or region is Smalahove traditional?",
-      "nl": "In welk land of welke regio is Smalahove traditioneel?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?"
     },
     "answers": {
       "fr": [
-        "Norvège",
-        "France",
-        "Italie",
-        "Suède"
+        "Une tête de mouton traditionnelle",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Un fromage fermenté"
       ],
       "en": [
-        "Norway",
-        "France",
-        "Italy",
-        "Sweden"
+        "A traditional sheep’s head",
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A fermented cheese"
       ],
       "nl": [
-        "Noorwegen",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Een traditionele schapenkop",
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
-      "fr": "Norvège",
-      "en": "Norway",
-      "nl": "Noorwegen"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Le Smalahove est un plat norvégien traditionnel composé d’une tête de mouton préparée entière ou presque entière. Il est associé à certaines périodes festives et illustre une cuisine ancienne où presque toutes les parties de l’animal étaient utilisées.",
-      "en": "Smalahove is a traditional Norwegian dish consisting of a sheep’s head served whole or almost whole. It is associated with particular festive periods and reflects an older food culture in which almost every part of the animal was used.",
-      "nl": "Smalahove is een traditioneel Noors gerecht bestaande uit een hele of bijna hele schapenkop. Het wordt met bepaalde feestperiodes verbonden en toont een oudere eetcultuur waarin bijna alle delen van het dier werden gebruikt."
+      "fr": "Le Smalahove est un plat norvégien composé d’une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a Norwegian dish consisting of a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een Noors gerecht bestaande uit een hele of bijna hele schapenkop."
     },
     "image": {
       "file": "smalahove.jpg",
@@ -4447,71 +4450,71 @@ const CULINARY_50=[
     "id": "c036",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Zweden"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië"
     },
-    "zone": "north",
+    "zone": "south",
     "scenario": {
-      "fr": "Le plat s’appelle Blodplättar.",
-      "en": "The dish is called Blodplättar.",
-      "nl": "Het gerecht heet Blodplättar."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Blodplättar est-il traditionnel ?",
-      "en": "In which country or region is Blodplättar traditional?",
-      "nl": "In welk land of welke regio is Blodplättar traditioneel?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Finlande",
-        "France",
-        "Italie",
-        "Suède"
+        "Un fromage contenant des larves vivantes",
+        "Un dessert aux céréales",
+        "Un fromage fermenté",
+        "Une soupe de poisson"
       ],
       "en": [
-        "Finland",
-        "France",
-        "Italy",
-        "Sweden"
+        "A cheese containing live larvae",
+        "A cereal dessert",
+        "A fermented cheese",
+        "A fish soup"
       ],
       "nl": [
-        "Finland",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Een kaas met levende larven",
+        "Een graandessert",
+        "Een gefermenteerde kaas",
+        "Een vissoep"
       ]
     },
     "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Un fromage contenant des larves vivantes",
+      "en": "A cheese containing live larvae",
+      "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques. La préparation peut surprendre, mais elle appartient à une logique de cuisine rurale qui utilisait les ingrédients disponibles sans gaspillage.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions. The preparation may surprise visitors, but it belongs to a rural cooking logic that used available ingredients without waste.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen. De bereiding kan verrassend zijn, maar past binnen een landelijke kooktraditie waarin beschikbare ingrediënten zonder verspilling werden gebruikt."
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft."
     },
     "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Blodplättar",
-        "en": "Non-AI Adobe Stock photo: Blodplättar",
-        "nl": "Niet-AI Adobe Stock-foto: Blodplättar"
+        "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
+        "en": "Non-AI Adobe Stock photo: Casu Marzu",
+        "nl": "Niet-AI Adobe Stock-foto: Casu Marzu"
       }
     }
   },
@@ -4519,71 +4522,71 @@ const CULINARY_50=[
     "id": "c037",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis"
     },
     "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
     },
     "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
     },
     "zone": "west",
     "scenario": {
-      "fr": "Le plat s’appelle Andouillette.",
-      "en": "The dish is called Andouillette.",
-      "nl": "Het gerecht heet Andouillette."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Andouillette est-il traditionnel ?",
-      "en": "In which country or region is Andouillette traditional?",
-      "nl": "In welk land of welke regio is Andouillette traditioneel?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?"
     },
     "answers": {
       "fr": [
-        "France",
-        "France",
-        "Italie",
-        "Suède"
+        "Un plat à base d’abats de mouton",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
       ],
       "en": [
-        "France",
-        "France",
-        "Italy",
-        "Sweden"
+        "A dish made with sheep offal",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
       ],
       "nl": [
-        "Frankrijk",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Een gerecht met schapenorgaanvlees",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "L’Andouillette est une spécialité française de charcuterie élaborée principalement avec des éléments du système digestif du porc. Son goût et son odeur très reconnaissables en font un plat clivant, apprécié par les amateurs de cuisine de caractère.",
-      "en": "Andouillette is a French charcuterie speciality made mainly with parts of the pig’s digestive tract. Its very recognisable taste and smell make it a divisive dish, appreciated by fans of strongly flavoured food.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit, voornamelijk gemaakt met delen van het spijsverteringsstelsel van het varken. De uitgesproken smaak en geur maken het een uitgesproken gerecht voor liefhebbers van krachtige smaken."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden."
     },
     "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Andouillette",
-        "en": "Non-AI Adobe Stock photo: Andouillette",
-        "nl": "Niet-AI Adobe Stock-foto: Andouillette"
+        "fr": "Photo Adobe Stock non générée par IA : Haggis",
+        "en": "Non-AI Adobe Stock photo: Haggis",
+        "nl": "Niet-AI Adobe Stock-foto: Haggis"
       }
     }
   },
@@ -4591,71 +4594,71 @@ const CULINARY_50=[
     "id": "c038",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
     },
     "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden"
     },
     "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Mämmi.",
-      "en": "The dish is called Mämmi.",
-      "nl": "Het gerecht heet Mämmi."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Mämmi est-il traditionnel ?",
-      "en": "In which country or region is Mämmi traditional?",
-      "nl": "In welk land of welke regio is Mämmi traditioneel?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?"
     },
     "answers": {
       "fr": [
-        "Finlande",
-        "France",
-        "Italie",
-        "Suède"
+        "Du hareng fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Finland",
-        "France",
-        "Italy",
-        "Sweden"
+        "Fermented herring",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
-        "Finland",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Gefermenteerde haring",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt. Sa couleur sombre contraste avec son goût doux, souvent adouci avec de la crème ou du lait.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt. Its dark colour contrasts with its mildly sweet taste, often softened with cream or milk.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout. De donkere kleur contrasteert met de zachte, licht zoete smaak, vaak verzacht met room of melk."
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte, avec une odeur très puissante.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins, with an extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik, met een zeer sterke geur."
     },
     "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Mämmi",
-        "en": "Non-AI Adobe Stock photo: Mämmi",
-        "nl": "Niet-AI Adobe Stock-foto: Mämmi"
+        "fr": "Photo Adobe Stock non générée par IA : Surströmming",
+        "en": "Non-AI Adobe Stock photo: Surströmming",
+        "nl": "Niet-AI Adobe Stock-foto: Surströmming"
       }
     }
   },
@@ -4663,71 +4666,71 @@ const CULINARY_50=[
     "id": "c039",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl"
     },
     "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
     },
     "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
     },
-    "zone": "west",
+    "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Jellied eels.",
-      "en": "The dish is called Jellied eels.",
-      "nl": "Het gerecht heet Jellied eels."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Jellied eels est-il traditionnel ?",
-      "en": "In which country or region is Jellied eels traditional?",
-      "nl": "In welk land of welke regio is Jellied eels traditioneel?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?"
     },
     "answers": {
       "fr": [
-        "Royaume-Uni",
-        "France",
-        "Italie",
-        "Suède"
+        "Du requin fermenté",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Un fromage fermenté"
       ],
       "en": [
-        "United Kingdom",
-        "France",
-        "Italy",
-        "Sweden"
+        "Fermented shark",
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A fermented cheese"
       ],
       "nl": [
-        "Verenigd Koninkrijk",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Gefermenteerde haai",
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai"
     },
     "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien : des morceaux d’anguille cuits puis pris dans une gelée froide. Ce plat est lié à une culture populaire urbaine et à la cuisine de rue britannique.",
-      "en": "Jellied eels are a historic speciality of London’s East End: pieces of eel cooked and set in a cold jelly. The dish is linked to urban working-class culture and British street food history.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen: stukjes paling gekookt en daarna opgesteven in koude gelei. Het gerecht is verbonden met stedelijke volkscultuur en Britse streetfoodgeschiedenis."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a very powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai, met een zeer uitgesproken smaak."
     },
     "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Jellied eels",
-        "en": "Non-AI Adobe Stock photo: Jellied eels",
-        "nl": "Niet-AI Adobe Stock-foto: Jellied eels"
+        "fr": "Photo Adobe Stock non générée par IA : Hákarl",
+        "en": "Non-AI Adobe Stock photo: Hákarl",
+        "nl": "Niet-AI Adobe Stock-foto: Hákarl"
       }
     }
   },
@@ -4735,71 +4738,71 @@ const CULINARY_50=[
     "id": "c040",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove"
     },
     "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen"
     },
     "region": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen"
     },
-    "zone": "central",
+    "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Czernina.",
-      "en": "The dish is called Czernina.",
-      "nl": "Het gerecht heet Czernina."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Czernina est-il traditionnel ?",
-      "en": "In which country or region is Czernina traditional?",
-      "nl": "In welk land of welke regio is Czernina traditioneel?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?"
     },
     "answers": {
       "fr": [
-        "Pologne",
-        "France",
-        "Italie",
-        "Suède"
+        "Une tête de mouton traditionnelle",
+        "Un dessert aux céréales",
+        "Un fromage fermenté",
+        "Une soupe de poisson"
       ],
       "en": [
-        "Poland",
-        "France",
-        "Italy",
-        "Sweden"
+        "A traditional sheep’s head",
+        "A cereal dessert",
+        "A fermented cheese",
+        "A fish soup"
       ],
       "nl": [
-        "Polen",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Een traditionele schapenkop",
+        "Een graandessert",
+        "Een gefermenteerde kaas",
+        "Een vissoep"
       ]
     },
     "correctAnswer": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard, souvent équilibrée par des notes aigres-douces. Elle montre comment certaines cuisines européennes transforment des ingrédients très forts en plats rituels et familiaux.",
-      "en": "Czernina is a traditional Polish duck-blood soup, often balanced with sweet-and-sour notes. It shows how some European cuisines turn very strong ingredients into family and ritual dishes.",
-      "nl": "Czernina is een traditionele Poolse soep met eendenbloed, vaak in balans gebracht met zoetzure tonen. Het toont hoe sommige Europese keukens krachtige ingrediënten omvormen tot familiale en rituele gerechten."
+      "fr": "Le Smalahove est un plat norvégien composé d’une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a Norwegian dish consisting of a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een Noors gerecht bestaande uit een hele of bijna hele schapenkop."
     },
     "image": {
-      "file": "czernina.jpg",
-      "path": "assets/food/czernina.jpg",
-      "adobeStockId": "20264185",
-      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Czernina",
-        "en": "Non-AI Adobe Stock photo: Czernina",
-        "nl": "Niet-AI Adobe Stock-foto: Czernina"
+        "fr": "Photo Adobe Stock non générée par IA : Smalahove",
+        "en": "Non-AI Adobe Stock photo: Smalahove",
+        "nl": "Niet-AI Adobe Stock-foto: Smalahove"
       }
     }
   },
@@ -4807,71 +4810,71 @@ const CULINARY_50=[
     "id": "c041",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu"
     },
     "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië"
     },
-    "zone": "east",
+    "zone": "south",
     "scenario": {
-      "fr": "Le plat s’appelle Ciorbă de burtă.",
-      "en": "The dish is called Ciorbă de burtă.",
-      "nl": "Het gerecht heet Ciorbă de burtă."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Ciorbă de burtă est-il traditionnel ?",
-      "en": "In which country or region is Ciorbă de burtă traditional?",
-      "nl": "In welk land of welke regio is Ciorbă de burtă traditioneel?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Roumanie",
-        "France",
-        "Italie",
-        "Suède"
+        "Un fromage contenant des larves vivantes",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
       ],
       "en": [
-        "Romania",
-        "France",
-        "Italy",
-        "Sweden"
+        "A cheese containing live larvae",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
       ],
       "nl": [
-        "Roemenië",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Een kaas met levende larven",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië"
+      "fr": "Un fromage contenant des larves vivantes",
+      "en": "A cheese containing live larvae",
+      "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail, vinaigre ou piment. Elle est réputée pour sa texture riche et son goût acidulé.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic, vinegar or chilli. It is known for its rich texture and tangy flavour.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak geserveerd met room, knoflook, azijn of chili. Het gerecht staat bekend om zijn rijke textuur en frisse, zurige smaak."
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft."
     },
     "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Ciorbă de burtă",
-        "en": "Non-AI Adobe Stock photo: Ciorbă de burtă",
-        "nl": "Niet-AI Adobe Stock-foto: Ciorbă de burtă"
+        "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
+        "en": "Non-AI Adobe Stock photo: Casu Marzu",
+        "nl": "Niet-AI Adobe Stock-foto: Casu Marzu"
       }
     }
   },
@@ -4879,71 +4882,71 @@ const CULINARY_50=[
     "id": "c042",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis"
     },
     "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
     },
     "region": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
     },
-    "zone": "south",
+    "zone": "west",
     "scenario": {
-      "fr": "Le plat s’appelle Kokoretsi.",
-      "en": "The dish is called Kokoretsi.",
-      "nl": "Het gerecht heet Kokoretsi."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Kokoretsi est-il traditionnel ?",
-      "en": "In which country or region is Kokoretsi traditional?",
-      "nl": "In welk land of welke regio is Kokoretsi traditioneel?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?"
     },
     "answers": {
       "fr": [
-        "Grèce",
-        "France",
-        "Italie",
-        "Suède"
+        "Un plat à base d’abats de mouton",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Greece",
-        "France",
-        "Italy",
-        "Sweden"
+        "A dish made with sheep offal",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
-        "Griekenland",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Een gerecht met schapenorgaanvlees",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats enroulés puis grillés à la broche. Il est souvent associé aux repas de fête, notamment autour de Pâques.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal wrapped and grilled on a spit. It is often associated with festive meals, especially around Easter.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van orgaanvlees dat wordt omwikkeld en aan het spit gegrild. Het wordt vaak gelinkt aan feestmaaltijden, vooral rond Pasen."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden."
     },
     "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Kokoretsi",
-        "en": "Non-AI Adobe Stock photo: Kokoretsi",
-        "nl": "Niet-AI Adobe Stock-foto: Kokoretsi"
+        "fr": "Photo Adobe Stock non générée par IA : Haggis",
+        "en": "Non-AI Adobe Stock photo: Haggis",
+        "nl": "Niet-AI Adobe Stock-foto: Haggis"
       }
     }
   },
@@ -4951,71 +4954,71 @@ const CULINARY_50=[
     "id": "c043",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming"
     },
     "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
     },
     "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden"
     },
-    "zone": "central",
+    "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Labskaus.",
-      "en": "The dish is called Labskaus.",
-      "nl": "Het gerecht heet Labskaus."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Labskaus est-il traditionnel ?",
-      "en": "In which country or region is Labskaus traditional?",
-      "nl": "In welk land of welke regio is Labskaus traditioneel?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?"
     },
     "answers": {
       "fr": [
-        "Allemagne",
-        "France",
-        "Italie",
-        "Suède"
+        "Du hareng fermenté",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Un fromage fermenté"
       ],
       "en": [
-        "Germany",
-        "France",
-        "Italy",
-        "Sweden"
+        "Fermented herring",
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A fermented cheese"
       ],
       "nl": [
-        "Duitsland",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Gefermenteerde haring",
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime. Il mélange généralement pommes de terre, viande salée, betterave, hareng ou cornichons, avec un œuf au plat en garniture.",
-      "en": "Labskaus is a northern German dish associated with maritime culture. It usually combines potatoes, salted meat, beetroot, herring or pickles, often topped with a fried egg.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur. Het combineert meestal aardappelen, gezouten vlees, biet, haring of augurken, vaak afgewerkt met een spiegelei."
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte, avec une odeur très puissante.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins, with an extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik, met een zeer sterke geur."
     },
     "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Labskaus",
-        "en": "Non-AI Adobe Stock photo: Labskaus",
-        "nl": "Niet-AI Adobe Stock-foto: Labskaus"
+        "fr": "Photo Adobe Stock non générée par IA : Surströmming",
+        "en": "Non-AI Adobe Stock photo: Surströmming",
+        "nl": "Niet-AI Adobe Stock-foto: Surströmming"
       }
     }
   },
@@ -5023,71 +5026,71 @@ const CULINARY_50=[
     "id": "c044",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl"
     },
     "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
     },
     "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
     },
-    "zone": "south",
+    "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Tripas à moda do Porto.",
-      "en": "The dish is called Tripas à moda do Porto.",
-      "nl": "Het gerecht heet Tripas à moda do Porto."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Tripas à moda do Porto est-il traditionnel ?",
-      "en": "In which country or region is Tripas à moda do Porto traditional?",
-      "nl": "In welk land of welke regio is Tripas à moda do Porto traditioneel?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?"
     },
     "answers": {
       "fr": [
-        "Portugal",
-        "France",
-        "Italie",
-        "Suède"
+        "Du requin fermenté",
+        "Un dessert aux céréales",
+        "Un fromage fermenté",
+        "Une soupe de poisson"
       ],
       "en": [
-        "Portugal",
-        "France",
-        "Italy",
-        "Sweden"
+        "Fermented shark",
+        "A cereal dessert",
+        "A fermented cheese",
+        "A fish soup"
       ],
       "nl": [
-        "Portugal",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Gefermenteerde haai",
+        "Een graandessert",
+        "Een gefermenteerde kaas",
+        "Een vissoep"
       ]
     },
     "correctAnswer": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai"
     },
     "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais de Porto à base de tripes, haricots et charcuteries. Cette recette robuste est fortement associée à l’identité culinaire de la ville.",
-      "en": "Tripas à moda do Porto is a Portuguese dish from Porto made with tripe, beans and cured meats. This robust recipe is strongly associated with the city’s culinary identity.",
-      "nl": "Tripas à moda do Porto is een Portugees gerecht uit Porto met pens, bonen en vleeswaren. Dit stevige recept is sterk verbonden met de culinaire identiteit van de stad."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a very powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai, met een zeer uitgesproken smaak."
     },
     "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Tripas à moda do Porto",
-        "en": "Non-AI Adobe Stock photo: Tripas à moda do Porto",
-        "nl": "Niet-AI Adobe Stock-foto: Tripas à moda do Porto"
+        "fr": "Photo Adobe Stock non générée par IA : Hákarl",
+        "en": "Non-AI Adobe Stock photo: Hákarl",
+        "nl": "Niet-AI Adobe Stock-foto: Hákarl"
       }
     }
   },
@@ -5095,71 +5098,71 @@ const CULINARY_50=[
     "id": "c045",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove"
     },
     "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland"
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen"
     },
     "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen"
     },
     "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Sklandrausis.",
-      "en": "The dish is called Sklandrausis.",
-      "nl": "Het gerecht heet Sklandrausis."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Sklandrausis est-il traditionnel ?",
-      "en": "In which country or region is Sklandrausis traditional?",
-      "nl": "In welk land of welke regio is Sklandrausis traditioneel?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?"
     },
     "answers": {
       "fr": [
-        "Lettonie",
-        "France",
-        "Italie",
-        "Suède"
+        "Une tête de mouton traditionnelle",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
       ],
       "en": [
-        "Latvia",
-        "France",
-        "Italy",
-        "Sweden"
+        "A traditional sheep’s head",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
       ],
       "nl": [
-        "Letland",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Een traditionele schapenkop",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Le Sklandrausis est une petite tarte lettone à base de pâte de seigle garnie, souvent avec carotte et pomme de terre. Son goût doux et rustique reflète une tradition paysanne balte.",
-      "en": "Sklandrausis is a small Latvian tart made with rye dough and usually filled with carrot and potato. Its sweet, rustic flavour reflects a Baltic rural food tradition.",
-      "nl": "Sklandrausis is een Lets taartje van roggedeeg, meestal gevuld met wortel en aardappel. De zachte, rustieke smaak weerspiegelt een Baltische plattelandstraditie."
+      "fr": "Le Smalahove est un plat norvégien composé d’une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a Norwegian dish consisting of a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een Noors gerecht bestaande uit een hele of bijna hele schapenkop."
     },
     "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo Adobe Stock non générée par IA : Sklandrausis",
-        "en": "Non-AI Adobe Stock photo: Sklandrausis",
-        "nl": "Niet-AI Adobe Stock-foto: Sklandrausis"
+        "fr": "Photo Adobe Stock non générée par IA : Smalahove",
+        "en": "Non-AI Adobe Stock photo: Smalahove",
+        "nl": "Niet-AI Adobe Stock-foto: Smalahove"
       }
     }
   },
@@ -5183,44 +5186,44 @@ const CULINARY_50=[
     },
     "zone": "south",
     "scenario": {
-      "fr": "Le plat s’appelle Casu Marzu.",
-      "en": "The dish is called Casu Marzu.",
-      "nl": "Het gerecht heet Casu Marzu."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Casu Marzu est-il traditionnel ?",
-      "en": "In which country or region is Casu Marzu traditional?",
-      "nl": "In welk land of welke regio is Casu Marzu traditioneel?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Italie",
-        "France",
-        "Italie",
-        "Suède"
+        "Un fromage contenant des larves vivantes",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Italy",
-        "France",
-        "Italy",
-        "Sweden"
+        "A cheese containing live larvae",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
-        "Italië",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Een kaas met levende larven",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië"
+      "fr": "Un fromage contenant des larves vivantes",
+      "en": "A cheese containing live larvae",
+      "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple. Il est généralement cité comme l’un des exemples les plus extrêmes de la gastronomie traditionnelle européenne.",
-      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture. It is often cited as one of the most extreme examples of traditional European food culture.",
-      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft. Het gerecht wordt vaak genoemd als een van de meest extreme voorbeelden van traditionele Europese eetcultuur."
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft."
     },
     "image": {
       "file": "casu-marzu.jpg",
@@ -5255,44 +5258,44 @@ const CULINARY_50=[
     },
     "zone": "west",
     "scenario": {
-      "fr": "Le plat s’appelle Haggis.",
-      "en": "The dish is called Haggis.",
-      "nl": "Het gerecht heet Haggis."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Haggis est-il traditionnel ?",
-      "en": "In which country or region is Haggis traditional?",
-      "nl": "In welk land of welke regio is Haggis traditioneel?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?"
     },
     "answers": {
       "fr": [
-        "Écosse",
-        "France",
-        "Italie",
-        "Suède"
+        "Un plat à base d’abats de mouton",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Un fromage fermenté"
       ],
       "en": [
-        "Scotland",
-        "France",
-        "Italy",
-        "Sweden"
+        "A dish made with sheep offal",
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A fermented cheese"
       ],
       "nl": [
-        "Schotland",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Een gerecht met schapenorgaanvlees",
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices. Il est souvent servi avec des navets et des pommes de terre, et reste fortement associé aux repas traditionnels écossais.",
-      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices. It is often served with neeps and tatties, and remains strongly associated with traditional Scottish meals.",
-      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden. Het wordt vaak geserveerd met raap en aardappelen en blijft sterk verbonden met traditionele Schotse maaltijden."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden."
     },
     "image": {
       "file": "haggis.jpg",
@@ -5327,44 +5330,44 @@ const CULINARY_50=[
     },
     "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Surströmming.",
-      "en": "The dish is called Surströmming.",
-      "nl": "Het gerecht heet Surströmming."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Surströmming est-il traditionnel ?",
-      "en": "In which country or region is Surströmming traditional?",
-      "nl": "In welk land of welke regio is Surströmming traditioneel?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?"
     },
     "answers": {
       "fr": [
-        "Suède",
-        "France",
-        "Italie",
-        "Suède"
+        "Du hareng fermenté",
+        "Un dessert aux céréales",
+        "Un fromage fermenté",
+        "Une soupe de poisson"
       ],
       "en": [
-        "Sweden",
-        "France",
-        "Italy",
-        "Sweden"
+        "Fermented herring",
+        "A cereal dessert",
+        "A fermented cheese",
+        "A fish soup"
       ],
       "nl": [
-        "Zweden",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Gefermenteerde haring",
+        "Een graandessert",
+        "Een gefermenteerde kaas",
+        "Een vissoep"
       ]
     },
     "correctAnswer": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte. Son odeur très puissante fait partie de sa réputation, mais il s’inscrit aussi dans une vraie tradition alimentaire du nord de la Suède.",
-      "en": "Surströmming is fermented Baltic herring, usually sold in tins. Its extremely strong smell is part of its reputation, but it also belongs to a genuine food tradition in northern Sweden.",
-      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik. De zeer sterke geur maakt deel uit van de reputatie, maar het gerecht hoort ook bij een echte voedseltraditie in Noord-Zweden."
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte, avec une odeur très puissante.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins, with an extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik, met een zeer sterke geur."
     },
     "image": {
       "file": "surstromming.jpg",
@@ -5399,44 +5402,44 @@ const CULINARY_50=[
     },
     "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Hákarl.",
-      "en": "The dish is called Hákarl.",
-      "nl": "Het gerecht heet Hákarl."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Hákarl est-il traditionnel ?",
-      "en": "In which country or region is Hákarl traditional?",
-      "nl": "In welk land of welke regio is Hákarl traditioneel?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?"
     },
     "answers": {
       "fr": [
-        "Islande",
-        "France",
-        "Italie",
-        "Suède"
+        "Du requin fermenté",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
       ],
       "en": [
-        "Iceland",
-        "France",
-        "Italy",
-        "Sweden"
+        "Fermented shark",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
       ],
       "nl": [
-        "IJsland",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Gefermenteerde haai",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai"
     },
     "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché. Son goût très marqué et son odeur d’ammoniaque en font un plat de dégustation souvent présenté comme un rite de passage culinaire.",
-      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark. Its powerful taste and ammonia-like smell make it a tasting dish often presented as a culinary rite of passage.",
-      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai. De sterke smaak en ammoniakachtige geur maken het tot een gerecht dat vaak als culinaire proef wordt voorgesteld."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a very powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai, met een zeer uitgesproken smaak."
     },
     "image": {
       "file": "hakarl.jpg",
@@ -5471,44 +5474,44 @@ const CULINARY_50=[
     },
     "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Smalahove.",
-      "en": "The dish is called Smalahove.",
-      "nl": "Het gerecht heet Smalahove."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Smalahove est-il traditionnel ?",
-      "en": "In which country or region is Smalahove traditional?",
-      "nl": "In welk land of welke regio is Smalahove traditioneel?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?"
     },
     "answers": {
       "fr": [
-        "Norvège",
-        "France",
-        "Italie",
-        "Suède"
+        "Une tête de mouton traditionnelle",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Norway",
-        "France",
-        "Italy",
-        "Sweden"
+        "A traditional sheep’s head",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
-        "Noorwegen",
-        "Frankrijk",
-        "Italië",
-        "Zweden"
+        "Een traditionele schapenkop",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Norvège",
-      "en": "Norway",
-      "nl": "Noorwegen"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Le Smalahove est un plat norvégien traditionnel composé d’une tête de mouton préparée entière ou presque entière. Il est associé à certaines périodes festives et illustre une cuisine ancienne où presque toutes les parties de l’animal étaient utilisées.",
-      "en": "Smalahove is a traditional Norwegian dish consisting of a sheep’s head served whole or almost whole. It is associated with particular festive periods and reflects an older food culture in which almost every part of the animal was used.",
-      "nl": "Smalahove is een traditioneel Noors gerecht bestaande uit een hele of bijna hele schapenkop. Het wordt met bepaalde feestperiodes verbonden en toont een oudere eetcultuur waarin bijna alle delen van het dier werden gebruikt."
+      "fr": "Le Smalahove est un plat norvégien composé d’une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a Norwegian dish consisting of a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een Noors gerecht bestaande uit een hele of bijna hele schapenkop."
     },
     "image": {
       "file": "smalahove.jpg",
@@ -5522,5 +5525,3301 @@ const CULINARY_50=[
         "nl": "Niet-AI Adobe Stock-foto: Smalahove"
       }
     }
+  }
+];
+const LEGENDS_54=[
+  {
+    "id": "l001",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Krampus",
+      "en": "Krampus",
+      "nl": "Krampus"
+    },
+    "country": {
+      "fr": "Autriche",
+      "en": "Austria",
+      "nl": "Oostenrijk"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Krampus ?",
+      "en": "In which country is this legend mainly known: Krampus?",
+      "nl": "In welk land is deze legende vooral bekend: Krampus?"
+    },
+    "answers": {
+      "fr": [
+        "Autriche",
+        "Bulgarie",
+        "Croatie",
+        "Chypre"
+      ],
+      "en": [
+        "Austria",
+        "Bulgaria",
+        "Croatia",
+        "Cyprus"
+      ],
+      "nl": [
+        "Oostenrijk",
+        "Bulgarije",
+        "Kroatië",
+        "Cyprus"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Autriche",
+      "en": "Austria",
+      "nl": "Oostenrijk"
+    },
+    "explanation": {
+      "fr": "Krampus appartient au patrimoine légendaire de Autriche.",
+      "en": "Krampus belongs to the legendary heritage of Austria.",
+      "nl": "Krampus behoort tot het legendarische erfgoed van Oostenrijk."
+    },
+    "image": null
+  },
+  {
+    "id": "l002",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Perchta",
+      "en": "Perchta",
+      "nl": "Perchta"
+    },
+    "country": {
+      "fr": "Autriche",
+      "en": "Austria",
+      "nl": "Oostenrijk"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Perchta est une légende associée à Autriche.",
+      "en": "Perchta is a legend associated with Austria.",
+      "nl": "Perchta is een legende die verbonden is met Oostenrijk."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Perchta appartient au patrimoine légendaire de Autriche.",
+      "en": "Perchta belongs to the legendary heritage of Austria.",
+      "nl": "Perchta behoort tot het legendarische erfgoed van Oostenrijk."
+    },
+    "image": null
+  },
+  {
+    "id": "l003",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Bayard, le cheval magique",
+      "en": "Bayard, the magical horse",
+      "nl": "Bayard, het magische paard"
+    },
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Bayard, le cheval magique ?",
+      "en": "What does Bayard, the magical horse generally refer to?",
+      "nl": "Waar verwijst Bayard, het magische paard meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Bayard, le cheval magique appartient au patrimoine légendaire de Belgique.",
+      "en": "Bayard, the magical horse belongs to the legendary heritage of Belgium.",
+      "nl": "Bayard, het magische paard behoort tot het legendarische erfgoed van België."
+    },
+    "image": null
+  },
+  {
+    "id": "l004",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Les Nutons",
+      "en": "The Nutons",
+      "nl": "De Nutons"
+    },
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Les Nutons ?",
+      "en": "In which country is this legend mainly known: The Nutons?",
+      "nl": "In welk land is deze legende vooral bekend: De Nutons?"
+    },
+    "answers": {
+      "fr": [
+        "Belgique",
+        "Chypre",
+        "Tchéquie",
+        "Danemark"
+      ],
+      "en": [
+        "Belgium",
+        "Cyprus",
+        "Czechia",
+        "Denmark"
+      ],
+      "nl": [
+        "België",
+        "Cyprus",
+        "Tsjechië",
+        "Denemarken"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "explanation": {
+      "fr": "Les Nutons appartient au patrimoine légendaire de Belgique.",
+      "en": "The Nutons belongs to the legendary heritage of Belgium.",
+      "nl": "De Nutons behoort tot het legendarische erfgoed van België."
+    },
+    "image": null
+  },
+  {
+    "id": "l005",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Samodiva",
+      "en": "Samodiva",
+      "nl": "Samodiva"
+    },
+    "country": {
+      "fr": "Bulgarie",
+      "en": "Bulgaria",
+      "nl": "Bulgarije"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Samodiva est une légende associée à Bulgarie.",
+      "en": "Samodiva is a legend associated with Bulgaria.",
+      "nl": "Samodiva is een legende die verbonden is met Bulgarije."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Samodiva appartient au patrimoine légendaire de Bulgarie.",
+      "en": "Samodiva belongs to the legendary heritage of Bulgaria.",
+      "nl": "Samodiva behoort tot het legendarische erfgoed van Bulgarije."
+    },
+    "image": null
+  },
+  {
+    "id": "l006",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Zmey",
+      "en": "Zmey",
+      "nl": "Zmey"
+    },
+    "country": {
+      "fr": "Bulgarie",
+      "en": "Bulgaria",
+      "nl": "Bulgarije"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Zmey ?",
+      "en": "What does Zmey generally refer to?",
+      "nl": "Waar verwijst Zmey meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Zmey appartient au patrimoine légendaire de Bulgarie.",
+      "en": "Zmey belongs to the legendary heritage of Bulgaria.",
+      "nl": "Zmey behoort tot het legendarische erfgoed van Bulgarije."
+    },
+    "image": null
+  },
+  {
+    "id": "l007",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "La Sorcière de Zagreb",
+      "en": "The Witch of Zagreb",
+      "nl": "De heks van Zagreb"
+    },
+    "country": {
+      "fr": "Croatie",
+      "en": "Croatia",
+      "nl": "Kroatië"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : La Sorcière de Zagreb ?",
+      "en": "In which country is this legend mainly known: The Witch of Zagreb?",
+      "nl": "In welk land is deze legende vooral bekend: De heks van Zagreb?"
+    },
+    "answers": {
+      "fr": [
+        "Croatie",
+        "Tchéquie",
+        "Danemark",
+        "Estonie"
+      ],
+      "en": [
+        "Croatia",
+        "Czechia",
+        "Denmark",
+        "Estonia"
+      ],
+      "nl": [
+        "Kroatië",
+        "Tsjechië",
+        "Denemarken",
+        "Estland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Croatie",
+      "en": "Croatia",
+      "nl": "Kroatië"
+    },
+    "explanation": {
+      "fr": "La Sorcière de Zagreb appartient au patrimoine légendaire de Croatie.",
+      "en": "The Witch of Zagreb belongs to the legendary heritage of Croatia.",
+      "nl": "De heks van Zagreb behoort tot het legendarische erfgoed van Kroatië."
+    },
+    "image": null
+  },
+  {
+    "id": "l008",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Veli Jože",
+      "en": "Veli Jože",
+      "nl": "Veli Jože"
+    },
+    "country": {
+      "fr": "Croatie",
+      "en": "Croatia",
+      "nl": "Kroatië"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Veli Jože est une légende associée à Croatie.",
+      "en": "Veli Jože is a legend associated with Croatia.",
+      "nl": "Veli Jože is een legende die verbonden is met Kroatië."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Veli Jože appartient au patrimoine légendaire de Croatie.",
+      "en": "Veli Jože belongs to the legendary heritage of Croatia.",
+      "nl": "Veli Jože behoort tot het legendarische erfgoed van Kroatië."
+    },
+    "image": null
+  },
+  {
+    "id": "l009",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Aphrodite née de l’écume",
+      "en": "Aphrodite born from the sea foam",
+      "nl": "Aphrodite geboren uit het zeeschuim"
+    },
+    "country": {
+      "fr": "Chypre",
+      "en": "Cyprus",
+      "nl": "Cyprus"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Aphrodite née de l’écume ?",
+      "en": "What does Aphrodite born from the sea foam generally refer to?",
+      "nl": "Waar verwijst Aphrodite geboren uit het zeeschuim meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Aphrodite née de l’écume appartient au patrimoine légendaire de Chypre.",
+      "en": "Aphrodite born from the sea foam belongs to the legendary heritage of Cyprus.",
+      "nl": "Aphrodite geboren uit het zeeschuim behoort tot het legendarische erfgoed van Cyprus."
+    },
+    "image": null
+  },
+  {
+    "id": "l010",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Digenis Akritas",
+      "en": "Digenis Akritas",
+      "nl": "Digenis Akritas"
+    },
+    "country": {
+      "fr": "Chypre",
+      "en": "Cyprus",
+      "nl": "Cyprus"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Digenis Akritas ?",
+      "en": "In which country is this legend mainly known: Digenis Akritas?",
+      "nl": "In welk land is deze legende vooral bekend: Digenis Akritas?"
+    },
+    "answers": {
+      "fr": [
+        "Chypre",
+        "Estonie",
+        "Finlande",
+        "France"
+      ],
+      "en": [
+        "Cyprus",
+        "Estonia",
+        "Finland",
+        "France"
+      ],
+      "nl": [
+        "Cyprus",
+        "Estland",
+        "Finland",
+        "Frankrijk"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Chypre",
+      "en": "Cyprus",
+      "nl": "Cyprus"
+    },
+    "explanation": {
+      "fr": "Digenis Akritas appartient au patrimoine légendaire de Chypre.",
+      "en": "Digenis Akritas belongs to the legendary heritage of Cyprus.",
+      "nl": "Digenis Akritas behoort tot het legendarische erfgoed van Cyprus."
+    },
+    "image": null
+  },
+  {
+    "id": "l011",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Le Golem de Prague",
+      "en": "The Golem of Prague",
+      "nl": "De Golem van Praag"
+    },
+    "country": {
+      "fr": "Tchéquie",
+      "en": "Czechia",
+      "nl": "Tsjechië"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Le Golem de Prague est une légende associée à Tchéquie.",
+      "en": "The Golem of Prague is a legend associated with Czechia.",
+      "nl": "De Golem van Praag is een legende die verbonden is met Tsjechië."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Le Golem de Prague appartient au patrimoine légendaire de Tchéquie.",
+      "en": "The Golem of Prague belongs to the legendary heritage of Czechia.",
+      "nl": "De Golem van Praag behoort tot het legendarische erfgoed van Tsjechië."
+    },
+    "image": null
+  },
+  {
+    "id": "l012",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Vodník",
+      "en": "Vodník",
+      "nl": "Vodník"
+    },
+    "country": {
+      "fr": "Tchéquie",
+      "en": "Czechia",
+      "nl": "Tsjechië"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Vodník ?",
+      "en": "What does Vodník generally refer to?",
+      "nl": "Waar verwijst Vodník meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Vodník appartient au patrimoine légendaire de Tchéquie.",
+      "en": "Vodník belongs to the legendary heritage of Czechia.",
+      "nl": "Vodník behoort tot het legendarische erfgoed van Tsjechië."
+    },
+    "image": null
+  },
+  {
+    "id": "l013",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Holger Danske",
+      "en": "Holger Danske",
+      "nl": "Holger Danske"
+    },
+    "country": {
+      "fr": "Danemark",
+      "en": "Denmark",
+      "nl": "Denemarken"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Holger Danske ?",
+      "en": "In which country is this legend mainly known: Holger Danske?",
+      "nl": "In welk land is deze legende vooral bekend: Holger Danske?"
+    },
+    "answers": {
+      "fr": [
+        "Danemark",
+        "Finlande",
+        "France",
+        "Allemagne"
+      ],
+      "en": [
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany"
+      ],
+      "nl": [
+        "Denemarken",
+        "Finland",
+        "Frankrijk",
+        "Duitsland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Danemark",
+      "en": "Denmark",
+      "nl": "Denemarken"
+    },
+    "explanation": {
+      "fr": "Holger Danske appartient au patrimoine légendaire de Danemark.",
+      "en": "Holger Danske belongs to the legendary heritage of Denmark.",
+      "nl": "Holger Danske behoort tot het legendarische erfgoed van Denemarken."
+    },
+    "image": null
+  },
+  {
+    "id": "l014",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "La Dame de la mer",
+      "en": "The Lady of the Sea",
+      "nl": "De Vrouw van de Zee"
+    },
+    "country": {
+      "fr": "Danemark",
+      "en": "Denmark",
+      "nl": "Denemarken"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "La Dame de la mer est une légende associée à Danemark.",
+      "en": "The Lady of the Sea is a legend associated with Denmark.",
+      "nl": "De Vrouw van de Zee is een legende die verbonden is met Denemarken."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "La Dame de la mer appartient au patrimoine légendaire de Danemark.",
+      "en": "The Lady of the Sea belongs to the legendary heritage of Denmark.",
+      "nl": "De Vrouw van de Zee behoort tot het legendarische erfgoed van Denemarken."
+    },
+    "image": null
+  },
+  {
+    "id": "l015",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Kalevipoeg",
+      "en": "Kalevipoeg",
+      "nl": "Kalevipoeg"
+    },
+    "country": {
+      "fr": "Estonie",
+      "en": "Estonia",
+      "nl": "Estland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Kalevipoeg ?",
+      "en": "What does Kalevipoeg generally refer to?",
+      "nl": "Waar verwijst Kalevipoeg meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Kalevipoeg appartient au patrimoine légendaire de Estonie.",
+      "en": "Kalevipoeg belongs to the legendary heritage of Estonia.",
+      "nl": "Kalevipoeg behoort tot het legendarische erfgoed van Estland."
+    },
+    "image": null
+  },
+  {
+    "id": "l016",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Le trésor du lac Ülemiste",
+      "en": "The treasure of Lake Ülemiste",
+      "nl": "De schat van het Ülemistemeer"
+    },
+    "country": {
+      "fr": "Estonie",
+      "en": "Estonia",
+      "nl": "Estland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Le trésor du lac Ülemiste ?",
+      "en": "In which country is this legend mainly known: The treasure of Lake Ülemiste?",
+      "nl": "In welk land is deze legende vooral bekend: De schat van het Ülemistemeer?"
+    },
+    "answers": {
+      "fr": [
+        "Estonie",
+        "Allemagne",
+        "Grèce",
+        "Hongrie"
+      ],
+      "en": [
+        "Estonia",
+        "Germany",
+        "Greece",
+        "Hungary"
+      ],
+      "nl": [
+        "Estland",
+        "Duitsland",
+        "Griekenland",
+        "Hongarije"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Estonie",
+      "en": "Estonia",
+      "nl": "Estland"
+    },
+    "explanation": {
+      "fr": "Le trésor du lac Ülemiste appartient au patrimoine légendaire de Estonie.",
+      "en": "The treasure of Lake Ülemiste belongs to the legendary heritage of Estonia.",
+      "nl": "De schat van het Ülemistemeer behoort tot het legendarische erfgoed van Estland."
+    },
+    "image": null
+  },
+  {
+    "id": "l017",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Väinämöinen",
+      "en": "Väinämöinen",
+      "nl": "Väinämöinen"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Väinämöinen est une légende associée à Finlande.",
+      "en": "Väinämöinen is a legend associated with Finland.",
+      "nl": "Väinämöinen is een legende die verbonden is met Finland."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Väinämöinen appartient au patrimoine légendaire de Finlande.",
+      "en": "Väinämöinen belongs to the legendary heritage of Finland.",
+      "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland."
+    },
+    "image": null
+  },
+  {
+    "id": "l018",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Hiisi",
+      "en": "Hiisi",
+      "nl": "Hiisi"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Hiisi ?",
+      "en": "What does Hiisi generally refer to?",
+      "nl": "Waar verwijst Hiisi meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Hiisi appartient au patrimoine légendaire de Finlande.",
+      "en": "Hiisi belongs to the legendary heritage of Finland.",
+      "nl": "Hiisi behoort tot het legendarische erfgoed van Finland."
+    },
+    "image": null
+  },
+  {
+    "id": "l019",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Mélusine",
+      "en": "Melusine",
+      "nl": "Melusine"
+    },
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Mélusine ?",
+      "en": "In which country is this legend mainly known: Melusine?",
+      "nl": "In welk land is deze legende vooral bekend: Melusine?"
+    },
+    "answers": {
+      "fr": [
+        "France",
+        "Grèce",
+        "Hongrie",
+        "Irlande"
+      ],
+      "en": [
+        "France",
+        "Greece",
+        "Hungary",
+        "Ireland"
+      ],
+      "nl": [
+        "Frankrijk",
+        "Griekenland",
+        "Hongarije",
+        "Ierland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk"
+    },
+    "explanation": {
+      "fr": "Mélusine appartient au patrimoine légendaire de France.",
+      "en": "Melusine belongs to the legendary heritage of France.",
+      "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk."
+    },
+    "image": null
+  },
+  {
+    "id": "l020",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "La Bête du Gévaudan",
+      "en": "The Beast of Gévaudan",
+      "nl": "Het Beest van Gévaudan"
+    },
+    "country": {
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "La Bête du Gévaudan est une légende associée à France.",
+      "en": "The Beast of Gévaudan is a legend associated with France.",
+      "nl": "Het Beest van Gévaudan is een legende die verbonden is met Frankrijk."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "La Bête du Gévaudan appartient au patrimoine légendaire de France.",
+      "en": "The Beast of Gévaudan belongs to the legendary heritage of France.",
+      "nl": "Het Beest van Gévaudan behoort tot het legendarische erfgoed van Frankrijk."
+    },
+    "image": null
+  },
+  {
+    "id": "l021",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Lorelei",
+      "en": "Lorelei",
+      "nl": "Lorelei"
+    },
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Lorelei ?",
+      "en": "What does Lorelei generally refer to?",
+      "nl": "Waar verwijst Lorelei meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Lorelei appartient au patrimoine légendaire de Allemagne.",
+      "en": "Lorelei belongs to the legendary heritage of Germany.",
+      "nl": "Lorelei behoort tot het legendarische erfgoed van Duitsland."
+    },
+    "image": null
+  },
+  {
+    "id": "l022",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Le joueur de flûte de Hamelin",
+      "en": "The Pied Piper of Hamelin",
+      "nl": "De rattenvanger van Hamelen"
+    },
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Le joueur de flûte de Hamelin ?",
+      "en": "In which country is this legend mainly known: The Pied Piper of Hamelin?",
+      "nl": "In welk land is deze legende vooral bekend: De rattenvanger van Hamelen?"
+    },
+    "answers": {
+      "fr": [
+        "Allemagne",
+        "Irlande",
+        "Italie",
+        "Lettonie"
+      ],
+      "en": [
+        "Germany",
+        "Ireland",
+        "Italy",
+        "Latvia"
+      ],
+      "nl": [
+        "Duitsland",
+        "Ierland",
+        "Italië",
+        "Letland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland"
+    },
+    "explanation": {
+      "fr": "Le joueur de flûte de Hamelin appartient au patrimoine légendaire de Allemagne.",
+      "en": "The Pied Piper of Hamelin belongs to the legendary heritage of Germany.",
+      "nl": "De rattenvanger van Hamelen behoort tot het legendarische erfgoed van Duitsland."
+    },
+    "image": null
+  },
+  {
+    "id": "l023",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Méduse",
+      "en": "Medusa",
+      "nl": "Medusa"
+    },
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece",
+      "nl": "Griekenland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Méduse est une légende associée à Grèce.",
+      "en": "Medusa is a legend associated with Greece.",
+      "nl": "Medusa is een legende die verbonden is met Griekenland."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Méduse appartient au patrimoine légendaire de Grèce.",
+      "en": "Medusa belongs to the legendary heritage of Greece.",
+      "nl": "Medusa behoort tot het legendarische erfgoed van Griekenland."
+    },
+    "image": null
+  },
+  {
+    "id": "l024",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Minotaure",
+      "en": "Minotaur",
+      "nl": "Minotaurus"
+    },
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece",
+      "nl": "Griekenland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Minotaure ?",
+      "en": "What does Minotaur generally refer to?",
+      "nl": "Waar verwijst Minotaurus meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Minotaure appartient au patrimoine légendaire de Grèce.",
+      "en": "Minotaur belongs to the legendary heritage of Greece.",
+      "nl": "Minotaurus behoort tot het legendarische erfgoed van Griekenland."
+    },
+    "image": null
+  },
+  {
+    "id": "l025",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Turul",
+      "en": "Turul",
+      "nl": "Turul"
+    },
+    "country": {
+      "fr": "Hongrie",
+      "en": "Hungary",
+      "nl": "Hongarije"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Turul ?",
+      "en": "In which country is this legend mainly known: Turul?",
+      "nl": "In welk land is deze legende vooral bekend: Turul?"
+    },
+    "answers": {
+      "fr": [
+        "Hongrie",
+        "Italie",
+        "Lettonie",
+        "Lituanie"
+      ],
+      "en": [
+        "Hungary",
+        "Italy",
+        "Latvia",
+        "Lithuania"
+      ],
+      "nl": [
+        "Hongarije",
+        "Italië",
+        "Letland",
+        "Litouwen"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Hongrie",
+      "en": "Hungary",
+      "nl": "Hongarije"
+    },
+    "explanation": {
+      "fr": "Turul appartient au patrimoine légendaire de Hongrie.",
+      "en": "Turul belongs to the legendary heritage of Hungary.",
+      "nl": "Turul behoort tot het legendarische erfgoed van Hongarije."
+    },
+    "image": null
+  },
+  {
+    "id": "l026",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Csodaszarvas, le cerf miraculeux",
+      "en": "Csodaszarvas, the miraculous stag",
+      "nl": "Csodaszarvas, het wonderhert"
+    },
+    "country": {
+      "fr": "Hongrie",
+      "en": "Hungary",
+      "nl": "Hongarije"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Csodaszarvas, le cerf miraculeux est une légende associée à Hongrie.",
+      "en": "Csodaszarvas, the miraculous stag is a legend associated with Hungary.",
+      "nl": "Csodaszarvas, het wonderhert is een legende die verbonden is met Hongarije."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Csodaszarvas, le cerf miraculeux appartient au patrimoine légendaire de Hongrie.",
+      "en": "Csodaszarvas, the miraculous stag belongs to the legendary heritage of Hungary.",
+      "nl": "Csodaszarvas, het wonderhert behoort tot het legendarische erfgoed van Hongarije."
+    },
+    "image": null
+  },
+  {
+    "id": "l027",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Banshee",
+      "en": "Banshee",
+      "nl": "Banshee"
+    },
+    "country": {
+      "fr": "Irlande",
+      "en": "Ireland",
+      "nl": "Ierland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Banshee ?",
+      "en": "What does Banshee generally refer to?",
+      "nl": "Waar verwijst Banshee meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Banshee appartient au patrimoine légendaire de Irlande.",
+      "en": "Banshee belongs to the legendary heritage of Ireland.",
+      "nl": "Banshee behoort tot het legendarische erfgoed van Ierland."
+    },
+    "image": null
+  },
+  {
+    "id": "l028",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Leprechaun",
+      "en": "Leprechaun",
+      "nl": "Leprechaun"
+    },
+    "country": {
+      "fr": "Irlande",
+      "en": "Ireland",
+      "nl": "Ierland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Leprechaun ?",
+      "en": "In which country is this legend mainly known: Leprechaun?",
+      "nl": "In welk land is deze legende vooral bekend: Leprechaun?"
+    },
+    "answers": {
+      "fr": [
+        "Irlande",
+        "Lituanie",
+        "Luxembourg",
+        "Malte"
+      ],
+      "en": [
+        "Ireland",
+        "Lithuania",
+        "Luxembourg",
+        "Malta"
+      ],
+      "nl": [
+        "Ierland",
+        "Litouwen",
+        "Luxemburg",
+        "Malta"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Irlande",
+      "en": "Ireland",
+      "nl": "Ierland"
+    },
+    "explanation": {
+      "fr": "Leprechaun appartient au patrimoine légendaire de Irlande.",
+      "en": "Leprechaun belongs to the legendary heritage of Ireland.",
+      "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland."
+    },
+    "image": null
+  },
+  {
+    "id": "l029",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "La Befana",
+      "en": "La Befana",
+      "nl": "La Befana"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "La Befana est une légende associée à Italie.",
+      "en": "La Befana is a legend associated with Italy.",
+      "nl": "La Befana is een legende die verbonden is met Italië."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "La Befana appartient au patrimoine légendaire de Italie.",
+      "en": "La Befana belongs to the legendary heritage of Italy.",
+      "nl": "La Befana behoort tot het legendarische erfgoed van Italië."
+    },
+    "image": null
+  },
+  {
+    "id": "l030",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Colapesce",
+      "en": "Colapesce",
+      "nl": "Colapesce"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Colapesce ?",
+      "en": "What does Colapesce generally refer to?",
+      "nl": "Waar verwijst Colapesce meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Colapesce appartient au patrimoine légendaire de Italie.",
+      "en": "Colapesce belongs to the legendary heritage of Italy.",
+      "nl": "Colapesce behoort tot het legendarische erfgoed van Italië."
+    },
+    "image": null
+  },
+  {
+    "id": "l031",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Lāčplēsis",
+      "en": "Lāčplēsis",
+      "nl": "Lāčplēsis"
+    },
+    "country": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Lāčplēsis ?",
+      "en": "In which country is this legend mainly known: Lāčplēsis?",
+      "nl": "In welk land is deze legende vooral bekend: Lāčplēsis?"
+    },
+    "answers": {
+      "fr": [
+        "Lettonie",
+        "Luxembourg",
+        "Malte",
+        "Pays-Bas"
+      ],
+      "en": [
+        "Latvia",
+        "Luxembourg",
+        "Malta",
+        "Netherlands"
+      ],
+      "nl": [
+        "Letland",
+        "Luxemburg",
+        "Malta",
+        "Nederland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland"
+    },
+    "explanation": {
+      "fr": "Lāčplēsis appartient au patrimoine légendaire de Lettonie.",
+      "en": "Lāčplēsis belongs to the legendary heritage of Latvia.",
+      "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland."
+    },
+    "image": null
+  },
+  {
+    "id": "l032",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Lauma",
+      "en": "Lauma",
+      "nl": "Lauma"
+    },
+    "country": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Lauma est une légende associée à Lettonie.",
+      "en": "Lauma is a legend associated with Latvia.",
+      "nl": "Lauma is een legende die verbonden is met Letland."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Lauma appartient au patrimoine légendaire de Lettonie.",
+      "en": "Lauma belongs to the legendary heritage of Latvia.",
+      "nl": "Lauma behoort tot het legendarische erfgoed van Letland."
+    },
+    "image": null
+  },
+  {
+    "id": "l033",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Eglė, reine des serpents",
+      "en": "Eglė, Queen of Serpents",
+      "nl": "Eglė, koningin van de slangen"
+    },
+    "country": {
+      "fr": "Lituanie",
+      "en": "Lithuania",
+      "nl": "Litouwen"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Eglė, reine des serpents ?",
+      "en": "What does Eglė, Queen of Serpents generally refer to?",
+      "nl": "Waar verwijst Eglė, koningin van de slangen meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Eglė, reine des serpents appartient au patrimoine légendaire de Lituanie.",
+      "en": "Eglė, Queen of Serpents belongs to the legendary heritage of Lithuania.",
+      "nl": "Eglė, koningin van de slangen behoort tot het legendarische erfgoed van Litouwen."
+    },
+    "image": null
+  },
+  {
+    "id": "l034",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Jūratė et Kastytis",
+      "en": "Jūratė and Kastytis",
+      "nl": "Jūratė en Kastytis"
+    },
+    "country": {
+      "fr": "Lituanie",
+      "en": "Lithuania",
+      "nl": "Litouwen"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Jūratė et Kastytis ?",
+      "en": "In which country is this legend mainly known: Jūratė and Kastytis?",
+      "nl": "In welk land is deze legende vooral bekend: Jūratė en Kastytis?"
+    },
+    "answers": {
+      "fr": [
+        "Lituanie",
+        "Pays-Bas",
+        "Pologne",
+        "Portugal"
+      ],
+      "en": [
+        "Lithuania",
+        "Netherlands",
+        "Poland",
+        "Portugal"
+      ],
+      "nl": [
+        "Litouwen",
+        "Nederland",
+        "Polen",
+        "Portugal"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Lituanie",
+      "en": "Lithuania",
+      "nl": "Litouwen"
+    },
+    "explanation": {
+      "fr": "Jūratė et Kastytis appartient au patrimoine légendaire de Lituanie.",
+      "en": "Jūratė and Kastytis belongs to the legendary heritage of Lithuania.",
+      "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen."
+    },
+    "image": null
+  },
+  {
+    "id": "l035",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Mélusine de Luxembourg",
+      "en": "Melusine of Luxembourg",
+      "nl": "Melusine van Luxemburg"
+    },
+    "country": {
+      "fr": "Luxembourg",
+      "en": "Luxembourg",
+      "nl": "Luxemburg"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Mélusine de Luxembourg est une légende associée à Luxembourg.",
+      "en": "Melusine of Luxembourg is a legend associated with Luxembourg.",
+      "nl": "Melusine van Luxemburg is een legende die verbonden is met Luxemburg."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Mélusine de Luxembourg appartient au patrimoine légendaire de Luxembourg.",
+      "en": "Melusine of Luxembourg belongs to the legendary heritage of Luxembourg.",
+      "nl": "Melusine van Luxemburg behoort tot het legendarische erfgoed van Luxemburg."
+    },
+    "image": null
+  },
+  {
+    "id": "l036",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Kropemann",
+      "en": "Kropemann",
+      "nl": "Kropemann"
+    },
+    "country": {
+      "fr": "Luxembourg",
+      "en": "Luxembourg",
+      "nl": "Luxemburg"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Kropemann ?",
+      "en": "What does Kropemann generally refer to?",
+      "nl": "Waar verwijst Kropemann meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Kropemann appartient au patrimoine légendaire de Luxembourg.",
+      "en": "Kropemann belongs to the legendary heritage of Luxembourg.",
+      "nl": "Kropemann behoort tot het legendarische erfgoed van Luxemburg."
+    },
+    "image": null
+  },
+  {
+    "id": "l037",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Għar Dalam et les géants",
+      "en": "Għar Dalam and the giants",
+      "nl": "Għar Dalam en de reuzen"
+    },
+    "country": {
+      "fr": "Malte",
+      "en": "Malta",
+      "nl": "Malta"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Għar Dalam et les géants ?",
+      "en": "In which country is this legend mainly known: Għar Dalam and the giants?",
+      "nl": "In welk land is deze legende vooral bekend: Għar Dalam en de reuzen?"
+    },
+    "answers": {
+      "fr": [
+        "Malte",
+        "Pologne",
+        "Portugal",
+        "Roumanie"
+      ],
+      "en": [
+        "Malta",
+        "Poland",
+        "Portugal",
+        "Romania"
+      ],
+      "nl": [
+        "Malta",
+        "Polen",
+        "Portugal",
+        "Roemenië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Malte",
+      "en": "Malta",
+      "nl": "Malta"
+    },
+    "explanation": {
+      "fr": "Għar Dalam et les géants appartient au patrimoine légendaire de Malte.",
+      "en": "Għar Dalam and the giants belongs to the legendary heritage of Malta.",
+      "nl": "Għar Dalam en de reuzen behoort tot het legendarische erfgoed van Malta."
+    },
+    "image": null
+  },
+  {
+    "id": "l038",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Il-Maqluba",
+      "en": "Il-Maqluba",
+      "nl": "Il-Maqluba"
+    },
+    "country": {
+      "fr": "Malte",
+      "en": "Malta",
+      "nl": "Malta"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Il-Maqluba est une légende associée à Malte.",
+      "en": "Il-Maqluba is a legend associated with Malta.",
+      "nl": "Il-Maqluba is een legende die verbonden is met Malta."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Il-Maqluba appartient au patrimoine légendaire de Malte.",
+      "en": "Il-Maqluba belongs to the legendary heritage of Malta.",
+      "nl": "Il-Maqluba behoort tot het legendarische erfgoed van Malta."
+    },
+    "image": null
+  },
+  {
+    "id": "l039",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Le Hollandais volant",
+      "en": "The Flying Dutchman",
+      "nl": "De Vliegende Hollander"
+    },
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "nl": "Nederland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Le Hollandais volant ?",
+      "en": "What does The Flying Dutchman generally refer to?",
+      "nl": "Waar verwijst De Vliegende Hollander meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Le Hollandais volant appartient au patrimoine légendaire de Pays-Bas.",
+      "en": "The Flying Dutchman belongs to the legendary heritage of Netherlands.",
+      "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland."
+    },
+    "image": null
+  },
+  {
+    "id": "l040",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Les Witte Wieven",
+      "en": "The Witte Wieven",
+      "nl": "De Witte Wieven"
+    },
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "nl": "Nederland"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Les Witte Wieven ?",
+      "en": "In which country is this legend mainly known: The Witte Wieven?",
+      "nl": "In welk land is deze legende vooral bekend: De Witte Wieven?"
+    },
+    "answers": {
+      "fr": [
+        "Pays-Bas",
+        "Roumanie",
+        "Slovaquie",
+        "Slovénie"
+      ],
+      "en": [
+        "Netherlands",
+        "Romania",
+        "Slovakia",
+        "Slovenia"
+      ],
+      "nl": [
+        "Nederland",
+        "Roemenië",
+        "Slowakije",
+        "Slovenië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "nl": "Nederland"
+    },
+    "explanation": {
+      "fr": "Les Witte Wieven appartient au patrimoine légendaire de Pays-Bas.",
+      "en": "The Witte Wieven belongs to the legendary heritage of Netherlands.",
+      "nl": "De Witte Wieven behoort tot het legendarische erfgoed van Nederland."
+    },
+    "image": null
+  },
+  {
+    "id": "l041",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Le dragon du Wawel",
+      "en": "The Wawel Dragon",
+      "nl": "De Wawel-draak"
+    },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Le dragon du Wawel est une légende associée à Pologne.",
+      "en": "The Wawel Dragon is a legend associated with Poland.",
+      "nl": "De Wawel-draak is een legende die verbonden is met Polen."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Le dragon du Wawel appartient au patrimoine légendaire de Pologne.",
+      "en": "The Wawel Dragon belongs to the legendary heritage of Poland.",
+      "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen."
+    },
+    "image": null
+  },
+  {
+    "id": "l042",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Basilic de Varsovie",
+      "en": "The Basilisk of Warsaw",
+      "nl": "De basilisk van Warschau"
+    },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Basilic de Varsovie ?",
+      "en": "What does The Basilisk of Warsaw generally refer to?",
+      "nl": "Waar verwijst De basilisk van Warschau meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Basilic de Varsovie appartient au patrimoine légendaire de Pologne.",
+      "en": "The Basilisk of Warsaw belongs to the legendary heritage of Poland.",
+      "nl": "De basilisk van Warschau behoort tot het legendarische erfgoed van Polen."
+    },
+    "image": null
+  },
+  {
+    "id": "l043",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Bicho-Papão",
+      "en": "Bicho-Papão",
+      "nl": "Bicho-Papão"
+    },
+    "country": {
+      "fr": "Portugal",
+      "en": "Portugal",
+      "nl": "Portugal"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Bicho-Papão ?",
+      "en": "In which country is this legend mainly known: Bicho-Papão?",
+      "nl": "In welk land is deze legende vooral bekend: Bicho-Papão?"
+    },
+    "answers": {
+      "fr": [
+        "Portugal",
+        "Slovaquie",
+        "Slovénie",
+        "Espagne"
+      ],
+      "en": [
+        "Portugal",
+        "Slovakia",
+        "Slovenia",
+        "Spain"
+      ],
+      "nl": [
+        "Portugal",
+        "Slowakije",
+        "Slovenië",
+        "Spanje"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Portugal",
+      "en": "Portugal",
+      "nl": "Portugal"
+    },
+    "explanation": {
+      "fr": "Bicho-Papão appartient au patrimoine légendaire de Portugal.",
+      "en": "Bicho-Papão belongs to the legendary heritage of Portugal.",
+      "nl": "Bicho-Papão behoort tot het legendarische erfgoed van Portugal."
+    },
+    "image": null
+  },
+  {
+    "id": "l044",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Le coq de Barcelos",
+      "en": "The Rooster of Barcelos",
+      "nl": "De haan van Barcelos"
+    },
+    "country": {
+      "fr": "Portugal",
+      "en": "Portugal",
+      "nl": "Portugal"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Le coq de Barcelos est une légende associée à Portugal.",
+      "en": "The Rooster of Barcelos is a legend associated with Portugal.",
+      "nl": "De haan van Barcelos is een legende die verbonden is met Portugal."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Le coq de Barcelos appartient au patrimoine légendaire de Portugal.",
+      "en": "The Rooster of Barcelos belongs to the legendary heritage of Portugal.",
+      "nl": "De haan van Barcelos behoort tot het legendarische erfgoed van Portugal."
+    },
+    "image": null
+  },
+  {
+    "id": "l045",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Strigoi",
+      "en": "Strigoi",
+      "nl": "Strigoi"
+    },
+    "country": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Strigoi ?",
+      "en": "What does Strigoi generally refer to?",
+      "nl": "Waar verwijst Strigoi meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Strigoi appartient au patrimoine légendaire de Roumanie.",
+      "en": "Strigoi belongs to the legendary heritage of Romania.",
+      "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië."
+    },
+    "image": null
+  },
+  {
+    "id": "l046",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Meșterul Manole",
+      "en": "Meșterul Manole",
+      "nl": "Meșterul Manole"
+    },
+    "country": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Meșterul Manole ?",
+      "en": "In which country is this legend mainly known: Meșterul Manole?",
+      "nl": "In welk land is deze legende vooral bekend: Meșterul Manole?"
+    },
+    "answers": {
+      "fr": [
+        "Roumanie",
+        "Espagne",
+        "Suède",
+        "Autriche"
+      ],
+      "en": [
+        "Romania",
+        "Spain",
+        "Sweden",
+        "Austria"
+      ],
+      "nl": [
+        "Roemenië",
+        "Spanje",
+        "Zweden",
+        "Oostenrijk"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië"
+    },
+    "explanation": {
+      "fr": "Meșterul Manole appartient au patrimoine légendaire de Roumanie.",
+      "en": "Meșterul Manole belongs to the legendary heritage of Romania.",
+      "nl": "Meșterul Manole behoort tot het legendarische erfgoed van Roemenië."
+    },
+    "image": null
+  },
+  {
+    "id": "l047",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Juraj Jánošík",
+      "en": "Juraj Jánošík",
+      "nl": "Juraj Jánošík"
+    },
+    "country": {
+      "fr": "Slovaquie",
+      "en": "Slovakia",
+      "nl": "Slowakije"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Juraj Jánošík est une légende associée à Slovaquie.",
+      "en": "Juraj Jánošík is a legend associated with Slovakia.",
+      "nl": "Juraj Jánošík is een legende die verbonden is met Slowakije."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Juraj Jánošík appartient au patrimoine légendaire de Slovaquie.",
+      "en": "Juraj Jánošík belongs to the legendary heritage of Slovakia.",
+      "nl": "Juraj Jánošík behoort tot het legendarische erfgoed van Slowakije."
+    },
+    "image": null
+  },
+  {
+    "id": "l048",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Le dragon des Tatras",
+      "en": "The dragon of the Tatras",
+      "nl": "De draak van de Tatra"
+    },
+    "country": {
+      "fr": "Slovaquie",
+      "en": "Slovakia",
+      "nl": "Slowakije"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Le dragon des Tatras ?",
+      "en": "What does The dragon of the Tatras generally refer to?",
+      "nl": "Waar verwijst De draak van de Tatra meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Le dragon des Tatras appartient au patrimoine légendaire de Slovaquie.",
+      "en": "The dragon of the Tatras belongs to the legendary heritage of Slovakia.",
+      "nl": "De draak van de Tatra behoort tot het legendarische erfgoed van Slowakije."
+    },
+    "image": null
+  },
+  {
+    "id": "l049",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Zlatorog",
+      "en": "Zlatorog",
+      "nl": "Zlatorog"
+    },
+    "country": {
+      "fr": "Slovénie",
+      "en": "Slovenia",
+      "nl": "Slovenië"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : Zlatorog ?",
+      "en": "In which country is this legend mainly known: Zlatorog?",
+      "nl": "In welk land is deze legende vooral bekend: Zlatorog?"
+    },
+    "answers": {
+      "fr": [
+        "Slovénie",
+        "Suède",
+        "Autriche",
+        "Belgique"
+      ],
+      "en": [
+        "Slovenia",
+        "Sweden",
+        "Austria",
+        "Belgium"
+      ],
+      "nl": [
+        "Slovenië",
+        "Zweden",
+        "Oostenrijk",
+        "België"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Slovénie",
+      "en": "Slovenia",
+      "nl": "Slovenië"
+    },
+    "explanation": {
+      "fr": "Zlatorog appartient au patrimoine légendaire de Slovénie.",
+      "en": "Zlatorog belongs to the legendary heritage of Slovenia.",
+      "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië."
+    },
+    "image": null
+  },
+  {
+    "id": "l050",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Kurent",
+      "en": "Kurent",
+      "nl": "Kurent"
+    },
+    "country": {
+      "fr": "Slovénie",
+      "en": "Slovenia",
+      "nl": "Slovenië"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Kurent est une légende associée à Slovénie.",
+      "en": "Kurent is a legend associated with Slovenia.",
+      "nl": "Kurent is een legende die verbonden is met Slovenië."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Kurent appartient au patrimoine légendaire de Slovénie.",
+      "en": "Kurent belongs to the legendary heritage of Slovenia.",
+      "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië."
+    },
+    "image": null
+  },
+  {
+    "id": "l051",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "La Santa Compaña",
+      "en": "La Santa Compaña",
+      "nl": "La Santa Compaña"
+    },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement La Santa Compaña ?",
+      "en": "What does La Santa Compaña generally refer to?",
+      "nl": "Waar verwijst La Santa Compaña meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "La Santa Compaña appartient au patrimoine légendaire de Espagne.",
+      "en": "La Santa Compaña belongs to the legendary heritage of Spain.",
+      "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje."
+    },
+    "image": null
+  },
+  {
+    "id": "l052",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "La Dama de Elche",
+      "en": "The Lady of Elche",
+      "nl": "De Dame van Elche"
+    },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Dans quel pays cette légende est-elle surtout connue : La Dama de Elche ?",
+      "en": "In which country is this legend mainly known: The Lady of Elche?",
+      "nl": "In welk land is deze legende vooral bekend: De Dame van Elche?"
+    },
+    "answers": {
+      "fr": [
+        "Espagne",
+        "Belgique",
+        "Bulgarie",
+        "Croatie"
+      ],
+      "en": [
+        "Spain",
+        "Belgium",
+        "Bulgaria",
+        "Croatia"
+      ],
+      "nl": [
+        "Spanje",
+        "België",
+        "Bulgarije",
+        "Kroatië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje"
+    },
+    "explanation": {
+      "fr": "La Dama de Elche appartient au patrimoine légendaire de Espagne.",
+      "en": "The Lady of Elche belongs to the legendary heritage of Spain.",
+      "nl": "De Dame van Elche behoort tot het legendarische erfgoed van Spanje."
+    },
+    "image": null
+  },
+  {
+    "id": "l053",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Näcken",
+      "en": "Näcken",
+      "nl": "Näcken"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "Näcken est une légende associée à Suède.",
+      "en": "Näcken is a legend associated with Sweden.",
+      "nl": "Näcken is een legende die verbonden is met Zweden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Seulement dans certains récits",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Only in some stories",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Alleen in sommige verhalen",
+        "Verzonnen naam"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar"
+    },
+    "explanation": {
+      "fr": "Näcken appartient au patrimoine légendaire de Suède.",
+      "en": "Näcken belongs to the legendary heritage of Sweden.",
+      "nl": "Näcken behoort tot het legendarische erfgoed van Zweden."
+    },
+    "image": null
+  },
+  {
+    "id": "l054",
+    "mode": "legends",
+    "traditionName": {
+      "fr": "Tomte",
+      "en": "Tomte",
+      "nl": "Tomte"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
+    },
+    "region": {
+      "fr": "Folklore national ou régional",
+      "en": "National or regional folklore",
+      "nl": "Nationale of regionale folklore"
+    },
+    "zone": "legends",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que désigne généralement Tomte ?",
+      "en": "What does Tomte generally refer to?",
+      "nl": "Waar verwijst Tomte meestal naar?"
+    },
+    "answers": {
+      "fr": [
+        "Une légende, figure ou créature du folklore européen",
+        "Une institution européenne",
+        "Une monnaie ancienne",
+        "Une recette moderne"
+      ],
+      "en": [
+        "A legend, figure or creature from European folklore",
+        "A European institution",
+        "An old currency",
+        "A modern recipe"
+      ],
+      "nl": [
+        "Een legende, figuur of wezen uit de Europese folklore",
+        "Een Europese instelling",
+        "Een oude munteenheid",
+        "Een modern recept"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une légende, figure ou créature du folklore européen",
+      "en": "A legend, figure or creature from European folklore",
+      "nl": "Een legende, figuur of wezen uit de Europese folklore"
+    },
+    "explanation": {
+      "fr": "Tomte appartient au patrimoine légendaire de Suède.",
+      "en": "Tomte belongs to the legendary heritage of Sweden.",
+      "nl": "Tomte behoort tot het legendarische erfgoed van Zweden."
+    },
+    "image": null
   }
 ];

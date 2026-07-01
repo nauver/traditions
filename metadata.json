@@ -1,7 +1,8 @@
 {
-  "version": "V8.9_culinary_detailed_descriptions",
+  "version": "V9.1_flags_timer_pulse",
   "traditionsPool": 30,
   "culinaryPool": 50,
-  "stockImagesNoAI": 15,
-  "updated": "2026-07-01T13:08:32.140573+00:00"
+  "legendsPool": 54,
+  "quizLength": 10,
+  "updated": "2026-07-01T13:34:47.417231+00:00"
 }

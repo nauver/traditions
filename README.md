@@ -1,1 +1,1 @@
-V8.9: title updated and detailed culinary descriptions in FR/EN/NL.
+V9.1: language flags, centred stress timer with pulse from 5 seconds.

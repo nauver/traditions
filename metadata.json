@@ -1,5 +1,5 @@
 {
-  "version": "V10.1_final_4_languages_no_duplicate_legend_subjects",
+  "version": "V10.2_final_images_restored",
   "languages": [
     "fr",
     "en",
@@ -8,8 +8,9 @@
   ],
   "traditionsPool": 30,
   "culinaryPool": 50,
+  "culinaryImages": 15,
   "legendQuestions": 162,
   "legendSubjects": 54,
   "quizLength": 10,
-  "updated": "2026-07-01T14:46:10.396369+00:00"
+  "updated": "2026-07-01T14:55:36.586871+00:00"
 }

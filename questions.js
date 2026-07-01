@@ -27,7 +27,8 @@ const UI={
     "traveller": "Bon score",
     "discoverer": "À améliorer",
     "beginner": "Débutant",
-    "summary": "Votre niveau"
+    "summary": "Votre niveau",
+    "imageMissing": "Image Adobe Stock à ajouter dans assets/food/"
   },
   "en": {
     "title": "Europe Uncovered: Culture, Curiosities & Legends",
@@ -57,7 +58,8 @@ const UI={
     "traveller": "Good score",
     "discoverer": "Needs improvement",
     "beginner": "Beginner",
-    "summary": "Your level"
+    "summary": "Your level",
+    "imageMissing": "Adobe Stock image to add in assets/food/"
   },
   "nl": {
     "title": "Europa onthuld: cultuur, curiositeiten en legendes",
@@ -87,7 +89,8 @@ const UI={
     "traveller": "Goede score",
     "discoverer": "Kan beter",
     "beginner": "Beginner",
-    "summary": "Jouw niveau"
+    "summary": "Jouw niveau",
+    "imageMissing": "Adobe Stock-afbeelding toe te voegen in assets/food/"
   },
   "de": {
     "title": "Europa enthüllt: Kultur, Kuriositäten und Legenden",
@@ -117,7 +120,8 @@ const UI={
     "traveller": "Gutes Ergebnis",
     "discoverer": "Ausbaufähig",
     "beginner": "Anfänger/in",
-    "summary": "Dein Niveau"
+    "summary": "Dein Niveau",
+    "imageMissing": "Adobe-Stock-Bild in assets/food/ hinzufügen"
   }
 };
 const TRADITIONS_30=[
@@ -193,7 +197,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t002",
@@ -267,7 +272,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t003",
@@ -341,7 +347,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t004",
@@ -415,7 +422,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t005",
@@ -489,7 +497,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t006",
@@ -563,7 +572,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t007",
@@ -637,7 +647,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t008",
@@ -711,7 +722,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t009",
@@ -785,7 +797,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t010",
@@ -859,7 +872,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t011",
@@ -933,7 +947,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t012",
@@ -1007,7 +1022,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t013",
@@ -1081,7 +1097,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t014",
@@ -1155,7 +1172,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t015",
@@ -1229,7 +1247,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t016",
@@ -1303,7 +1322,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t017",
@@ -1377,7 +1397,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t018",
@@ -1451,7 +1472,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t019",
@@ -1525,7 +1547,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t020",
@@ -1599,7 +1622,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t021",
@@ -1673,7 +1697,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t022",
@@ -1747,7 +1772,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t023",
@@ -1821,7 +1847,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t024",
@@ -1895,7 +1922,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t025",
@@ -1969,7 +1997,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t026",
@@ -2043,7 +2072,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t027",
@@ -2117,7 +2147,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t028",
@@ -2191,7 +2222,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t029",
@@ -2265,7 +2297,8 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   },
   {
     "id": "t030",
@@ -2339,31 +2372,32 @@ const TRADITIONS_30=[
       "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
       "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
     },
-    "questionType": "standard"
+    "questionType": "standard",
+    "image": null
   }
 ];
 const CULINARY_50=[
   {
     "id": "c001",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_casu_marzu",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu",
+      "de": "Casu Marzu"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië",
+      "de": "Sardinien"
     },
     "scenario": {
       "fr": "",
@@ -2372,72 +2406,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?",
+      "de": "Was sind Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Un fromage très fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "A highly fermented cheese",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Een sterk gefermenteerde kaas",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Ein stark fermentierter Käse",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Un fromage très fermenté",
+      "en": "A highly fermented cheese",
+      "nl": "Een sterk gefermenteerde kaas",
+      "de": "Ein stark fermentierter Käse"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
+      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
+      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
+      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Casu Marzu",
+        "en": "Photo of the dish: Casu Marzu",
+        "nl": "Foto van het gerecht: Casu Marzu",
+        "de": "Foto des Gerichts: Casu Marzu"
+      }
+    }
   },
   {
     "id": "c002",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_haggis",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis",
+      "de": "Haggis"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "scenario": {
       "fr": "",
@@ -2446,55 +2493,68 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?",
+      "de": "Was sind Haggis?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Un plat à base d’abats de mouton",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A dish made with sheep offal",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een gerecht met schapenorgaanvlees",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein Gericht aus Schafsinnereien",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees",
+      "de": "Ein Gericht aus Schafsinnereien"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
+      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Haggis",
+        "en": "Photo of the dish: Haggis",
+        "nl": "Foto van het gerecht: Haggis",
+        "de": "Foto des Gerichts: Haggis"
+      }
+    }
   },
   {
     "id": "c003",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_surströmming",
     "traditionName": {
       "fr": "Surströmming",
       "en": "Surströmming",
@@ -2563,29 +2623,42 @@ const CULINARY_50=[
       "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
       "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Surströmming",
+        "en": "Photo of the dish: Surströmming",
+        "nl": "Foto van het gerecht: Surströmming",
+        "de": "Foto des Gerichts: Surströmming"
+      }
+    }
   },
   {
     "id": "c004",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_hakarl",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl",
+      "de": "Hákarl"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "scenario": {
       "fr": "",
@@ -2594,72 +2667,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?",
+      "de": "Was sind Hákarl?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Du requin fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "Fermented shark",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Gefermenteerde haai",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Fermentierter Hai",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai",
+      "de": "Fermentierter Hai"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
+      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Hákarl",
+        "en": "Photo of the dish: Hákarl",
+        "nl": "Foto van het gerecht: Hákarl",
+        "de": "Foto des Gerichts: Hákarl"
+      }
+    }
   },
   {
     "id": "c005",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_smalahove",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove",
+      "de": "Smalahove"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen",
+      "de": "Norwegen"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen",
+      "de": "Westnorwegen"
     },
     "scenario": {
       "fr": "",
@@ -2668,72 +2754,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?",
+      "de": "Was sind Smalahove?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Une tête de mouton traditionnelle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A traditional sheep’s head",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een traditionele schapenkop",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein traditioneller Schafskopf",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop",
+      "de": "Ein traditioneller Schafskopf"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een hele of bijna hele schapenkop.",
+      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Smalahove",
+        "en": "Photo of the dish: Smalahove",
+        "nl": "Foto van het gerecht: Smalahove",
+        "de": "Foto des Gerichts: Smalahove"
+      }
+    }
   },
   {
     "id": "c006",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_blodplättar",
     "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
+      "fr": "Blodplättar",
+      "en": "Blodplättar",
+      "nl": "Blodplättar",
+      "de": "Blodplättar"
     },
     "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
+      "fr": "Finlande / Suède",
+      "en": "Finland / Sweden",
+      "nl": "Finland / Zweden",
+      "de": "Finnland / Schweden"
     },
     "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
+      "fr": "Pays nordiques",
+      "en": "Nordic countries",
+      "nl": "Noordse landen",
+      "de": "Nordische Länder"
     },
     "scenario": {
       "fr": "",
@@ -2742,72 +2841,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Surströmming ?",
-      "en": "What are Surströmming?",
-      "nl": "Wat zijn Surströmming?",
-      "de": "Was sind Surströmming?"
+      "fr": "Que sont les Blodplättar ?",
+      "en": "What are Blodplättar?",
+      "nl": "Wat zijn Blodplättar?",
+      "de": "Was sind Blodplättar?"
     },
     "answers": {
       "fr": [
-        "Du hareng fermenté",
+        "Des crêpes au sang",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Fermented herring",
+        "Blood pancakes",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Gefermenteerde haring",
+        "Bloedpannenkoeken",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Fermentierter Hering",
+        "Blutpfannkuchen",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Du hareng fermenté",
-      "en": "Fermented herring",
-      "nl": "Gefermenteerde haring",
-      "de": "Fermentierter Hering"
+      "fr": "Des crêpes au sang",
+      "en": "Blood pancakes",
+      "nl": "Bloedpannenkoeken",
+      "de": "Blutpfannkuchen"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
+      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
+      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
+      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
+      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "blodplattar.jpg",
+      "path": "assets/food/blodplattar.jpg",
+      "adobeStockId": "411401459",
+      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Blodplättar",
+        "en": "Photo of the dish: Blodplättar",
+        "nl": "Foto van het gerecht: Blodplättar",
+        "de": "Foto des Gerichts: Blodplättar"
+      }
+    }
   },
   {
     "id": "c007",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_andouillette",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Andouillette",
+      "en": "Andouillette",
+      "nl": "Andouillette",
+      "de": "Andouillette"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk",
+      "de": "Frankreich"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk",
+      "de": "Frankreich"
     },
     "scenario": {
       "fr": "",
@@ -2816,72 +2928,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Andouillette ?",
+      "en": "What are Andouillette?",
+      "nl": "Wat zijn Andouillette?",
+      "de": "Was sind Andouillette?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Une saucisse à base d’intestins",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "A sausage made with intestines",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Een worst gemaakt met darmen",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Eine Wurst aus Därmen",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Une saucisse à base d’intestins",
+      "en": "A sausage made with intestines",
+      "nl": "Een worst gemaakt met darmen",
+      "de": "Eine Wurst aus Därmen"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
+      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
+      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
+      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "andouillette.jpg",
+      "path": "assets/food/andouillette.jpg",
+      "adobeStockId": "233753049",
+      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Andouillette",
+        "en": "Photo of the dish: Andouillette",
+        "nl": "Foto van het gerecht: Andouillette",
+        "de": "Foto des Gerichts: Andouillette"
+      }
+    }
   },
   {
     "id": "c008",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_mämmi",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Mämmi",
+      "en": "Mämmi",
+      "nl": "Mämmi",
+      "de": "Mämmi"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland",
+      "de": "Finnland"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland",
+      "de": "Finnland"
     },
     "scenario": {
       "fr": "",
@@ -2890,72 +3015,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Mämmi ?",
+      "en": "What are Mämmi?",
+      "nl": "Wat zijn Mämmi?",
+      "de": "Was sind Mämmi?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Un dessert de Pâques au seigle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "An Easter dessert made with rye",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een paasdessert met rogge",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein Osterdessert aus Roggen",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Un dessert de Pâques au seigle",
+      "en": "An Easter dessert made with rye",
+      "nl": "Een paasdessert met rogge",
+      "de": "Ein Osterdessert aus Roggen"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
+      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
+      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
+      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "mammi.jpg",
+      "path": "assets/food/mammi.jpg",
+      "adobeStockId": "485041926",
+      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Mämmi",
+        "en": "Photo of the dish: Mämmi",
+        "nl": "Foto van het gerecht: Mämmi",
+        "de": "Foto des Gerichts: Mämmi"
+      }
+    }
   },
   {
     "id": "c009",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_jellied_eels",
     "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
+      "fr": "Jellied eels",
+      "en": "Jellied eels",
+      "nl": "Jellied eels",
+      "de": "Jellied eels"
     },
     "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk",
+      "de": "Vereinigtes Königreich"
     },
     "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
+      "fr": "Londres",
+      "en": "London",
+      "nl": "Londen",
+      "de": "London"
     },
     "scenario": {
       "fr": "",
@@ -2964,72 +3102,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Surströmming ?",
-      "en": "What are Surströmming?",
-      "nl": "Wat zijn Surströmming?",
-      "de": "Was sind Surströmming?"
+      "fr": "Que sont les Jellied eels ?",
+      "en": "What are Jellied eels?",
+      "nl": "Wat zijn Jellied eels?",
+      "de": "Was sind Jellied eels?"
     },
     "answers": {
       "fr": [
-        "Du hareng fermenté",
+        "Des anguilles en gelée",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Fermented herring",
+        "Eels in jelly",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Gefermenteerde haring",
+        "Paling in gelei",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Fermentierter Hering",
+        "Aal in Gelee",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Du hareng fermenté",
-      "en": "Fermented herring",
-      "nl": "Gefermenteerde haring",
-      "de": "Fermentierter Hering"
+      "fr": "Des anguilles en gelée",
+      "en": "Eels in jelly",
+      "nl": "Paling in gelei",
+      "de": "Aal in Gelee"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
+      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
+      "en": "Jellied eels are a historic speciality of London’s East End.",
+      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
+      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "jellied-eels.jpg",
+      "path": "assets/food/jellied-eels.jpg",
+      "adobeStockId": "1254168402",
+      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Jellied eels",
+        "en": "Photo of the dish: Jellied eels",
+        "nl": "Foto van het gerecht: Jellied eels",
+        "de": "Foto des Gerichts: Jellied eels"
+      }
+    }
   },
   {
     "id": "c010",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_czernina",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Czernina",
+      "en": "Czernina",
+      "nl": "Czernina",
+      "de": "Czernina"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen",
+      "de": "Polen"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen",
+      "de": "Polen"
     },
     "scenario": {
       "fr": "",
@@ -3038,72 +3189,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Czernina ?",
+      "en": "What are Czernina?",
+      "nl": "Wat zijn Czernina?",
+      "de": "Was sind Czernina?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Une soupe au sang de canard",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "A duck-blood soup",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Een soep met eendenbloed",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Eine Suppe mit Entenblut",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Une soupe au sang de canard",
+      "en": "A duck-blood soup",
+      "nl": "Een soep met eendenbloed",
+      "de": "Eine Suppe mit Entenblut"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard.",
+      "en": "Czernina is a traditional Polish duck-blood soup.",
+      "nl": "Czernina is een traditionele Poolse soep met eendenbloed.",
+      "de": "Czernina ist eine traditionelle polnische Suppe mit Entenblut."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "czernina.jpg",
+      "path": "assets/food/czernina.jpg",
+      "adobeStockId": "20264185",
+      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Czernina",
+        "en": "Photo of the dish: Czernina",
+        "nl": "Foto van het gerecht: Czernina",
+        "de": "Foto des Gerichts: Czernina"
+      }
+    }
   },
   {
     "id": "c011",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_ciorbă_de_burtă",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Ciorbă de burtă",
+      "en": "Ciorbă de burtă",
+      "nl": "Ciorbă de burtă",
+      "de": "Ciorbă de burtă"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië",
+      "de": "Rumänien"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië",
+      "de": "Rumänien"
     },
     "scenario": {
       "fr": "",
@@ -3112,72 +3276,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Ciorbă de burtă ?",
+      "en": "What are Ciorbă de burtă?",
+      "nl": "Wat zijn Ciorbă de burtă?",
+      "de": "Was sind Ciorbă de burtă?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Une soupe de tripes",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A tripe soup",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een penssoep",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Eine Kuttelsuppe",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Une soupe de tripes",
+      "en": "A tripe soup",
+      "nl": "Een penssoep",
+      "de": "Eine Kuttelsuppe"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
+      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
+      "nl": "Ciorbă de burtă is een Roemeense penssoep.",
+      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "ciorba-de-burta.jpg",
+      "path": "assets/food/ciorba-de-burta.jpg",
+      "adobeStockId": "198001933",
+      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Ciorbă de burtă",
+        "en": "Photo of the dish: Ciorbă de burtă",
+        "nl": "Foto van het gerecht: Ciorbă de burtă",
+        "de": "Foto des Gerichts: Ciorbă de burtă"
+      }
+    }
   },
   {
     "id": "c012",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_kokoretsi",
     "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
+      "fr": "Kokoretsi",
+      "en": "Kokoretsi",
+      "nl": "Kokoretsi",
+      "de": "Kokoretsi"
     },
     "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
+      "fr": "Grèce",
+      "en": "Greece",
+      "nl": "Griekenland",
+      "de": "Griechenland"
     },
     "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
+      "fr": "Grèce / Balkans",
+      "en": "Greece / Balkans",
+      "nl": "Griekenland / Balkan",
+      "de": "Griechenland / Balkan"
     },
     "scenario": {
       "fr": "",
@@ -3186,72 +3363,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Surströmming ?",
-      "en": "What are Surströmming?",
-      "nl": "Wat zijn Surströmming?",
-      "de": "Was sind Surströmming?"
+      "fr": "Que sont les Kokoretsi ?",
+      "en": "What are Kokoretsi?",
+      "nl": "Wat zijn Kokoretsi?",
+      "de": "Was sind Kokoretsi?"
     },
     "answers": {
       "fr": [
-        "Du hareng fermenté",
+        "Une spécialité d’abats grillés",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Fermented herring",
+        "A grilled offal speciality",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Gefermenteerde haring",
+        "Een specialiteit van gegrild orgaanvlees",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Fermentierter Hering",
+        "Eine Spezialität aus gegrillten Innereien",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Du hareng fermenté",
-      "en": "Fermented herring",
-      "nl": "Gefermenteerde haring",
-      "de": "Fermentierter Hering"
+      "fr": "Une spécialité d’abats grillés",
+      "en": "A grilled offal speciality",
+      "nl": "Een specialiteit van gegrild orgaanvlees",
+      "de": "Eine Spezialität aus gegrillten Innereien"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
+      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
+      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
+      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
+      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "kokoretsi.jpg",
+      "path": "assets/food/kokoretsi.jpg",
+      "adobeStockId": "271480410",
+      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Kokoretsi",
+        "en": "Photo of the dish: Kokoretsi",
+        "nl": "Foto van het gerecht: Kokoretsi",
+        "de": "Foto des Gerichts: Kokoretsi"
+      }
+    }
   },
   {
     "id": "c013",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_labskaus",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Labskaus",
+      "en": "Labskaus",
+      "nl": "Labskaus",
+      "de": "Labskaus"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland",
+      "de": "Deutschland"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Nord de l’Allemagne",
+      "en": "Northern Germany",
+      "nl": "Noord-Duitsland",
+      "de": "Norddeutschland"
     },
     "scenario": {
       "fr": "",
@@ -3260,72 +3450,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Labskaus ?",
+      "en": "What are Labskaus?",
+      "nl": "Wat zijn Labskaus?",
+      "de": "Was sind Labskaus?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Un plat de marins à base de viande et pommes de terre",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "A sailors’ dish with meat and potatoes",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Een zeemansgerecht met vlees en aardappelen",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Ein Seemannsgericht mit Fleisch und Kartoffeln",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Un plat de marins à base de viande et pommes de terre",
+      "en": "A sailors’ dish with meat and potatoes",
+      "nl": "Een zeemansgerecht met vlees en aardappelen",
+      "de": "Ein Seemannsgericht mit Fleisch und Kartoffeln"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
+      "en": "Labskaus is a northern German dish associated with maritime culture.",
+      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
+      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "labskaus.jpg",
+      "path": "assets/food/labskaus.jpg",
+      "adobeStockId": "234422895",
+      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Labskaus",
+        "en": "Photo of the dish: Labskaus",
+        "nl": "Foto van het gerecht: Labskaus",
+        "de": "Foto des Gerichts: Labskaus"
+      }
+    }
   },
   {
     "id": "c014",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_tripas_à_moda_do_porto",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Tripas à moda do Porto",
+      "en": "Tripas à moda do Porto",
+      "nl": "Tripas à moda do Porto",
+      "de": "Tripas à moda do Porto"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Portugal",
+      "en": "Portugal",
+      "nl": "Portugal",
+      "de": "Portugal"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Porto",
+      "en": "Porto",
+      "nl": "Porto",
+      "de": "Porto"
     },
     "scenario": {
       "fr": "",
@@ -3334,72 +3537,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Tripas à moda do Porto ?",
+      "en": "What are Tripas à moda do Porto?",
+      "nl": "Wat zijn Tripas à moda do Porto?",
+      "de": "Was sind Tripas à moda do Porto?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Un plat de tripes portugais",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A Portuguese tripe dish",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een Portugees pensgerecht",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein portugiesisches Kuttelgericht",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Un plat de tripes portugais",
+      "en": "A Portuguese tripe dish",
+      "nl": "Een Portugees pensgerecht",
+      "de": "Ein portugiesisches Kuttelgericht"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
+      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
+      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
+      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "tripas-porto.jpg",
+      "path": "assets/food/tripas-porto.jpg",
+      "adobeStockId": "649614974",
+      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Tripas à moda do Porto",
+        "en": "Photo of the dish: Tripas à moda do Porto",
+        "nl": "Foto van het gerecht: Tripas à moda do Porto",
+        "de": "Foto des Gerichts: Tripas à moda do Porto"
+      }
+    }
   },
   {
     "id": "c015",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_sklandrausis",
     "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
+      "fr": "Sklandrausis",
+      "en": "Sklandrausis",
+      "nl": "Sklandrausis",
+      "de": "Sklandrausis"
     },
     "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland",
+      "de": "Lettland"
     },
     "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland",
+      "de": "Lettland"
     },
     "scenario": {
       "fr": "",
@@ -3408,72 +3624,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Surströmming ?",
-      "en": "What are Surströmming?",
-      "nl": "Wat zijn Surströmming?",
-      "de": "Was sind Surströmming?"
+      "fr": "Que sont les Sklandrausis ?",
+      "en": "What are Sklandrausis?",
+      "nl": "Wat zijn Sklandrausis?",
+      "de": "Was sind Sklandrausis?"
     },
     "answers": {
       "fr": [
-        "Du hareng fermenté",
+        "Une tartelette au seigle et aux légumes",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Fermented herring",
+        "A rye and vegetable tartlet",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Gefermenteerde haring",
+        "Een taartje met rogge en groenten",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Fermentierter Hering",
+        "Ein Roggen-Gemüse-Törtchen",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Du hareng fermenté",
-      "en": "Fermented herring",
-      "nl": "Gefermenteerde haring",
-      "de": "Fermentierter Hering"
+      "fr": "Une tartelette au seigle et aux légumes",
+      "en": "A rye and vegetable tartlet",
+      "nl": "Een taartje met rogge en groenten",
+      "de": "Ein Roggen-Gemüse-Törtchen"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
+      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
+      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
+      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
+      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "sklandrausis.jpg",
+      "path": "assets/food/sklandrausis.jpg",
+      "adobeStockId": "387591373",
+      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Sklandrausis",
+        "en": "Photo of the dish: Sklandrausis",
+        "nl": "Foto van het gerecht: Sklandrausis",
+        "de": "Foto des Gerichts: Sklandrausis"
+      }
+    }
   },
   {
     "id": "c016",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_casu_marzu",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu",
+      "de": "Casu Marzu"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië",
+      "de": "Sardinien"
     },
     "scenario": {
       "fr": "",
@@ -3482,72 +3711,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?",
+      "de": "Was sind Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Un fromage très fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "A highly fermented cheese",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Een sterk gefermenteerde kaas",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Ein stark fermentierter Käse",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Un fromage très fermenté",
+      "en": "A highly fermented cheese",
+      "nl": "Een sterk gefermenteerde kaas",
+      "de": "Ein stark fermentierter Käse"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
+      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
+      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
+      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Casu Marzu",
+        "en": "Photo of the dish: Casu Marzu",
+        "nl": "Foto van het gerecht: Casu Marzu",
+        "de": "Foto des Gerichts: Casu Marzu"
+      }
+    }
   },
   {
     "id": "c017",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_haggis",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis",
+      "de": "Haggis"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "scenario": {
       "fr": "",
@@ -3556,55 +3798,68 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?",
+      "de": "Was sind Haggis?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Un plat à base d’abats de mouton",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A dish made with sheep offal",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een gerecht met schapenorgaanvlees",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein Gericht aus Schafsinnereien",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees",
+      "de": "Ein Gericht aus Schafsinnereien"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
+      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Haggis",
+        "en": "Photo of the dish: Haggis",
+        "nl": "Foto van het gerecht: Haggis",
+        "de": "Foto des Gerichts: Haggis"
+      }
+    }
   },
   {
     "id": "c018",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_surströmming",
     "traditionName": {
       "fr": "Surströmming",
       "en": "Surströmming",
@@ -3673,29 +3928,42 @@ const CULINARY_50=[
       "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
       "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Surströmming",
+        "en": "Photo of the dish: Surströmming",
+        "nl": "Foto van het gerecht: Surströmming",
+        "de": "Foto des Gerichts: Surströmming"
+      }
+    }
   },
   {
     "id": "c019",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_hakarl",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl",
+      "de": "Hákarl"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "scenario": {
       "fr": "",
@@ -3704,72 +3972,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?",
+      "de": "Was sind Hákarl?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Du requin fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "Fermented shark",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Gefermenteerde haai",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Fermentierter Hai",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai",
+      "de": "Fermentierter Hai"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
+      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Hákarl",
+        "en": "Photo of the dish: Hákarl",
+        "nl": "Foto van het gerecht: Hákarl",
+        "de": "Foto des Gerichts: Hákarl"
+      }
+    }
   },
   {
     "id": "c020",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_smalahove",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove",
+      "de": "Smalahove"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen",
+      "de": "Norwegen"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen",
+      "de": "Westnorwegen"
     },
     "scenario": {
       "fr": "",
@@ -3778,72 +4059,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?",
+      "de": "Was sind Smalahove?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Une tête de mouton traditionnelle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A traditional sheep’s head",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een traditionele schapenkop",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein traditioneller Schafskopf",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop",
+      "de": "Ein traditioneller Schafskopf"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een hele of bijna hele schapenkop.",
+      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Smalahove",
+        "en": "Photo of the dish: Smalahove",
+        "nl": "Foto van het gerecht: Smalahove",
+        "de": "Foto des Gerichts: Smalahove"
+      }
+    }
   },
   {
     "id": "c021",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_blodplättar",
     "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
+      "fr": "Blodplättar",
+      "en": "Blodplättar",
+      "nl": "Blodplättar",
+      "de": "Blodplättar"
     },
     "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
+      "fr": "Finlande / Suède",
+      "en": "Finland / Sweden",
+      "nl": "Finland / Zweden",
+      "de": "Finnland / Schweden"
     },
     "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
+      "fr": "Pays nordiques",
+      "en": "Nordic countries",
+      "nl": "Noordse landen",
+      "de": "Nordische Länder"
     },
     "scenario": {
       "fr": "",
@@ -3852,72 +4146,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Surströmming ?",
-      "en": "What are Surströmming?",
-      "nl": "Wat zijn Surströmming?",
-      "de": "Was sind Surströmming?"
+      "fr": "Que sont les Blodplättar ?",
+      "en": "What are Blodplättar?",
+      "nl": "Wat zijn Blodplättar?",
+      "de": "Was sind Blodplättar?"
     },
     "answers": {
       "fr": [
-        "Du hareng fermenté",
+        "Des crêpes au sang",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Fermented herring",
+        "Blood pancakes",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Gefermenteerde haring",
+        "Bloedpannenkoeken",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Fermentierter Hering",
+        "Blutpfannkuchen",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Du hareng fermenté",
-      "en": "Fermented herring",
-      "nl": "Gefermenteerde haring",
-      "de": "Fermentierter Hering"
+      "fr": "Des crêpes au sang",
+      "en": "Blood pancakes",
+      "nl": "Bloedpannenkoeken",
+      "de": "Blutpfannkuchen"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
+      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
+      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
+      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
+      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "blodplattar.jpg",
+      "path": "assets/food/blodplattar.jpg",
+      "adobeStockId": "411401459",
+      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Blodplättar",
+        "en": "Photo of the dish: Blodplättar",
+        "nl": "Foto van het gerecht: Blodplättar",
+        "de": "Foto des Gerichts: Blodplättar"
+      }
+    }
   },
   {
     "id": "c022",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_andouillette",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Andouillette",
+      "en": "Andouillette",
+      "nl": "Andouillette",
+      "de": "Andouillette"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk",
+      "de": "Frankreich"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk",
+      "de": "Frankreich"
     },
     "scenario": {
       "fr": "",
@@ -3926,72 +4233,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Andouillette ?",
+      "en": "What are Andouillette?",
+      "nl": "Wat zijn Andouillette?",
+      "de": "Was sind Andouillette?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Une saucisse à base d’intestins",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "A sausage made with intestines",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Een worst gemaakt met darmen",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Eine Wurst aus Därmen",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Une saucisse à base d’intestins",
+      "en": "A sausage made with intestines",
+      "nl": "Een worst gemaakt met darmen",
+      "de": "Eine Wurst aus Därmen"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
+      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
+      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
+      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "andouillette.jpg",
+      "path": "assets/food/andouillette.jpg",
+      "adobeStockId": "233753049",
+      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Andouillette",
+        "en": "Photo of the dish: Andouillette",
+        "nl": "Foto van het gerecht: Andouillette",
+        "de": "Foto des Gerichts: Andouillette"
+      }
+    }
   },
   {
     "id": "c023",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_mämmi",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Mämmi",
+      "en": "Mämmi",
+      "nl": "Mämmi",
+      "de": "Mämmi"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland",
+      "de": "Finnland"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland",
+      "de": "Finnland"
     },
     "scenario": {
       "fr": "",
@@ -4000,72 +4320,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Mämmi ?",
+      "en": "What are Mämmi?",
+      "nl": "Wat zijn Mämmi?",
+      "de": "Was sind Mämmi?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Un dessert de Pâques au seigle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "An Easter dessert made with rye",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een paasdessert met rogge",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein Osterdessert aus Roggen",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Un dessert de Pâques au seigle",
+      "en": "An Easter dessert made with rye",
+      "nl": "Een paasdessert met rogge",
+      "de": "Ein Osterdessert aus Roggen"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
+      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
+      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
+      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "mammi.jpg",
+      "path": "assets/food/mammi.jpg",
+      "adobeStockId": "485041926",
+      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Mämmi",
+        "en": "Photo of the dish: Mämmi",
+        "nl": "Foto van het gerecht: Mämmi",
+        "de": "Foto des Gerichts: Mämmi"
+      }
+    }
   },
   {
     "id": "c024",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_jellied_eels",
     "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
+      "fr": "Jellied eels",
+      "en": "Jellied eels",
+      "nl": "Jellied eels",
+      "de": "Jellied eels"
     },
     "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk",
+      "de": "Vereinigtes Königreich"
     },
     "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
+      "fr": "Londres",
+      "en": "London",
+      "nl": "Londen",
+      "de": "London"
     },
     "scenario": {
       "fr": "",
@@ -4074,72 +4407,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Surströmming ?",
-      "en": "What are Surströmming?",
-      "nl": "Wat zijn Surströmming?",
-      "de": "Was sind Surströmming?"
+      "fr": "Que sont les Jellied eels ?",
+      "en": "What are Jellied eels?",
+      "nl": "Wat zijn Jellied eels?",
+      "de": "Was sind Jellied eels?"
     },
     "answers": {
       "fr": [
-        "Du hareng fermenté",
+        "Des anguilles en gelée",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Fermented herring",
+        "Eels in jelly",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Gefermenteerde haring",
+        "Paling in gelei",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Fermentierter Hering",
+        "Aal in Gelee",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Du hareng fermenté",
-      "en": "Fermented herring",
-      "nl": "Gefermenteerde haring",
-      "de": "Fermentierter Hering"
+      "fr": "Des anguilles en gelée",
+      "en": "Eels in jelly",
+      "nl": "Paling in gelei",
+      "de": "Aal in Gelee"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
+      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
+      "en": "Jellied eels are a historic speciality of London’s East End.",
+      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
+      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "jellied-eels.jpg",
+      "path": "assets/food/jellied-eels.jpg",
+      "adobeStockId": "1254168402",
+      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Jellied eels",
+        "en": "Photo of the dish: Jellied eels",
+        "nl": "Foto van het gerecht: Jellied eels",
+        "de": "Foto des Gerichts: Jellied eels"
+      }
+    }
   },
   {
     "id": "c025",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_czernina",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Czernina",
+      "en": "Czernina",
+      "nl": "Czernina",
+      "de": "Czernina"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen",
+      "de": "Polen"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen",
+      "de": "Polen"
     },
     "scenario": {
       "fr": "",
@@ -4148,72 +4494,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Czernina ?",
+      "en": "What are Czernina?",
+      "nl": "Wat zijn Czernina?",
+      "de": "Was sind Czernina?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Une soupe au sang de canard",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "A duck-blood soup",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Een soep met eendenbloed",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Eine Suppe mit Entenblut",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Une soupe au sang de canard",
+      "en": "A duck-blood soup",
+      "nl": "Een soep met eendenbloed",
+      "de": "Eine Suppe mit Entenblut"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard.",
+      "en": "Czernina is a traditional Polish duck-blood soup.",
+      "nl": "Czernina is een traditionele Poolse soep met eendenbloed.",
+      "de": "Czernina ist eine traditionelle polnische Suppe mit Entenblut."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "czernina.jpg",
+      "path": "assets/food/czernina.jpg",
+      "adobeStockId": "20264185",
+      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Czernina",
+        "en": "Photo of the dish: Czernina",
+        "nl": "Foto van het gerecht: Czernina",
+        "de": "Foto des Gerichts: Czernina"
+      }
+    }
   },
   {
     "id": "c026",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_ciorbă_de_burtă",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Ciorbă de burtă",
+      "en": "Ciorbă de burtă",
+      "nl": "Ciorbă de burtă",
+      "de": "Ciorbă de burtă"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië",
+      "de": "Rumänien"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië",
+      "de": "Rumänien"
     },
     "scenario": {
       "fr": "",
@@ -4222,72 +4581,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Ciorbă de burtă ?",
+      "en": "What are Ciorbă de burtă?",
+      "nl": "Wat zijn Ciorbă de burtă?",
+      "de": "Was sind Ciorbă de burtă?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Une soupe de tripes",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A tripe soup",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een penssoep",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Eine Kuttelsuppe",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Une soupe de tripes",
+      "en": "A tripe soup",
+      "nl": "Een penssoep",
+      "de": "Eine Kuttelsuppe"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
+      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
+      "nl": "Ciorbă de burtă is een Roemeense penssoep.",
+      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "ciorba-de-burta.jpg",
+      "path": "assets/food/ciorba-de-burta.jpg",
+      "adobeStockId": "198001933",
+      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Ciorbă de burtă",
+        "en": "Photo of the dish: Ciorbă de burtă",
+        "nl": "Foto van het gerecht: Ciorbă de burtă",
+        "de": "Foto des Gerichts: Ciorbă de burtă"
+      }
+    }
   },
   {
     "id": "c027",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_kokoretsi",
     "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
+      "fr": "Kokoretsi",
+      "en": "Kokoretsi",
+      "nl": "Kokoretsi",
+      "de": "Kokoretsi"
     },
     "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
+      "fr": "Grèce",
+      "en": "Greece",
+      "nl": "Griekenland",
+      "de": "Griechenland"
     },
     "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
+      "fr": "Grèce / Balkans",
+      "en": "Greece / Balkans",
+      "nl": "Griekenland / Balkan",
+      "de": "Griechenland / Balkan"
     },
     "scenario": {
       "fr": "",
@@ -4296,72 +4668,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Surströmming ?",
-      "en": "What are Surströmming?",
-      "nl": "Wat zijn Surströmming?",
-      "de": "Was sind Surströmming?"
+      "fr": "Que sont les Kokoretsi ?",
+      "en": "What are Kokoretsi?",
+      "nl": "Wat zijn Kokoretsi?",
+      "de": "Was sind Kokoretsi?"
     },
     "answers": {
       "fr": [
-        "Du hareng fermenté",
+        "Une spécialité d’abats grillés",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Fermented herring",
+        "A grilled offal speciality",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Gefermenteerde haring",
+        "Een specialiteit van gegrild orgaanvlees",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Fermentierter Hering",
+        "Eine Spezialität aus gegrillten Innereien",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Du hareng fermenté",
-      "en": "Fermented herring",
-      "nl": "Gefermenteerde haring",
-      "de": "Fermentierter Hering"
+      "fr": "Une spécialité d’abats grillés",
+      "en": "A grilled offal speciality",
+      "nl": "Een specialiteit van gegrild orgaanvlees",
+      "de": "Eine Spezialität aus gegrillten Innereien"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
+      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
+      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
+      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
+      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "kokoretsi.jpg",
+      "path": "assets/food/kokoretsi.jpg",
+      "adobeStockId": "271480410",
+      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Kokoretsi",
+        "en": "Photo of the dish: Kokoretsi",
+        "nl": "Foto van het gerecht: Kokoretsi",
+        "de": "Foto des Gerichts: Kokoretsi"
+      }
+    }
   },
   {
     "id": "c028",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_labskaus",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Labskaus",
+      "en": "Labskaus",
+      "nl": "Labskaus",
+      "de": "Labskaus"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland",
+      "de": "Deutschland"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Nord de l’Allemagne",
+      "en": "Northern Germany",
+      "nl": "Noord-Duitsland",
+      "de": "Norddeutschland"
     },
     "scenario": {
       "fr": "",
@@ -4370,72 +4755,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Labskaus ?",
+      "en": "What are Labskaus?",
+      "nl": "Wat zijn Labskaus?",
+      "de": "Was sind Labskaus?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Un plat de marins à base de viande et pommes de terre",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "A sailors’ dish with meat and potatoes",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Een zeemansgerecht met vlees en aardappelen",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Ein Seemannsgericht mit Fleisch und Kartoffeln",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Un plat de marins à base de viande et pommes de terre",
+      "en": "A sailors’ dish with meat and potatoes",
+      "nl": "Een zeemansgerecht met vlees en aardappelen",
+      "de": "Ein Seemannsgericht mit Fleisch und Kartoffeln"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
+      "en": "Labskaus is a northern German dish associated with maritime culture.",
+      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
+      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "labskaus.jpg",
+      "path": "assets/food/labskaus.jpg",
+      "adobeStockId": "234422895",
+      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Labskaus",
+        "en": "Photo of the dish: Labskaus",
+        "nl": "Foto van het gerecht: Labskaus",
+        "de": "Foto des Gerichts: Labskaus"
+      }
+    }
   },
   {
     "id": "c029",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_tripas_à_moda_do_porto",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Tripas à moda do Porto",
+      "en": "Tripas à moda do Porto",
+      "nl": "Tripas à moda do Porto",
+      "de": "Tripas à moda do Porto"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Portugal",
+      "en": "Portugal",
+      "nl": "Portugal",
+      "de": "Portugal"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Porto",
+      "en": "Porto",
+      "nl": "Porto",
+      "de": "Porto"
     },
     "scenario": {
       "fr": "",
@@ -4444,72 +4842,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Tripas à moda do Porto ?",
+      "en": "What are Tripas à moda do Porto?",
+      "nl": "Wat zijn Tripas à moda do Porto?",
+      "de": "Was sind Tripas à moda do Porto?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Un plat de tripes portugais",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A Portuguese tripe dish",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een Portugees pensgerecht",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein portugiesisches Kuttelgericht",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Un plat de tripes portugais",
+      "en": "A Portuguese tripe dish",
+      "nl": "Een Portugees pensgerecht",
+      "de": "Ein portugiesisches Kuttelgericht"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
+      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
+      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
+      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "tripas-porto.jpg",
+      "path": "assets/food/tripas-porto.jpg",
+      "adobeStockId": "649614974",
+      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Tripas à moda do Porto",
+        "en": "Photo of the dish: Tripas à moda do Porto",
+        "nl": "Foto van het gerecht: Tripas à moda do Porto",
+        "de": "Foto des Gerichts: Tripas à moda do Porto"
+      }
+    }
   },
   {
     "id": "c030",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_sklandrausis",
     "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
+      "fr": "Sklandrausis",
+      "en": "Sklandrausis",
+      "nl": "Sklandrausis",
+      "de": "Sklandrausis"
     },
     "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland",
+      "de": "Lettland"
     },
     "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland",
+      "de": "Lettland"
     },
     "scenario": {
       "fr": "",
@@ -4518,72 +4929,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Surströmming ?",
-      "en": "What are Surströmming?",
-      "nl": "Wat zijn Surströmming?",
-      "de": "Was sind Surströmming?"
+      "fr": "Que sont les Sklandrausis ?",
+      "en": "What are Sklandrausis?",
+      "nl": "Wat zijn Sklandrausis?",
+      "de": "Was sind Sklandrausis?"
     },
     "answers": {
       "fr": [
-        "Du hareng fermenté",
+        "Une tartelette au seigle et aux légumes",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Fermented herring",
+        "A rye and vegetable tartlet",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Gefermenteerde haring",
+        "Een taartje met rogge en groenten",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Fermentierter Hering",
+        "Ein Roggen-Gemüse-Törtchen",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Du hareng fermenté",
-      "en": "Fermented herring",
-      "nl": "Gefermenteerde haring",
-      "de": "Fermentierter Hering"
+      "fr": "Une tartelette au seigle et aux légumes",
+      "en": "A rye and vegetable tartlet",
+      "nl": "Een taartje met rogge en groenten",
+      "de": "Ein Roggen-Gemüse-Törtchen"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
+      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
+      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
+      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
+      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "sklandrausis.jpg",
+      "path": "assets/food/sklandrausis.jpg",
+      "adobeStockId": "387591373",
+      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Sklandrausis",
+        "en": "Photo of the dish: Sklandrausis",
+        "nl": "Foto van het gerecht: Sklandrausis",
+        "de": "Foto des Gerichts: Sklandrausis"
+      }
+    }
   },
   {
     "id": "c031",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_casu_marzu",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu",
+      "de": "Casu Marzu"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië",
+      "de": "Sardinien"
     },
     "scenario": {
       "fr": "",
@@ -4592,72 +5016,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?",
+      "de": "Was sind Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Un fromage très fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "A highly fermented cheese",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Een sterk gefermenteerde kaas",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Ein stark fermentierter Käse",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Un fromage très fermenté",
+      "en": "A highly fermented cheese",
+      "nl": "Een sterk gefermenteerde kaas",
+      "de": "Ein stark fermentierter Käse"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
+      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
+      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
+      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Casu Marzu",
+        "en": "Photo of the dish: Casu Marzu",
+        "nl": "Foto van het gerecht: Casu Marzu",
+        "de": "Foto des Gerichts: Casu Marzu"
+      }
+    }
   },
   {
     "id": "c032",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_haggis",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis",
+      "de": "Haggis"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "scenario": {
       "fr": "",
@@ -4666,55 +5103,68 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?",
+      "de": "Was sind Haggis?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Un plat à base d’abats de mouton",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A dish made with sheep offal",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een gerecht met schapenorgaanvlees",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein Gericht aus Schafsinnereien",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees",
+      "de": "Ein Gericht aus Schafsinnereien"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
+      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Haggis",
+        "en": "Photo of the dish: Haggis",
+        "nl": "Foto van het gerecht: Haggis",
+        "de": "Foto des Gerichts: Haggis"
+      }
+    }
   },
   {
     "id": "c033",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_surströmming",
     "traditionName": {
       "fr": "Surströmming",
       "en": "Surströmming",
@@ -4783,29 +5233,42 @@ const CULINARY_50=[
       "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
       "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Surströmming",
+        "en": "Photo of the dish: Surströmming",
+        "nl": "Foto van het gerecht: Surströmming",
+        "de": "Foto des Gerichts: Surströmming"
+      }
+    }
   },
   {
     "id": "c034",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_hakarl",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl",
+      "de": "Hákarl"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "scenario": {
       "fr": "",
@@ -4814,72 +5277,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?",
+      "de": "Was sind Hákarl?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Du requin fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "Fermented shark",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Gefermenteerde haai",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Fermentierter Hai",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai",
+      "de": "Fermentierter Hai"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
+      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Hákarl",
+        "en": "Photo of the dish: Hákarl",
+        "nl": "Foto van het gerecht: Hákarl",
+        "de": "Foto des Gerichts: Hákarl"
+      }
+    }
   },
   {
     "id": "c035",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_smalahove",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove",
+      "de": "Smalahove"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen",
+      "de": "Norwegen"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen",
+      "de": "Westnorwegen"
     },
     "scenario": {
       "fr": "",
@@ -4888,72 +5364,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?",
+      "de": "Was sind Smalahove?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Une tête de mouton traditionnelle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A traditional sheep’s head",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een traditionele schapenkop",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein traditioneller Schafskopf",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop",
+      "de": "Ein traditioneller Schafskopf"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een hele of bijna hele schapenkop.",
+      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Smalahove",
+        "en": "Photo of the dish: Smalahove",
+        "nl": "Foto van het gerecht: Smalahove",
+        "de": "Foto des Gerichts: Smalahove"
+      }
+    }
   },
   {
     "id": "c036",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_blodplättar",
     "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
+      "fr": "Blodplättar",
+      "en": "Blodplättar",
+      "nl": "Blodplättar",
+      "de": "Blodplättar"
     },
     "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
+      "fr": "Finlande / Suède",
+      "en": "Finland / Sweden",
+      "nl": "Finland / Zweden",
+      "de": "Finnland / Schweden"
     },
     "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
+      "fr": "Pays nordiques",
+      "en": "Nordic countries",
+      "nl": "Noordse landen",
+      "de": "Nordische Länder"
     },
     "scenario": {
       "fr": "",
@@ -4962,72 +5451,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Surströmming ?",
-      "en": "What are Surströmming?",
-      "nl": "Wat zijn Surströmming?",
-      "de": "Was sind Surströmming?"
+      "fr": "Que sont les Blodplättar ?",
+      "en": "What are Blodplättar?",
+      "nl": "Wat zijn Blodplättar?",
+      "de": "Was sind Blodplättar?"
     },
     "answers": {
       "fr": [
-        "Du hareng fermenté",
+        "Des crêpes au sang",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Fermented herring",
+        "Blood pancakes",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Gefermenteerde haring",
+        "Bloedpannenkoeken",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Fermentierter Hering",
+        "Blutpfannkuchen",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Du hareng fermenté",
-      "en": "Fermented herring",
-      "nl": "Gefermenteerde haring",
-      "de": "Fermentierter Hering"
+      "fr": "Des crêpes au sang",
+      "en": "Blood pancakes",
+      "nl": "Bloedpannenkoeken",
+      "de": "Blutpfannkuchen"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
+      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
+      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
+      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
+      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "blodplattar.jpg",
+      "path": "assets/food/blodplattar.jpg",
+      "adobeStockId": "411401459",
+      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Blodplättar",
+        "en": "Photo of the dish: Blodplättar",
+        "nl": "Foto van het gerecht: Blodplättar",
+        "de": "Foto des Gerichts: Blodplättar"
+      }
+    }
   },
   {
     "id": "c037",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_andouillette",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Andouillette",
+      "en": "Andouillette",
+      "nl": "Andouillette",
+      "de": "Andouillette"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk",
+      "de": "Frankreich"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "France",
+      "en": "France",
+      "nl": "Frankrijk",
+      "de": "Frankreich"
     },
     "scenario": {
       "fr": "",
@@ -5036,72 +5538,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Andouillette ?",
+      "en": "What are Andouillette?",
+      "nl": "Wat zijn Andouillette?",
+      "de": "Was sind Andouillette?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Une saucisse à base d’intestins",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "A sausage made with intestines",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Een worst gemaakt met darmen",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Eine Wurst aus Därmen",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Une saucisse à base d’intestins",
+      "en": "A sausage made with intestines",
+      "nl": "Een worst gemaakt met darmen",
+      "de": "Eine Wurst aus Därmen"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
+      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
+      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
+      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "andouillette.jpg",
+      "path": "assets/food/andouillette.jpg",
+      "adobeStockId": "233753049",
+      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Andouillette",
+        "en": "Photo of the dish: Andouillette",
+        "nl": "Foto van het gerecht: Andouillette",
+        "de": "Foto des Gerichts: Andouillette"
+      }
+    }
   },
   {
     "id": "c038",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_mämmi",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Mämmi",
+      "en": "Mämmi",
+      "nl": "Mämmi",
+      "de": "Mämmi"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland",
+      "de": "Finnland"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland",
+      "de": "Finnland"
     },
     "scenario": {
       "fr": "",
@@ -5110,72 +5625,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Mämmi ?",
+      "en": "What are Mämmi?",
+      "nl": "Wat zijn Mämmi?",
+      "de": "Was sind Mämmi?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Un dessert de Pâques au seigle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "An Easter dessert made with rye",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een paasdessert met rogge",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein Osterdessert aus Roggen",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Un dessert de Pâques au seigle",
+      "en": "An Easter dessert made with rye",
+      "nl": "Een paasdessert met rogge",
+      "de": "Ein Osterdessert aus Roggen"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
+      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
+      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
+      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "mammi.jpg",
+      "path": "assets/food/mammi.jpg",
+      "adobeStockId": "485041926",
+      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Mämmi",
+        "en": "Photo of the dish: Mämmi",
+        "nl": "Foto van het gerecht: Mämmi",
+        "de": "Foto des Gerichts: Mämmi"
+      }
+    }
   },
   {
     "id": "c039",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_jellied_eels",
     "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
+      "fr": "Jellied eels",
+      "en": "Jellied eels",
+      "nl": "Jellied eels",
+      "de": "Jellied eels"
     },
     "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
+      "fr": "Royaume-Uni",
+      "en": "United Kingdom",
+      "nl": "Verenigd Koninkrijk",
+      "de": "Vereinigtes Königreich"
     },
     "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
+      "fr": "Londres",
+      "en": "London",
+      "nl": "Londen",
+      "de": "London"
     },
     "scenario": {
       "fr": "",
@@ -5184,72 +5712,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Surströmming ?",
-      "en": "What are Surströmming?",
-      "nl": "Wat zijn Surströmming?",
-      "de": "Was sind Surströmming?"
+      "fr": "Que sont les Jellied eels ?",
+      "en": "What are Jellied eels?",
+      "nl": "Wat zijn Jellied eels?",
+      "de": "Was sind Jellied eels?"
     },
     "answers": {
       "fr": [
-        "Du hareng fermenté",
+        "Des anguilles en gelée",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Fermented herring",
+        "Eels in jelly",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Gefermenteerde haring",
+        "Paling in gelei",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Fermentierter Hering",
+        "Aal in Gelee",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Du hareng fermenté",
-      "en": "Fermented herring",
-      "nl": "Gefermenteerde haring",
-      "de": "Fermentierter Hering"
+      "fr": "Des anguilles en gelée",
+      "en": "Eels in jelly",
+      "nl": "Paling in gelei",
+      "de": "Aal in Gelee"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
+      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
+      "en": "Jellied eels are a historic speciality of London’s East End.",
+      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
+      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "jellied-eels.jpg",
+      "path": "assets/food/jellied-eels.jpg",
+      "adobeStockId": "1254168402",
+      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Jellied eels",
+        "en": "Photo of the dish: Jellied eels",
+        "nl": "Foto van het gerecht: Jellied eels",
+        "de": "Foto des Gerichts: Jellied eels"
+      }
+    }
   },
   {
     "id": "c040",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_czernina",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Czernina",
+      "en": "Czernina",
+      "nl": "Czernina",
+      "de": "Czernina"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen",
+      "de": "Polen"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen",
+      "de": "Polen"
     },
     "scenario": {
       "fr": "",
@@ -5258,72 +5799,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Czernina ?",
+      "en": "What are Czernina?",
+      "nl": "Wat zijn Czernina?",
+      "de": "Was sind Czernina?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Une soupe au sang de canard",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "A duck-blood soup",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Een soep met eendenbloed",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Eine Suppe mit Entenblut",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Une soupe au sang de canard",
+      "en": "A duck-blood soup",
+      "nl": "Een soep met eendenbloed",
+      "de": "Eine Suppe mit Entenblut"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard.",
+      "en": "Czernina is a traditional Polish duck-blood soup.",
+      "nl": "Czernina is een traditionele Poolse soep met eendenbloed.",
+      "de": "Czernina ist eine traditionelle polnische Suppe mit Entenblut."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "czernina.jpg",
+      "path": "assets/food/czernina.jpg",
+      "adobeStockId": "20264185",
+      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Czernina",
+        "en": "Photo of the dish: Czernina",
+        "nl": "Foto van het gerecht: Czernina",
+        "de": "Foto des Gerichts: Czernina"
+      }
+    }
   },
   {
     "id": "c041",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_ciorbă_de_burtă",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Ciorbă de burtă",
+      "en": "Ciorbă de burtă",
+      "nl": "Ciorbă de burtă",
+      "de": "Ciorbă de burtă"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië",
+      "de": "Rumänien"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië",
+      "de": "Rumänien"
     },
     "scenario": {
       "fr": "",
@@ -5332,72 +5886,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Ciorbă de burtă ?",
+      "en": "What are Ciorbă de burtă?",
+      "nl": "Wat zijn Ciorbă de burtă?",
+      "de": "Was sind Ciorbă de burtă?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Une soupe de tripes",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A tripe soup",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een penssoep",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Eine Kuttelsuppe",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Une soupe de tripes",
+      "en": "A tripe soup",
+      "nl": "Een penssoep",
+      "de": "Eine Kuttelsuppe"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
+      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
+      "nl": "Ciorbă de burtă is een Roemeense penssoep.",
+      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "ciorba-de-burta.jpg",
+      "path": "assets/food/ciorba-de-burta.jpg",
+      "adobeStockId": "198001933",
+      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Ciorbă de burtă",
+        "en": "Photo of the dish: Ciorbă de burtă",
+        "nl": "Foto van het gerecht: Ciorbă de burtă",
+        "de": "Foto des Gerichts: Ciorbă de burtă"
+      }
+    }
   },
   {
     "id": "c042",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_kokoretsi",
     "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
+      "fr": "Kokoretsi",
+      "en": "Kokoretsi",
+      "nl": "Kokoretsi",
+      "de": "Kokoretsi"
     },
     "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
+      "fr": "Grèce",
+      "en": "Greece",
+      "nl": "Griekenland",
+      "de": "Griechenland"
     },
     "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
+      "fr": "Grèce / Balkans",
+      "en": "Greece / Balkans",
+      "nl": "Griekenland / Balkan",
+      "de": "Griechenland / Balkan"
     },
     "scenario": {
       "fr": "",
@@ -5406,72 +5973,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Surströmming ?",
-      "en": "What are Surströmming?",
-      "nl": "Wat zijn Surströmming?",
-      "de": "Was sind Surströmming?"
+      "fr": "Que sont les Kokoretsi ?",
+      "en": "What are Kokoretsi?",
+      "nl": "Wat zijn Kokoretsi?",
+      "de": "Was sind Kokoretsi?"
     },
     "answers": {
       "fr": [
-        "Du hareng fermenté",
+        "Une spécialité d’abats grillés",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Fermented herring",
+        "A grilled offal speciality",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Gefermenteerde haring",
+        "Een specialiteit van gegrild orgaanvlees",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Fermentierter Hering",
+        "Eine Spezialität aus gegrillten Innereien",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Du hareng fermenté",
-      "en": "Fermented herring",
-      "nl": "Gefermenteerde haring",
-      "de": "Fermentierter Hering"
+      "fr": "Une spécialité d’abats grillés",
+      "en": "A grilled offal speciality",
+      "nl": "Een specialiteit van gegrild orgaanvlees",
+      "de": "Eine Spezialität aus gegrillten Innereien"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
+      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
+      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
+      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
+      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "kokoretsi.jpg",
+      "path": "assets/food/kokoretsi.jpg",
+      "adobeStockId": "271480410",
+      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Kokoretsi",
+        "en": "Photo of the dish: Kokoretsi",
+        "nl": "Foto van het gerecht: Kokoretsi",
+        "de": "Foto des Gerichts: Kokoretsi"
+      }
+    }
   },
   {
     "id": "c043",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_labskaus",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Labskaus",
+      "en": "Labskaus",
+      "nl": "Labskaus",
+      "de": "Labskaus"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland",
+      "de": "Deutschland"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Nord de l’Allemagne",
+      "en": "Northern Germany",
+      "nl": "Noord-Duitsland",
+      "de": "Norddeutschland"
     },
     "scenario": {
       "fr": "",
@@ -5480,72 +6060,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Labskaus ?",
+      "en": "What are Labskaus?",
+      "nl": "Wat zijn Labskaus?",
+      "de": "Was sind Labskaus?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Un plat de marins à base de viande et pommes de terre",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "A sailors’ dish with meat and potatoes",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Een zeemansgerecht met vlees en aardappelen",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Ein Seemannsgericht mit Fleisch und Kartoffeln",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Un plat de marins à base de viande et pommes de terre",
+      "en": "A sailors’ dish with meat and potatoes",
+      "nl": "Een zeemansgerecht met vlees en aardappelen",
+      "de": "Ein Seemannsgericht mit Fleisch und Kartoffeln"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
+      "en": "Labskaus is a northern German dish associated with maritime culture.",
+      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
+      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "labskaus.jpg",
+      "path": "assets/food/labskaus.jpg",
+      "adobeStockId": "234422895",
+      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Labskaus",
+        "en": "Photo of the dish: Labskaus",
+        "nl": "Foto van het gerecht: Labskaus",
+        "de": "Foto des Gerichts: Labskaus"
+      }
+    }
   },
   {
     "id": "c044",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_tripas_à_moda_do_porto",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Tripas à moda do Porto",
+      "en": "Tripas à moda do Porto",
+      "nl": "Tripas à moda do Porto",
+      "de": "Tripas à moda do Porto"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Portugal",
+      "en": "Portugal",
+      "nl": "Portugal",
+      "de": "Portugal"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Porto",
+      "en": "Porto",
+      "nl": "Porto",
+      "de": "Porto"
     },
     "scenario": {
       "fr": "",
@@ -5554,72 +6147,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Tripas à moda do Porto ?",
+      "en": "What are Tripas à moda do Porto?",
+      "nl": "Wat zijn Tripas à moda do Porto?",
+      "de": "Was sind Tripas à moda do Porto?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Un plat de tripes portugais",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A Portuguese tripe dish",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een Portugees pensgerecht",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein portugiesisches Kuttelgericht",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Un plat de tripes portugais",
+      "en": "A Portuguese tripe dish",
+      "nl": "Een Portugees pensgerecht",
+      "de": "Ein portugiesisches Kuttelgericht"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
+      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
+      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
+      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "tripas-porto.jpg",
+      "path": "assets/food/tripas-porto.jpg",
+      "adobeStockId": "649614974",
+      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Tripas à moda do Porto",
+        "en": "Photo of the dish: Tripas à moda do Porto",
+        "nl": "Foto van het gerecht: Tripas à moda do Porto",
+        "de": "Foto des Gerichts: Tripas à moda do Porto"
+      }
+    }
   },
   {
     "id": "c045",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_sklandrausis",
     "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
+      "fr": "Sklandrausis",
+      "en": "Sklandrausis",
+      "nl": "Sklandrausis",
+      "de": "Sklandrausis"
     },
     "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland",
+      "de": "Lettland"
     },
     "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland",
+      "de": "Lettland"
     },
     "scenario": {
       "fr": "",
@@ -5628,129 +6234,68 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Surströmming ?",
-      "en": "What are Surströmming?",
-      "nl": "Wat zijn Surströmming?",
-      "de": "Was sind Surströmming?"
+      "fr": "Que sont les Sklandrausis ?",
+      "en": "What are Sklandrausis?",
+      "nl": "Wat zijn Sklandrausis?",
+      "de": "Was sind Sklandrausis?"
     },
     "answers": {
       "fr": [
-        "Du hareng fermenté",
+        "Une tartelette au seigle et aux légumes",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Fermented herring",
+        "A rye and vegetable tartlet",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Gefermenteerde haring",
+        "Een taartje met rogge en groenten",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Fermentierter Hering",
+        "Ein Roggen-Gemüse-Törtchen",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Du hareng fermenté",
-      "en": "Fermented herring",
-      "nl": "Gefermenteerde haring",
-      "de": "Fermentierter Hering"
+      "fr": "Une tartelette au seigle et aux légumes",
+      "en": "A rye and vegetable tartlet",
+      "nl": "Een taartje met rogge en groenten",
+      "de": "Ein Roggen-Gemüse-Törtchen"
     },
     "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
+      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
+      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
+      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
+      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "sklandrausis.jpg",
+      "path": "assets/food/sklandrausis.jpg",
+      "adobeStockId": "387591373",
+      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Sklandrausis",
+        "en": "Photo of the dish: Sklandrausis",
+        "nl": "Foto van het gerecht: Sklandrausis",
+        "de": "Foto des Gerichts: Sklandrausis"
+      }
+    }
   },
   {
     "id": "c046",
     "mode": "culinary",
-    "subjectKey": "haggis",
-    "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
-    },
-    "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
-    },
-    "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
-    },
-    "answers": {
-      "fr": [
-        "Un plat à base d’abats de mouton",
-        "Une soupe",
-        "Un dessert",
-        "Une boisson"
-      ],
-      "en": [
-        "A dish made with sheep offal",
-        "A soup",
-        "A dessert",
-        "A drink"
-      ],
-      "nl": [
-        "Een gerecht met schapenorgaanvlees",
-        "Een soep",
-        "Een dessert",
-        "Een drank"
-      ],
-      "de": [
-        "Ein Gericht aus Schafsinnereien",
-        "Eine Suppe",
-        "Ein Dessert",
-        "Ein Getränk"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
-    },
-    "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
-    },
-    "questionType": "standard"
-  },
-  {
-    "id": "c047",
-    "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_casu_marzu",
     "traditionName": {
       "fr": "Casu Marzu",
       "en": "Casu Marzu",
@@ -5819,12 +6364,112 @@ const CULINARY_50=[
       "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
       "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Casu Marzu",
+        "en": "Photo of the dish: Casu Marzu",
+        "nl": "Foto van het gerecht: Casu Marzu",
+        "de": "Foto des Gerichts: Casu Marzu"
+      }
+    }
+  },
+  {
+    "id": "c047",
+    "mode": "culinary",
+    "subjectKey": "food_haggis",
+    "traditionName": {
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis",
+      "de": "Haggis"
+    },
+    "country": {
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
+    },
+    "region": {
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?",
+      "de": "Was sind Haggis?"
+    },
+    "answers": {
+      "fr": [
+        "Un plat à base d’abats de mouton",
+        "Une soupe",
+        "Un dessert",
+        "Une boisson"
+      ],
+      "en": [
+        "A dish made with sheep offal",
+        "A soup",
+        "A dessert",
+        "A drink"
+      ],
+      "nl": [
+        "Een gerecht met schapenorgaanvlees",
+        "Een soep",
+        "Een dessert",
+        "Een drank"
+      ],
+      "de": [
+        "Ein Gericht aus Schafsinnereien",
+        "Eine Suppe",
+        "Ein Dessert",
+        "Ein Getränk"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees",
+      "de": "Ein Gericht aus Schafsinnereien"
+    },
+    "explanation": {
+      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
+      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+    },
+    "questionType": "food",
+    "image": {
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Haggis",
+        "en": "Photo of the dish: Haggis",
+        "nl": "Foto van het gerecht: Haggis",
+        "de": "Foto des Gerichts: Haggis"
+      }
+    }
   },
   {
     "id": "c048",
     "mode": "culinary",
-    "subjectKey": "surstromming",
+    "subjectKey": "food_surströmming",
     "traditionName": {
       "fr": "Surströmming",
       "en": "Surströmming",
@@ -5893,29 +6538,42 @@ const CULINARY_50=[
       "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
       "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Surströmming",
+        "en": "Photo of the dish: Surströmming",
+        "nl": "Foto van het gerecht: Surströmming",
+        "de": "Foto des Gerichts: Surströmming"
+      }
+    }
   },
   {
     "id": "c049",
     "mode": "culinary",
-    "subjectKey": "haggis",
+    "subjectKey": "food_hakarl",
     "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl",
+      "de": "Hákarl"
     },
     "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "scenario": {
       "fr": "",
@@ -5924,72 +6582,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Haggis ?",
-      "en": "What are Haggis?",
-      "nl": "Wat zijn Haggis?",
-      "de": "Was sind Haggis?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?",
+      "de": "Was sind Hákarl?"
     },
     "answers": {
       "fr": [
-        "Un plat à base d’abats de mouton",
+        "Du requin fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A dish made with sheep offal",
+        "Fermented shark",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een gerecht met schapenorgaanvlees",
+        "Gefermenteerde haai",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Gericht aus Schafsinnereien",
+        "Fermentierter Hai",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat à base d’abats de mouton",
-      "en": "A dish made with sheep offal",
-      "nl": "Een gerecht met schapenorgaanvlees",
-      "de": "Ein Gericht aus Schafsinnereien"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai",
+      "de": "Fermentierter Hai"
     },
     "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
+      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Hákarl",
+        "en": "Photo of the dish: Hákarl",
+        "nl": "Foto van het gerecht: Hákarl",
+        "de": "Foto des Gerichts: Hákarl"
+      }
+    }
   },
   {
     "id": "c050",
     "mode": "culinary",
-    "subjectKey": "casu_marzu",
+    "subjectKey": "food_smalahove",
     "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove",
+      "de": "Smalahove"
     },
     "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen",
+      "de": "Norwegen"
     },
     "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen",
+      "de": "Westnorwegen"
     },
     "scenario": {
       "fr": "",
@@ -5998,50 +6669,63 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Casu Marzu ?",
-      "en": "What are Casu Marzu?",
-      "nl": "Wat zijn Casu Marzu?",
-      "de": "Was sind Casu Marzu?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?",
+      "de": "Was sind Smalahove?"
     },
     "answers": {
       "fr": [
-        "Un fromage très fermenté",
+        "Une tête de mouton traditionnelle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A highly fermented cheese",
+        "A traditional sheep’s head",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een sterk gefermenteerde kaas",
+        "Een traditionele schapenkop",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein stark fermentierter Käse",
+        "Ein traditioneller Schafskopf",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un fromage très fermenté",
-      "en": "A highly fermented cheese",
-      "nl": "Een sterk gefermenteerde kaas",
-      "de": "Ein stark fermentierter Käse"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop",
+      "de": "Ein traditioneller Schafskopf"
     },
     "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
+      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een hele of bijna hele schapenkop.",
+      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
     },
-    "questionType": "standard"
+    "questionType": "food",
+    "image": {
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo du plat : Smalahove",
+        "en": "Photo of the dish: Smalahove",
+        "nl": "Foto van het gerecht: Smalahove",
+        "de": "Foto des Gerichts: Smalahove"
+      }
+    }
   }
 ];
 const LEGENDS_BANK=[
@@ -6117,7 +6801,8 @@ const LEGENDS_BANK=[
       "nl": "Krampus behoort tot het legendarische erfgoed van Oostenrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Krampus gehört zum legendären Erbe von Österreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l001_what",
@@ -6191,7 +6876,8 @@ const LEGENDS_BANK=[
       "nl": "Krampus behoort tot het legendarische erfgoed van Oostenrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Krampus gehört zum legendären Erbe von Österreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l001_tf",
@@ -6265,7 +6951,8 @@ const LEGENDS_BANK=[
       "nl": "Krampus behoort tot het legendarische erfgoed van Oostenrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Krampus gehört zum legendären Erbe von Österreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l002_country",
@@ -6339,7 +7026,8 @@ const LEGENDS_BANK=[
       "nl": "Perchta behoort tot het legendarische erfgoed van Oostenrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Perchta gehört zum legendären Erbe von Österreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l002_what",
@@ -6413,7 +7101,8 @@ const LEGENDS_BANK=[
       "nl": "Perchta behoort tot het legendarische erfgoed van Oostenrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Perchta gehört zum legendären Erbe von Österreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l002_tf",
@@ -6487,7 +7176,8 @@ const LEGENDS_BANK=[
       "nl": "Perchta behoort tot het legendarische erfgoed van Oostenrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Perchta gehört zum legendären Erbe von Österreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l003_country",
@@ -6561,7 +7251,8 @@ const LEGENDS_BANK=[
       "nl": "Bayard, het magische paard behoort tot het legendarische erfgoed van België. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Bayard, das magische Pferd gehört zum legendären Erbe von Belgien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l003_what",
@@ -6635,7 +7326,8 @@ const LEGENDS_BANK=[
       "nl": "Bayard, het magische paard behoort tot het legendarische erfgoed van België. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Bayard, das magische Pferd gehört zum legendären Erbe von Belgien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l003_tf",
@@ -6709,7 +7401,8 @@ const LEGENDS_BANK=[
       "nl": "Bayard, het magische paard behoort tot het legendarische erfgoed van België. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Bayard, das magische Pferd gehört zum legendären Erbe von Belgien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l004_country",
@@ -6783,7 +7476,8 @@ const LEGENDS_BANK=[
       "nl": "De Nutons behoort tot het legendarische erfgoed van België. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Nutons gehört zum legendären Erbe von Belgien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l004_what",
@@ -6857,7 +7551,8 @@ const LEGENDS_BANK=[
       "nl": "De Nutons behoort tot het legendarische erfgoed van België. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Nutons gehört zum legendären Erbe von Belgien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l004_tf",
@@ -6931,7 +7626,8 @@ const LEGENDS_BANK=[
       "nl": "De Nutons behoort tot het legendarische erfgoed van België. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Nutons gehört zum legendären Erbe von Belgien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l005_country",
@@ -7005,7 +7701,8 @@ const LEGENDS_BANK=[
       "nl": "Samodiva behoort tot het legendarische erfgoed van Bulgarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Samodiva gehört zum legendären Erbe von Bulgarien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l005_what",
@@ -7079,7 +7776,8 @@ const LEGENDS_BANK=[
       "nl": "Samodiva behoort tot het legendarische erfgoed van Bulgarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Samodiva gehört zum legendären Erbe von Bulgarien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l005_tf",
@@ -7153,7 +7851,8 @@ const LEGENDS_BANK=[
       "nl": "Samodiva behoort tot het legendarische erfgoed van Bulgarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Samodiva gehört zum legendären Erbe von Bulgarien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l006_country",
@@ -7227,7 +7926,8 @@ const LEGENDS_BANK=[
       "nl": "Zmey behoort tot het legendarische erfgoed van Bulgarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Zmey gehört zum legendären Erbe von Bulgarien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l006_what",
@@ -7301,7 +8001,8 @@ const LEGENDS_BANK=[
       "nl": "Zmey behoort tot het legendarische erfgoed van Bulgarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Zmey gehört zum legendären Erbe von Bulgarien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l006_tf",
@@ -7375,7 +8076,8 @@ const LEGENDS_BANK=[
       "nl": "Zmey behoort tot het legendarische erfgoed van Bulgarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Zmey gehört zum legendären Erbe von Bulgarien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l007_country",
@@ -7449,7 +8151,8 @@ const LEGENDS_BANK=[
       "nl": "De heks van Zagreb behoort tot het legendarische erfgoed van Kroatië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Hexe von Zagreb gehört zum legendären Erbe von Kroatien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l007_what",
@@ -7523,7 +8226,8 @@ const LEGENDS_BANK=[
       "nl": "De heks van Zagreb behoort tot het legendarische erfgoed van Kroatië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Hexe von Zagreb gehört zum legendären Erbe von Kroatien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l007_tf",
@@ -7597,7 +8301,8 @@ const LEGENDS_BANK=[
       "nl": "De heks van Zagreb behoort tot het legendarische erfgoed van Kroatië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Hexe von Zagreb gehört zum legendären Erbe von Kroatien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l008_country",
@@ -7671,7 +8376,8 @@ const LEGENDS_BANK=[
       "nl": "Veli Jože behoort tot het legendarische erfgoed van Kroatië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Veli Jože gehört zum legendären Erbe von Kroatien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l008_what",
@@ -7745,7 +8451,8 @@ const LEGENDS_BANK=[
       "nl": "Veli Jože behoort tot het legendarische erfgoed van Kroatië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Veli Jože gehört zum legendären Erbe von Kroatien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l008_tf",
@@ -7819,7 +8526,8 @@ const LEGENDS_BANK=[
       "nl": "Veli Jože behoort tot het legendarische erfgoed van Kroatië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Veli Jože gehört zum legendären Erbe von Kroatien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l009_country",
@@ -7893,7 +8601,8 @@ const LEGENDS_BANK=[
       "nl": "Aphrodite geboren uit het zeeschuim behoort tot het legendarische erfgoed van Cyprus. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Aphrodite, aus dem Meeresschaum geboren gehört zum legendären Erbe von Zypern. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l009_what",
@@ -7967,7 +8676,8 @@ const LEGENDS_BANK=[
       "nl": "Aphrodite geboren uit het zeeschuim behoort tot het legendarische erfgoed van Cyprus. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Aphrodite, aus dem Meeresschaum geboren gehört zum legendären Erbe von Zypern. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l009_tf",
@@ -8041,7 +8751,8 @@ const LEGENDS_BANK=[
       "nl": "Aphrodite geboren uit het zeeschuim behoort tot het legendarische erfgoed van Cyprus. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Aphrodite, aus dem Meeresschaum geboren gehört zum legendären Erbe von Zypern. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l010_country",
@@ -8115,7 +8826,8 @@ const LEGENDS_BANK=[
       "nl": "Digenis Akritas behoort tot het legendarische erfgoed van Cyprus. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Digenis Akritas gehört zum legendären Erbe von Zypern. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l010_what",
@@ -8189,7 +8901,8 @@ const LEGENDS_BANK=[
       "nl": "Digenis Akritas behoort tot het legendarische erfgoed van Cyprus. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Digenis Akritas gehört zum legendären Erbe von Zypern. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l010_tf",
@@ -8263,7 +8976,8 @@ const LEGENDS_BANK=[
       "nl": "Digenis Akritas behoort tot het legendarische erfgoed van Cyprus. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Digenis Akritas gehört zum legendären Erbe von Zypern. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l011_country",
@@ -8337,7 +9051,8 @@ const LEGENDS_BANK=[
       "nl": "De Golem van Praag behoort tot het legendarische erfgoed van Tsjechië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Golem von Prag gehört zum legendären Erbe von Tschechien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l011_what",
@@ -8411,7 +9126,8 @@ const LEGENDS_BANK=[
       "nl": "De Golem van Praag behoort tot het legendarische erfgoed van Tsjechië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Golem von Prag gehört zum legendären Erbe von Tschechien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l011_tf",
@@ -8485,7 +9201,8 @@ const LEGENDS_BANK=[
       "nl": "De Golem van Praag behoort tot het legendarische erfgoed van Tsjechië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Golem von Prag gehört zum legendären Erbe von Tschechien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l012_country",
@@ -8559,7 +9276,8 @@ const LEGENDS_BANK=[
       "nl": "Vodník behoort tot het legendarische erfgoed van Tsjechië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Vodník gehört zum legendären Erbe von Tschechien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l012_what",
@@ -8633,7 +9351,8 @@ const LEGENDS_BANK=[
       "nl": "Vodník behoort tot het legendarische erfgoed van Tsjechië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Vodník gehört zum legendären Erbe von Tschechien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l012_tf",
@@ -8707,7 +9426,8 @@ const LEGENDS_BANK=[
       "nl": "Vodník behoort tot het legendarische erfgoed van Tsjechië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Vodník gehört zum legendären Erbe von Tschechien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l013_country",
@@ -8781,7 +9501,8 @@ const LEGENDS_BANK=[
       "nl": "Holger Danske behoort tot het legendarische erfgoed van Denemarken. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Holger Danske gehört zum legendären Erbe von Dänemark. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l013_what",
@@ -8855,7 +9576,8 @@ const LEGENDS_BANK=[
       "nl": "Holger Danske behoort tot het legendarische erfgoed van Denemarken. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Holger Danske gehört zum legendären Erbe von Dänemark. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l013_tf",
@@ -8929,7 +9651,8 @@ const LEGENDS_BANK=[
       "nl": "Holger Danske behoort tot het legendarische erfgoed van Denemarken. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Holger Danske gehört zum legendären Erbe von Dänemark. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l014_country",
@@ -9003,7 +9726,8 @@ const LEGENDS_BANK=[
       "nl": "De Vrouw van de Zee behoort tot het legendarische erfgoed van Denemarken. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Frau des Meeres gehört zum legendären Erbe von Dänemark. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l014_what",
@@ -9077,7 +9801,8 @@ const LEGENDS_BANK=[
       "nl": "De Vrouw van de Zee behoort tot het legendarische erfgoed van Denemarken. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Frau des Meeres gehört zum legendären Erbe von Dänemark. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l014_tf",
@@ -9151,7 +9876,8 @@ const LEGENDS_BANK=[
       "nl": "De Vrouw van de Zee behoort tot het legendarische erfgoed van Denemarken. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Frau des Meeres gehört zum legendären Erbe von Dänemark. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l015_country",
@@ -9225,7 +9951,8 @@ const LEGENDS_BANK=[
       "nl": "Kalevipoeg behoort tot het legendarische erfgoed van Estland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Kalevipoeg gehört zum legendären Erbe von Estland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l015_what",
@@ -9299,7 +10026,8 @@ const LEGENDS_BANK=[
       "nl": "Kalevipoeg behoort tot het legendarische erfgoed van Estland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Kalevipoeg gehört zum legendären Erbe von Estland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l015_tf",
@@ -9373,7 +10101,8 @@ const LEGENDS_BANK=[
       "nl": "Kalevipoeg behoort tot het legendarische erfgoed van Estland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Kalevipoeg gehört zum legendären Erbe von Estland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l016_country",
@@ -9447,7 +10176,8 @@ const LEGENDS_BANK=[
       "nl": "De schat van het Ülemistemeer behoort tot het legendarische erfgoed van Estland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Schatz des Ülemiste-Sees gehört zum legendären Erbe von Estland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l016_what",
@@ -9521,7 +10251,8 @@ const LEGENDS_BANK=[
       "nl": "De schat van het Ülemistemeer behoort tot het legendarische erfgoed van Estland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Schatz des Ülemiste-Sees gehört zum legendären Erbe von Estland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l016_tf",
@@ -9595,7 +10326,8 @@ const LEGENDS_BANK=[
       "nl": "De schat van het Ülemistemeer behoort tot het legendarische erfgoed van Estland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Schatz des Ülemiste-Sees gehört zum legendären Erbe von Estland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l017_country",
@@ -9669,7 +10401,8 @@ const LEGENDS_BANK=[
       "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Väinämöinen gehört zum legendären Erbe von Finnland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l017_what",
@@ -9743,7 +10476,8 @@ const LEGENDS_BANK=[
       "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Väinämöinen gehört zum legendären Erbe von Finnland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l017_tf",
@@ -9817,7 +10551,8 @@ const LEGENDS_BANK=[
       "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Väinämöinen gehört zum legendären Erbe von Finnland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l018_country",
@@ -9891,7 +10626,8 @@ const LEGENDS_BANK=[
       "nl": "Hiisi behoort tot het legendarische erfgoed van Finland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Hiisi gehört zum legendären Erbe von Finnland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l018_what",
@@ -9965,7 +10701,8 @@ const LEGENDS_BANK=[
       "nl": "Hiisi behoort tot het legendarische erfgoed van Finland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Hiisi gehört zum legendären Erbe von Finnland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l018_tf",
@@ -10039,7 +10776,8 @@ const LEGENDS_BANK=[
       "nl": "Hiisi behoort tot het legendarische erfgoed van Finland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Hiisi gehört zum legendären Erbe von Finnland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l019_country",
@@ -10113,7 +10851,8 @@ const LEGENDS_BANK=[
       "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Melusine gehört zum legendären Erbe von Frankreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l019_what",
@@ -10187,7 +10926,8 @@ const LEGENDS_BANK=[
       "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Melusine gehört zum legendären Erbe von Frankreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l019_tf",
@@ -10261,7 +11001,8 @@ const LEGENDS_BANK=[
       "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Melusine gehört zum legendären Erbe von Frankreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l020_country",
@@ -10335,7 +11076,8 @@ const LEGENDS_BANK=[
       "nl": "Het Beest van Gévaudan behoort tot het legendarische erfgoed van Frankrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Bestie des Gévaudan gehört zum legendären Erbe von Frankreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l020_what",
@@ -10409,7 +11151,8 @@ const LEGENDS_BANK=[
       "nl": "Het Beest van Gévaudan behoort tot het legendarische erfgoed van Frankrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Bestie des Gévaudan gehört zum legendären Erbe von Frankreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l020_tf",
@@ -10483,7 +11226,8 @@ const LEGENDS_BANK=[
       "nl": "Het Beest van Gévaudan behoort tot het legendarische erfgoed van Frankrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Bestie des Gévaudan gehört zum legendären Erbe von Frankreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l021_country",
@@ -10557,7 +11301,8 @@ const LEGENDS_BANK=[
       "nl": "Lorelei behoort tot het legendarische erfgoed van Duitsland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Lorelei gehört zum legendären Erbe von Deutschland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l021_what",
@@ -10631,7 +11376,8 @@ const LEGENDS_BANK=[
       "nl": "Lorelei behoort tot het legendarische erfgoed van Duitsland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Lorelei gehört zum legendären Erbe von Deutschland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l021_tf",
@@ -10705,7 +11451,8 @@ const LEGENDS_BANK=[
       "nl": "Lorelei behoort tot het legendarische erfgoed van Duitsland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Lorelei gehört zum legendären Erbe von Deutschland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l022_country",
@@ -10779,7 +11526,8 @@ const LEGENDS_BANK=[
       "nl": "De rattenvanger van Hamelen behoort tot het legendarische erfgoed van Duitsland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Rattenfänger von Hameln gehört zum legendären Erbe von Deutschland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l022_what",
@@ -10853,7 +11601,8 @@ const LEGENDS_BANK=[
       "nl": "De rattenvanger van Hamelen behoort tot het legendarische erfgoed van Duitsland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Rattenfänger von Hameln gehört zum legendären Erbe von Deutschland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l022_tf",
@@ -10927,7 +11676,8 @@ const LEGENDS_BANK=[
       "nl": "De rattenvanger van Hamelen behoort tot het legendarische erfgoed van Duitsland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Rattenfänger von Hameln gehört zum legendären Erbe von Deutschland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l023_country",
@@ -11001,7 +11751,8 @@ const LEGENDS_BANK=[
       "nl": "Medusa behoort tot het legendarische erfgoed van Griekenland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Medusa gehört zum legendären Erbe von Griechenland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l023_what",
@@ -11075,7 +11826,8 @@ const LEGENDS_BANK=[
       "nl": "Medusa behoort tot het legendarische erfgoed van Griekenland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Medusa gehört zum legendären Erbe von Griechenland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l023_tf",
@@ -11149,7 +11901,8 @@ const LEGENDS_BANK=[
       "nl": "Medusa behoort tot het legendarische erfgoed van Griekenland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Medusa gehört zum legendären Erbe von Griechenland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l024_country",
@@ -11223,7 +11976,8 @@ const LEGENDS_BANK=[
       "nl": "Minotaurus behoort tot het legendarische erfgoed van Griekenland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Minotaurus gehört zum legendären Erbe von Griechenland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l024_what",
@@ -11297,7 +12051,8 @@ const LEGENDS_BANK=[
       "nl": "Minotaurus behoort tot het legendarische erfgoed van Griekenland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Minotaurus gehört zum legendären Erbe von Griechenland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l024_tf",
@@ -11371,7 +12126,8 @@ const LEGENDS_BANK=[
       "nl": "Minotaurus behoort tot het legendarische erfgoed van Griekenland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Minotaurus gehört zum legendären Erbe von Griechenland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l025_country",
@@ -11445,7 +12201,8 @@ const LEGENDS_BANK=[
       "nl": "Turul behoort tot het legendarische erfgoed van Hongarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Turul gehört zum legendären Erbe von Ungarn. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l025_what",
@@ -11519,7 +12276,8 @@ const LEGENDS_BANK=[
       "nl": "Turul behoort tot het legendarische erfgoed van Hongarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Turul gehört zum legendären Erbe von Ungarn. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l025_tf",
@@ -11593,7 +12351,8 @@ const LEGENDS_BANK=[
       "nl": "Turul behoort tot het legendarische erfgoed van Hongarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Turul gehört zum legendären Erbe von Ungarn. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l026_country",
@@ -11667,7 +12426,8 @@ const LEGENDS_BANK=[
       "nl": "Csodaszarvas, het wonderhert behoort tot het legendarische erfgoed van Hongarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Csodaszarvas, der Wunderhirsch gehört zum legendären Erbe von Ungarn. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l026_what",
@@ -11741,7 +12501,8 @@ const LEGENDS_BANK=[
       "nl": "Csodaszarvas, het wonderhert behoort tot het legendarische erfgoed van Hongarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Csodaszarvas, der Wunderhirsch gehört zum legendären Erbe von Ungarn. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l026_tf",
@@ -11815,7 +12576,8 @@ const LEGENDS_BANK=[
       "nl": "Csodaszarvas, het wonderhert behoort tot het legendarische erfgoed van Hongarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Csodaszarvas, der Wunderhirsch gehört zum legendären Erbe von Ungarn. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l027_country",
@@ -11889,7 +12651,8 @@ const LEGENDS_BANK=[
       "nl": "Banshee behoort tot het legendarische erfgoed van Ierland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Banshee gehört zum legendären Erbe von Irland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l027_what",
@@ -11963,7 +12726,8 @@ const LEGENDS_BANK=[
       "nl": "Banshee behoort tot het legendarische erfgoed van Ierland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Banshee gehört zum legendären Erbe von Irland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l027_tf",
@@ -12037,7 +12801,8 @@ const LEGENDS_BANK=[
       "nl": "Banshee behoort tot het legendarische erfgoed van Ierland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Banshee gehört zum legendären Erbe von Irland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l028_country",
@@ -12111,7 +12876,8 @@ const LEGENDS_BANK=[
       "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Leprechaun gehört zum legendären Erbe von Irland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l028_what",
@@ -12185,7 +12951,8 @@ const LEGENDS_BANK=[
       "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Leprechaun gehört zum legendären Erbe von Irland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l028_tf",
@@ -12259,7 +13026,8 @@ const LEGENDS_BANK=[
       "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Leprechaun gehört zum legendären Erbe von Irland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l029_country",
@@ -12333,7 +13101,8 @@ const LEGENDS_BANK=[
       "nl": "La Befana behoort tot het legendarische erfgoed van Italië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "La Befana gehört zum legendären Erbe von Italien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l029_what",
@@ -12407,7 +13176,8 @@ const LEGENDS_BANK=[
       "nl": "La Befana behoort tot het legendarische erfgoed van Italië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "La Befana gehört zum legendären Erbe von Italien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l029_tf",
@@ -12481,7 +13251,8 @@ const LEGENDS_BANK=[
       "nl": "La Befana behoort tot het legendarische erfgoed van Italië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "La Befana gehört zum legendären Erbe von Italien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l030_country",
@@ -12555,7 +13326,8 @@ const LEGENDS_BANK=[
       "nl": "Colapesce behoort tot het legendarische erfgoed van Italië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Colapesce gehört zum legendären Erbe von Italien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l030_what",
@@ -12629,7 +13401,8 @@ const LEGENDS_BANK=[
       "nl": "Colapesce behoort tot het legendarische erfgoed van Italië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Colapesce gehört zum legendären Erbe von Italien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l030_tf",
@@ -12703,7 +13476,8 @@ const LEGENDS_BANK=[
       "nl": "Colapesce behoort tot het legendarische erfgoed van Italië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Colapesce gehört zum legendären Erbe von Italien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l031_country",
@@ -12777,7 +13551,8 @@ const LEGENDS_BANK=[
       "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Lāčplēsis gehört zum legendären Erbe von Lettland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l031_what",
@@ -12851,7 +13626,8 @@ const LEGENDS_BANK=[
       "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Lāčplēsis gehört zum legendären Erbe von Lettland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l031_tf",
@@ -12925,7 +13701,8 @@ const LEGENDS_BANK=[
       "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Lāčplēsis gehört zum legendären Erbe von Lettland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l032_country",
@@ -12999,7 +13776,8 @@ const LEGENDS_BANK=[
       "nl": "Lauma behoort tot het legendarische erfgoed van Letland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Lauma gehört zum legendären Erbe von Lettland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l032_what",
@@ -13073,7 +13851,8 @@ const LEGENDS_BANK=[
       "nl": "Lauma behoort tot het legendarische erfgoed van Letland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Lauma gehört zum legendären Erbe von Lettland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l032_tf",
@@ -13147,7 +13926,8 @@ const LEGENDS_BANK=[
       "nl": "Lauma behoort tot het legendarische erfgoed van Letland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Lauma gehört zum legendären Erbe von Lettland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l033_country",
@@ -13221,7 +14001,8 @@ const LEGENDS_BANK=[
       "nl": "Eglė, koningin van de slangen behoort tot het legendarische erfgoed van Litouwen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Eglė, Königin der Schlangen gehört zum legendären Erbe von Litauen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l033_what",
@@ -13295,7 +14076,8 @@ const LEGENDS_BANK=[
       "nl": "Eglė, koningin van de slangen behoort tot het legendarische erfgoed van Litouwen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Eglė, Königin der Schlangen gehört zum legendären Erbe von Litauen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l033_tf",
@@ -13369,7 +14151,8 @@ const LEGENDS_BANK=[
       "nl": "Eglė, koningin van de slangen behoort tot het legendarische erfgoed van Litouwen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Eglė, Königin der Schlangen gehört zum legendären Erbe von Litauen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l034_country",
@@ -13443,7 +14226,8 @@ const LEGENDS_BANK=[
       "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Jūratė und Kastytis gehört zum legendären Erbe von Litauen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l034_what",
@@ -13517,7 +14301,8 @@ const LEGENDS_BANK=[
       "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Jūratė und Kastytis gehört zum legendären Erbe von Litauen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l034_tf",
@@ -13591,7 +14376,8 @@ const LEGENDS_BANK=[
       "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Jūratė und Kastytis gehört zum legendären Erbe von Litauen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l035_country",
@@ -13665,7 +14451,8 @@ const LEGENDS_BANK=[
       "nl": "Melusine van Luxemburg behoort tot het legendarische erfgoed van Luxemburg. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Melusine von Luxemburg gehört zum legendären Erbe von Luxemburg. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l035_what",
@@ -13739,7 +14526,8 @@ const LEGENDS_BANK=[
       "nl": "Melusine van Luxemburg behoort tot het legendarische erfgoed van Luxemburg. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Melusine von Luxemburg gehört zum legendären Erbe von Luxemburg. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l035_tf",
@@ -13813,7 +14601,8 @@ const LEGENDS_BANK=[
       "nl": "Melusine van Luxemburg behoort tot het legendarische erfgoed van Luxemburg. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Melusine von Luxemburg gehört zum legendären Erbe von Luxemburg. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l036_country",
@@ -13887,7 +14676,8 @@ const LEGENDS_BANK=[
       "nl": "Kropemann behoort tot het legendarische erfgoed van Luxemburg. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Kropemann gehört zum legendären Erbe von Luxemburg. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l036_what",
@@ -13961,7 +14751,8 @@ const LEGENDS_BANK=[
       "nl": "Kropemann behoort tot het legendarische erfgoed van Luxemburg. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Kropemann gehört zum legendären Erbe von Luxemburg. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l036_tf",
@@ -14035,7 +14826,8 @@ const LEGENDS_BANK=[
       "nl": "Kropemann behoort tot het legendarische erfgoed van Luxemburg. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Kropemann gehört zum legendären Erbe von Luxemburg. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l037_country",
@@ -14109,7 +14901,8 @@ const LEGENDS_BANK=[
       "nl": "Għar Dalam en de reuzen behoort tot het legendarische erfgoed van Malta. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Għar Dalam und die Riesen gehört zum legendären Erbe von Malta. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l037_what",
@@ -14183,7 +14976,8 @@ const LEGENDS_BANK=[
       "nl": "Għar Dalam en de reuzen behoort tot het legendarische erfgoed van Malta. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Għar Dalam und die Riesen gehört zum legendären Erbe von Malta. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l037_tf",
@@ -14257,7 +15051,8 @@ const LEGENDS_BANK=[
       "nl": "Għar Dalam en de reuzen behoort tot het legendarische erfgoed van Malta. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Għar Dalam und die Riesen gehört zum legendären Erbe von Malta. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l038_country",
@@ -14331,7 +15126,8 @@ const LEGENDS_BANK=[
       "nl": "Il-Maqluba behoort tot het legendarische erfgoed van Malta. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Il-Maqluba gehört zum legendären Erbe von Malta. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l038_what",
@@ -14405,7 +15201,8 @@ const LEGENDS_BANK=[
       "nl": "Il-Maqluba behoort tot het legendarische erfgoed van Malta. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Il-Maqluba gehört zum legendären Erbe von Malta. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l038_tf",
@@ -14479,7 +15276,8 @@ const LEGENDS_BANK=[
       "nl": "Il-Maqluba behoort tot het legendarische erfgoed van Malta. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Il-Maqluba gehört zum legendären Erbe von Malta. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l039_country",
@@ -14553,7 +15351,8 @@ const LEGENDS_BANK=[
       "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Fliegende Holländer gehört zum legendären Erbe von Niederlande. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l039_what",
@@ -14627,7 +15426,8 @@ const LEGENDS_BANK=[
       "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Fliegende Holländer gehört zum legendären Erbe von Niederlande. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l039_tf",
@@ -14701,7 +15501,8 @@ const LEGENDS_BANK=[
       "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Fliegende Holländer gehört zum legendären Erbe von Niederlande. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l040_country",
@@ -14775,7 +15576,8 @@ const LEGENDS_BANK=[
       "nl": "De Witte Wieven behoort tot het legendarische erfgoed van Nederland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Witte Wieven gehört zum legendären Erbe von Niederlande. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l040_what",
@@ -14849,7 +15651,8 @@ const LEGENDS_BANK=[
       "nl": "De Witte Wieven behoort tot het legendarische erfgoed van Nederland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Witte Wieven gehört zum legendären Erbe von Niederlande. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l040_tf",
@@ -14923,7 +15726,8 @@ const LEGENDS_BANK=[
       "nl": "De Witte Wieven behoort tot het legendarische erfgoed van Nederland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Witte Wieven gehört zum legendären Erbe von Niederlande. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l041_country",
@@ -14997,7 +15801,8 @@ const LEGENDS_BANK=[
       "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Wawel-Drache gehört zum legendären Erbe von Polen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l041_what",
@@ -15071,7 +15876,8 @@ const LEGENDS_BANK=[
       "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Wawel-Drache gehört zum legendären Erbe von Polen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l041_tf",
@@ -15145,7 +15951,8 @@ const LEGENDS_BANK=[
       "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Wawel-Drache gehört zum legendären Erbe von Polen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l042_country",
@@ -15219,7 +16026,8 @@ const LEGENDS_BANK=[
       "nl": "De basilisk van Warschau behoort tot het legendarische erfgoed van Polen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Basilisk von Warschau gehört zum legendären Erbe von Polen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l042_what",
@@ -15293,7 +16101,8 @@ const LEGENDS_BANK=[
       "nl": "De basilisk van Warschau behoort tot het legendarische erfgoed van Polen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Basilisk von Warschau gehört zum legendären Erbe von Polen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l042_tf",
@@ -15367,7 +16176,8 @@ const LEGENDS_BANK=[
       "nl": "De basilisk van Warschau behoort tot het legendarische erfgoed van Polen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Basilisk von Warschau gehört zum legendären Erbe von Polen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l043_country",
@@ -15441,7 +16251,8 @@ const LEGENDS_BANK=[
       "nl": "Bicho-Papão behoort tot het legendarische erfgoed van Portugal. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Bicho-Papão gehört zum legendären Erbe von Portugal. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l043_what",
@@ -15515,7 +16326,8 @@ const LEGENDS_BANK=[
       "nl": "Bicho-Papão behoort tot het legendarische erfgoed van Portugal. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Bicho-Papão gehört zum legendären Erbe von Portugal. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l043_tf",
@@ -15589,7 +16401,8 @@ const LEGENDS_BANK=[
       "nl": "Bicho-Papão behoort tot het legendarische erfgoed van Portugal. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Bicho-Papão gehört zum legendären Erbe von Portugal. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l044_country",
@@ -15663,7 +16476,8 @@ const LEGENDS_BANK=[
       "nl": "De haan van Barcelos behoort tot het legendarische erfgoed van Portugal. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Hahn von Barcelos gehört zum legendären Erbe von Portugal. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l044_what",
@@ -15737,7 +16551,8 @@ const LEGENDS_BANK=[
       "nl": "De haan van Barcelos behoort tot het legendarische erfgoed van Portugal. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Hahn von Barcelos gehört zum legendären Erbe von Portugal. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l044_tf",
@@ -15811,7 +16626,8 @@ const LEGENDS_BANK=[
       "nl": "De haan van Barcelos behoort tot het legendarische erfgoed van Portugal. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Hahn von Barcelos gehört zum legendären Erbe von Portugal. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l045_country",
@@ -15885,7 +16701,8 @@ const LEGENDS_BANK=[
       "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Strigoi gehört zum legendären Erbe von Rumänien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l045_what",
@@ -15959,7 +16776,8 @@ const LEGENDS_BANK=[
       "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Strigoi gehört zum legendären Erbe von Rumänien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l045_tf",
@@ -16033,7 +16851,8 @@ const LEGENDS_BANK=[
       "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Strigoi gehört zum legendären Erbe von Rumänien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l046_country",
@@ -16107,7 +16926,8 @@ const LEGENDS_BANK=[
       "nl": "Meșterul Manole behoort tot het legendarische erfgoed van Roemenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Meșterul Manole gehört zum legendären Erbe von Rumänien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l046_what",
@@ -16181,7 +17001,8 @@ const LEGENDS_BANK=[
       "nl": "Meșterul Manole behoort tot het legendarische erfgoed van Roemenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Meșterul Manole gehört zum legendären Erbe von Rumänien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l046_tf",
@@ -16255,7 +17076,8 @@ const LEGENDS_BANK=[
       "nl": "Meșterul Manole behoort tot het legendarische erfgoed van Roemenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Meșterul Manole gehört zum legendären Erbe von Rumänien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l047_country",
@@ -16329,7 +17151,8 @@ const LEGENDS_BANK=[
       "nl": "Juraj Jánošík behoort tot het legendarische erfgoed van Slowakije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Juraj Jánošík gehört zum legendären Erbe von Slowakei. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l047_what",
@@ -16403,7 +17226,8 @@ const LEGENDS_BANK=[
       "nl": "Juraj Jánošík behoort tot het legendarische erfgoed van Slowakije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Juraj Jánošík gehört zum legendären Erbe von Slowakei. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l047_tf",
@@ -16477,7 +17301,8 @@ const LEGENDS_BANK=[
       "nl": "Juraj Jánošík behoort tot het legendarische erfgoed van Slowakije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Juraj Jánošík gehört zum legendären Erbe von Slowakei. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l048_country",
@@ -16551,7 +17376,8 @@ const LEGENDS_BANK=[
       "nl": "De draak van de Tatra behoort tot het legendarische erfgoed van Slowakije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Drache der Tatra gehört zum legendären Erbe von Slowakei. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l048_what",
@@ -16625,7 +17451,8 @@ const LEGENDS_BANK=[
       "nl": "De draak van de Tatra behoort tot het legendarische erfgoed van Slowakije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Drache der Tatra gehört zum legendären Erbe von Slowakei. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l048_tf",
@@ -16699,7 +17526,8 @@ const LEGENDS_BANK=[
       "nl": "De draak van de Tatra behoort tot het legendarische erfgoed van Slowakije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Der Drache der Tatra gehört zum legendären Erbe von Slowakei. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l049_country",
@@ -16773,7 +17601,8 @@ const LEGENDS_BANK=[
       "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Zlatorog gehört zum legendären Erbe von Slowenien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l049_what",
@@ -16847,7 +17676,8 @@ const LEGENDS_BANK=[
       "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Zlatorog gehört zum legendären Erbe von Slowenien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l049_tf",
@@ -16921,7 +17751,8 @@ const LEGENDS_BANK=[
       "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Zlatorog gehört zum legendären Erbe von Slowenien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l050_country",
@@ -16995,7 +17826,8 @@ const LEGENDS_BANK=[
       "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Kurent gehört zum legendären Erbe von Slowenien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l050_what",
@@ -17069,7 +17901,8 @@ const LEGENDS_BANK=[
       "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Kurent gehört zum legendären Erbe von Slowenien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l050_tf",
@@ -17143,7 +17976,8 @@ const LEGENDS_BANK=[
       "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Kurent gehört zum legendären Erbe von Slowenien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l051_country",
@@ -17217,7 +18051,8 @@ const LEGENDS_BANK=[
       "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "La Santa Compaña gehört zum legendären Erbe von Spanien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l051_what",
@@ -17291,7 +18126,8 @@ const LEGENDS_BANK=[
       "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "La Santa Compaña gehört zum legendären Erbe von Spanien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l051_tf",
@@ -17365,7 +18201,8 @@ const LEGENDS_BANK=[
       "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "La Santa Compaña gehört zum legendären Erbe von Spanien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l052_country",
@@ -17439,7 +18276,8 @@ const LEGENDS_BANK=[
       "nl": "De Dame van Elche behoort tot het legendarische erfgoed van Spanje. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Dame von Elche gehört zum legendären Erbe von Spanien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l052_what",
@@ -17513,7 +18351,8 @@ const LEGENDS_BANK=[
       "nl": "De Dame van Elche behoort tot het legendarische erfgoed van Spanje. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Dame von Elche gehört zum legendären Erbe von Spanien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l052_tf",
@@ -17587,7 +18426,8 @@ const LEGENDS_BANK=[
       "nl": "De Dame van Elche behoort tot het legendarische erfgoed van Spanje. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Die Dame von Elche gehört zum legendären Erbe von Spanien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l053_country",
@@ -17661,7 +18501,8 @@ const LEGENDS_BANK=[
       "nl": "Näcken behoort tot het legendarische erfgoed van Zweden. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Näcken gehört zum legendären Erbe von Schweden. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l053_what",
@@ -17735,7 +18576,8 @@ const LEGENDS_BANK=[
       "nl": "Näcken behoort tot het legendarische erfgoed van Zweden. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Näcken gehört zum legendären Erbe von Schweden. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l053_tf",
@@ -17809,7 +18651,8 @@ const LEGENDS_BANK=[
       "nl": "Näcken behoort tot het legendarische erfgoed van Zweden. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Näcken gehört zum legendären Erbe von Schweden. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   },
   {
     "id": "l054_country",
@@ -17883,7 +18726,8 @@ const LEGENDS_BANK=[
       "nl": "Tomte behoort tot het legendarische erfgoed van Zweden. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Tomte gehört zum legendären Erbe von Schweden. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "country"
+    "questionType": "country",
+    "image": null
   },
   {
     "id": "l054_what",
@@ -17957,7 +18801,8 @@ const LEGENDS_BANK=[
       "nl": "Tomte behoort tot het legendarische erfgoed van Zweden. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Tomte gehört zum legendären Erbe von Schweden. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "what"
+    "questionType": "what",
+    "image": null
   },
   {
     "id": "l054_tf",
@@ -18031,6 +18876,7 @@ const LEGENDS_BANK=[
       "nl": "Tomte behoort tot het legendarische erfgoed van Zweden. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
       "de": "Tomte gehört zum legendären Erbe von Schweden. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
     },
-    "questionType": "truefalse"
+    "questionType": "truefalse",
+    "image": null
   }
 ];

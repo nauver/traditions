@@ -1,9 +1,14 @@
 {
-  "version": "V9.2_logo_flags_zoom_timer_up_legend_descriptions",
+  "version": "V10_final_4_languages",
+  "languages": [
+    "fr",
+    "en",
+    "nl",
+    "de"
+  ],
   "traditionsPool": 30,
   "culinaryPool": 50,
   "legendsPool": 54,
   "quizLength": 10,
-  "logoSource": "image.png",
-  "updated": "2026-07-01T13:56:45.633193+00:00"
+  "updated": "2026-07-01T14:27:21.438286+00:00"
 }

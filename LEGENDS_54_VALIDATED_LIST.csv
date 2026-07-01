@@ -1,55 +1,55 @@
-country_fr,country_en,country_nl,legend_fr,legend_en,legend_nl
-Autriche,Austria,Oostenrijk,Krampus,Krampus,Krampus
-Autriche,Austria,Oostenrijk,Perchta,Perchta,Perchta
-Belgique,Belgium,België,"Bayard, le cheval magique","Bayard, the magical horse","Bayard, het magische paard"
-Belgique,Belgium,België,Les Nutons,The Nutons,De Nutons
-Bulgarie,Bulgaria,Bulgarije,Samodiva,Samodiva,Samodiva
-Bulgarie,Bulgaria,Bulgarije,Zmey,Zmey,Zmey
-Croatie,Croatia,Kroatië,La Sorcière de Zagreb,The Witch of Zagreb,De heks van Zagreb
-Croatie,Croatia,Kroatië,Veli Jože,Veli Jože,Veli Jože
-Chypre,Cyprus,Cyprus,Aphrodite née de l’écume,Aphrodite born from the sea foam,Aphrodite geboren uit het zeeschuim
-Chypre,Cyprus,Cyprus,Digenis Akritas,Digenis Akritas,Digenis Akritas
-Tchéquie,Czechia,Tsjechië,Le Golem de Prague,The Golem of Prague,De Golem van Praag
-Tchéquie,Czechia,Tsjechië,Vodník,Vodník,Vodník
-Danemark,Denmark,Denemarken,Holger Danske,Holger Danske,Holger Danske
-Danemark,Denmark,Denemarken,La Dame de la mer,The Lady of the Sea,De Vrouw van de Zee
-Estonie,Estonia,Estland,Kalevipoeg,Kalevipoeg,Kalevipoeg
-Estonie,Estonia,Estland,Le trésor du lac Ülemiste,The treasure of Lake Ülemiste,De schat van het Ülemistemeer
-Finlande,Finland,Finland,Väinämöinen,Väinämöinen,Väinämöinen
-Finlande,Finland,Finland,Hiisi,Hiisi,Hiisi
-France,France,Frankrijk,Mélusine,Melusine,Melusine
-France,France,Frankrijk,La Bête du Gévaudan,The Beast of Gévaudan,Het Beest van Gévaudan
-Allemagne,Germany,Duitsland,Lorelei,Lorelei,Lorelei
-Allemagne,Germany,Duitsland,Le joueur de flûte de Hamelin,The Pied Piper of Hamelin,De rattenvanger van Hamelen
-Grèce,Greece,Griekenland,Méduse,Medusa,Medusa
-Grèce,Greece,Griekenland,Minotaure,Minotaur,Minotaurus
-Hongrie,Hungary,Hongarije,Turul,Turul,Turul
-Hongrie,Hungary,Hongarije,"Csodaszarvas, le cerf miraculeux","Csodaszarvas, the miraculous stag","Csodaszarvas, het wonderhert"
-Irlande,Ireland,Ierland,Banshee,Banshee,Banshee
-Irlande,Ireland,Ierland,Leprechaun,Leprechaun,Leprechaun
-Italie,Italy,Italië,La Befana,La Befana,La Befana
-Italie,Italy,Italië,Colapesce,Colapesce,Colapesce
-Lettonie,Latvia,Letland,Lāčplēsis,Lāčplēsis,Lāčplēsis
-Lettonie,Latvia,Letland,Lauma,Lauma,Lauma
-Lituanie,Lithuania,Litouwen,"Eglė, reine des serpents","Eglė, Queen of Serpents","Eglė, koningin van de slangen"
-Lituanie,Lithuania,Litouwen,Jūratė et Kastytis,Jūratė and Kastytis,Jūratė en Kastytis
-Luxembourg,Luxembourg,Luxemburg,Mélusine de Luxembourg,Melusine of Luxembourg,Melusine van Luxemburg
-Luxembourg,Luxembourg,Luxemburg,Kropemann,Kropemann,Kropemann
-Malte,Malta,Malta,Għar Dalam et les géants,Għar Dalam and the giants,Għar Dalam en de reuzen
-Malte,Malta,Malta,Il-Maqluba,Il-Maqluba,Il-Maqluba
-Pays-Bas,Netherlands,Nederland,Le Hollandais volant,The Flying Dutchman,De Vliegende Hollander
-Pays-Bas,Netherlands,Nederland,Les Witte Wieven,The Witte Wieven,De Witte Wieven
-Pologne,Poland,Polen,Le dragon du Wawel,The Wawel Dragon,De Wawel-draak
-Pologne,Poland,Polen,Basilic de Varsovie,The Basilisk of Warsaw,De basilisk van Warschau
-Portugal,Portugal,Portugal,Bicho-Papão,Bicho-Papão,Bicho-Papão
-Portugal,Portugal,Portugal,Le coq de Barcelos,The Rooster of Barcelos,De haan van Barcelos
-Roumanie,Romania,Roemenië,Strigoi,Strigoi,Strigoi
-Roumanie,Romania,Roemenië,Meșterul Manole,Meșterul Manole,Meșterul Manole
-Slovaquie,Slovakia,Slowakije,Juraj Jánošík,Juraj Jánošík,Juraj Jánošík
-Slovaquie,Slovakia,Slowakije,Le dragon des Tatras,The dragon of the Tatras,De draak van de Tatra
-Slovénie,Slovenia,Slovenië,Zlatorog,Zlatorog,Zlatorog
-Slovénie,Slovenia,Slovenië,Kurent,Kurent,Kurent
-Espagne,Spain,Spanje,La Santa Compaña,La Santa Compaña,La Santa Compaña
-Espagne,Spain,Spanje,La Dama de Elche,The Lady of Elche,De Dame van Elche
-Suède,Sweden,Zweden,Näcken,Näcken,Näcken
-Suède,Sweden,Zweden,Tomte,Tomte,Tomte
+country_fr,country_en,country_nl,country_de,legend_fr,legend_en,legend_nl,legend_de
+Autriche,Austria,Oostenrijk,Österreich,Krampus,Krampus,Krampus,Krampus
+Autriche,Austria,Oostenrijk,Österreich,Perchta,Perchta,Perchta,Perchta
+Belgique,Belgium,België,Belgien,"Bayard, le cheval magique","Bayard, the magical horse","Bayard, het magische paard","Bayard, das magische Pferd"
+Belgique,Belgium,België,Belgien,Les Nutons,The Nutons,De Nutons,Die Nutons
+Bulgarie,Bulgaria,Bulgarije,Bulgarien,Samodiva,Samodiva,Samodiva,Samodiva
+Bulgarie,Bulgaria,Bulgarije,Bulgarien,Zmey,Zmey,Zmey,Zmey
+Croatie,Croatia,Kroatië,Kroatien,La Sorcière de Zagreb,The Witch of Zagreb,De heks van Zagreb,Die Hexe von Zagreb
+Croatie,Croatia,Kroatië,Kroatien,Veli Jože,Veli Jože,Veli Jože,Veli Jože
+Chypre,Cyprus,Cyprus,Zypern,Aphrodite née de l’écume,Aphrodite born from the sea foam,Aphrodite geboren uit het zeeschuim,"Aphrodite, aus dem Meeresschaum geboren"
+Chypre,Cyprus,Cyprus,Zypern,Digenis Akritas,Digenis Akritas,Digenis Akritas,Digenis Akritas
+Tchéquie,Czechia,Tsjechië,Tschechien,Le Golem de Prague,The Golem of Prague,De Golem van Praag,Der Golem von Prag
+Tchéquie,Czechia,Tsjechië,Tschechien,Vodník,Vodník,Vodník,Vodník
+Danemark,Denmark,Denemarken,Dänemark,Holger Danske,Holger Danske,Holger Danske,Holger Danske
+Danemark,Denmark,Denemarken,Dänemark,La Dame de la mer,The Lady of the Sea,De Vrouw van de Zee,Die Frau des Meeres
+Estonie,Estonia,Estland,Estland,Kalevipoeg,Kalevipoeg,Kalevipoeg,Kalevipoeg
+Estonie,Estonia,Estland,Estland,Le trésor du lac Ülemiste,The treasure of Lake Ülemiste,De schat van het Ülemistemeer,Der Schatz des Ülemiste-Sees
+Finlande,Finland,Finland,Finnland,Väinämöinen,Väinämöinen,Väinämöinen,Väinämöinen
+Finlande,Finland,Finland,Finnland,Hiisi,Hiisi,Hiisi,Hiisi
+France,France,Frankrijk,Frankreich,Mélusine,Melusine,Melusine,Melusine
+France,France,Frankrijk,Frankreich,La Bête du Gévaudan,The Beast of Gévaudan,Het Beest van Gévaudan,Die Bestie des Gévaudan
+Allemagne,Germany,Duitsland,Deutschland,Lorelei,Lorelei,Lorelei,Lorelei
+Allemagne,Germany,Duitsland,Deutschland,Le joueur de flûte de Hamelin,The Pied Piper of Hamelin,De rattenvanger van Hamelen,Der Rattenfänger von Hameln
+Grèce,Greece,Griekenland,Griechenland,Méduse,Medusa,Medusa,Medusa
+Grèce,Greece,Griekenland,Griechenland,Minotaure,Minotaur,Minotaurus,Minotaurus
+Hongrie,Hungary,Hongarije,Ungarn,Turul,Turul,Turul,Turul
+Hongrie,Hungary,Hongarije,Ungarn,"Csodaszarvas, le cerf miraculeux","Csodaszarvas, the miraculous stag","Csodaszarvas, het wonderhert","Csodaszarvas, der Wunderhirsch"
+Irlande,Ireland,Ierland,Irland,Banshee,Banshee,Banshee,Banshee
+Irlande,Ireland,Ierland,Irland,Leprechaun,Leprechaun,Leprechaun,Leprechaun
+Italie,Italy,Italië,Italien,La Befana,La Befana,La Befana,La Befana
+Italie,Italy,Italië,Italien,Colapesce,Colapesce,Colapesce,Colapesce
+Lettonie,Latvia,Letland,Lettland,Lāčplēsis,Lāčplēsis,Lāčplēsis,Lāčplēsis
+Lettonie,Latvia,Letland,Lettland,Lauma,Lauma,Lauma,Lauma
+Lituanie,Lithuania,Litouwen,Litauen,"Eglė, reine des serpents","Eglė, Queen of Serpents","Eglė, koningin van de slangen","Eglė, Königin der Schlangen"
+Lituanie,Lithuania,Litouwen,Litauen,Jūratė et Kastytis,Jūratė and Kastytis,Jūratė en Kastytis,Jūratė und Kastytis
+Luxembourg,Luxembourg,Luxemburg,Luxemburg,Mélusine de Luxembourg,Melusine of Luxembourg,Melusine van Luxemburg,Melusine von Luxemburg
+Luxembourg,Luxembourg,Luxemburg,Luxemburg,Kropemann,Kropemann,Kropemann,Kropemann
+Malte,Malta,Malta,Malta,Għar Dalam et les géants,Għar Dalam and the giants,Għar Dalam en de reuzen,Għar Dalam und die Riesen
+Malte,Malta,Malta,Malta,Il-Maqluba,Il-Maqluba,Il-Maqluba,Il-Maqluba
+Pays-Bas,Netherlands,Nederland,Niederlande,Le Hollandais volant,The Flying Dutchman,De Vliegende Hollander,Der Fliegende Holländer
+Pays-Bas,Netherlands,Nederland,Niederlande,Les Witte Wieven,The Witte Wieven,De Witte Wieven,Die Witte Wieven
+Pologne,Poland,Polen,Polen,Le dragon du Wawel,The Wawel Dragon,De Wawel-draak,Der Wawel-Drache
+Pologne,Poland,Polen,Polen,Basilic de Varsovie,The Basilisk of Warsaw,De basilisk van Warschau,Der Basilisk von Warschau
+Portugal,Portugal,Portugal,Portugal,Bicho-Papão,Bicho-Papão,Bicho-Papão,Bicho-Papão
+Portugal,Portugal,Portugal,Portugal,Le coq de Barcelos,The Rooster of Barcelos,De haan van Barcelos,Der Hahn von Barcelos
+Roumanie,Romania,Roemenië,Rumänien,Strigoi,Strigoi,Strigoi,Strigoi
+Roumanie,Romania,Roemenië,Rumänien,Meșterul Manole,Meșterul Manole,Meșterul Manole,Meșterul Manole
+Slovaquie,Slovakia,Slowakije,Slowakei,Juraj Jánošík,Juraj Jánošík,Juraj Jánošík,Juraj Jánošík
+Slovaquie,Slovakia,Slowakije,Slowakei,Le dragon des Tatras,The dragon of the Tatras,De draak van de Tatra,Der Drache der Tatra
+Slovénie,Slovenia,Slovenië,Slowenien,Zlatorog,Zlatorog,Zlatorog,Zlatorog
+Slovénie,Slovenia,Slovenië,Slowenien,Kurent,Kurent,Kurent,Kurent
+Espagne,Spain,Spanje,Spanien,La Santa Compaña,La Santa Compaña,La Santa Compaña,La Santa Compaña
+Espagne,Spain,Spanje,Spanien,La Dama de Elche,The Lady of Elche,De Dame van Elche,Die Dame von Elche
+Suède,Sweden,Zweden,Schweden,Näcken,Näcken,Näcken,Näcken
+Suède,Sweden,Zweden,Schweden,Tomte,Tomte,Tomte,Tomte

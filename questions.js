@@ -1987,7 +1987,6 @@ const CULINARY_50=[
       "path": "assets/food/casu-marzu.jpg",
       "adobeStockId": "69736294",
       "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
-      "url": "https://stock.adobe.com/images/casu-marzu/69736294",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
@@ -2060,7 +2059,6 @@ const CULINARY_50=[
       "path": "assets/food/haggis.jpg",
       "adobeStockId": "422032025",
       "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
-      "url": "https://stock.adobe.com/images/haggis-neeps-and-tatties/422032025",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Haggis",
@@ -2133,7 +2131,6 @@ const CULINARY_50=[
       "path": "assets/food/surstromming.jpg",
       "adobeStockId": "143413426",
       "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
-      "url": "https://stock.adobe.com/images/close-up-of-herring-fillet-out-of-a-surstromming-can/143413426",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Surströmming",
@@ -2206,7 +2203,6 @@ const CULINARY_50=[
       "path": "assets/food/hakarl.jpg",
       "adobeStockId": "124049250",
       "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
-      "url": "https://stock.adobe.com/images/specialty-of-iceland-called-hakarl-fermented-shark-in-open-warehouse-at-bjarnarhoefn/124049250",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Hákarl",
@@ -2279,7 +2275,6 @@ const CULINARY_50=[
       "path": "assets/food/smalahove.jpg",
       "adobeStockId": "213777525",
       "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
-      "url": "https://stock.adobe.com/fr/search?k=Smalahove&search_type=usertyped&filters%5Bgentech%5D=exclude&asset_id=213777525",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Smalahove",
@@ -2352,7 +2347,6 @@ const CULINARY_50=[
       "path": "assets/food/blodplattar.jpg",
       "adobeStockId": "411401459",
       "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
-      "url": "https://as1.ftcdn.net/v2/jpg/04/11/40/14/1000_F_411401459_YAcraR0t3Tdhg82dR9pdxJdXSVCLloF9.jpg",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Blodplättar",
@@ -2425,7 +2419,6 @@ const CULINARY_50=[
       "path": "assets/food/andouillette.jpg",
       "adobeStockId": "233753049",
       "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
-      "url": "https://stock.adobe.com/images/andouillette/233753049",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Andouillette",
@@ -2498,7 +2491,6 @@ const CULINARY_50=[
       "path": "assets/food/mammi.jpg",
       "adobeStockId": "485041926",
       "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
-      "url": "https://stock.adobe.com/images/mammi-traditional-finnish-easter-dessert/485041926",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Mämmi",
@@ -2571,7 +2563,6 @@ const CULINARY_50=[
       "path": "assets/food/jellied-eels.jpg",
       "adobeStockId": "1254168402",
       "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
-      "url": "https://stock.adobe.com/fr/images/a-plate-of-iconic-jellied-eels-a-traditional-london-dish-served-with-vinegar-and-a-lemon-slice/1254168402",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Jellied eels",
@@ -2644,7 +2635,6 @@ const CULINARY_50=[
       "path": "assets/food/czernina.jpg",
       "adobeStockId": "20264185",
       "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
-      "url": "https://stock.adobe.com/images/polish-duck-blood-soup-black-soup-czernina/20264185",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Czernina",
@@ -2717,7 +2707,6 @@ const CULINARY_50=[
       "path": "assets/food/ciorba-de-burta.jpg",
       "adobeStockId": "198001933",
       "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
-      "url": "https://stock.adobe.com/images/romanian-traditional-soup-ciorba-de-burta-seasoned-with-vinegar-and-horseradish/198001933",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Ciorbă de burtă",
@@ -2790,7 +2779,6 @@ const CULINARY_50=[
       "path": "assets/food/kokoretsi.jpg",
       "adobeStockId": "271480410",
       "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
-      "url": "https://stock.adobe.com/fr/images/greek-easter-custom-kokoretsi-kokorec-and-lamb-sheep-kid-grilling-on-spits-over-charcoals-fire/271480410",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Kokoretsi",
@@ -2863,7 +2851,6 @@ const CULINARY_50=[
       "path": "assets/food/labskaus.jpg",
       "adobeStockId": "234422895",
       "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
-      "url": "https://stock.adobe.com/images/german-cuisine-labskaus-is-a-mashed-potato-corned-beef-and-beetroot-with-fried-egg-pickled-cucumbers-and-rollmop-close-up-horizontal-top-view/234422895",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Labskaus",
@@ -2936,7 +2923,6 @@ const CULINARY_50=[
       "path": "assets/food/tripas-porto.jpg",
       "adobeStockId": "649614974",
       "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
-      "url": "https://stock.adobe.com/images/typical-portuguese-dish-tripas-a-moda-do-porto/649614974",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Tripas à moda do Porto",
@@ -3009,7 +2995,6 @@ const CULINARY_50=[
       "path": "assets/food/sklandrausis.jpg",
       "adobeStockId": "387591373",
       "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
-      "url": "https://stock.adobe.com/fr/images/traditional-latvian-carrot-at-the-sklandrausis-latvian-dessert-at-sklandrausis-with-carrot-and-rye-dough/387591373",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Sklandrausis",
@@ -3082,7 +3067,6 @@ const CULINARY_50=[
       "path": "assets/food/casu-marzu.jpg",
       "adobeStockId": "69736294",
       "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
-      "url": "https://stock.adobe.com/images/casu-marzu/69736294",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
@@ -3155,7 +3139,6 @@ const CULINARY_50=[
       "path": "assets/food/haggis.jpg",
       "adobeStockId": "422032025",
       "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
-      "url": "https://stock.adobe.com/images/haggis-neeps-and-tatties/422032025",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Haggis",
@@ -3228,7 +3211,6 @@ const CULINARY_50=[
       "path": "assets/food/surstromming.jpg",
       "adobeStockId": "143413426",
       "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
-      "url": "https://stock.adobe.com/images/close-up-of-herring-fillet-out-of-a-surstromming-can/143413426",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Surströmming",
@@ -3301,7 +3283,6 @@ const CULINARY_50=[
       "path": "assets/food/hakarl.jpg",
       "adobeStockId": "124049250",
       "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
-      "url": "https://stock.adobe.com/images/specialty-of-iceland-called-hakarl-fermented-shark-in-open-warehouse-at-bjarnarhoefn/124049250",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Hákarl",
@@ -3374,7 +3355,6 @@ const CULINARY_50=[
       "path": "assets/food/smalahove.jpg",
       "adobeStockId": "213777525",
       "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
-      "url": "https://stock.adobe.com/fr/search?k=Smalahove&search_type=usertyped&filters%5Bgentech%5D=exclude&asset_id=213777525",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Smalahove",
@@ -3447,7 +3427,6 @@ const CULINARY_50=[
       "path": "assets/food/blodplattar.jpg",
       "adobeStockId": "411401459",
       "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
-      "url": "https://as1.ftcdn.net/v2/jpg/04/11/40/14/1000_F_411401459_YAcraR0t3Tdhg82dR9pdxJdXSVCLloF9.jpg",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Blodplättar",
@@ -3520,7 +3499,6 @@ const CULINARY_50=[
       "path": "assets/food/andouillette.jpg",
       "adobeStockId": "233753049",
       "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
-      "url": "https://stock.adobe.com/images/andouillette/233753049",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Andouillette",
@@ -3593,7 +3571,6 @@ const CULINARY_50=[
       "path": "assets/food/mammi.jpg",
       "adobeStockId": "485041926",
       "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
-      "url": "https://stock.adobe.com/images/mammi-traditional-finnish-easter-dessert/485041926",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Mämmi",
@@ -3666,7 +3643,6 @@ const CULINARY_50=[
       "path": "assets/food/jellied-eels.jpg",
       "adobeStockId": "1254168402",
       "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
-      "url": "https://stock.adobe.com/fr/images/a-plate-of-iconic-jellied-eels-a-traditional-london-dish-served-with-vinegar-and-a-lemon-slice/1254168402",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Jellied eels",
@@ -3739,7 +3715,6 @@ const CULINARY_50=[
       "path": "assets/food/czernina.jpg",
       "adobeStockId": "20264185",
       "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
-      "url": "https://stock.adobe.com/images/polish-duck-blood-soup-black-soup-czernina/20264185",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Czernina",
@@ -3812,7 +3787,6 @@ const CULINARY_50=[
       "path": "assets/food/ciorba-de-burta.jpg",
       "adobeStockId": "198001933",
       "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
-      "url": "https://stock.adobe.com/images/romanian-traditional-soup-ciorba-de-burta-seasoned-with-vinegar-and-horseradish/198001933",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Ciorbă de burtă",
@@ -3885,7 +3859,6 @@ const CULINARY_50=[
       "path": "assets/food/kokoretsi.jpg",
       "adobeStockId": "271480410",
       "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
-      "url": "https://stock.adobe.com/fr/images/greek-easter-custom-kokoretsi-kokorec-and-lamb-sheep-kid-grilling-on-spits-over-charcoals-fire/271480410",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Kokoretsi",
@@ -3958,7 +3931,6 @@ const CULINARY_50=[
       "path": "assets/food/labskaus.jpg",
       "adobeStockId": "234422895",
       "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
-      "url": "https://stock.adobe.com/images/german-cuisine-labskaus-is-a-mashed-potato-corned-beef-and-beetroot-with-fried-egg-pickled-cucumbers-and-rollmop-close-up-horizontal-top-view/234422895",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Labskaus",
@@ -4031,7 +4003,6 @@ const CULINARY_50=[
       "path": "assets/food/tripas-porto.jpg",
       "adobeStockId": "649614974",
       "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
-      "url": "https://stock.adobe.com/images/typical-portuguese-dish-tripas-a-moda-do-porto/649614974",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Tripas à moda do Porto",
@@ -4104,7 +4075,6 @@ const CULINARY_50=[
       "path": "assets/food/sklandrausis.jpg",
       "adobeStockId": "387591373",
       "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
-      "url": "https://stock.adobe.com/fr/images/traditional-latvian-carrot-at-the-sklandrausis-latvian-dessert-at-sklandrausis-with-carrot-and-rye-dough/387591373",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Sklandrausis",
@@ -4177,7 +4147,6 @@ const CULINARY_50=[
       "path": "assets/food/casu-marzu.jpg",
       "adobeStockId": "69736294",
       "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
-      "url": "https://stock.adobe.com/images/casu-marzu/69736294",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
@@ -4250,7 +4219,6 @@ const CULINARY_50=[
       "path": "assets/food/haggis.jpg",
       "adobeStockId": "422032025",
       "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
-      "url": "https://stock.adobe.com/images/haggis-neeps-and-tatties/422032025",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Haggis",
@@ -4323,7 +4291,6 @@ const CULINARY_50=[
       "path": "assets/food/surstromming.jpg",
       "adobeStockId": "143413426",
       "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
-      "url": "https://stock.adobe.com/images/close-up-of-herring-fillet-out-of-a-surstromming-can/143413426",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Surströmming",
@@ -4396,7 +4363,6 @@ const CULINARY_50=[
       "path": "assets/food/hakarl.jpg",
       "adobeStockId": "124049250",
       "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
-      "url": "https://stock.adobe.com/images/specialty-of-iceland-called-hakarl-fermented-shark-in-open-warehouse-at-bjarnarhoefn/124049250",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Hákarl",
@@ -4469,7 +4435,6 @@ const CULINARY_50=[
       "path": "assets/food/smalahove.jpg",
       "adobeStockId": "213777525",
       "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
-      "url": "https://stock.adobe.com/fr/search?k=Smalahove&search_type=usertyped&filters%5Bgentech%5D=exclude&asset_id=213777525",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Smalahove",
@@ -4542,7 +4507,6 @@ const CULINARY_50=[
       "path": "assets/food/blodplattar.jpg",
       "adobeStockId": "411401459",
       "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
-      "url": "https://as1.ftcdn.net/v2/jpg/04/11/40/14/1000_F_411401459_YAcraR0t3Tdhg82dR9pdxJdXSVCLloF9.jpg",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Blodplättar",
@@ -4615,7 +4579,6 @@ const CULINARY_50=[
       "path": "assets/food/andouillette.jpg",
       "adobeStockId": "233753049",
       "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
-      "url": "https://stock.adobe.com/images/andouillette/233753049",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Andouillette",
@@ -4688,7 +4651,6 @@ const CULINARY_50=[
       "path": "assets/food/mammi.jpg",
       "adobeStockId": "485041926",
       "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
-      "url": "https://stock.adobe.com/images/mammi-traditional-finnish-easter-dessert/485041926",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Mämmi",
@@ -4761,7 +4723,6 @@ const CULINARY_50=[
       "path": "assets/food/jellied-eels.jpg",
       "adobeStockId": "1254168402",
       "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
-      "url": "https://stock.adobe.com/fr/images/a-plate-of-iconic-jellied-eels-a-traditional-london-dish-served-with-vinegar-and-a-lemon-slice/1254168402",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Jellied eels",
@@ -4834,7 +4795,6 @@ const CULINARY_50=[
       "path": "assets/food/czernina.jpg",
       "adobeStockId": "20264185",
       "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
-      "url": "https://stock.adobe.com/images/polish-duck-blood-soup-black-soup-czernina/20264185",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Czernina",
@@ -4907,7 +4867,6 @@ const CULINARY_50=[
       "path": "assets/food/ciorba-de-burta.jpg",
       "adobeStockId": "198001933",
       "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
-      "url": "https://stock.adobe.com/images/romanian-traditional-soup-ciorba-de-burta-seasoned-with-vinegar-and-horseradish/198001933",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Ciorbă de burtă",
@@ -4980,7 +4939,6 @@ const CULINARY_50=[
       "path": "assets/food/kokoretsi.jpg",
       "adobeStockId": "271480410",
       "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
-      "url": "https://stock.adobe.com/fr/images/greek-easter-custom-kokoretsi-kokorec-and-lamb-sheep-kid-grilling-on-spits-over-charcoals-fire/271480410",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Kokoretsi",
@@ -5053,7 +5011,6 @@ const CULINARY_50=[
       "path": "assets/food/labskaus.jpg",
       "adobeStockId": "234422895",
       "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
-      "url": "https://stock.adobe.com/images/german-cuisine-labskaus-is-a-mashed-potato-corned-beef-and-beetroot-with-fried-egg-pickled-cucumbers-and-rollmop-close-up-horizontal-top-view/234422895",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Labskaus",
@@ -5126,7 +5083,6 @@ const CULINARY_50=[
       "path": "assets/food/tripas-porto.jpg",
       "adobeStockId": "649614974",
       "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
-      "url": "https://stock.adobe.com/images/typical-portuguese-dish-tripas-a-moda-do-porto/649614974",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Tripas à moda do Porto",
@@ -5199,7 +5155,6 @@ const CULINARY_50=[
       "path": "assets/food/sklandrausis.jpg",
       "adobeStockId": "387591373",
       "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
-      "url": "https://stock.adobe.com/fr/images/traditional-latvian-carrot-at-the-sklandrausis-latvian-dessert-at-sklandrausis-with-carrot-and-rye-dough/387591373",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Sklandrausis",
@@ -5272,7 +5227,6 @@ const CULINARY_50=[
       "path": "assets/food/casu-marzu.jpg",
       "adobeStockId": "69736294",
       "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
-      "url": "https://stock.adobe.com/images/casu-marzu/69736294",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
@@ -5345,7 +5299,6 @@ const CULINARY_50=[
       "path": "assets/food/haggis.jpg",
       "adobeStockId": "422032025",
       "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
-      "url": "https://stock.adobe.com/images/haggis-neeps-and-tatties/422032025",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Haggis",
@@ -5418,7 +5371,6 @@ const CULINARY_50=[
       "path": "assets/food/surstromming.jpg",
       "adobeStockId": "143413426",
       "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
-      "url": "https://stock.adobe.com/images/close-up-of-herring-fillet-out-of-a-surstromming-can/143413426",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Surströmming",
@@ -5491,7 +5443,6 @@ const CULINARY_50=[
       "path": "assets/food/hakarl.jpg",
       "adobeStockId": "124049250",
       "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
-      "url": "https://stock.adobe.com/images/specialty-of-iceland-called-hakarl-fermented-shark-in-open-warehouse-at-bjarnarhoefn/124049250",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Hákarl",
@@ -5564,7 +5515,6 @@ const CULINARY_50=[
       "path": "assets/food/smalahove.jpg",
       "adobeStockId": "213777525",
       "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
-      "url": "https://stock.adobe.com/fr/search?k=Smalahove&search_type=usertyped&filters%5Bgentech%5D=exclude&asset_id=213777525",
       "aiGenerated": false,
       "alt": {
         "fr": "Photo Adobe Stock non générée par IA : Smalahove",

@@ -1,1 +1,1 @@
-V8.7: 15 non-AI Adobe Stock image slots integrated. Place licensed JPGs in assets/food/.
+V8.8: image on right, copyright overlay, zoom modal.

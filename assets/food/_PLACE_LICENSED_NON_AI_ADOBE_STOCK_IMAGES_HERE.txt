@@ -1,1 +1,1 @@
-Place the 15 licensed non-AI Adobe Stock JPG files here using exact filenames in ADOBE_STOCK_IMAGE_MANIFEST_NO_AI.csv.
+Place the 15 licensed non-AI Adobe Stock JPG files here.

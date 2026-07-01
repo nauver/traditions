@@ -1,16 +1,16 @@
-dish,expected_filename,adobe_stock_id,credit,download_url,path,ai_generated
-Casu Marzu,casu-marzu.jpg,69736294,© ballylocci / Adobe Stock / Stock photo ID: 69736294,https://stock.adobe.com/images/casu-marzu/69736294,assets/food/casu-marzu.jpg,NO
-Haggis,haggis.jpg,422032025,© beataaldridge / Adobe Stock / Stock photo ID: 422032025,https://stock.adobe.com/images/haggis-neeps-and-tatties/422032025,assets/food/haggis.jpg,NO
-Surströmming,surstromming.jpg,143413426,© seba tataru / Adobe Stock / Stock photo ID: 143413426,https://stock.adobe.com/images/close-up-of-herring-fillet-out-of-a-surstromming-can/143413426,assets/food/surstromming.jpg,NO
-Hákarl,hakarl.jpg,124049250,© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250,https://stock.adobe.com/images/specialty-of-iceland-called-hakarl-fermented-shark-in-open-warehouse-at-bjarnarhoefn/124049250,assets/food/hakarl.jpg,NO
-Smalahove,smalahove.jpg,213777525,© Oliver / Adobe Stock / Stock photo ID: 213777525,https://stock.adobe.com/fr/search?k=Smalahove&search_type=usertyped&filters%5Bgentech%5D=exclude&asset_id=213777525,assets/food/smalahove.jpg,NO
-Blodplättar,blodplattar.jpg,411401459,© Paula / Adobe Stock / Stock photo ID: 411401459,https://as1.ftcdn.net/v2/jpg/04/11/40/14/1000_F_411401459_YAcraR0t3Tdhg82dR9pdxJdXSVCLloF9.jpg,assets/food/blodplattar.jpg,NO
-Andouillette,andouillette.jpg,233753049,© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049,https://stock.adobe.com/images/andouillette/233753049,assets/food/andouillette.jpg,NO
-Mämmi,mammi.jpg,485041926,© Jidia / Adobe Stock / Stock photo ID: 485041926,https://stock.adobe.com/images/mammi-traditional-finnish-easter-dessert/485041926,assets/food/mammi.jpg,NO
-Jellied eels,jellied-eels.jpg,1254168402,© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402,https://stock.adobe.com/fr/images/a-plate-of-iconic-jellied-eels-a-traditional-london-dish-served-with-vinegar-and-a-lemon-slice/1254168402,assets/food/jellied-eels.jpg,NO
-Czernina,czernina.jpg,20264185,© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185,https://stock.adobe.com/images/polish-duck-blood-soup-black-soup-czernina/20264185,assets/food/czernina.jpg,NO
-Ciorbă de burtă,ciorba-de-burta.jpg,198001933,© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933,https://stock.adobe.com/images/romanian-traditional-soup-ciorba-de-burta-seasoned-with-vinegar-and-horseradish/198001933,assets/food/ciorba-de-burta.jpg,NO
-Kokoretsi,kokoretsi.jpg,271480410,© Rawf8 / Adobe Stock / Stock photo ID: 271480410,https://stock.adobe.com/fr/images/greek-easter-custom-kokoretsi-kokorec-and-lamb-sheep-kid-grilling-on-spits-over-charcoals-fire/271480410,assets/food/kokoretsi.jpg,NO
-Labskaus,labskaus.jpg,234422895,© FomaA / Adobe Stock / Stock photo ID: 234422895,https://stock.adobe.com/images/german-cuisine-labskaus-is-a-mashed-potato-corned-beef-and-beetroot-with-fried-egg-pickled-cucumbers-and-rollmop-close-up-horizontal-top-view/234422895,assets/food/labskaus.jpg,NO
-Tripas à moda do Porto,tripas-porto.jpg,649614974,© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974,https://stock.adobe.com/images/typical-portuguese-dish-tripas-a-moda-do-porto/649614974,assets/food/tripas-porto.jpg,NO
-Sklandrausis,sklandrausis.jpg,387591373,© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373,https://stock.adobe.com/fr/images/traditional-latvian-carrot-at-the-sklandrausis-latvian-dessert-at-sklandrausis-with-carrot-and-rye-dough/387591373,assets/food/sklandrausis.jpg,NO
+dish,expected_filename,adobe_stock_id,credit,path,ai_generated
+Casu Marzu,casu-marzu.jpg,69736294,© ballylocci / Adobe Stock / Stock photo ID: 69736294,assets/food/casu-marzu.jpg,NO
+Haggis,haggis.jpg,422032025,© beataaldridge / Adobe Stock / Stock photo ID: 422032025,assets/food/haggis.jpg,NO
+Surströmming,surstromming.jpg,143413426,© seba tataru / Adobe Stock / Stock photo ID: 143413426,assets/food/surstromming.jpg,NO
+Hákarl,hakarl.jpg,124049250,© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250,assets/food/hakarl.jpg,NO
+Smalahove,smalahove.jpg,213777525,© Oliver / Adobe Stock / Stock photo ID: 213777525,assets/food/smalahove.jpg,NO
+Blodplättar,blodplattar.jpg,411401459,© Paula / Adobe Stock / Stock photo ID: 411401459,assets/food/blodplattar.jpg,NO
+Andouillette,andouillette.jpg,233753049,© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049,assets/food/andouillette.jpg,NO
+Mämmi,mammi.jpg,485041926,© Jidia / Adobe Stock / Stock photo ID: 485041926,assets/food/mammi.jpg,NO
+Jellied eels,jellied-eels.jpg,1254168402,© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402,assets/food/jellied-eels.jpg,NO
+Czernina,czernina.jpg,20264185,© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185,assets/food/czernina.jpg,NO
+Ciorbă de burtă,ciorba-de-burta.jpg,198001933,© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933,assets/food/ciorba-de-burta.jpg,NO
+Kokoretsi,kokoretsi.jpg,271480410,© Rawf8 / Adobe Stock / Stock photo ID: 271480410,assets/food/kokoretsi.jpg,NO
+Labskaus,labskaus.jpg,234422895,© FomaA / Adobe Stock / Stock photo ID: 234422895,assets/food/labskaus.jpg,NO
+Tripas à moda do Porto,tripas-porto.jpg,649614974,© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974,assets/food/tripas-porto.jpg,NO
+Sklandrausis,sklandrausis.jpg,387591373,© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373,assets/food/sklandrausis.jpg,NO

@@ -1,10 +1,10 @@
 const UI={
   "fr": {
-    "title": "Europe’s Traditions Challenge",
+    "title": "Europe Uncovered: Culture, Curiosities & Legends",
     "traditions": "Traditions of Europe",
     "culinary": "Curiosités culinaires",
     "homeTitle": "Choisissez votre quiz",
-    "homeSub": "Deux modes de jeu, 10 questions aléatoires par partie.",
+    "homeSub": "Explorez la culture européenne à travers traditions, goûts surprenants et bientôt légendes.",
     "start": "Commencer",
     "question": "Question",
     "of": "sur",
@@ -30,11 +30,11 @@ const UI={
     "imageMissing": "Image Adobe Stock non-IA licenciée à ajouter dans assets/food/"
   },
   "en": {
-    "title": "Europe’s Traditions Challenge",
+    "title": "Europe Uncovered: Culture, Curiosities & Legends",
     "traditions": "Traditions of Europe",
     "culinary": "Culinary Curiosities",
     "homeTitle": "Choose your quiz",
-    "homeSub": "Two game modes, 10 random questions per game.",
+    "homeSub": "Explore European culture through traditions, surprising tastes and, soon, legends.",
     "start": "Start",
     "question": "Question",
     "of": "of",
@@ -60,11 +60,11 @@ const UI={
     "imageMissing": "Licensed non-AI Adobe Stock image to add in assets/food/"
   },
   "nl": {
-    "title": "Europe’s Traditions Challenge",
+    "title": "Europe Uncovered: Culture, Curiosities & Legends",
     "traditions": "Traditions of Europe",
     "culinary": "Culinaire curiositeiten",
     "homeTitle": "Kies je quiz",
-    "homeSub": "Twee spelmodi, 10 willekeurige vragen per spel.",
+    "homeSub": "Ontdek Europese cultuur via tradities, verrassende smaken en binnenkort legendes.",
     "start": "Start",
     "question": "Vraag",
     "of": "van",
@@ -156,55 +156,55 @@ const TRADITIONS_30=[
     "id": "t002",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -278,55 +278,55 @@ const TRADITIONS_30=[
     "id": "t004",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -400,55 +400,55 @@ const TRADITIONS_30=[
     "id": "t006",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -522,55 +522,55 @@ const TRADITIONS_30=[
     "id": "t008",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -644,55 +644,55 @@ const TRADITIONS_30=[
     "id": "t010",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -766,55 +766,55 @@ const TRADITIONS_30=[
     "id": "t012",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -888,55 +888,55 @@ const TRADITIONS_30=[
     "id": "t014",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1010,55 +1010,55 @@ const TRADITIONS_30=[
     "id": "t016",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1132,55 +1132,55 @@ const TRADITIONS_30=[
     "id": "t018",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1254,55 +1254,55 @@ const TRADITIONS_30=[
     "id": "t020",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1376,55 +1376,55 @@ const TRADITIONS_30=[
     "id": "t022",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1498,55 +1498,55 @@ const TRADITIONS_30=[
     "id": "t024",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1620,55 +1620,55 @@ const TRADITIONS_30=[
     "id": "t026",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1742,55 +1742,55 @@ const TRADITIONS_30=[
     "id": "t028",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1864,55 +1864,55 @@ const TRADITIONS_30=[
     "id": "t030",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
-    "zone": "west",
+    "zone": "south",
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
-      "en": "Fishers enter the sea on horseback to catch shrimp.",
-      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
       "fr": "Tradition européenne vérifiée.",
@@ -1978,9 +1978,9 @@ const CULINARY_50=[
       "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple. Il est généralement cité comme l’un des exemples les plus extrêmes de la gastronomie traditionnelle européenne.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture. It is often cited as one of the most extreme examples of traditional European food culture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft. Het gerecht wordt vaak genoemd als een van de meest extreme voorbeelden van traditionele Europese eetcultuur."
     },
     "image": {
       "file": "casu-marzu.jpg",
@@ -2050,9 +2050,9 @@ const CULINARY_50=[
       "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices. Il est souvent servi avec des navets et des pommes de terre, et reste fortement associé aux repas traditionnels écossais.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices. It is often served with neeps and tatties, and remains strongly associated with traditional Scottish meals.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden. Het wordt vaak geserveerd met raap en aardappelen en blijft sterk verbonden met traditionele Schotse maaltijden."
     },
     "image": {
       "file": "haggis.jpg",
@@ -2122,9 +2122,9 @@ const CULINARY_50=[
       "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte. Son odeur très puissante fait partie de sa réputation, mais il s’inscrit aussi dans une vraie tradition alimentaire du nord de la Suède.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins. Its extremely strong smell is part of its reputation, but it also belongs to a genuine food tradition in northern Sweden.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik. De zeer sterke geur maakt deel uit van de reputatie, maar het gerecht hoort ook bij een echte voedseltraditie in Noord-Zweden."
     },
     "image": {
       "file": "surstromming.jpg",
@@ -2194,9 +2194,9 @@ const CULINARY_50=[
       "nl": "Gefermenteerde haai"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché. Son goût très marqué et son odeur d’ammoniaque en font un plat de dégustation souvent présenté comme un rite de passage culinaire.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark. Its powerful taste and ammonia-like smell make it a tasting dish often presented as a culinary rite of passage.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai. De sterke smaak en ammoniakachtige geur maken het tot een gerecht dat vaak als culinaire proef wordt voorgesteld."
     },
     "image": {
       "file": "hakarl.jpg",
@@ -2266,9 +2266,9 @@ const CULINARY_50=[
       "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Smalahove est un plat norvégien traditionnel composé d’une tête de mouton préparée entière ou presque entière. Il est associé à certaines périodes festives et illustre une cuisine ancienne où presque toutes les parties de l’animal étaient utilisées.",
+      "en": "Smalahove is a traditional Norwegian dish consisting of a sheep’s head served whole or almost whole. It is associated with particular festive periods and reflects an older food culture in which almost every part of the animal was used.",
+      "nl": "Smalahove is een traditioneel Noors gerecht bestaande uit een hele of bijna hele schapenkop. Het wordt met bepaalde feestperiodes verbonden en toont een oudere eetcultuur waarin bijna alle delen van het dier werden gebruikt."
     },
     "image": {
       "file": "smalahove.jpg",
@@ -2338,9 +2338,9 @@ const CULINARY_50=[
       "nl": "Bloedpannenkoeken"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques. La préparation peut surprendre, mais elle appartient à une logique de cuisine rurale qui utilisait les ingrédients disponibles sans gaspillage.",
+      "en": "Blodplättar are blood pancakes found in several Nordic food traditions. The preparation may surprise visitors, but it belongs to a rural cooking logic that used available ingredients without waste.",
+      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen. De bereiding kan verrassend zijn, maar past binnen een landelijke kooktraditie waarin beschikbare ingrediënten zonder verspilling werden gebruikt."
     },
     "image": {
       "file": "blodplattar.jpg",
@@ -2410,9 +2410,9 @@ const CULINARY_50=[
       "nl": "Een worst gemaakt met varkensdarmen"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "L’Andouillette est une spécialité française de charcuterie élaborée principalement avec des éléments du système digestif du porc. Son goût et son odeur très reconnaissables en font un plat clivant, apprécié par les amateurs de cuisine de caractère.",
+      "en": "Andouillette is a French charcuterie speciality made mainly with parts of the pig’s digestive tract. Its very recognisable taste and smell make it a divisive dish, appreciated by fans of strongly flavoured food.",
+      "nl": "Andouillette is een Franse vleeswarenspecialiteit, voornamelijk gemaakt met delen van het spijsverteringsstelsel van het varken. De uitgesproken smaak en geur maken het een uitgesproken gerecht voor liefhebbers van krachtige smaken."
     },
     "image": {
       "file": "andouillette.jpg",
@@ -2482,9 +2482,9 @@ const CULINARY_50=[
       "nl": "Een paasdessert met rogge en mout"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt. Sa couleur sombre contraste avec son goût doux, souvent adouci avec de la crème ou du lait.",
+      "en": "Mämmi is a Finnish Easter dessert made with rye and malt. Its dark colour contrasts with its mildly sweet taste, often softened with cream or milk.",
+      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout. De donkere kleur contrasteert met de zachte, licht zoete smaak, vaak verzacht met room of melk."
     },
     "image": {
       "file": "mammi.jpg",
@@ -2554,9 +2554,9 @@ const CULINARY_50=[
       "nl": "Paling geserveerd in koude gelei"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien : des morceaux d’anguille cuits puis pris dans une gelée froide. Ce plat est lié à une culture populaire urbaine et à la cuisine de rue britannique.",
+      "en": "Jellied eels are a historic speciality of London’s East End: pieces of eel cooked and set in a cold jelly. The dish is linked to urban working-class culture and British street food history.",
+      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen: stukjes paling gekookt en daarna opgesteven in koude gelei. Het gerecht is verbonden met stedelijke volkscultuur en Britse streetfoodgeschiedenis."
     },
     "image": {
       "file": "jellied-eels.jpg",
@@ -2626,9 +2626,9 @@ const CULINARY_50=[
       "nl": "Een soep met eendenbloed"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard, souvent équilibrée par des notes aigres-douces. Elle montre comment certaines cuisines européennes transforment des ingrédients très forts en plats rituels et familiaux.",
+      "en": "Czernina is a traditional Polish duck-blood soup, often balanced with sweet-and-sour notes. It shows how some European cuisines turn very strong ingredients into family and ritual dishes.",
+      "nl": "Czernina is een traditionele Poolse soep met eendenbloed, vaak in balans gebracht met zoetzure tonen. Het toont hoe sommige Europese keukens krachtige ingrediënten omvormen tot familiale en rituele gerechten."
     },
     "image": {
       "file": "czernina.jpg",
@@ -2698,9 +2698,9 @@ const CULINARY_50=[
       "nl": "Een penssoep"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail, vinaigre ou piment. Elle est réputée pour sa texture riche et son goût acidulé.",
+      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic, vinegar or chilli. It is known for its rich texture and tangy flavour.",
+      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak geserveerd met room, knoflook, azijn of chili. Het gerecht staat bekend om zijn rijke textuur en frisse, zurige smaak."
     },
     "image": {
       "file": "ciorba-de-burta.jpg",
@@ -2770,9 +2770,9 @@ const CULINARY_50=[
       "nl": "Een specialiteit van gegrild orgaanvlees"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats enroulés puis grillés à la broche. Il est souvent associé aux repas de fête, notamment autour de Pâques.",
+      "en": "Kokoretsi is a Greek and Balkan preparation made with offal wrapped and grilled on a spit. It is often associated with festive meals, especially around Easter.",
+      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van orgaanvlees dat wordt omwikkeld en aan het spit gegrild. Het wordt vaak gelinkt aan feestmaaltijden, vooral rond Pasen."
     },
     "image": {
       "file": "kokoretsi.jpg",
@@ -2842,9 +2842,9 @@ const CULINARY_50=[
       "nl": "Een zeemansgerecht met vlees, aardappelen en biet"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime. Il mélange généralement pommes de terre, viande salée, betterave, hareng ou cornichons, avec un œuf au plat en garniture.",
+      "en": "Labskaus is a northern German dish associated with maritime culture. It usually combines potatoes, salted meat, beetroot, herring or pickles, often topped with a fried egg.",
+      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur. Het combineert meestal aardappelen, gezouten vlees, biet, haring of augurken, vaak afgewerkt met een spiegelei."
     },
     "image": {
       "file": "labskaus.jpg",
@@ -2914,9 +2914,9 @@ const CULINARY_50=[
       "nl": "Een traditioneel pensgerecht"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Les Tripas à moda do Porto sont un plat portugais de Porto à base de tripes, haricots et charcuteries. Cette recette robuste est fortement associée à l’identité culinaire de la ville.",
+      "en": "Tripas à moda do Porto is a Portuguese dish from Porto made with tripe, beans and cured meats. This robust recipe is strongly associated with the city’s culinary identity.",
+      "nl": "Tripas à moda do Porto is een Portugees gerecht uit Porto met pens, bonen en vleeswaren. Dit stevige recept is sterk verbonden met de culinaire identiteit van de stad."
     },
     "image": {
       "file": "tripas-porto.jpg",
@@ -2986,9 +2986,9 @@ const CULINARY_50=[
       "nl": "Een traditioneel taartje met rogge en groenten"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Sklandrausis est une petite tarte lettone à base de pâte de seigle garnie, souvent avec carotte et pomme de terre. Son goût doux et rustique reflète une tradition paysanne balte.",
+      "en": "Sklandrausis is a small Latvian tart made with rye dough and usually filled with carrot and potato. Its sweet, rustic flavour reflects a Baltic rural food tradition.",
+      "nl": "Sklandrausis is een Lets taartje van roggedeeg, meestal gevuld met wortel en aardappel. De zachte, rustieke smaak weerspiegelt een Baltische plattelandstraditie."
     },
     "image": {
       "file": "sklandrausis.jpg",
@@ -3058,9 +3058,9 @@ const CULINARY_50=[
       "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple. Il est généralement cité comme l’un des exemples les plus extrêmes de la gastronomie traditionnelle européenne.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture. It is often cited as one of the most extreme examples of traditional European food culture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft. Het gerecht wordt vaak genoemd als een van de meest extreme voorbeelden van traditionele Europese eetcultuur."
     },
     "image": {
       "file": "casu-marzu.jpg",
@@ -3130,9 +3130,9 @@ const CULINARY_50=[
       "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices. Il est souvent servi avec des navets et des pommes de terre, et reste fortement associé aux repas traditionnels écossais.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices. It is often served with neeps and tatties, and remains strongly associated with traditional Scottish meals.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden. Het wordt vaak geserveerd met raap en aardappelen en blijft sterk verbonden met traditionele Schotse maaltijden."
     },
     "image": {
       "file": "haggis.jpg",
@@ -3202,9 +3202,9 @@ const CULINARY_50=[
       "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte. Son odeur très puissante fait partie de sa réputation, mais il s’inscrit aussi dans une vraie tradition alimentaire du nord de la Suède.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins. Its extremely strong smell is part of its reputation, but it also belongs to a genuine food tradition in northern Sweden.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik. De zeer sterke geur maakt deel uit van de reputatie, maar het gerecht hoort ook bij een echte voedseltraditie in Noord-Zweden."
     },
     "image": {
       "file": "surstromming.jpg",
@@ -3274,9 +3274,9 @@ const CULINARY_50=[
       "nl": "Gefermenteerde haai"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché. Son goût très marqué et son odeur d’ammoniaque en font un plat de dégustation souvent présenté comme un rite de passage culinaire.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark. Its powerful taste and ammonia-like smell make it a tasting dish often presented as a culinary rite of passage.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai. De sterke smaak en ammoniakachtige geur maken het tot een gerecht dat vaak als culinaire proef wordt voorgesteld."
     },
     "image": {
       "file": "hakarl.jpg",
@@ -3346,9 +3346,9 @@ const CULINARY_50=[
       "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Smalahove est un plat norvégien traditionnel composé d’une tête de mouton préparée entière ou presque entière. Il est associé à certaines périodes festives et illustre une cuisine ancienne où presque toutes les parties de l’animal étaient utilisées.",
+      "en": "Smalahove is a traditional Norwegian dish consisting of a sheep’s head served whole or almost whole. It is associated with particular festive periods and reflects an older food culture in which almost every part of the animal was used.",
+      "nl": "Smalahove is een traditioneel Noors gerecht bestaande uit een hele of bijna hele schapenkop. Het wordt met bepaalde feestperiodes verbonden en toont een oudere eetcultuur waarin bijna alle delen van het dier werden gebruikt."
     },
     "image": {
       "file": "smalahove.jpg",
@@ -3418,9 +3418,9 @@ const CULINARY_50=[
       "nl": "Bloedpannenkoeken"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques. La préparation peut surprendre, mais elle appartient à une logique de cuisine rurale qui utilisait les ingrédients disponibles sans gaspillage.",
+      "en": "Blodplättar are blood pancakes found in several Nordic food traditions. The preparation may surprise visitors, but it belongs to a rural cooking logic that used available ingredients without waste.",
+      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen. De bereiding kan verrassend zijn, maar past binnen een landelijke kooktraditie waarin beschikbare ingrediënten zonder verspilling werden gebruikt."
     },
     "image": {
       "file": "blodplattar.jpg",
@@ -3490,9 +3490,9 @@ const CULINARY_50=[
       "nl": "Een worst gemaakt met varkensdarmen"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "L’Andouillette est une spécialité française de charcuterie élaborée principalement avec des éléments du système digestif du porc. Son goût et son odeur très reconnaissables en font un plat clivant, apprécié par les amateurs de cuisine de caractère.",
+      "en": "Andouillette is a French charcuterie speciality made mainly with parts of the pig’s digestive tract. Its very recognisable taste and smell make it a divisive dish, appreciated by fans of strongly flavoured food.",
+      "nl": "Andouillette is een Franse vleeswarenspecialiteit, voornamelijk gemaakt met delen van het spijsverteringsstelsel van het varken. De uitgesproken smaak en geur maken het een uitgesproken gerecht voor liefhebbers van krachtige smaken."
     },
     "image": {
       "file": "andouillette.jpg",
@@ -3562,9 +3562,9 @@ const CULINARY_50=[
       "nl": "Een paasdessert met rogge en mout"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt. Sa couleur sombre contraste avec son goût doux, souvent adouci avec de la crème ou du lait.",
+      "en": "Mämmi is a Finnish Easter dessert made with rye and malt. Its dark colour contrasts with its mildly sweet taste, often softened with cream or milk.",
+      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout. De donkere kleur contrasteert met de zachte, licht zoete smaak, vaak verzacht met room of melk."
     },
     "image": {
       "file": "mammi.jpg",
@@ -3634,9 +3634,9 @@ const CULINARY_50=[
       "nl": "Paling geserveerd in koude gelei"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien : des morceaux d’anguille cuits puis pris dans une gelée froide. Ce plat est lié à une culture populaire urbaine et à la cuisine de rue britannique.",
+      "en": "Jellied eels are a historic speciality of London’s East End: pieces of eel cooked and set in a cold jelly. The dish is linked to urban working-class culture and British street food history.",
+      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen: stukjes paling gekookt en daarna opgesteven in koude gelei. Het gerecht is verbonden met stedelijke volkscultuur en Britse streetfoodgeschiedenis."
     },
     "image": {
       "file": "jellied-eels.jpg",
@@ -3706,9 +3706,9 @@ const CULINARY_50=[
       "nl": "Een soep met eendenbloed"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard, souvent équilibrée par des notes aigres-douces. Elle montre comment certaines cuisines européennes transforment des ingrédients très forts en plats rituels et familiaux.",
+      "en": "Czernina is a traditional Polish duck-blood soup, often balanced with sweet-and-sour notes. It shows how some European cuisines turn very strong ingredients into family and ritual dishes.",
+      "nl": "Czernina is een traditionele Poolse soep met eendenbloed, vaak in balans gebracht met zoetzure tonen. Het toont hoe sommige Europese keukens krachtige ingrediënten omvormen tot familiale en rituele gerechten."
     },
     "image": {
       "file": "czernina.jpg",
@@ -3778,9 +3778,9 @@ const CULINARY_50=[
       "nl": "Een penssoep"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail, vinaigre ou piment. Elle est réputée pour sa texture riche et son goût acidulé.",
+      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic, vinegar or chilli. It is known for its rich texture and tangy flavour.",
+      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak geserveerd met room, knoflook, azijn of chili. Het gerecht staat bekend om zijn rijke textuur en frisse, zurige smaak."
     },
     "image": {
       "file": "ciorba-de-burta.jpg",
@@ -3850,9 +3850,9 @@ const CULINARY_50=[
       "nl": "Een specialiteit van gegrild orgaanvlees"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats enroulés puis grillés à la broche. Il est souvent associé aux repas de fête, notamment autour de Pâques.",
+      "en": "Kokoretsi is a Greek and Balkan preparation made with offal wrapped and grilled on a spit. It is often associated with festive meals, especially around Easter.",
+      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van orgaanvlees dat wordt omwikkeld en aan het spit gegrild. Het wordt vaak gelinkt aan feestmaaltijden, vooral rond Pasen."
     },
     "image": {
       "file": "kokoretsi.jpg",
@@ -3922,9 +3922,9 @@ const CULINARY_50=[
       "nl": "Een zeemansgerecht met vlees, aardappelen en biet"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime. Il mélange généralement pommes de terre, viande salée, betterave, hareng ou cornichons, avec un œuf au plat en garniture.",
+      "en": "Labskaus is a northern German dish associated with maritime culture. It usually combines potatoes, salted meat, beetroot, herring or pickles, often topped with a fried egg.",
+      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur. Het combineert meestal aardappelen, gezouten vlees, biet, haring of augurken, vaak afgewerkt met een spiegelei."
     },
     "image": {
       "file": "labskaus.jpg",
@@ -3994,9 +3994,9 @@ const CULINARY_50=[
       "nl": "Een traditioneel pensgerecht"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Les Tripas à moda do Porto sont un plat portugais de Porto à base de tripes, haricots et charcuteries. Cette recette robuste est fortement associée à l’identité culinaire de la ville.",
+      "en": "Tripas à moda do Porto is a Portuguese dish from Porto made with tripe, beans and cured meats. This robust recipe is strongly associated with the city’s culinary identity.",
+      "nl": "Tripas à moda do Porto is een Portugees gerecht uit Porto met pens, bonen en vleeswaren. Dit stevige recept is sterk verbonden met de culinaire identiteit van de stad."
     },
     "image": {
       "file": "tripas-porto.jpg",
@@ -4066,9 +4066,9 @@ const CULINARY_50=[
       "nl": "Een traditioneel taartje met rogge en groenten"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Sklandrausis est une petite tarte lettone à base de pâte de seigle garnie, souvent avec carotte et pomme de terre. Son goût doux et rustique reflète une tradition paysanne balte.",
+      "en": "Sklandrausis is a small Latvian tart made with rye dough and usually filled with carrot and potato. Its sweet, rustic flavour reflects a Baltic rural food tradition.",
+      "nl": "Sklandrausis is een Lets taartje van roggedeeg, meestal gevuld met wortel en aardappel. De zachte, rustieke smaak weerspiegelt een Baltische plattelandstraditie."
     },
     "image": {
       "file": "sklandrausis.jpg",
@@ -4138,9 +4138,9 @@ const CULINARY_50=[
       "nl": "Italië"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple. Il est généralement cité comme l’un des exemples les plus extrêmes de la gastronomie traditionnelle européenne.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture. It is often cited as one of the most extreme examples of traditional European food culture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft. Het gerecht wordt vaak genoemd als een van de meest extreme voorbeelden van traditionele Europese eetcultuur."
     },
     "image": {
       "file": "casu-marzu.jpg",
@@ -4210,9 +4210,9 @@ const CULINARY_50=[
       "nl": "Schotland"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices. Il est souvent servi avec des navets et des pommes de terre, et reste fortement associé aux repas traditionnels écossais.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices. It is often served with neeps and tatties, and remains strongly associated with traditional Scottish meals.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden. Het wordt vaak geserveerd met raap en aardappelen en blijft sterk verbonden met traditionele Schotse maaltijden."
     },
     "image": {
       "file": "haggis.jpg",
@@ -4282,9 +4282,9 @@ const CULINARY_50=[
       "nl": "Zweden"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte. Son odeur très puissante fait partie de sa réputation, mais il s’inscrit aussi dans une vraie tradition alimentaire du nord de la Suède.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins. Its extremely strong smell is part of its reputation, but it also belongs to a genuine food tradition in northern Sweden.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik. De zeer sterke geur maakt deel uit van de reputatie, maar het gerecht hoort ook bij een echte voedseltraditie in Noord-Zweden."
     },
     "image": {
       "file": "surstromming.jpg",
@@ -4354,9 +4354,9 @@ const CULINARY_50=[
       "nl": "IJsland"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché. Son goût très marqué et son odeur d’ammoniaque en font un plat de dégustation souvent présenté comme un rite de passage culinaire.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark. Its powerful taste and ammonia-like smell make it a tasting dish often presented as a culinary rite of passage.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai. De sterke smaak en ammoniakachtige geur maken het tot een gerecht dat vaak als culinaire proef wordt voorgesteld."
     },
     "image": {
       "file": "hakarl.jpg",
@@ -4426,9 +4426,9 @@ const CULINARY_50=[
       "nl": "Noorwegen"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Smalahove est un plat norvégien traditionnel composé d’une tête de mouton préparée entière ou presque entière. Il est associé à certaines périodes festives et illustre une cuisine ancienne où presque toutes les parties de l’animal étaient utilisées.",
+      "en": "Smalahove is a traditional Norwegian dish consisting of a sheep’s head served whole or almost whole. It is associated with particular festive periods and reflects an older food culture in which almost every part of the animal was used.",
+      "nl": "Smalahove is een traditioneel Noors gerecht bestaande uit een hele of bijna hele schapenkop. Het wordt met bepaalde feestperiodes verbonden en toont een oudere eetcultuur waarin bijna alle delen van het dier werden gebruikt."
     },
     "image": {
       "file": "smalahove.jpg",
@@ -4498,9 +4498,9 @@ const CULINARY_50=[
       "nl": "Finland"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques. La préparation peut surprendre, mais elle appartient à une logique de cuisine rurale qui utilisait les ingrédients disponibles sans gaspillage.",
+      "en": "Blodplättar are blood pancakes found in several Nordic food traditions. The preparation may surprise visitors, but it belongs to a rural cooking logic that used available ingredients without waste.",
+      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen. De bereiding kan verrassend zijn, maar past binnen een landelijke kooktraditie waarin beschikbare ingrediënten zonder verspilling werden gebruikt."
     },
     "image": {
       "file": "blodplattar.jpg",
@@ -4570,9 +4570,9 @@ const CULINARY_50=[
       "nl": "Frankrijk"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "L’Andouillette est une spécialité française de charcuterie élaborée principalement avec des éléments du système digestif du porc. Son goût et son odeur très reconnaissables en font un plat clivant, apprécié par les amateurs de cuisine de caractère.",
+      "en": "Andouillette is a French charcuterie speciality made mainly with parts of the pig’s digestive tract. Its very recognisable taste and smell make it a divisive dish, appreciated by fans of strongly flavoured food.",
+      "nl": "Andouillette is een Franse vleeswarenspecialiteit, voornamelijk gemaakt met delen van het spijsverteringsstelsel van het varken. De uitgesproken smaak en geur maken het een uitgesproken gerecht voor liefhebbers van krachtige smaken."
     },
     "image": {
       "file": "andouillette.jpg",
@@ -4642,9 +4642,9 @@ const CULINARY_50=[
       "nl": "Finland"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt. Sa couleur sombre contraste avec son goût doux, souvent adouci avec de la crème ou du lait.",
+      "en": "Mämmi is a Finnish Easter dessert made with rye and malt. Its dark colour contrasts with its mildly sweet taste, often softened with cream or milk.",
+      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout. De donkere kleur contrasteert met de zachte, licht zoete smaak, vaak verzacht met room of melk."
     },
     "image": {
       "file": "mammi.jpg",
@@ -4714,9 +4714,9 @@ const CULINARY_50=[
       "nl": "Verenigd Koninkrijk"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien : des morceaux d’anguille cuits puis pris dans une gelée froide. Ce plat est lié à une culture populaire urbaine et à la cuisine de rue britannique.",
+      "en": "Jellied eels are a historic speciality of London’s East End: pieces of eel cooked and set in a cold jelly. The dish is linked to urban working-class culture and British street food history.",
+      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen: stukjes paling gekookt en daarna opgesteven in koude gelei. Het gerecht is verbonden met stedelijke volkscultuur en Britse streetfoodgeschiedenis."
     },
     "image": {
       "file": "jellied-eels.jpg",
@@ -4786,9 +4786,9 @@ const CULINARY_50=[
       "nl": "Polen"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard, souvent équilibrée par des notes aigres-douces. Elle montre comment certaines cuisines européennes transforment des ingrédients très forts en plats rituels et familiaux.",
+      "en": "Czernina is a traditional Polish duck-blood soup, often balanced with sweet-and-sour notes. It shows how some European cuisines turn very strong ingredients into family and ritual dishes.",
+      "nl": "Czernina is een traditionele Poolse soep met eendenbloed, vaak in balans gebracht met zoetzure tonen. Het toont hoe sommige Europese keukens krachtige ingrediënten omvormen tot familiale en rituele gerechten."
     },
     "image": {
       "file": "czernina.jpg",
@@ -4858,9 +4858,9 @@ const CULINARY_50=[
       "nl": "Roemenië"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail, vinaigre ou piment. Elle est réputée pour sa texture riche et son goût acidulé.",
+      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic, vinegar or chilli. It is known for its rich texture and tangy flavour.",
+      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak geserveerd met room, knoflook, azijn of chili. Het gerecht staat bekend om zijn rijke textuur en frisse, zurige smaak."
     },
     "image": {
       "file": "ciorba-de-burta.jpg",
@@ -4930,9 +4930,9 @@ const CULINARY_50=[
       "nl": "Griekenland"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats enroulés puis grillés à la broche. Il est souvent associé aux repas de fête, notamment autour de Pâques.",
+      "en": "Kokoretsi is a Greek and Balkan preparation made with offal wrapped and grilled on a spit. It is often associated with festive meals, especially around Easter.",
+      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van orgaanvlees dat wordt omwikkeld en aan het spit gegrild. Het wordt vaak gelinkt aan feestmaaltijden, vooral rond Pasen."
     },
     "image": {
       "file": "kokoretsi.jpg",
@@ -5002,9 +5002,9 @@ const CULINARY_50=[
       "nl": "Duitsland"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime. Il mélange généralement pommes de terre, viande salée, betterave, hareng ou cornichons, avec un œuf au plat en garniture.",
+      "en": "Labskaus is a northern German dish associated with maritime culture. It usually combines potatoes, salted meat, beetroot, herring or pickles, often topped with a fried egg.",
+      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur. Het combineert meestal aardappelen, gezouten vlees, biet, haring of augurken, vaak afgewerkt met een spiegelei."
     },
     "image": {
       "file": "labskaus.jpg",
@@ -5074,9 +5074,9 @@ const CULINARY_50=[
       "nl": "Portugal"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Les Tripas à moda do Porto sont un plat portugais de Porto à base de tripes, haricots et charcuteries. Cette recette robuste est fortement associée à l’identité culinaire de la ville.",
+      "en": "Tripas à moda do Porto is a Portuguese dish from Porto made with tripe, beans and cured meats. This robust recipe is strongly associated with the city’s culinary identity.",
+      "nl": "Tripas à moda do Porto is een Portugees gerecht uit Porto met pens, bonen en vleeswaren. Dit stevige recept is sterk verbonden met de culinaire identiteit van de stad."
     },
     "image": {
       "file": "tripas-porto.jpg",
@@ -5146,9 +5146,9 @@ const CULINARY_50=[
       "nl": "Letland"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Sklandrausis est une petite tarte lettone à base de pâte de seigle garnie, souvent avec carotte et pomme de terre. Son goût doux et rustique reflète une tradition paysanne balte.",
+      "en": "Sklandrausis is a small Latvian tart made with rye dough and usually filled with carrot and potato. Its sweet, rustic flavour reflects a Baltic rural food tradition.",
+      "nl": "Sklandrausis is een Lets taartje van roggedeeg, meestal gevuld met wortel en aardappel. De zachte, rustieke smaak weerspiegelt een Baltische plattelandstraditie."
     },
     "image": {
       "file": "sklandrausis.jpg",
@@ -5218,9 +5218,9 @@ const CULINARY_50=[
       "nl": "Italië"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Casu Marzu est un fromage sarde très controversé, connu pour une fermentation poussée qui transforme la pâte et lui donne une texture très souple. Il est généralement cité comme l’un des exemples les plus extrêmes de la gastronomie traditionnelle européenne.",
+      "en": "Casu Marzu is a highly controversial Sardinian cheese, known for an advanced fermentation process that softens the paste and creates a very distinctive texture. It is often cited as one of the most extreme examples of traditional European food culture.",
+      "nl": "Casu Marzu is een zeer controversiële Sardijnse kaas, bekend om een ver doorgedreven fermentatie die de kaas zacht maakt en een uitgesproken textuur geeft. Het gerecht wordt vaak genoemd als een van de meest extreme voorbeelden van traditionele Europese eetcultuur."
     },
     "image": {
       "file": "casu-marzu.jpg",
@@ -5290,9 +5290,9 @@ const CULINARY_50=[
       "nl": "Schotland"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Haggis est un plat emblématique écossais préparé avec des abats, de l’avoine, des oignons et des épices. Il est souvent servi avec des navets et des pommes de terre, et reste fortement associé aux repas traditionnels écossais.",
+      "en": "Haggis is an emblematic Scottish dish made with offal, oats, onions and spices. It is often served with neeps and tatties, and remains strongly associated with traditional Scottish meals.",
+      "nl": "Haggis is een emblematisch Schots gerecht met orgaanvlees, haver, ui en kruiden. Het wordt vaak geserveerd met raap en aardappelen en blijft sterk verbonden met traditionele Schotse maaltijden."
     },
     "image": {
       "file": "haggis.jpg",
@@ -5362,9 +5362,9 @@ const CULINARY_50=[
       "nl": "Zweden"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Surströmming est du hareng de la Baltique fermenté, généralement vendu en boîte. Son odeur très puissante fait partie de sa réputation, mais il s’inscrit aussi dans une vraie tradition alimentaire du nord de la Suède.",
+      "en": "Surströmming is fermented Baltic herring, usually sold in tins. Its extremely strong smell is part of its reputation, but it also belongs to a genuine food tradition in northern Sweden.",
+      "nl": "Surströmming is gefermenteerde Baltische haring, meestal verkocht in blik. De zeer sterke geur maakt deel uit van de reputatie, maar het gerecht hoort ook bij een echte voedseltraditie in Noord-Zweden."
     },
     "image": {
       "file": "surstromming.jpg",
@@ -5434,9 +5434,9 @@ const CULINARY_50=[
       "nl": "IJsland"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché. Son goût très marqué et son odeur d’ammoniaque en font un plat de dégustation souvent présenté comme un rite de passage culinaire.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark. Its powerful taste and ammonia-like smell make it a tasting dish often presented as a culinary rite of passage.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai. De sterke smaak en ammoniakachtige geur maken het tot een gerecht dat vaak als culinaire proef wordt voorgesteld."
     },
     "image": {
       "file": "hakarl.jpg",
@@ -5506,9 +5506,9 @@ const CULINARY_50=[
       "nl": "Noorwegen"
     },
     "explanation": {
-      "fr": "Entrée culinaire européenne.",
-      "en": "European culinary entry.",
-      "nl": "Europese culinaire vraag."
+      "fr": "Le Smalahove est un plat norvégien traditionnel composé d’une tête de mouton préparée entière ou presque entière. Il est associé à certaines périodes festives et illustre une cuisine ancienne où presque toutes les parties de l’animal étaient utilisées.",
+      "en": "Smalahove is a traditional Norwegian dish consisting of a sheep’s head served whole or almost whole. It is associated with particular festive periods and reflects an older food culture in which almost every part of the animal was used.",
+      "nl": "Smalahove is een traditioneel Noors gerecht bestaande uit een hele of bijna hele schapenkop. Het wordt met bepaalde feestperiodes verbonden en toont een oudere eetcultuur waarin bijna alle delen van het dier werden gebruikt."
     },
     "image": {
       "file": "smalahove.jpg",

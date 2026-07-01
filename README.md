@@ -1,1 +1,1 @@
-V8.8: image on right, copyright overlay, zoom modal.
+V8.9: title updated and detailed culinary descriptions in FR/EN/NL.

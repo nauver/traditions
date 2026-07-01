@@ -1,6 +1,7 @@
 {
-  "version": "V8.1",
+  "version": "V8.7_adobe_stock_15_no_ai",
   "traditionsPool": 30,
   "culinaryPool": 50,
-  "quizLength": 10
+  "stockImagesNoAI": 15,
+  "updated": "2026-07-01T12:25:44.823367+00:00"
 }

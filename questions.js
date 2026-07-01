@@ -21,12 +21,13 @@ const UI={
     "finalScore": "Score final",
     "restart": "Rejouer",
     "menu": "Retour au menu",
-    "expert": "European Food Legend",
-    "enthusiast": "Gourmet Explorer",
-    "traveller": "Culinary Traveller",
-    "discoverer": "Curious Taster",
-    "beginner": "Safe Eater",
-    "summary": "Votre niveau"
+    "expert": "Expert",
+    "enthusiast": "Très bon score",
+    "traveller": "Bon score",
+    "discoverer": "À améliorer",
+    "beginner": "Débutant",
+    "summary": "Votre niveau",
+    "imageMissing": "Image Adobe Stock non-IA licenciée à ajouter dans assets/food/"
   },
   "en": {
     "title": "Europe’s Traditions Challenge",
@@ -50,12 +51,13 @@ const UI={
     "finalScore": "Final score",
     "restart": "Play again",
     "menu": "Return to menu",
-    "expert": "European Food Legend",
-    "enthusiast": "Gourmet Explorer",
-    "traveller": "Culinary Traveller",
-    "discoverer": "Curious Taster",
-    "beginner": "Safe Eater",
-    "summary": "Your level"
+    "expert": "Expert",
+    "enthusiast": "Very good score",
+    "traveller": "Good score",
+    "discoverer": "Needs improvement",
+    "beginner": "Beginner",
+    "summary": "Your level",
+    "imageMissing": "Licensed non-AI Adobe Stock image to add in assets/food/"
   },
   "nl": {
     "title": "Europe’s Traditions Challenge",
@@ -79,12 +81,13 @@ const UI={
     "finalScore": "Eindscore",
     "restart": "Opnieuw spelen",
     "menu": "Terug naar menu",
-    "expert": "European Food Legend",
-    "enthusiast": "Gourmet Explorer",
-    "traveller": "Culinary Traveller",
-    "discoverer": "Curious Taster",
-    "beginner": "Safe Eater",
-    "summary": "Jouw niveau"
+    "expert": "Expert",
+    "enthusiast": "Zeer goede score",
+    "traveller": "Goede score",
+    "discoverer": "Kan beter",
+    "beginner": "Beginner",
+    "summary": "Jouw niveau",
+    "imageMissing": "Gelicenseerde niet-AI Adobe Stock-afbeelding toe te voegen in assets/food/"
   }
 };
 const TRADITIONS_30=[
@@ -92,129 +95,70 @@ const TRADITIONS_30=[
     "id": "t001",
     "mode": "traditions",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
+    "zone": "south",
     "scenario": {
-      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
-      "en": "Costumed participants jump over babies lying on mattresses.",
-      "nl": "Verklede deelnemers springen over baby’s op matrassen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
-      "en": "In which country does this tradition take place?",
-      "nl": "In welk land vindt deze traditie plaats?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Italie",
         "Espagne",
-        "Portugal",
-        "Grèce"
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Italy",
         "Spain",
-        "Portugal",
-        "Greece"
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Italië",
         "Spanje",
-        "Portugal",
-        "Griekenland"
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
-      "fr": "Des participants costumés effectuent un saut symbolique pendant des célébrations locales anciennes.",
-      "en": "Costumed participants perform a symbolic jump during old local celebrations.",
-      "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t002",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Championnat de portage de partenaire",
-      "en": "Championnat de portage de partenaire",
-      "nl": "Championnat de portage de partenaire"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
-    },
-    "region": {
-      "fr": "Sonkajärvi",
-      "en": "Sonkajärvi",
-      "nl": "Sonkajärvi"
-    },
-    "scenario": {
-      "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
-      "en": "Competitors run while carrying their partner on their back.",
-      "nl": "Deelnemers lopen terwijl ze hun partner op de rug dragen."
-    },
-    "question": {
-      "fr": "Dans quel pays se tient ce championnat ?",
-      "en": "In which country is this championship held?",
-      "nl": "In welk land wordt dit kampioenschap gehouden?"
-    },
-    "answers": {
-      "fr": [
-        "Estonie",
-        "Finlande",
-        "Suède",
-        "Lettonie"
-      ],
-      "en": [
-        "Estonia",
-        "Finland",
-        "Sweden",
-        "Latvia"
-      ],
-      "nl": [
-        "Estland",
-        "Finland",
-        "Zweden",
-        "Letland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
-    },
-    "explanation": {
-      "fr": "Le format combine vitesse, obstacles et équilibre.",
-      "en": "The format combines speed, obstacles and balance.",
-      "nl": "De formule combineert snelheid, hindernissen en evenwicht."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "t003",
-    "mode": "traditions",
-    "traditionName": {
       "fr": "Pêche aux crevettes à cheval",
-      "en": "Pêche aux crevettes à cheval",
-      "nl": "Pêche aux crevettes à cheval"
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
       "fr": "Belgique",
@@ -222,10 +166,11 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "region": {
-      "fr": "Oostduinkerke",
-      "en": "Oostduinkerke",
-      "nl": "Oostduinkerke"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
+    "zone": "west",
     "scenario": {
       "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
       "en": "Fishers enter the sea on horseback to catch shrimp.",
@@ -262,79 +207,141 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
-      "en": "The horses pull nets through shallow water.",
-      "nl": "De paarden trekken netten door ondiep water."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
+  },
+  {
+    "id": "t003",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
+    },
+    "zone": "south",
+    "scenario": {
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+    },
+    "question": {
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
+    },
+    "answers": {
+      "fr": [
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
+      ],
+      "en": [
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
+      ],
+      "nl": [
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "explanation": {
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
+    },
+    "image": null
   },
   {
     "id": "t004",
     "mode": "traditions",
     "traditionName": {
-      "fr": "La Tomatina",
-      "en": "La Tomatina",
-      "nl": "La Tomatina"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Buñol",
-      "en": "Buñol",
-      "nl": "Buñol"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
+    "zone": "west",
     "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates.",
-      "en": "Thousands of people throw tomatoes at each other.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
-      "en": "In which country does this red battle take place?",
-      "nl": "In welk land vindt dit rode gevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Portugal",
-        "Espagne",
-        "Italie",
-        "Croatie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Portugal",
-        "Spain",
-        "Italy",
-        "Croatia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Portugal",
-        "Spanje",
-        "Italië",
-        "Kroatië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
-      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
-      "en": "This festival turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t005",
     "mode": "traditions",
     "traditionName": {
       "fr": "Bataille des oranges",
-      "en": "Bataille des oranges",
-      "nl": "Bataille des oranges"
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
       "fr": "Italie",
@@ -342,10 +349,11 @@ const TRADITIONS_30=[
       "nl": "Italië"
     },
     "region": {
-      "fr": "Ivrea",
-      "en": "Ivrea",
-      "nl": "Ivrea"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
+    "zone": "south",
     "scenario": {
       "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
       "en": "During a carnival, teams throw oranges at each other.",
@@ -382,139 +390,141 @@ const TRADITIONS_30=[
       "nl": "Italië"
     },
     "explanation": {
-      "fr": "Des équipes s’affrontent dans une mise en scène carnavalesque.",
-      "en": "Teams face each other in a carnival setting.",
-      "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t006",
     "mode": "traditions",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
+    "zone": "west",
     "scenario": {
-      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
-      "en": "Costumed participants jump over babies lying on mattresses.",
-      "nl": "Verklede deelnemers springen over baby’s op matrassen."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
-      "en": "In which country does this tradition take place?",
-      "nl": "In welk land vindt deze traditie plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Italie",
-        "Espagne",
-        "Portugal",
-        "Grèce"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Italy",
-        "Spain",
-        "Portugal",
-        "Greece"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Italië",
-        "Spanje",
-        "Portugal",
-        "Griekenland"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
-      "fr": "Des participants costumés effectuent un saut symbolique pendant des célébrations locales anciennes.",
-      "en": "Costumed participants perform a symbolic jump during old local celebrations.",
-      "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t007",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Championnat de portage de partenaire",
-      "en": "Championnat de portage de partenaire",
-      "nl": "Championnat de portage de partenaire"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Sonkajärvi",
-      "en": "Sonkajärvi",
-      "nl": "Sonkajärvi"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
+    "zone": "south",
     "scenario": {
-      "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
-      "en": "Competitors run while carrying their partner on their back.",
-      "nl": "Deelnemers lopen terwijl ze hun partner op de rug dragen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays se tient ce championnat ?",
-      "en": "In which country is this championship held?",
-      "nl": "In welk land wordt dit kampioenschap gehouden?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Estonie",
-        "Finlande",
-        "Suède",
-        "Lettonie"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Estonia",
-        "Finland",
-        "Sweden",
-        "Latvia"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Estland",
-        "Finland",
-        "Zweden",
-        "Letland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
-      "fr": "Le format combine vitesse, obstacles et équilibre.",
-      "en": "The format combines speed, obstacles and balance.",
-      "nl": "De formule combineert snelheid, hindernissen en evenwicht."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t008",
     "mode": "traditions",
     "traditionName": {
       "fr": "Pêche aux crevettes à cheval",
-      "en": "Pêche aux crevettes à cheval",
-      "nl": "Pêche aux crevettes à cheval"
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
       "fr": "Belgique",
@@ -522,10 +532,11 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "region": {
-      "fr": "Oostduinkerke",
-      "en": "Oostduinkerke",
-      "nl": "Oostduinkerke"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
+    "zone": "west",
     "scenario": {
       "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
       "en": "Fishers enter the sea on horseback to catch shrimp.",
@@ -562,79 +573,19 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
-      "en": "The horses pull nets through shallow water.",
-      "nl": "De paarden trekken netten door ondiep water."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t009",
     "mode": "traditions",
     "traditionName": {
-      "fr": "La Tomatina",
-      "en": "La Tomatina",
-      "nl": "La Tomatina"
-    },
-    "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "region": {
-      "fr": "Buñol",
-      "en": "Buñol",
-      "nl": "Buñol"
-    },
-    "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates.",
-      "en": "Thousands of people throw tomatoes at each other.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar."
-    },
-    "question": {
-      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
-      "en": "In which country does this red battle take place?",
-      "nl": "In welk land vindt dit rode gevecht plaats?"
-    },
-    "answers": {
-      "fr": [
-        "Portugal",
-        "Espagne",
-        "Italie",
-        "Croatie"
-      ],
-      "en": [
-        "Portugal",
-        "Spain",
-        "Italy",
-        "Croatia"
-      ],
-      "nl": [
-        "Portugal",
-        "Spanje",
-        "Italië",
-        "Kroatië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "explanation": {
-      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
-      "en": "This festival turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "t010",
-    "mode": "traditions",
-    "traditionName": {
       "fr": "Bataille des oranges",
-      "en": "Bataille des oranges",
-      "nl": "Bataille des oranges"
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
       "fr": "Italie",
@@ -642,10 +593,11 @@ const TRADITIONS_30=[
       "nl": "Italië"
     },
     "region": {
-      "fr": "Ivrea",
-      "en": "Ivrea",
-      "nl": "Ivrea"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
+    "zone": "south",
     "scenario": {
       "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
       "en": "During a carnival, teams throw oranges at each other.",
@@ -682,139 +634,19 @@ const TRADITIONS_30=[
       "nl": "Italië"
     },
     "explanation": {
-      "fr": "Des équipes s’affrontent dans une mise en scène carnavalesque.",
-      "en": "Teams face each other in a carnival setting.",
-      "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
-    "id": "t011",
-    "mode": "traditions",
-    "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho"
-    },
-    "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia"
-    },
-    "scenario": {
-      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
-      "en": "Costumed participants jump over babies lying on mattresses.",
-      "nl": "Verklede deelnemers springen over baby’s op matrassen."
-    },
-    "question": {
-      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
-      "en": "In which country does this tradition take place?",
-      "nl": "In welk land vindt deze traditie plaats?"
-    },
-    "answers": {
-      "fr": [
-        "Italie",
-        "Espagne",
-        "Portugal",
-        "Grèce"
-      ],
-      "en": [
-        "Italy",
-        "Spain",
-        "Portugal",
-        "Greece"
-      ],
-      "nl": [
-        "Italië",
-        "Spanje",
-        "Portugal",
-        "Griekenland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "explanation": {
-      "fr": "Des participants costumés effectuent un saut symbolique pendant des célébrations locales anciennes.",
-      "en": "Costumed participants perform a symbolic jump during old local celebrations.",
-      "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "t012",
-    "mode": "traditions",
-    "traditionName": {
-      "fr": "Championnat de portage de partenaire",
-      "en": "Championnat de portage de partenaire",
-      "nl": "Championnat de portage de partenaire"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
-    },
-    "region": {
-      "fr": "Sonkajärvi",
-      "en": "Sonkajärvi",
-      "nl": "Sonkajärvi"
-    },
-    "scenario": {
-      "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
-      "en": "Competitors run while carrying their partner on their back.",
-      "nl": "Deelnemers lopen terwijl ze hun partner op de rug dragen."
-    },
-    "question": {
-      "fr": "Dans quel pays se tient ce championnat ?",
-      "en": "In which country is this championship held?",
-      "nl": "In welk land wordt dit kampioenschap gehouden?"
-    },
-    "answers": {
-      "fr": [
-        "Estonie",
-        "Finlande",
-        "Suède",
-        "Lettonie"
-      ],
-      "en": [
-        "Estonia",
-        "Finland",
-        "Sweden",
-        "Latvia"
-      ],
-      "nl": [
-        "Estland",
-        "Finland",
-        "Zweden",
-        "Letland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
-    },
-    "explanation": {
-      "fr": "Le format combine vitesse, obstacles et équilibre.",
-      "en": "The format combines speed, obstacles and balance.",
-      "nl": "De formule combineert snelheid, hindernissen en evenwicht."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "t013",
+    "id": "t010",
     "mode": "traditions",
     "traditionName": {
       "fr": "Pêche aux crevettes à cheval",
-      "en": "Pêche aux crevettes à cheval",
-      "nl": "Pêche aux crevettes à cheval"
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
       "fr": "Belgique",
@@ -822,10 +654,11 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "region": {
-      "fr": "Oostduinkerke",
-      "en": "Oostduinkerke",
-      "nl": "Oostduinkerke"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
+    "zone": "west",
     "scenario": {
       "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
       "en": "Fishers enter the sea on horseback to catch shrimp.",
@@ -862,79 +695,263 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
-      "en": "The horses pull nets through shallow water.",
-      "nl": "De paarden trekken netten door ondiep water."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
+  },
+  {
+    "id": "t011",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
+    },
+    "zone": "south",
+    "scenario": {
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+    },
+    "question": {
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
+    },
+    "answers": {
+      "fr": [
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
+      ],
+      "en": [
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
+      ],
+      "nl": [
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "explanation": {
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
+    },
+    "image": null
+  },
+  {
+    "id": "t012",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
+    },
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "region": {
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
+    },
+    "zone": "west",
+    "scenario": {
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+    },
+    "question": {
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
+    },
+    "answers": {
+      "fr": [
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
+      ],
+      "en": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
+      ],
+      "nl": [
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "explanation": {
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
+    },
+    "image": null
+  },
+  {
+    "id": "t013",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
+    },
+    "zone": "south",
+    "scenario": {
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+    },
+    "question": {
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
+    },
+    "answers": {
+      "fr": [
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
+      ],
+      "en": [
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
+      ],
+      "nl": [
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "explanation": {
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
+    },
+    "image": null
   },
   {
     "id": "t014",
     "mode": "traditions",
     "traditionName": {
-      "fr": "La Tomatina",
-      "en": "La Tomatina",
-      "nl": "La Tomatina"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Buñol",
-      "en": "Buñol",
-      "nl": "Buñol"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
+    "zone": "west",
     "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates.",
-      "en": "Thousands of people throw tomatoes at each other.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
-      "en": "In which country does this red battle take place?",
-      "nl": "In welk land vindt dit rode gevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Portugal",
-        "Espagne",
-        "Italie",
-        "Croatie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Portugal",
-        "Spain",
-        "Italy",
-        "Croatia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Portugal",
-        "Spanje",
-        "Italië",
-        "Kroatië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
-      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
-      "en": "This festival turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t015",
     "mode": "traditions",
     "traditionName": {
       "fr": "Bataille des oranges",
-      "en": "Bataille des oranges",
-      "nl": "Bataille des oranges"
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
       "fr": "Italie",
@@ -942,10 +959,11 @@ const TRADITIONS_30=[
       "nl": "Italië"
     },
     "region": {
-      "fr": "Ivrea",
-      "en": "Ivrea",
-      "nl": "Ivrea"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
+    "zone": "south",
     "scenario": {
       "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
       "en": "During a carnival, teams throw oranges at each other.",
@@ -982,139 +1000,141 @@ const TRADITIONS_30=[
       "nl": "Italië"
     },
     "explanation": {
-      "fr": "Des équipes s’affrontent dans une mise en scène carnavalesque.",
-      "en": "Teams face each other in a carnival setting.",
-      "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t016",
     "mode": "traditions",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
+    "zone": "west",
     "scenario": {
-      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
-      "en": "Costumed participants jump over babies lying on mattresses.",
-      "nl": "Verklede deelnemers springen over baby’s op matrassen."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
-      "en": "In which country does this tradition take place?",
-      "nl": "In welk land vindt deze traditie plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Italie",
-        "Espagne",
-        "Portugal",
-        "Grèce"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Italy",
-        "Spain",
-        "Portugal",
-        "Greece"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Italië",
-        "Spanje",
-        "Portugal",
-        "Griekenland"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
-      "fr": "Des participants costumés effectuent un saut symbolique pendant des célébrations locales anciennes.",
-      "en": "Costumed participants perform a symbolic jump during old local celebrations.",
-      "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t017",
     "mode": "traditions",
     "traditionName": {
-      "fr": "Championnat de portage de partenaire",
-      "en": "Championnat de portage de partenaire",
-      "nl": "Championnat de portage de partenaire"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "region": {
-      "fr": "Sonkajärvi",
-      "en": "Sonkajärvi",
-      "nl": "Sonkajärvi"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
+    "zone": "south",
     "scenario": {
-      "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
-      "en": "Competitors run while carrying their partner on their back.",
-      "nl": "Deelnemers lopen terwijl ze hun partner op de rug dragen."
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
     },
     "question": {
-      "fr": "Dans quel pays se tient ce championnat ?",
-      "en": "In which country is this championship held?",
-      "nl": "In welk land wordt dit kampioenschap gehouden?"
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
     },
     "answers": {
       "fr": [
-        "Estonie",
-        "Finlande",
-        "Suède",
-        "Lettonie"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Estonia",
-        "Finland",
-        "Sweden",
-        "Latvia"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Estland",
-        "Finland",
-        "Zweden",
-        "Letland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ]
     },
     "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
-      "fr": "Le format combine vitesse, obstacles et équilibre.",
-      "en": "The format combines speed, obstacles and balance.",
-      "nl": "De formule combineert snelheid, hindernissen en evenwicht."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t018",
     "mode": "traditions",
     "traditionName": {
       "fr": "Pêche aux crevettes à cheval",
-      "en": "Pêche aux crevettes à cheval",
-      "nl": "Pêche aux crevettes à cheval"
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
       "fr": "Belgique",
@@ -1122,10 +1142,11 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "region": {
-      "fr": "Oostduinkerke",
-      "en": "Oostduinkerke",
-      "nl": "Oostduinkerke"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
+    "zone": "west",
     "scenario": {
       "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
       "en": "Fishers enter the sea on horseback to catch shrimp.",
@@ -1162,79 +1183,19 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
-      "en": "The horses pull nets through shallow water.",
-      "nl": "De paarden trekken netten door ondiep water."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t019",
     "mode": "traditions",
     "traditionName": {
-      "fr": "La Tomatina",
-      "en": "La Tomatina",
-      "nl": "La Tomatina"
-    },
-    "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "region": {
-      "fr": "Buñol",
-      "en": "Buñol",
-      "nl": "Buñol"
-    },
-    "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates.",
-      "en": "Thousands of people throw tomatoes at each other.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar."
-    },
-    "question": {
-      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
-      "en": "In which country does this red battle take place?",
-      "nl": "In welk land vindt dit rode gevecht plaats?"
-    },
-    "answers": {
-      "fr": [
-        "Portugal",
-        "Espagne",
-        "Italie",
-        "Croatie"
-      ],
-      "en": [
-        "Portugal",
-        "Spain",
-        "Italy",
-        "Croatia"
-      ],
-      "nl": [
-        "Portugal",
-        "Spanje",
-        "Italië",
-        "Kroatië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "explanation": {
-      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
-      "en": "This festival turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "t020",
-    "mode": "traditions",
-    "traditionName": {
       "fr": "Bataille des oranges",
-      "en": "Bataille des oranges",
-      "nl": "Bataille des oranges"
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
       "fr": "Italie",
@@ -1242,10 +1203,11 @@ const TRADITIONS_30=[
       "nl": "Italië"
     },
     "region": {
-      "fr": "Ivrea",
-      "en": "Ivrea",
-      "nl": "Ivrea"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
+    "zone": "south",
     "scenario": {
       "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
       "en": "During a carnival, teams throw oranges at each other.",
@@ -1282,139 +1244,19 @@ const TRADITIONS_30=[
       "nl": "Italië"
     },
     "explanation": {
-      "fr": "Des équipes s’affrontent dans une mise en scène carnavalesque.",
-      "en": "Teams face each other in a carnival setting.",
-      "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
-    "id": "t021",
-    "mode": "traditions",
-    "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho"
-    },
-    "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia"
-    },
-    "scenario": {
-      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
-      "en": "Costumed participants jump over babies lying on mattresses.",
-      "nl": "Verklede deelnemers springen over baby’s op matrassen."
-    },
-    "question": {
-      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
-      "en": "In which country does this tradition take place?",
-      "nl": "In welk land vindt deze traditie plaats?"
-    },
-    "answers": {
-      "fr": [
-        "Italie",
-        "Espagne",
-        "Portugal",
-        "Grèce"
-      ],
-      "en": [
-        "Italy",
-        "Spain",
-        "Portugal",
-        "Greece"
-      ],
-      "nl": [
-        "Italië",
-        "Spanje",
-        "Portugal",
-        "Griekenland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "explanation": {
-      "fr": "Des participants costumés effectuent un saut symbolique pendant des célébrations locales anciennes.",
-      "en": "Costumed participants perform a symbolic jump during old local celebrations.",
-      "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "t022",
-    "mode": "traditions",
-    "traditionName": {
-      "fr": "Championnat de portage de partenaire",
-      "en": "Championnat de portage de partenaire",
-      "nl": "Championnat de portage de partenaire"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
-    },
-    "region": {
-      "fr": "Sonkajärvi",
-      "en": "Sonkajärvi",
-      "nl": "Sonkajärvi"
-    },
-    "scenario": {
-      "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
-      "en": "Competitors run while carrying their partner on their back.",
-      "nl": "Deelnemers lopen terwijl ze hun partner op de rug dragen."
-    },
-    "question": {
-      "fr": "Dans quel pays se tient ce championnat ?",
-      "en": "In which country is this championship held?",
-      "nl": "In welk land wordt dit kampioenschap gehouden?"
-    },
-    "answers": {
-      "fr": [
-        "Estonie",
-        "Finlande",
-        "Suède",
-        "Lettonie"
-      ],
-      "en": [
-        "Estonia",
-        "Finland",
-        "Sweden",
-        "Latvia"
-      ],
-      "nl": [
-        "Estland",
-        "Finland",
-        "Zweden",
-        "Letland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
-    },
-    "explanation": {
-      "fr": "Le format combine vitesse, obstacles et équilibre.",
-      "en": "The format combines speed, obstacles and balance.",
-      "nl": "De formule combineert snelheid, hindernissen en evenwicht."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "t023",
+    "id": "t020",
     "mode": "traditions",
     "traditionName": {
       "fr": "Pêche aux crevettes à cheval",
-      "en": "Pêche aux crevettes à cheval",
-      "nl": "Pêche aux crevettes à cheval"
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
       "fr": "Belgique",
@@ -1422,10 +1264,11 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "region": {
-      "fr": "Oostduinkerke",
-      "en": "Oostduinkerke",
-      "nl": "Oostduinkerke"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
+    "zone": "west",
     "scenario": {
       "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
       "en": "Fishers enter the sea on horseback to catch shrimp.",
@@ -1462,79 +1305,263 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
-      "en": "The horses pull nets through shallow water.",
-      "nl": "De paarden trekken netten door ondiep water."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
+  },
+  {
+    "id": "t021",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
+    },
+    "zone": "south",
+    "scenario": {
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+    },
+    "question": {
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
+    },
+    "answers": {
+      "fr": [
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
+      ],
+      "en": [
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
+      ],
+      "nl": [
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "explanation": {
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
+    },
+    "image": null
+  },
+  {
+    "id": "t022",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
+    },
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "region": {
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
+    },
+    "zone": "west",
+    "scenario": {
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+    },
+    "question": {
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
+    },
+    "answers": {
+      "fr": [
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
+      ],
+      "en": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
+      ],
+      "nl": [
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "explanation": {
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
+    },
+    "image": null
+  },
+  {
+    "id": "t023",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
+    },
+    "zone": "south",
+    "scenario": {
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+    },
+    "question": {
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
+    },
+    "answers": {
+      "fr": [
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
+      ],
+      "en": [
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
+      ],
+      "nl": [
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "explanation": {
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
+    },
+    "image": null
   },
   {
     "id": "t024",
     "mode": "traditions",
     "traditionName": {
-      "fr": "La Tomatina",
-      "en": "La Tomatina",
-      "nl": "La Tomatina"
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "region": {
-      "fr": "Buñol",
-      "en": "Buñol",
-      "nl": "Buñol"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
+    "zone": "west",
     "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates.",
-      "en": "Thousands of people throw tomatoes at each other.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar."
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
     },
     "question": {
-      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
-      "en": "In which country does this red battle take place?",
-      "nl": "In welk land vindt dit rode gevecht plaats?"
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
     },
     "answers": {
       "fr": [
-        "Portugal",
-        "Espagne",
-        "Italie",
-        "Croatie"
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
       ],
       "en": [
-        "Portugal",
-        "Spain",
-        "Italy",
-        "Croatia"
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
       ],
       "nl": [
-        "Portugal",
-        "Spanje",
-        "Italië",
-        "Kroatië"
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
     },
     "explanation": {
-      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
-      "en": "This festival turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t025",
     "mode": "traditions",
     "traditionName": {
       "fr": "Bataille des oranges",
-      "en": "Bataille des oranges",
-      "nl": "Bataille des oranges"
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
       "fr": "Italie",
@@ -1542,10 +1569,11 @@ const TRADITIONS_30=[
       "nl": "Italië"
     },
     "region": {
-      "fr": "Ivrea",
-      "en": "Ivrea",
-      "nl": "Ivrea"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
+    "zone": "south",
     "scenario": {
       "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
       "en": "During a carnival, teams throw oranges at each other.",
@@ -1582,139 +1610,19 @@ const TRADITIONS_30=[
       "nl": "Italië"
     },
     "explanation": {
-      "fr": "Des équipes s’affrontent dans une mise en scène carnavalesque.",
-      "en": "Teams face each other in a carnival setting.",
-      "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
     "id": "t026",
     "mode": "traditions",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho"
-    },
-    "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia"
-    },
-    "scenario": {
-      "fr": "Des personnes costumées sautent par-dessus des bébés allongés sur des matelas.",
-      "en": "Costumed participants jump over babies lying on mattresses.",
-      "nl": "Verklede deelnemers springen over baby’s op matrassen."
-    },
-    "question": {
-      "fr": "Dans quel pays cette tradition a-t-elle lieu ?",
-      "en": "In which country does this tradition take place?",
-      "nl": "In welk land vindt deze traditie plaats?"
-    },
-    "answers": {
-      "fr": [
-        "Italie",
-        "Espagne",
-        "Portugal",
-        "Grèce"
-      ],
-      "en": [
-        "Italy",
-        "Spain",
-        "Portugal",
-        "Greece"
-      ],
-      "nl": [
-        "Italië",
-        "Spanje",
-        "Portugal",
-        "Griekenland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "explanation": {
-      "fr": "Des participants costumés effectuent un saut symbolique pendant des célébrations locales anciennes.",
-      "en": "Costumed participants perform a symbolic jump during old local celebrations.",
-      "nl": "Verklede deelnemers maken een symbolische sprong tijdens oude lokale vieringen."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "t027",
-    "mode": "traditions",
-    "traditionName": {
-      "fr": "Championnat de portage de partenaire",
-      "en": "Championnat de portage de partenaire",
-      "nl": "Championnat de portage de partenaire"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
-    },
-    "region": {
-      "fr": "Sonkajärvi",
-      "en": "Sonkajärvi",
-      "nl": "Sonkajärvi"
-    },
-    "scenario": {
-      "fr": "Des concurrents courent en portant leur partenaire sur le dos.",
-      "en": "Competitors run while carrying their partner on their back.",
-      "nl": "Deelnemers lopen terwijl ze hun partner op de rug dragen."
-    },
-    "question": {
-      "fr": "Dans quel pays se tient ce championnat ?",
-      "en": "In which country is this championship held?",
-      "nl": "In welk land wordt dit kampioenschap gehouden?"
-    },
-    "answers": {
-      "fr": [
-        "Estonie",
-        "Finlande",
-        "Suède",
-        "Lettonie"
-      ],
-      "en": [
-        "Estonia",
-        "Finland",
-        "Sweden",
-        "Latvia"
-      ],
-      "nl": [
-        "Estland",
-        "Finland",
-        "Zweden",
-        "Letland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
-    },
-    "explanation": {
-      "fr": "Le format combine vitesse, obstacles et équilibre.",
-      "en": "The format combines speed, obstacles and balance.",
-      "nl": "De formule combineert snelheid, hindernissen en evenwicht."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "t028",
-    "mode": "traditions",
-    "traditionName": {
       "fr": "Pêche aux crevettes à cheval",
-      "en": "Pêche aux crevettes à cheval",
-      "nl": "Pêche aux crevettes à cheval"
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
     },
     "country": {
       "fr": "Belgique",
@@ -1722,10 +1630,11 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "region": {
-      "fr": "Oostduinkerke",
-      "en": "Oostduinkerke",
-      "nl": "Oostduinkerke"
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
     },
+    "zone": "west",
     "scenario": {
       "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
       "en": "Fishers enter the sea on horseback to catch shrimp.",
@@ -1762,79 +1671,19 @@ const TRADITIONS_30=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les chevaux tirent des filets dans l’eau peu profonde.",
-      "en": "The horses pull nets through shallow water.",
-      "nl": "De paarden trekken netten door ondiep water."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
   },
   {
-    "id": "t029",
-    "mode": "traditions",
-    "traditionName": {
-      "fr": "La Tomatina",
-      "en": "La Tomatina",
-      "nl": "La Tomatina"
-    },
-    "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "region": {
-      "fr": "Buñol",
-      "en": "Buñol",
-      "nl": "Buñol"
-    },
-    "scenario": {
-      "fr": "Des milliers de personnes se lancent des tomates.",
-      "en": "Thousands of people throw tomatoes at each other.",
-      "nl": "Duizenden mensen gooien tomaten naar elkaar."
-    },
-    "question": {
-      "fr": "Dans quel pays cette bataille rouge a-t-elle lieu ?",
-      "en": "In which country does this red battle take place?",
-      "nl": "In welk land vindt dit rode gevecht plaats?"
-    },
-    "answers": {
-      "fr": [
-        "Portugal",
-        "Espagne",
-        "Italie",
-        "Croatie"
-      ],
-      "en": [
-        "Portugal",
-        "Spain",
-        "Italy",
-        "Croatia"
-      ],
-      "nl": [
-        "Portugal",
-        "Spanje",
-        "Italië",
-        "Kroatië"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje"
-    },
-    "explanation": {
-      "fr": "Cette fête transforme les rues en immense bataille de tomates.",
-      "en": "This festival turns the streets into a huge tomato battle.",
-      "nl": "Dit feest verandert de straten in een enorm tomatengevecht."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "t030",
+    "id": "t027",
     "mode": "traditions",
     "traditionName": {
       "fr": "Bataille des oranges",
-      "en": "Bataille des oranges",
-      "nl": "Bataille des oranges"
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
     },
     "country": {
       "fr": "Italie",
@@ -1842,10 +1691,11 @@ const TRADITIONS_30=[
       "nl": "Italië"
     },
     "region": {
-      "fr": "Ivrea",
-      "en": "Ivrea",
-      "nl": "Ivrea"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
     },
+    "zone": "south",
     "scenario": {
       "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
       "en": "During a carnival, teams throw oranges at each other.",
@@ -1882,11 +1732,194 @@ const TRADITIONS_30=[
       "nl": "Italië"
     },
     "explanation": {
-      "fr": "Des équipes s’affrontent dans une mise en scène carnavalesque.",
-      "en": "Teams face each other in a carnival setting.",
-      "nl": "Teams nemen het tegen elkaar op in een carnavaleske setting."
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
     },
-    "kind": "country"
+    "image": null
+  },
+  {
+    "id": "t028",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
+    },
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "region": {
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
+    },
+    "zone": "west",
+    "scenario": {
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+    },
+    "question": {
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
+    },
+    "answers": {
+      "fr": [
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
+      ],
+      "en": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
+      ],
+      "nl": [
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "explanation": {
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
+    },
+    "image": null
+  },
+  {
+    "id": "t029",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont"
+    },
+    "zone": "south",
+    "scenario": {
+      "fr": "Pendant un carnaval, des équipes se jettent des oranges.",
+      "en": "During a carnival, teams throw oranges at each other.",
+      "nl": "Tijdens een carnaval gooien teams sinaasappels naar elkaar."
+    },
+    "question": {
+      "fr": "Dans quel pays trouve-t-on cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?"
+    },
+    "answers": {
+      "fr": [
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
+      ],
+      "en": [
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
+      ],
+      "nl": [
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "explanation": {
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
+    },
+    "image": null
+  },
+  {
+    "id": "t030",
+    "mode": "traditions",
+    "traditionName": {
+      "fr": "Pêche aux crevettes à cheval",
+      "en": "Horseback shrimp fishing",
+      "nl": "Garnalenvissen te paard"
+    },
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "region": {
+      "fr": "Oostduinkerke, Flandre occidentale",
+      "en": "Oostduinkerke, West Flanders",
+      "nl": "Oostduinkerke, West-Vlaanderen"
+    },
+    "zone": "west",
+    "scenario": {
+      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes.",
+      "en": "Fishers enter the sea on horseback to catch shrimp.",
+      "nl": "Vissers gaan te paard de zee in om garnalen te vangen."
+    },
+    "question": {
+      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
+      "en": "In which country does this maritime tradition still exist?",
+      "nl": "In welk land bestaat deze maritieme traditie nog?"
+    },
+    "answers": {
+      "fr": [
+        "Belgique",
+        "Pays-Bas",
+        "Danemark",
+        "Allemagne"
+      ],
+      "en": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Germany"
+      ],
+      "nl": [
+        "België",
+        "Nederland",
+        "Denemarken",
+        "Duitsland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België"
+    },
+    "explanation": {
+      "fr": "Tradition européenne vérifiée.",
+      "en": "Verified European tradition.",
+      "nl": "Geverifieerde Europese traditie."
+    },
+    "image": null
   }
 ];
 const CULINARY_50=[
@@ -1899,15 +1932,16 @@ const CULINARY_50=[
       "nl": "Casu Marzu"
     },
     "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
       "fr": "Sardaigne",
       "en": "Sardinia",
       "nl": "Sardinië"
     },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    },
+    "zone": "south",
     "scenario": {
       "fr": "",
       "en": "",
@@ -1944,11 +1978,23 @@ const CULINARY_50=[
       "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Un fromage sarde connu pour sa fermentation très particulière.",
-      "en": "A Sardinian cheese known for its unusual fermentation.",
-      "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
+      "url": "https://stock.adobe.com/images/casu-marzu/69736294",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
+        "en": "Non-AI Adobe Stock photo: Casu Marzu",
+        "nl": "Niet-AI Adobe Stock-foto: Casu Marzu"
+      }
+    }
   },
   {
     "id": "c002",
@@ -1965,9 +2011,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
+      "en": "Scotland",
+      "nl": "Schotland"
     },
+    "zone": "west",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2004,11 +2051,23 @@ const CULINARY_50=[
       "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Un plat emblématique écossais traditionnellement associé à l’avoine, aux épices et aux abats.",
-      "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
-      "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
+      "url": "https://stock.adobe.com/images/haggis-neeps-and-tatties/422032025",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Haggis",
+        "en": "Non-AI Adobe Stock photo: Haggis",
+        "nl": "Niet-AI Adobe Stock-foto: Haggis"
+      }
+    }
   },
   {
     "id": "c003",
@@ -2024,10 +2083,11 @@ const CULINARY_50=[
       "nl": "Zweden"
     },
     "region": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden"
     },
+    "zone": "north",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2043,19 +2103,19 @@ const CULINARY_50=[
         "Du hareng fermenté",
         "Une charcuterie fumée",
         "Un dessert aux céréales",
-        "Une galette salée"
+        "Un fromage fermenté"
       ],
       "en": [
         "Fermented herring",
         "Smoked charcuterie",
         "A cereal dessert",
-        "A savoury pancake"
+        "A fermented cheese"
       ],
       "nl": [
         "Gefermenteerde haring",
         "Gerookte vleeswaren",
         "Een graandessert",
-        "Een hartige pannenkoek"
+        "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
@@ -2064,11 +2124,23 @@ const CULINARY_50=[
       "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Un poisson fermenté surtout connu pour son odeur très puissante.",
-      "en": "A fermented fish best known for its extremely strong smell.",
-      "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
+      "url": "https://stock.adobe.com/images/close-up-of-herring-fillet-out-of-a-surstromming-can/143413426",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Surströmming",
+        "en": "Non-AI Adobe Stock photo: Surströmming",
+        "nl": "Niet-AI Adobe Stock-foto: Surströmming"
+      }
+    }
   },
   {
     "id": "c004",
@@ -2085,9 +2157,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
+      "en": "Iceland",
+      "nl": "IJsland"
     },
+    "zone": "north",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2102,20 +2175,20 @@ const CULINARY_50=[
       "fr": [
         "Du requin fermenté",
         "Un dessert aux céréales",
-        "Une galette salée",
-        "Un plat de poisson séché"
+        "Un fromage fermenté",
+        "Une soupe de poisson"
       ],
       "en": [
         "Fermented shark",
         "A cereal dessert",
-        "A savoury pancake",
-        "A dried-fish dish"
+        "A fermented cheese",
+        "A fish soup"
       ],
       "nl": [
         "Gefermenteerde haai",
         "Een graandessert",
-        "Een hartige pannenkoek",
-        "Een gerecht met gedroogde vis"
+        "Een gefermenteerde kaas",
+        "Een vissoep"
       ]
     },
     "correctAnswer": {
@@ -2124,11 +2197,23 @@ const CULINARY_50=[
       "nl": "Gefermenteerde haai"
     },
     "explanation": {
-      "fr": "Une spécialité islandaise au goût très marqué.",
-      "en": "An Icelandic speciality with a very strong taste.",
-      "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
+      "url": "https://stock.adobe.com/images/specialty-of-iceland-called-hakarl-fermented-shark-in-open-warehouse-at-bjarnarhoefn/124049250",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Hákarl",
+        "en": "Non-AI Adobe Stock photo: Hákarl",
+        "nl": "Niet-AI Adobe Stock-foto: Hákarl"
+      }
+    }
   },
   {
     "id": "c005",
@@ -2144,10 +2229,11 @@ const CULINARY_50=[
       "nl": "Noorwegen"
     },
     "region": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen"
     },
+    "zone": "north",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2161,21 +2247,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Une tête de mouton traditionnelle",
-        "Une galette salée",
-        "Un plat de poisson séché",
-        "Une boisson fermentée"
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
       ],
       "en": [
         "A traditional sheep’s head",
-        "A savoury pancake",
-        "A dried-fish dish",
-        "A fermented drink"
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
       ],
       "nl": [
         "Een traditionele schapenkop",
-        "Een hartige pannenkoek",
-        "Een gerecht met gedroogde vis",
-        "Een gefermenteerde drank"
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
@@ -2184,11 +2270,23 @@ const CULINARY_50=[
       "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Un plat norvégien traditionnellement associé à certaines périodes de fête.",
-      "en": "A Norwegian dish traditionally associated with festive periods.",
-      "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
+      "url": "https://stock.adobe.com/fr/search?k=Smalahove&search_type=usertyped&filters%5Bgentech%5D=exclude&asset_id=213777525",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Smalahove",
+        "en": "Non-AI Adobe Stock photo: Smalahove",
+        "nl": "Niet-AI Adobe Stock-foto: Smalahove"
+      }
+    }
   },
   {
     "id": "c006",
@@ -2205,9 +2303,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Finlande / Suède",
-      "en": "Finlande / Suède",
-      "nl": "Finlande / Suède"
+      "en": "Finland / Sweden",
+      "nl": "Finland / Zweden"
     },
+    "zone": "north",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2221,21 +2320,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Des crêpes au sang",
-        "Un plat de poisson séché",
-        "Une boisson fermentée",
-        "Un fromage fermenté"
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
         "Blood pancakes",
-        "A dried-fish dish",
-        "A fermented drink",
-        "A fermented cheese"
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
         "Bloedpannenkoeken",
-        "Een gerecht met gedroogde vis",
-        "Een gefermenteerde drank",
-        "Een gefermenteerde kaas"
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
@@ -2244,11 +2343,23 @@ const CULINARY_50=[
       "nl": "Bloedpannenkoeken"
     },
     "explanation": {
-      "fr": "Des crêpes préparées à base de sang, consommées dans plusieurs régions du nord de l’Europe.",
-      "en": "Pancakes made with blood, eaten in several northern European regions.",
-      "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "blodplattar.jpg",
+      "path": "assets/food/blodplattar.jpg",
+      "adobeStockId": "411401459",
+      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
+      "url": "https://as1.ftcdn.net/v2/jpg/04/11/40/14/1000_F_411401459_YAcraR0t3Tdhg82dR9pdxJdXSVCLloF9.jpg",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Blodplättar",
+        "en": "Non-AI Adobe Stock photo: Blodplättar",
+        "nl": "Niet-AI Adobe Stock-foto: Blodplättar"
+      }
+    }
   },
   {
     "id": "c007",
@@ -2266,8 +2377,9 @@ const CULINARY_50=[
     "region": {
       "fr": "France",
       "en": "France",
-      "nl": "France"
+      "nl": "Frankrijk"
     },
+    "zone": "west",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2281,21 +2393,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Une saucisse à base d’intestins de porc",
-        "Une boisson fermentée",
-        "Un fromage fermenté",
-        "Une soupe de poisson"
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Un fromage fermenté"
       ],
       "en": [
         "A sausage made with pork intestines",
-        "A fermented drink",
-        "A fermented cheese",
-        "A fish soup"
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A fermented cheese"
       ],
       "nl": [
         "Een worst gemaakt met varkensdarmen",
-        "Een gefermenteerde drank",
-        "Een gefermenteerde kaas",
-        "Een vissoep"
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
@@ -2304,11 +2416,23 @@ const CULINARY_50=[
       "nl": "Een worst gemaakt met varkensdarmen"
     },
     "explanation": {
-      "fr": "Une spécialité charcutière française connue pour son goût et son odeur très marqués.",
-      "en": "A French charcuterie speciality known for its strong taste and smell.",
-      "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "andouillette.jpg",
+      "path": "assets/food/andouillette.jpg",
+      "adobeStockId": "233753049",
+      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
+      "url": "https://stock.adobe.com/images/andouillette/233753049",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Andouillette",
+        "en": "Non-AI Adobe Stock photo: Andouillette",
+        "nl": "Niet-AI Adobe Stock-foto: Andouillette"
+      }
+    }
   },
   {
     "id": "c008",
@@ -2325,9 +2449,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "en": "Finland",
+      "nl": "Finland"
     },
+    "zone": "north",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2341,21 +2466,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Un dessert de Pâques au seigle et au malt",
+        "Un dessert aux céréales",
         "Un fromage fermenté",
-        "Une soupe de poisson",
-        "Une charcuterie fumée"
+        "Une soupe de poisson"
       ],
       "en": [
         "An Easter dessert made with rye and malt",
+        "A cereal dessert",
         "A fermented cheese",
-        "A fish soup",
-        "Smoked charcuterie"
+        "A fish soup"
       ],
       "nl": [
         "Een paasdessert met rogge en mout",
+        "Een graandessert",
         "Een gefermenteerde kaas",
-        "Een vissoep",
-        "Gerookte vleeswaren"
+        "Een vissoep"
       ]
     },
     "correctAnswer": {
@@ -2364,11 +2489,23 @@ const CULINARY_50=[
       "nl": "Een paasdessert met rogge en mout"
     },
     "explanation": {
-      "fr": "Un dessert finlandais traditionnellement associé à Pâques.",
-      "en": "A Finnish dessert traditionally associated with Easter.",
-      "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "mammi.jpg",
+      "path": "assets/food/mammi.jpg",
+      "adobeStockId": "485041926",
+      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
+      "url": "https://stock.adobe.com/images/mammi-traditional-finnish-easter-dessert/485041926",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Mämmi",
+        "en": "Non-AI Adobe Stock photo: Mämmi",
+        "nl": "Niet-AI Adobe Stock-foto: Mämmi"
+      }
+    }
   },
   {
     "id": "c009",
@@ -2385,9 +2522,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Londres",
-      "en": "Londres",
-      "nl": "Londres"
+      "en": "London",
+      "nl": "Londen"
     },
+    "zone": "west",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2401,21 +2539,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Des anguilles servies dans une gelée froide",
+        "Un fromage fermenté",
         "Une soupe de poisson",
-        "Une charcuterie fumée",
-        "Un dessert aux céréales"
+        "Une charcuterie fumée"
       ],
       "en": [
         "Eels served in cold jelly",
+        "A fermented cheese",
         "A fish soup",
-        "Smoked charcuterie",
-        "A cereal dessert"
+        "Smoked charcuterie"
       ],
       "nl": [
         "Paling geserveerd in koude gelei",
+        "Een gefermenteerde kaas",
         "Een vissoep",
-        "Gerookte vleeswaren",
-        "Een graandessert"
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
@@ -2424,11 +2562,23 @@ const CULINARY_50=[
       "nl": "Paling geserveerd in koude gelei"
     },
     "explanation": {
-      "fr": "Une spécialité traditionnelle associée à Londres.",
-      "en": "A traditional speciality associated with London.",
-      "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "jellied-eels.jpg",
+      "path": "assets/food/jellied-eels.jpg",
+      "adobeStockId": "1254168402",
+      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
+      "url": "https://stock.adobe.com/fr/images/a-plate-of-iconic-jellied-eels-a-traditional-london-dish-served-with-vinegar-and-a-lemon-slice/1254168402",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Jellied eels",
+        "en": "Non-AI Adobe Stock photo: Jellied eels",
+        "nl": "Niet-AI Adobe Stock-foto: Jellied eels"
+      }
+    }
   },
   {
     "id": "c010",
@@ -2445,9 +2595,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
+      "en": "Poland",
+      "nl": "Polen"
     },
+    "zone": "central",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2461,21 +2612,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Une soupe au sang de canard",
+        "Une soupe de poisson",
         "Une charcuterie fumée",
-        "Un dessert aux céréales",
-        "Une galette salée"
+        "Un dessert aux céréales"
       ],
       "en": [
         "A duck-blood soup",
+        "A fish soup",
         "Smoked charcuterie",
-        "A cereal dessert",
-        "A savoury pancake"
+        "A cereal dessert"
       ],
       "nl": [
         "Een soep met eendenbloed",
+        "Een vissoep",
         "Gerookte vleeswaren",
-        "Een graandessert",
-        "Een hartige pannenkoek"
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
@@ -2484,14 +2635,391 @@ const CULINARY_50=[
       "nl": "Een soep met eendenbloed"
     },
     "explanation": {
-      "fr": "Une soupe polonaise traditionnelle au goût aigre-doux.",
-      "en": "A traditional Polish sweet-and-sour soup.",
-      "nl": "Een traditionele Poolse zoetzure soep."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "czernina.jpg",
+      "path": "assets/food/czernina.jpg",
+      "adobeStockId": "20264185",
+      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
+      "url": "https://stock.adobe.com/images/polish-duck-blood-soup-black-soup-czernina/20264185",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Czernina",
+        "en": "Non-AI Adobe Stock photo: Czernina",
+        "nl": "Niet-AI Adobe Stock-foto: Czernina"
+      }
+    }
   },
   {
     "id": "c011",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Ciorbă de burtă",
+      "en": "Ciorbă de burtă",
+      "nl": "Ciorbă de burtă"
+    },
+    "country": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië"
+    },
+    "region": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië"
+    },
+    "zone": "east",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Ciorbă de burtă ?",
+      "en": "What are Ciorbă de burtă?",
+      "nl": "Wat zijn Ciorbă de burtă?"
+    },
+    "answers": {
+      "fr": [
+        "Une soupe de tripes",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Un fromage fermenté"
+      ],
+      "en": [
+        "A tripe soup",
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A fermented cheese"
+      ],
+      "nl": [
+        "Een penssoep",
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een gefermenteerde kaas"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une soupe de tripes",
+      "en": "A tripe soup",
+      "nl": "Een penssoep"
+    },
+    "explanation": {
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
+    },
+    "image": {
+      "file": "ciorba-de-burta.jpg",
+      "path": "assets/food/ciorba-de-burta.jpg",
+      "adobeStockId": "198001933",
+      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
+      "url": "https://stock.adobe.com/images/romanian-traditional-soup-ciorba-de-burta-seasoned-with-vinegar-and-horseradish/198001933",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Ciorbă de burtă",
+        "en": "Non-AI Adobe Stock photo: Ciorbă de burtă",
+        "nl": "Niet-AI Adobe Stock-foto: Ciorbă de burtă"
+      }
+    }
+  },
+  {
+    "id": "c012",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Kokoretsi",
+      "en": "Kokoretsi",
+      "nl": "Kokoretsi"
+    },
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece",
+      "nl": "Griekenland"
+    },
+    "region": {
+      "fr": "Grèce",
+      "en": "Greece",
+      "nl": "Griekenland"
+    },
+    "zone": "south",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Kokoretsi ?",
+      "en": "What are Kokoretsi?",
+      "nl": "Wat zijn Kokoretsi?"
+    },
+    "answers": {
+      "fr": [
+        "Une spécialité d’abats grillés",
+        "Un dessert aux céréales",
+        "Un fromage fermenté",
+        "Une soupe de poisson"
+      ],
+      "en": [
+        "A grilled offal speciality",
+        "A cereal dessert",
+        "A fermented cheese",
+        "A fish soup"
+      ],
+      "nl": [
+        "Een specialiteit van gegrild orgaanvlees",
+        "Een graandessert",
+        "Een gefermenteerde kaas",
+        "Een vissoep"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une spécialité d’abats grillés",
+      "en": "A grilled offal speciality",
+      "nl": "Een specialiteit van gegrild orgaanvlees"
+    },
+    "explanation": {
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
+    },
+    "image": {
+      "file": "kokoretsi.jpg",
+      "path": "assets/food/kokoretsi.jpg",
+      "adobeStockId": "271480410",
+      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
+      "url": "https://stock.adobe.com/fr/images/greek-easter-custom-kokoretsi-kokorec-and-lamb-sheep-kid-grilling-on-spits-over-charcoals-fire/271480410",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Kokoretsi",
+        "en": "Non-AI Adobe Stock photo: Kokoretsi",
+        "nl": "Niet-AI Adobe Stock-foto: Kokoretsi"
+      }
+    }
+  },
+  {
+    "id": "c013",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Labskaus",
+      "en": "Labskaus",
+      "nl": "Labskaus"
+    },
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland"
+    },
+    "region": {
+      "fr": "Nord de l’Allemagne",
+      "en": "Northern Germany",
+      "nl": "Noord-Duitsland"
+    },
+    "zone": "central",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Labskaus ?",
+      "en": "What are Labskaus?",
+      "nl": "Wat zijn Labskaus?"
+    },
+    "answers": {
+      "fr": [
+        "Un plat de marins à base de viande, pommes de terre et betterave",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
+      ],
+      "en": [
+        "A sailors’ dish with meat, potatoes and beetroot",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
+      ],
+      "nl": [
+        "Een zeemansgerecht met vlees, aardappelen en biet",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un plat de marins à base de viande, pommes de terre et betterave",
+      "en": "A sailors’ dish with meat, potatoes and beetroot",
+      "nl": "Een zeemansgerecht met vlees, aardappelen en biet"
+    },
+    "explanation": {
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
+    },
+    "image": {
+      "file": "labskaus.jpg",
+      "path": "assets/food/labskaus.jpg",
+      "adobeStockId": "234422895",
+      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
+      "url": "https://stock.adobe.com/images/german-cuisine-labskaus-is-a-mashed-potato-corned-beef-and-beetroot-with-fried-egg-pickled-cucumbers-and-rollmop-close-up-horizontal-top-view/234422895",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Labskaus",
+        "en": "Non-AI Adobe Stock photo: Labskaus",
+        "nl": "Niet-AI Adobe Stock-foto: Labskaus"
+      }
+    }
+  },
+  {
+    "id": "c014",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Tripas à moda do Porto",
+      "en": "Tripas à moda do Porto",
+      "nl": "Tripas à moda do Porto"
+    },
+    "country": {
+      "fr": "Portugal",
+      "en": "Portugal",
+      "nl": "Portugal"
+    },
+    "region": {
+      "fr": "Porto",
+      "en": "Porto",
+      "nl": "Porto"
+    },
+    "zone": "south",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Tripas à moda do Porto ?",
+      "en": "What are Tripas à moda do Porto?",
+      "nl": "Wat zijn Tripas à moda do Porto?"
+    },
+    "answers": {
+      "fr": [
+        "Un plat de tripes traditionnel",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
+      ],
+      "en": [
+        "A traditional tripe dish",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
+      ],
+      "nl": [
+        "Een traditioneel pensgerecht",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un plat de tripes traditionnel",
+      "en": "A traditional tripe dish",
+      "nl": "Een traditioneel pensgerecht"
+    },
+    "explanation": {
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
+    },
+    "image": {
+      "file": "tripas-porto.jpg",
+      "path": "assets/food/tripas-porto.jpg",
+      "adobeStockId": "649614974",
+      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
+      "url": "https://stock.adobe.com/images/typical-portuguese-dish-tripas-a-moda-do-porto/649614974",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Tripas à moda do Porto",
+        "en": "Non-AI Adobe Stock photo: Tripas à moda do Porto",
+        "nl": "Niet-AI Adobe Stock-foto: Tripas à moda do Porto"
+      }
+    }
+  },
+  {
+    "id": "c015",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Sklandrausis",
+      "en": "Sklandrausis",
+      "nl": "Sklandrausis"
+    },
+    "country": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland"
+    },
+    "region": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland"
+    },
+    "zone": "north",
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": ""
+    },
+    "question": {
+      "fr": "Que sont les Sklandrausis ?",
+      "en": "What are Sklandrausis?",
+      "nl": "Wat zijn Sklandrausis?"
+    },
+    "answers": {
+      "fr": [
+        "Une tartelette traditionnelle au seigle et aux légumes",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Un fromage fermenté"
+      ],
+      "en": [
+        "A traditional rye and vegetable tartlet",
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A fermented cheese"
+      ],
+      "nl": [
+        "Een traditioneel taartje met rogge en groenten",
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een gefermenteerde kaas"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une tartelette traditionnelle au seigle et aux légumes",
+      "en": "A traditional rye and vegetable tartlet",
+      "nl": "Een traditioneel taartje met rogge en groenten"
+    },
+    "explanation": {
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
+    },
+    "image": {
+      "file": "sklandrausis.jpg",
+      "path": "assets/food/sklandrausis.jpg",
+      "adobeStockId": "387591373",
+      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
+      "url": "https://stock.adobe.com/fr/images/traditional-latvian-carrot-at-the-sklandrausis-latvian-dessert-at-sklandrausis-with-carrot-and-rye-dough/387591373",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Sklandrausis",
+        "en": "Non-AI Adobe Stock photo: Sklandrausis",
+        "nl": "Niet-AI Adobe Stock-foto: Sklandrausis"
+      }
+    }
+  },
+  {
+    "id": "c016",
     "mode": "culinary",
     "traditionName": {
       "fr": "Casu Marzu",
@@ -2499,15 +3027,16 @@ const CULINARY_50=[
       "nl": "Casu Marzu"
     },
     "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
       "fr": "Sardaigne",
       "en": "Sardinia",
       "nl": "Sardinië"
     },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    },
+    "zone": "south",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2522,20 +3051,20 @@ const CULINARY_50=[
       "fr": [
         "Un fromage contenant des larves vivantes",
         "Un dessert aux céréales",
-        "Une galette salée",
-        "Un plat de poisson séché"
+        "Un fromage fermenté",
+        "Une soupe de poisson"
       ],
       "en": [
         "A cheese containing live larvae",
         "A cereal dessert",
-        "A savoury pancake",
-        "A dried-fish dish"
+        "A fermented cheese",
+        "A fish soup"
       ],
       "nl": [
         "Een kaas met levende larven",
         "Een graandessert",
-        "Een hartige pannenkoek",
-        "Een gerecht met gedroogde vis"
+        "Een gefermenteerde kaas",
+        "Een vissoep"
       ]
     },
     "correctAnswer": {
@@ -2544,14 +3073,26 @@ const CULINARY_50=[
       "nl": "Een kaas met levende larven"
     },
     "explanation": {
-      "fr": "Un fromage sarde connu pour sa fermentation très particulière.",
-      "en": "A Sardinian cheese known for its unusual fermentation.",
-      "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
+      "url": "https://stock.adobe.com/images/casu-marzu/69736294",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
+        "en": "Non-AI Adobe Stock photo: Casu Marzu",
+        "nl": "Niet-AI Adobe Stock-foto: Casu Marzu"
+      }
+    }
   },
   {
-    "id": "c012",
+    "id": "c017",
     "mode": "culinary",
     "traditionName": {
       "fr": "Haggis",
@@ -2565,9 +3106,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
+      "en": "Scotland",
+      "nl": "Schotland"
     },
+    "zone": "west",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2581,21 +3123,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Un plat à base d’abats de mouton",
-        "Une galette salée",
-        "Un plat de poisson séché",
-        "Une boisson fermentée"
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
       ],
       "en": [
         "A dish made with sheep offal",
-        "A savoury pancake",
-        "A dried-fish dish",
-        "A fermented drink"
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
       ],
       "nl": [
         "Een gerecht met schapenorgaanvlees",
-        "Een hartige pannenkoek",
-        "Een gerecht met gedroogde vis",
-        "Een gefermenteerde drank"
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
@@ -2604,14 +3146,26 @@ const CULINARY_50=[
       "nl": "Een gerecht met schapenorgaanvlees"
     },
     "explanation": {
-      "fr": "Un plat emblématique écossais traditionnellement associé à l’avoine, aux épices et aux abats.",
-      "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
-      "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
+      "url": "https://stock.adobe.com/images/haggis-neeps-and-tatties/422032025",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Haggis",
+        "en": "Non-AI Adobe Stock photo: Haggis",
+        "nl": "Niet-AI Adobe Stock-foto: Haggis"
+      }
+    }
   },
   {
-    "id": "c013",
+    "id": "c018",
     "mode": "culinary",
     "traditionName": {
       "fr": "Surströmming",
@@ -2624,10 +3178,11 @@ const CULINARY_50=[
       "nl": "Zweden"
     },
     "region": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden"
     },
+    "zone": "north",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2641,21 +3196,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Du hareng fermenté",
-        "Un plat de poisson séché",
-        "Une boisson fermentée",
-        "Un fromage fermenté"
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
         "Fermented herring",
-        "A dried-fish dish",
-        "A fermented drink",
-        "A fermented cheese"
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
         "Gefermenteerde haring",
-        "Een gerecht met gedroogde vis",
-        "Een gefermenteerde drank",
-        "Een gefermenteerde kaas"
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
@@ -2664,14 +3219,26 @@ const CULINARY_50=[
       "nl": "Gefermenteerde haring"
     },
     "explanation": {
-      "fr": "Un poisson fermenté surtout connu pour son odeur très puissante.",
-      "en": "A fermented fish best known for its extremely strong smell.",
-      "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
+      "url": "https://stock.adobe.com/images/close-up-of-herring-fillet-out-of-a-surstromming-can/143413426",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Surströmming",
+        "en": "Non-AI Adobe Stock photo: Surströmming",
+        "nl": "Niet-AI Adobe Stock-foto: Surströmming"
+      }
+    }
   },
   {
-    "id": "c014",
+    "id": "c019",
     "mode": "culinary",
     "traditionName": {
       "fr": "Hákarl",
@@ -2685,9 +3252,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
+      "en": "Iceland",
+      "nl": "IJsland"
     },
+    "zone": "north",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2701,21 +3269,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Du requin fermenté",
-        "Une boisson fermentée",
-        "Un fromage fermenté",
-        "Une soupe de poisson"
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Un fromage fermenté"
       ],
       "en": [
         "Fermented shark",
-        "A fermented drink",
-        "A fermented cheese",
-        "A fish soup"
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A fermented cheese"
       ],
       "nl": [
         "Gefermenteerde haai",
-        "Een gefermenteerde drank",
-        "Een gefermenteerde kaas",
-        "Een vissoep"
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
@@ -2724,14 +3292,26 @@ const CULINARY_50=[
       "nl": "Gefermenteerde haai"
     },
     "explanation": {
-      "fr": "Une spécialité islandaise au goût très marqué.",
-      "en": "An Icelandic speciality with a very strong taste.",
-      "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
+      "url": "https://stock.adobe.com/images/specialty-of-iceland-called-hakarl-fermented-shark-in-open-warehouse-at-bjarnarhoefn/124049250",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Hákarl",
+        "en": "Non-AI Adobe Stock photo: Hákarl",
+        "nl": "Niet-AI Adobe Stock-foto: Hákarl"
+      }
+    }
   },
   {
-    "id": "c015",
+    "id": "c020",
     "mode": "culinary",
     "traditionName": {
       "fr": "Smalahove",
@@ -2744,10 +3324,11 @@ const CULINARY_50=[
       "nl": "Noorwegen"
     },
     "region": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen"
     },
+    "zone": "north",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2761,21 +3342,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Une tête de mouton traditionnelle",
+        "Un dessert aux céréales",
         "Un fromage fermenté",
-        "Une soupe de poisson",
-        "Une charcuterie fumée"
+        "Une soupe de poisson"
       ],
       "en": [
         "A traditional sheep’s head",
+        "A cereal dessert",
         "A fermented cheese",
-        "A fish soup",
-        "Smoked charcuterie"
+        "A fish soup"
       ],
       "nl": [
         "Een traditionele schapenkop",
+        "Een graandessert",
         "Een gefermenteerde kaas",
-        "Een vissoep",
-        "Gerookte vleeswaren"
+        "Een vissoep"
       ]
     },
     "correctAnswer": {
@@ -2784,14 +3365,26 @@ const CULINARY_50=[
       "nl": "Een traditionele schapenkop"
     },
     "explanation": {
-      "fr": "Un plat norvégien traditionnellement associé à certaines périodes de fête.",
-      "en": "A Norwegian dish traditionally associated with festive periods.",
-      "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
+      "url": "https://stock.adobe.com/fr/search?k=Smalahove&search_type=usertyped&filters%5Bgentech%5D=exclude&asset_id=213777525",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Smalahove",
+        "en": "Non-AI Adobe Stock photo: Smalahove",
+        "nl": "Niet-AI Adobe Stock-foto: Smalahove"
+      }
+    }
   },
   {
-    "id": "c016",
+    "id": "c021",
     "mode": "culinary",
     "traditionName": {
       "fr": "Blodplättar",
@@ -2805,9 +3398,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Finlande / Suède",
-      "en": "Finlande / Suède",
-      "nl": "Finlande / Suède"
+      "en": "Finland / Sweden",
+      "nl": "Finland / Zweden"
     },
+    "zone": "north",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2821,21 +3415,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Des crêpes au sang",
+        "Un fromage fermenté",
         "Une soupe de poisson",
-        "Une charcuterie fumée",
-        "Un dessert aux céréales"
+        "Une charcuterie fumée"
       ],
       "en": [
         "Blood pancakes",
+        "A fermented cheese",
         "A fish soup",
-        "Smoked charcuterie",
-        "A cereal dessert"
+        "Smoked charcuterie"
       ],
       "nl": [
         "Bloedpannenkoeken",
+        "Een gefermenteerde kaas",
         "Een vissoep",
-        "Gerookte vleeswaren",
-        "Een graandessert"
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
@@ -2844,14 +3438,26 @@ const CULINARY_50=[
       "nl": "Bloedpannenkoeken"
     },
     "explanation": {
-      "fr": "Des crêpes préparées à base de sang, consommées dans plusieurs régions du nord de l’Europe.",
-      "en": "Pancakes made with blood, eaten in several northern European regions.",
-      "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "blodplattar.jpg",
+      "path": "assets/food/blodplattar.jpg",
+      "adobeStockId": "411401459",
+      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
+      "url": "https://as1.ftcdn.net/v2/jpg/04/11/40/14/1000_F_411401459_YAcraR0t3Tdhg82dR9pdxJdXSVCLloF9.jpg",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Blodplättar",
+        "en": "Non-AI Adobe Stock photo: Blodplättar",
+        "nl": "Niet-AI Adobe Stock-foto: Blodplättar"
+      }
+    }
   },
   {
-    "id": "c017",
+    "id": "c022",
     "mode": "culinary",
     "traditionName": {
       "fr": "Andouillette",
@@ -2866,8 +3472,9 @@ const CULINARY_50=[
     "region": {
       "fr": "France",
       "en": "France",
-      "nl": "France"
+      "nl": "Frankrijk"
     },
+    "zone": "west",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2881,21 +3488,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Une saucisse à base d’intestins de porc",
+        "Une soupe de poisson",
         "Une charcuterie fumée",
-        "Un dessert aux céréales",
-        "Une galette salée"
+        "Un dessert aux céréales"
       ],
       "en": [
         "A sausage made with pork intestines",
+        "A fish soup",
         "Smoked charcuterie",
-        "A cereal dessert",
-        "A savoury pancake"
+        "A cereal dessert"
       ],
       "nl": [
         "Een worst gemaakt met varkensdarmen",
+        "Een vissoep",
         "Gerookte vleeswaren",
-        "Een graandessert",
-        "Een hartige pannenkoek"
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
@@ -2904,14 +3511,26 @@ const CULINARY_50=[
       "nl": "Een worst gemaakt met varkensdarmen"
     },
     "explanation": {
-      "fr": "Une spécialité charcutière française connue pour son goût et son odeur très marqués.",
-      "en": "A French charcuterie speciality known for its strong taste and smell.",
-      "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "andouillette.jpg",
+      "path": "assets/food/andouillette.jpg",
+      "adobeStockId": "233753049",
+      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
+      "url": "https://stock.adobe.com/images/andouillette/233753049",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Andouillette",
+        "en": "Non-AI Adobe Stock photo: Andouillette",
+        "nl": "Niet-AI Adobe Stock-foto: Andouillette"
+      }
+    }
   },
   {
-    "id": "c018",
+    "id": "c023",
     "mode": "culinary",
     "traditionName": {
       "fr": "Mämmi",
@@ -2925,9 +3544,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "en": "Finland",
+      "nl": "Finland"
     },
+    "zone": "north",
     "scenario": {
       "fr": "",
       "en": "",
@@ -2941,21 +3561,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Un dessert de Pâques au seigle et au malt",
+        "Une charcuterie fumée",
         "Un dessert aux céréales",
-        "Une galette salée",
-        "Un plat de poisson séché"
+        "Un fromage fermenté"
       ],
       "en": [
         "An Easter dessert made with rye and malt",
+        "Smoked charcuterie",
         "A cereal dessert",
-        "A savoury pancake",
-        "A dried-fish dish"
+        "A fermented cheese"
       ],
       "nl": [
         "Een paasdessert met rogge en mout",
+        "Gerookte vleeswaren",
         "Een graandessert",
-        "Een hartige pannenkoek",
-        "Een gerecht met gedroogde vis"
+        "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
@@ -2964,14 +3584,26 @@ const CULINARY_50=[
       "nl": "Een paasdessert met rogge en mout"
     },
     "explanation": {
-      "fr": "Un dessert finlandais traditionnellement associé à Pâques.",
-      "en": "A Finnish dessert traditionally associated with Easter.",
-      "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "mammi.jpg",
+      "path": "assets/food/mammi.jpg",
+      "adobeStockId": "485041926",
+      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
+      "url": "https://stock.adobe.com/images/mammi-traditional-finnish-easter-dessert/485041926",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Mämmi",
+        "en": "Non-AI Adobe Stock photo: Mämmi",
+        "nl": "Niet-AI Adobe Stock-foto: Mämmi"
+      }
+    }
   },
   {
-    "id": "c019",
+    "id": "c024",
     "mode": "culinary",
     "traditionName": {
       "fr": "Jellied eels",
@@ -2985,9 +3617,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Londres",
-      "en": "Londres",
-      "nl": "Londres"
+      "en": "London",
+      "nl": "Londen"
     },
+    "zone": "west",
     "scenario": {
       "fr": "",
       "en": "",
@@ -3001,21 +3634,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Des anguilles servies dans une gelée froide",
-        "Une galette salée",
-        "Un plat de poisson séché",
-        "Une boisson fermentée"
+        "Un dessert aux céréales",
+        "Un fromage fermenté",
+        "Une soupe de poisson"
       ],
       "en": [
         "Eels served in cold jelly",
-        "A savoury pancake",
-        "A dried-fish dish",
-        "A fermented drink"
+        "A cereal dessert",
+        "A fermented cheese",
+        "A fish soup"
       ],
       "nl": [
         "Paling geserveerd in koude gelei",
-        "Een hartige pannenkoek",
-        "Een gerecht met gedroogde vis",
-        "Een gefermenteerde drank"
+        "Een graandessert",
+        "Een gefermenteerde kaas",
+        "Een vissoep"
       ]
     },
     "correctAnswer": {
@@ -3024,14 +3657,26 @@ const CULINARY_50=[
       "nl": "Paling geserveerd in koude gelei"
     },
     "explanation": {
-      "fr": "Une spécialité traditionnelle associée à Londres.",
-      "en": "A traditional speciality associated with London.",
-      "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "jellied-eels.jpg",
+      "path": "assets/food/jellied-eels.jpg",
+      "adobeStockId": "1254168402",
+      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
+      "url": "https://stock.adobe.com/fr/images/a-plate-of-iconic-jellied-eels-a-traditional-london-dish-served-with-vinegar-and-a-lemon-slice/1254168402",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Jellied eels",
+        "en": "Non-AI Adobe Stock photo: Jellied eels",
+        "nl": "Niet-AI Adobe Stock-foto: Jellied eels"
+      }
+    }
   },
   {
-    "id": "c020",
+    "id": "c025",
     "mode": "culinary",
     "traditionName": {
       "fr": "Czernina",
@@ -3045,9 +3690,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
+      "en": "Poland",
+      "nl": "Polen"
     },
+    "zone": "central",
     "scenario": {
       "fr": "",
       "en": "",
@@ -3061,21 +3707,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Une soupe au sang de canard",
-        "Un plat de poisson séché",
-        "Une boisson fermentée",
-        "Un fromage fermenté"
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
       ],
       "en": [
         "A duck-blood soup",
-        "A dried-fish dish",
-        "A fermented drink",
-        "A fermented cheese"
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
       ],
       "nl": [
         "Een soep met eendenbloed",
-        "Een gerecht met gedroogde vis",
-        "Een gefermenteerde drank",
-        "Een gefermenteerde kaas"
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
@@ -3084,611 +3730,388 @@ const CULINARY_50=[
       "nl": "Een soep met eendenbloed"
     },
     "explanation": {
-      "fr": "Une soupe polonaise traditionnelle au goût aigre-doux.",
-      "en": "A traditional Polish sweet-and-sour soup.",
-      "nl": "Een traditionele Poolse zoetzure soep."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
-  },
-  {
-    "id": "c021",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu"
-    },
-    "country": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië"
-    },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    },
-    "scenario": {
-      "fr": "Le plat s’appelle Casu Marzu.",
-      "en": "The dish is called Casu Marzu.",
-      "nl": "Het gerecht heet Casu Marzu."
-    },
-    "question": {
-      "fr": "Dans quel pays ou région le Casu Marzu est-il traditionnel ?",
-      "en": "In which country or region is Casu Marzu traditional?",
-      "nl": "In welk land of welke regio is Casu Marzu traditioneel?"
-    },
-    "answers": {
-      "fr": [
-        "Sardaigne",
-        "Catalogne",
-        "Bavière",
-        "Bretagne"
-      ],
-      "en": [
-        "Sardinia",
-        "Catalonia",
-        "Bavaria",
-        "Brittany"
-      ],
-      "nl": [
-        "Sardinië",
-        "Catalonië",
-        "Beieren",
-        "Bretagne"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië"
-    },
-    "explanation": {
-      "fr": "Un fromage sarde connu pour sa fermentation très particulière.",
-      "en": "A Sardinian cheese known for its unusual fermentation.",
-      "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "c022",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis"
-    },
-    "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland"
-    },
-    "region": {
-      "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
-    },
-    "scenario": {
-      "fr": "Le plat s’appelle Haggis.",
-      "en": "The dish is called Haggis.",
-      "nl": "Het gerecht heet Haggis."
-    },
-    "question": {
-      "fr": "Dans quel pays ou région le Haggis est-il traditionnel ?",
-      "en": "In which country or region is Haggis traditional?",
-      "nl": "In welk land of welke regio is Haggis traditioneel?"
-    },
-    "answers": {
-      "fr": [
-        "Irlande",
-        "Écosse",
-        "Pays-Bas",
-        "Danemark"
-      ],
-      "en": [
-        "Ireland",
-        "Scotland",
-        "Netherlands",
-        "Denmark"
-      ],
-      "nl": [
-        "Ierland",
-        "Schotland",
-        "Nederland",
-        "Denemarken"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland"
-    },
-    "explanation": {
-      "fr": "Un plat emblématique écossais traditionnellement associé à l’avoine, aux épices et aux abats.",
-      "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
-      "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "c023",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming"
-    },
-    "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden"
-    },
-    "region": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
-    },
-    "scenario": {
-      "fr": "Le plat s’appelle Surströmming.",
-      "en": "The dish is called Surströmming.",
-      "nl": "Het gerecht heet Surströmming."
-    },
-    "question": {
-      "fr": "Dans quel pays ou région le Surströmming est-il traditionnel ?",
-      "en": "In which country or region is Surströmming traditional?",
-      "nl": "In welk land of welke regio is Surströmming traditioneel?"
-    },
-    "answers": {
-      "fr": [
-        "Finlande",
-        "Suède",
-        "Danemark",
-        "Estonie"
-      ],
-      "en": [
-        "Finland",
-        "Sweden",
-        "Denmark",
-        "Estonia"
-      ],
-      "nl": [
-        "Finland",
-        "Zweden",
-        "Denemarken",
-        "Estland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden"
-    },
-    "explanation": {
-      "fr": "Un poisson fermenté surtout connu pour son odeur très puissante.",
-      "en": "A fermented fish best known for its extremely strong smell.",
-      "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "c024",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Hákarl",
-      "en": "Hákarl",
-      "nl": "Hákarl"
-    },
-    "country": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland"
-    },
-    "region": {
-      "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
-    },
-    "scenario": {
-      "fr": "Le plat s’appelle Hákarl.",
-      "en": "The dish is called Hákarl.",
-      "nl": "Het gerecht heet Hákarl."
-    },
-    "question": {
-      "fr": "Dans quel pays ou région le Hákarl est-il traditionnel ?",
-      "en": "In which country or region is Hákarl traditional?",
-      "nl": "In welk land of welke regio is Hákarl traditioneel?"
-    },
-    "answers": {
-      "fr": [
-        "Norvège",
-        "Islande",
-        "Suède",
-        "Danemark"
-      ],
-      "en": [
-        "Norway",
-        "Iceland",
-        "Sweden",
-        "Denmark"
-      ],
-      "nl": [
-        "Noorwegen",
-        "IJsland",
-        "Zweden",
-        "Denemarken"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland"
-    },
-    "explanation": {
-      "fr": "Une spécialité islandaise au goût très marqué.",
-      "en": "An Icelandic speciality with a very strong taste.",
-      "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
-    },
-    "kind": "country"
-  },
-  {
-    "id": "c025",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Smalahove",
-      "en": "Smalahove",
-      "nl": "Smalahove"
-    },
-    "country": {
-      "fr": "Norvège",
-      "en": "Norway",
-      "nl": "Noorwegen"
-    },
-    "region": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
-    },
-    "scenario": {
-      "fr": "Le plat s’appelle Smalahove.",
-      "en": "The dish is called Smalahove.",
-      "nl": "Het gerecht heet Smalahove."
-    },
-    "question": {
-      "fr": "Dans quel pays ou région le Smalahove est-il traditionnel ?",
-      "en": "In which country or region is Smalahove traditional?",
-      "nl": "In welk land of welke regio is Smalahove traditioneel?"
-    },
-    "answers": {
-      "fr": [
-        "Norvège",
-        "Écosse",
-        "Irlande",
-        "Allemagne"
-      ],
-      "en": [
-        "Norway",
-        "Scotland",
-        "Ireland",
-        "Germany"
-      ],
-      "nl": [
-        "Noorwegen",
-        "Schotland",
-        "Ierland",
-        "Duitsland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Norvège",
-      "en": "Norway",
-      "nl": "Noorwegen"
-    },
-    "explanation": {
-      "fr": "Un plat norvégien traditionnellement associé à certaines périodes de fête.",
-      "en": "A Norwegian dish traditionally associated with festive periods.",
-      "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
-    },
-    "kind": "country"
+    "image": {
+      "file": "czernina.jpg",
+      "path": "assets/food/czernina.jpg",
+      "adobeStockId": "20264185",
+      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
+      "url": "https://stock.adobe.com/images/polish-duck-blood-soup-black-soup-czernina/20264185",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Czernina",
+        "en": "Non-AI Adobe Stock photo: Czernina",
+        "nl": "Niet-AI Adobe Stock-foto: Czernina"
+      }
+    }
   },
   {
     "id": "c026",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar"
+      "fr": "Ciorbă de burtă",
+      "en": "Ciorbă de burtă",
+      "nl": "Ciorbă de burtă"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië"
     },
     "region": {
-      "fr": "Finlande / Suède",
-      "en": "Finlande / Suède",
-      "nl": "Finlande / Suède"
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië"
     },
+    "zone": "east",
     "scenario": {
-      "fr": "Le plat s’appelle Blodplättar.",
-      "en": "The dish is called Blodplättar.",
-      "nl": "Het gerecht heet Blodplättar."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Blodplättar est-il traditionnel ?",
-      "en": "In which country or region is Blodplättar traditional?",
-      "nl": "In welk land of welke regio is Blodplättar traditioneel?"
+      "fr": "Que sont les Ciorbă de burtă ?",
+      "en": "What are Ciorbă de burtă?",
+      "nl": "Wat zijn Ciorbă de burtă?"
     },
     "answers": {
       "fr": [
-        "Finlande",
-        "Portugal",
-        "Italie",
-        "Croatie"
+        "Une soupe de tripes",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Finland",
-        "Portugal",
-        "Italy",
-        "Croatia"
+        "A tripe soup",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
-        "Finland",
-        "Portugal",
-        "Italië",
-        "Kroatië"
+        "Een penssoep",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Une soupe de tripes",
+      "en": "A tripe soup",
+      "nl": "Een penssoep"
     },
     "explanation": {
-      "fr": "Des crêpes préparées à base de sang, consommées dans plusieurs régions du nord de l’Europe.",
-      "en": "Pancakes made with blood, eaten in several northern European regions.",
-      "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "ciorba-de-burta.jpg",
+      "path": "assets/food/ciorba-de-burta.jpg",
+      "adobeStockId": "198001933",
+      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
+      "url": "https://stock.adobe.com/images/romanian-traditional-soup-ciorba-de-burta-seasoned-with-vinegar-and-horseradish/198001933",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Ciorbă de burtă",
+        "en": "Non-AI Adobe Stock photo: Ciorbă de burtă",
+        "nl": "Niet-AI Adobe Stock-foto: Ciorbă de burtă"
+      }
+    }
   },
   {
     "id": "c027",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette"
+      "fr": "Kokoretsi",
+      "en": "Kokoretsi",
+      "nl": "Kokoretsi"
     },
     "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
+      "fr": "Grèce",
+      "en": "Greece",
+      "nl": "Griekenland"
     },
     "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
+      "fr": "Grèce",
+      "en": "Greece",
+      "nl": "Griekenland"
     },
+    "zone": "south",
     "scenario": {
-      "fr": "Le plat s’appelle Andouillette.",
-      "en": "The dish is called Andouillette.",
-      "nl": "Het gerecht heet Andouillette."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Andouillette est-il traditionnel ?",
-      "en": "In which country or region is Andouillette traditional?",
-      "nl": "In welk land of welke regio is Andouillette traditioneel?"
+      "fr": "Que sont les Kokoretsi ?",
+      "en": "What are Kokoretsi?",
+      "nl": "Wat zijn Kokoretsi?"
     },
     "answers": {
       "fr": [
-        "France",
-        "Belgique",
-        "Allemagne",
-        "Espagne"
+        "Une spécialité d’abats grillés",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales",
+        "Un fromage fermenté"
       ],
       "en": [
-        "France",
-        "Belgium",
-        "Germany",
-        "Spain"
+        "A grilled offal speciality",
+        "Smoked charcuterie",
+        "A cereal dessert",
+        "A fermented cheese"
       ],
       "nl": [
-        "Frankrijk",
-        "België",
-        "Duitsland",
-        "Spanje"
+        "Een specialiteit van gegrild orgaanvlees",
+        "Gerookte vleeswaren",
+        "Een graandessert",
+        "Een gefermenteerde kaas"
       ]
     },
     "correctAnswer": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
+      "fr": "Une spécialité d’abats grillés",
+      "en": "A grilled offal speciality",
+      "nl": "Een specialiteit van gegrild orgaanvlees"
     },
     "explanation": {
-      "fr": "Une spécialité charcutière française connue pour son goût et son odeur très marqués.",
-      "en": "A French charcuterie speciality known for its strong taste and smell.",
-      "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "kokoretsi.jpg",
+      "path": "assets/food/kokoretsi.jpg",
+      "adobeStockId": "271480410",
+      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
+      "url": "https://stock.adobe.com/fr/images/greek-easter-custom-kokoretsi-kokorec-and-lamb-sheep-kid-grilling-on-spits-over-charcoals-fire/271480410",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Kokoretsi",
+        "en": "Non-AI Adobe Stock photo: Kokoretsi",
+        "nl": "Niet-AI Adobe Stock-foto: Kokoretsi"
+      }
+    }
   },
   {
     "id": "c028",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi"
+      "fr": "Labskaus",
+      "en": "Labskaus",
+      "nl": "Labskaus"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland"
     },
     "region": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "fr": "Nord de l’Allemagne",
+      "en": "Northern Germany",
+      "nl": "Noord-Duitsland"
     },
+    "zone": "central",
     "scenario": {
-      "fr": "Le plat s’appelle Mämmi.",
-      "en": "The dish is called Mämmi.",
-      "nl": "Het gerecht heet Mämmi."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Mämmi est-il traditionnel ?",
-      "en": "In which country or region is Mämmi traditional?",
-      "nl": "In welk land of welke regio is Mämmi traditioneel?"
+      "fr": "Que sont les Labskaus ?",
+      "en": "What are Labskaus?",
+      "nl": "Wat zijn Labskaus?"
     },
     "answers": {
       "fr": [
-        "Finlande",
-        "Portugal",
-        "Italie",
-        "Croatie"
+        "Un plat de marins à base de viande, pommes de terre et betterave",
+        "Un dessert aux céréales",
+        "Un fromage fermenté",
+        "Une soupe de poisson"
       ],
       "en": [
-        "Finland",
-        "Portugal",
-        "Italy",
-        "Croatia"
+        "A sailors’ dish with meat, potatoes and beetroot",
+        "A cereal dessert",
+        "A fermented cheese",
+        "A fish soup"
       ],
       "nl": [
-        "Finland",
-        "Portugal",
-        "Italië",
-        "Kroatië"
+        "Een zeemansgerecht met vlees, aardappelen en biet",
+        "Een graandessert",
+        "Een gefermenteerde kaas",
+        "Een vissoep"
       ]
     },
     "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
+      "fr": "Un plat de marins à base de viande, pommes de terre et betterave",
+      "en": "A sailors’ dish with meat, potatoes and beetroot",
+      "nl": "Een zeemansgerecht met vlees, aardappelen en biet"
     },
     "explanation": {
-      "fr": "Un dessert finlandais traditionnellement associé à Pâques.",
-      "en": "A Finnish dessert traditionally associated with Easter.",
-      "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "labskaus.jpg",
+      "path": "assets/food/labskaus.jpg",
+      "adobeStockId": "234422895",
+      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
+      "url": "https://stock.adobe.com/images/german-cuisine-labskaus-is-a-mashed-potato-corned-beef-and-beetroot-with-fried-egg-pickled-cucumbers-and-rollmop-close-up-horizontal-top-view/234422895",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Labskaus",
+        "en": "Non-AI Adobe Stock photo: Labskaus",
+        "nl": "Niet-AI Adobe Stock-foto: Labskaus"
+      }
+    }
   },
   {
     "id": "c029",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels"
+      "fr": "Tripas à moda do Porto",
+      "en": "Tripas à moda do Porto",
+      "nl": "Tripas à moda do Porto"
     },
     "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk"
+      "fr": "Portugal",
+      "en": "Portugal",
+      "nl": "Portugal"
     },
     "region": {
-      "fr": "Londres",
-      "en": "Londres",
-      "nl": "Londres"
+      "fr": "Porto",
+      "en": "Porto",
+      "nl": "Porto"
     },
+    "zone": "south",
     "scenario": {
-      "fr": "Le plat s’appelle Jellied eels.",
-      "en": "The dish is called Jellied eels.",
-      "nl": "Het gerecht heet Jellied eels."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Jellied eels est-il traditionnel ?",
-      "en": "In which country or region is Jellied eels traditional?",
-      "nl": "In welk land of welke regio is Jellied eels traditioneel?"
+      "fr": "Que sont les Tripas à moda do Porto ?",
+      "en": "What are Tripas à moda do Porto?",
+      "nl": "Wat zijn Tripas à moda do Porto?"
     },
     "answers": {
       "fr": [
-        "Royaume-Uni",
-        "Grèce",
-        "Roumanie",
-        "Lituanie"
+        "Un plat de tripes traditionnel",
+        "Un fromage fermenté",
+        "Une soupe de poisson",
+        "Une charcuterie fumée"
       ],
       "en": [
-        "United Kingdom",
-        "Greece",
-        "Romania",
-        "Lithuania"
+        "A traditional tripe dish",
+        "A fermented cheese",
+        "A fish soup",
+        "Smoked charcuterie"
       ],
       "nl": [
-        "Verenigd Koninkrijk",
-        "Griekenland",
-        "Roemenië",
-        "Litouwen"
+        "Een traditioneel pensgerecht",
+        "Een gefermenteerde kaas",
+        "Een vissoep",
+        "Gerookte vleeswaren"
       ]
     },
     "correctAnswer": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk"
+      "fr": "Un plat de tripes traditionnel",
+      "en": "A traditional tripe dish",
+      "nl": "Een traditioneel pensgerecht"
     },
     "explanation": {
-      "fr": "Une spécialité traditionnelle associée à Londres.",
-      "en": "A traditional speciality associated with London.",
-      "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "tripas-porto.jpg",
+      "path": "assets/food/tripas-porto.jpg",
+      "adobeStockId": "649614974",
+      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
+      "url": "https://stock.adobe.com/images/typical-portuguese-dish-tripas-a-moda-do-porto/649614974",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Tripas à moda do Porto",
+        "en": "Non-AI Adobe Stock photo: Tripas à moda do Porto",
+        "nl": "Niet-AI Adobe Stock-foto: Tripas à moda do Porto"
+      }
+    }
   },
   {
     "id": "c030",
     "mode": "culinary",
     "traditionName": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina"
+      "fr": "Sklandrausis",
+      "en": "Sklandrausis",
+      "nl": "Sklandrausis"
     },
     "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland"
     },
     "region": {
-      "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland"
     },
+    "zone": "north",
     "scenario": {
-      "fr": "Le plat s’appelle Czernina.",
-      "en": "The dish is called Czernina.",
-      "nl": "Het gerecht heet Czernina."
+      "fr": "",
+      "en": "",
+      "nl": ""
     },
     "question": {
-      "fr": "Dans quel pays ou région le Czernina est-il traditionnel ?",
-      "en": "In which country or region is Czernina traditional?",
-      "nl": "In welk land of welke regio is Czernina traditioneel?"
+      "fr": "Que sont les Sklandrausis ?",
+      "en": "What are Sklandrausis?",
+      "nl": "Wat zijn Sklandrausis?"
     },
     "answers": {
       "fr": [
-        "Pologne",
-        "France",
-        "Italie",
-        "Espagne"
+        "Une tartelette traditionnelle au seigle et aux légumes",
+        "Une soupe de poisson",
+        "Une charcuterie fumée",
+        "Un dessert aux céréales"
       ],
       "en": [
-        "Poland",
-        "France",
-        "Italy",
-        "Spain"
+        "A traditional rye and vegetable tartlet",
+        "A fish soup",
+        "Smoked charcuterie",
+        "A cereal dessert"
       ],
       "nl": [
-        "Polen",
-        "Frankrijk",
-        "Italië",
-        "Spanje"
+        "Een traditioneel taartje met rogge en groenten",
+        "Een vissoep",
+        "Gerookte vleeswaren",
+        "Een graandessert"
       ]
     },
     "correctAnswer": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
+      "fr": "Une tartelette traditionnelle au seigle et aux légumes",
+      "en": "A traditional rye and vegetable tartlet",
+      "nl": "Een traditioneel taartje met rogge en groenten"
     },
     "explanation": {
-      "fr": "Une soupe polonaise traditionnelle au goût aigre-doux.",
-      "en": "A traditional Polish sweet-and-sour soup.",
-      "nl": "Een traditionele Poolse zoetzure soep."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "sklandrausis.jpg",
+      "path": "assets/food/sklandrausis.jpg",
+      "adobeStockId": "387591373",
+      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
+      "url": "https://stock.adobe.com/fr/images/traditional-latvian-carrot-at-the-sklandrausis-latvian-dessert-at-sklandrausis-with-carrot-and-rye-dough/387591373",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Sklandrausis",
+        "en": "Non-AI Adobe Stock photo: Sklandrausis",
+        "nl": "Niet-AI Adobe Stock-foto: Sklandrausis"
+      }
+    }
   },
   {
     "id": "c031",
@@ -3699,15 +4122,16 @@ const CULINARY_50=[
       "nl": "Casu Marzu"
     },
     "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
       "fr": "Sardaigne",
       "en": "Sardinia",
       "nl": "Sardinië"
     },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    },
+    "zone": "south",
     "scenario": {
       "fr": "Le plat s’appelle Casu Marzu.",
       "en": "The dish is called Casu Marzu.",
@@ -3720,35 +4144,47 @@ const CULINARY_50=[
     },
     "answers": {
       "fr": [
-        "Sardaigne",
-        "Catalogne",
-        "Bavière",
-        "Bretagne"
+        "Italie",
+        "France",
+        "Italie",
+        "Suède"
       ],
       "en": [
-        "Sardinia",
-        "Catalonia",
-        "Bavaria",
-        "Brittany"
+        "Italy",
+        "France",
+        "Italy",
+        "Sweden"
       ],
       "nl": [
-        "Sardinië",
-        "Catalonië",
-        "Beieren",
-        "Bretagne"
+        "Italië",
+        "Frankrijk",
+        "Italië",
+        "Zweden"
       ]
     },
     "correctAnswer": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
-      "fr": "Un fromage sarde connu pour sa fermentation très particulière.",
-      "en": "A Sardinian cheese known for its unusual fermentation.",
-      "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
+      "url": "https://stock.adobe.com/images/casu-marzu/69736294",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
+        "en": "Non-AI Adobe Stock photo: Casu Marzu",
+        "nl": "Niet-AI Adobe Stock-foto: Casu Marzu"
+      }
+    }
   },
   {
     "id": "c032",
@@ -3765,9 +4201,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
+      "en": "Scotland",
+      "nl": "Schotland"
     },
+    "zone": "west",
     "scenario": {
       "fr": "Le plat s’appelle Haggis.",
       "en": "The dish is called Haggis.",
@@ -3780,22 +4217,22 @@ const CULINARY_50=[
     },
     "answers": {
       "fr": [
-        "Irlande",
         "Écosse",
-        "Pays-Bas",
-        "Danemark"
+        "France",
+        "Italie",
+        "Suède"
       ],
       "en": [
-        "Ireland",
         "Scotland",
-        "Netherlands",
-        "Denmark"
+        "France",
+        "Italy",
+        "Sweden"
       ],
       "nl": [
-        "Ierland",
         "Schotland",
-        "Nederland",
-        "Denemarken"
+        "Frankrijk",
+        "Italië",
+        "Zweden"
       ]
     },
     "correctAnswer": {
@@ -3804,11 +4241,23 @@ const CULINARY_50=[
       "nl": "Schotland"
     },
     "explanation": {
-      "fr": "Un plat emblématique écossais traditionnellement associé à l’avoine, aux épices et aux abats.",
-      "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
-      "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
+      "url": "https://stock.adobe.com/images/haggis-neeps-and-tatties/422032025",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Haggis",
+        "en": "Non-AI Adobe Stock photo: Haggis",
+        "nl": "Niet-AI Adobe Stock-foto: Haggis"
+      }
+    }
   },
   {
     "id": "c033",
@@ -3824,10 +4273,11 @@ const CULINARY_50=[
       "nl": "Zweden"
     },
     "region": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden"
     },
+    "zone": "north",
     "scenario": {
       "fr": "Le plat s’appelle Surströmming.",
       "en": "The dish is called Surströmming.",
@@ -3840,22 +4290,22 @@ const CULINARY_50=[
     },
     "answers": {
       "fr": [
-        "Finlande",
         "Suède",
-        "Danemark",
-        "Estonie"
+        "France",
+        "Italie",
+        "Suède"
       ],
       "en": [
-        "Finland",
         "Sweden",
-        "Denmark",
-        "Estonia"
+        "France",
+        "Italy",
+        "Sweden"
       ],
       "nl": [
-        "Finland",
         "Zweden",
-        "Denemarken",
-        "Estland"
+        "Frankrijk",
+        "Italië",
+        "Zweden"
       ]
     },
     "correctAnswer": {
@@ -3864,11 +4314,23 @@ const CULINARY_50=[
       "nl": "Zweden"
     },
     "explanation": {
-      "fr": "Un poisson fermenté surtout connu pour son odeur très puissante.",
-      "en": "A fermented fish best known for its extremely strong smell.",
-      "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
+      "url": "https://stock.adobe.com/images/close-up-of-herring-fillet-out-of-a-surstromming-can/143413426",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Surströmming",
+        "en": "Non-AI Adobe Stock photo: Surströmming",
+        "nl": "Niet-AI Adobe Stock-foto: Surströmming"
+      }
+    }
   },
   {
     "id": "c034",
@@ -3885,9 +4347,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
+      "en": "Iceland",
+      "nl": "IJsland"
     },
+    "zone": "north",
     "scenario": {
       "fr": "Le plat s’appelle Hákarl.",
       "en": "The dish is called Hákarl.",
@@ -3900,22 +4363,22 @@ const CULINARY_50=[
     },
     "answers": {
       "fr": [
-        "Norvège",
         "Islande",
-        "Suède",
-        "Danemark"
+        "France",
+        "Italie",
+        "Suède"
       ],
       "en": [
-        "Norway",
         "Iceland",
-        "Sweden",
-        "Denmark"
+        "France",
+        "Italy",
+        "Sweden"
       ],
       "nl": [
-        "Noorwegen",
         "IJsland",
-        "Zweden",
-        "Denemarken"
+        "Frankrijk",
+        "Italië",
+        "Zweden"
       ]
     },
     "correctAnswer": {
@@ -3924,11 +4387,23 @@ const CULINARY_50=[
       "nl": "IJsland"
     },
     "explanation": {
-      "fr": "Une spécialité islandaise au goût très marqué.",
-      "en": "An Icelandic speciality with a very strong taste.",
-      "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
+      "url": "https://stock.adobe.com/images/specialty-of-iceland-called-hakarl-fermented-shark-in-open-warehouse-at-bjarnarhoefn/124049250",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Hákarl",
+        "en": "Non-AI Adobe Stock photo: Hákarl",
+        "nl": "Niet-AI Adobe Stock-foto: Hákarl"
+      }
+    }
   },
   {
     "id": "c035",
@@ -3944,10 +4419,11 @@ const CULINARY_50=[
       "nl": "Noorwegen"
     },
     "region": {
-      "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen"
     },
+    "zone": "north",
     "scenario": {
       "fr": "Le plat s’appelle Smalahove.",
       "en": "The dish is called Smalahove.",
@@ -3961,21 +4437,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Norvège",
-        "Écosse",
-        "Irlande",
-        "Allemagne"
+        "France",
+        "Italie",
+        "Suède"
       ],
       "en": [
         "Norway",
-        "Scotland",
-        "Ireland",
-        "Germany"
+        "France",
+        "Italy",
+        "Sweden"
       ],
       "nl": [
         "Noorwegen",
-        "Schotland",
-        "Ierland",
-        "Duitsland"
+        "Frankrijk",
+        "Italië",
+        "Zweden"
       ]
     },
     "correctAnswer": {
@@ -3984,11 +4460,23 @@ const CULINARY_50=[
       "nl": "Noorwegen"
     },
     "explanation": {
-      "fr": "Un plat norvégien traditionnellement associé à certaines périodes de fête.",
-      "en": "A Norwegian dish traditionally associated with festive periods.",
-      "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
+      "url": "https://stock.adobe.com/fr/search?k=Smalahove&search_type=usertyped&filters%5Bgentech%5D=exclude&asset_id=213777525",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Smalahove",
+        "en": "Non-AI Adobe Stock photo: Smalahove",
+        "nl": "Niet-AI Adobe Stock-foto: Smalahove"
+      }
+    }
   },
   {
     "id": "c036",
@@ -4005,9 +4493,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Finlande / Suède",
-      "en": "Finlande / Suède",
-      "nl": "Finlande / Suède"
+      "en": "Finland / Sweden",
+      "nl": "Finland / Zweden"
     },
+    "zone": "north",
     "scenario": {
       "fr": "Le plat s’appelle Blodplättar.",
       "en": "The dish is called Blodplättar.",
@@ -4021,21 +4510,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Finlande",
-        "Portugal",
+        "France",
         "Italie",
-        "Croatie"
+        "Suède"
       ],
       "en": [
         "Finland",
-        "Portugal",
+        "France",
         "Italy",
-        "Croatia"
+        "Sweden"
       ],
       "nl": [
         "Finland",
-        "Portugal",
+        "Frankrijk",
         "Italië",
-        "Kroatië"
+        "Zweden"
       ]
     },
     "correctAnswer": {
@@ -4044,11 +4533,23 @@ const CULINARY_50=[
       "nl": "Finland"
     },
     "explanation": {
-      "fr": "Des crêpes préparées à base de sang, consommées dans plusieurs régions du nord de l’Europe.",
-      "en": "Pancakes made with blood, eaten in several northern European regions.",
-      "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "blodplattar.jpg",
+      "path": "assets/food/blodplattar.jpg",
+      "adobeStockId": "411401459",
+      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
+      "url": "https://as1.ftcdn.net/v2/jpg/04/11/40/14/1000_F_411401459_YAcraR0t3Tdhg82dR9pdxJdXSVCLloF9.jpg",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Blodplättar",
+        "en": "Non-AI Adobe Stock photo: Blodplättar",
+        "nl": "Niet-AI Adobe Stock-foto: Blodplättar"
+      }
+    }
   },
   {
     "id": "c037",
@@ -4066,8 +4567,9 @@ const CULINARY_50=[
     "region": {
       "fr": "France",
       "en": "France",
-      "nl": "France"
+      "nl": "Frankrijk"
     },
+    "zone": "west",
     "scenario": {
       "fr": "Le plat s’appelle Andouillette.",
       "en": "The dish is called Andouillette.",
@@ -4081,21 +4583,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "France",
-        "Belgique",
-        "Allemagne",
-        "Espagne"
+        "France",
+        "Italie",
+        "Suède"
       ],
       "en": [
         "France",
-        "Belgium",
-        "Germany",
-        "Spain"
+        "France",
+        "Italy",
+        "Sweden"
       ],
       "nl": [
         "Frankrijk",
-        "België",
-        "Duitsland",
-        "Spanje"
+        "Frankrijk",
+        "Italië",
+        "Zweden"
       ]
     },
     "correctAnswer": {
@@ -4104,11 +4606,23 @@ const CULINARY_50=[
       "nl": "Frankrijk"
     },
     "explanation": {
-      "fr": "Une spécialité charcutière française connue pour son goût et son odeur très marqués.",
-      "en": "A French charcuterie speciality known for its strong taste and smell.",
-      "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "andouillette.jpg",
+      "path": "assets/food/andouillette.jpg",
+      "adobeStockId": "233753049",
+      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
+      "url": "https://stock.adobe.com/images/andouillette/233753049",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Andouillette",
+        "en": "Non-AI Adobe Stock photo: Andouillette",
+        "nl": "Niet-AI Adobe Stock-foto: Andouillette"
+      }
+    }
   },
   {
     "id": "c038",
@@ -4125,9 +4639,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
+      "en": "Finland",
+      "nl": "Finland"
     },
+    "zone": "north",
     "scenario": {
       "fr": "Le plat s’appelle Mämmi.",
       "en": "The dish is called Mämmi.",
@@ -4141,21 +4656,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Finlande",
-        "Portugal",
+        "France",
         "Italie",
-        "Croatie"
+        "Suède"
       ],
       "en": [
         "Finland",
-        "Portugal",
+        "France",
         "Italy",
-        "Croatia"
+        "Sweden"
       ],
       "nl": [
         "Finland",
-        "Portugal",
+        "Frankrijk",
         "Italië",
-        "Kroatië"
+        "Zweden"
       ]
     },
     "correctAnswer": {
@@ -4164,11 +4679,23 @@ const CULINARY_50=[
       "nl": "Finland"
     },
     "explanation": {
-      "fr": "Un dessert finlandais traditionnellement associé à Pâques.",
-      "en": "A Finnish dessert traditionally associated with Easter.",
-      "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "mammi.jpg",
+      "path": "assets/food/mammi.jpg",
+      "adobeStockId": "485041926",
+      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
+      "url": "https://stock.adobe.com/images/mammi-traditional-finnish-easter-dessert/485041926",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Mämmi",
+        "en": "Non-AI Adobe Stock photo: Mämmi",
+        "nl": "Niet-AI Adobe Stock-foto: Mämmi"
+      }
+    }
   },
   {
     "id": "c039",
@@ -4185,9 +4712,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Londres",
-      "en": "Londres",
-      "nl": "Londres"
+      "en": "London",
+      "nl": "Londen"
     },
+    "zone": "west",
     "scenario": {
       "fr": "Le plat s’appelle Jellied eels.",
       "en": "The dish is called Jellied eels.",
@@ -4201,21 +4729,21 @@ const CULINARY_50=[
     "answers": {
       "fr": [
         "Royaume-Uni",
-        "Grèce",
-        "Roumanie",
-        "Lituanie"
+        "France",
+        "Italie",
+        "Suède"
       ],
       "en": [
         "United Kingdom",
-        "Greece",
-        "Romania",
-        "Lithuania"
+        "France",
+        "Italy",
+        "Sweden"
       ],
       "nl": [
         "Verenigd Koninkrijk",
-        "Griekenland",
-        "Roemenië",
-        "Litouwen"
+        "Frankrijk",
+        "Italië",
+        "Zweden"
       ]
     },
     "correctAnswer": {
@@ -4224,11 +4752,23 @@ const CULINARY_50=[
       "nl": "Verenigd Koninkrijk"
     },
     "explanation": {
-      "fr": "Une spécialité traditionnelle associée à Londres.",
-      "en": "A traditional speciality associated with London.",
-      "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "jellied-eels.jpg",
+      "path": "assets/food/jellied-eels.jpg",
+      "adobeStockId": "1254168402",
+      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
+      "url": "https://stock.adobe.com/fr/images/a-plate-of-iconic-jellied-eels-a-traditional-london-dish-served-with-vinegar-and-a-lemon-slice/1254168402",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Jellied eels",
+        "en": "Non-AI Adobe Stock photo: Jellied eels",
+        "nl": "Niet-AI Adobe Stock-foto: Jellied eels"
+      }
+    }
   },
   {
     "id": "c040",
@@ -4245,9 +4785,10 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
+      "en": "Poland",
+      "nl": "Polen"
     },
+    "zone": "central",
     "scenario": {
       "fr": "Le plat s’appelle Czernina.",
       "en": "The dish is called Czernina.",
@@ -4263,19 +4804,19 @@ const CULINARY_50=[
         "Pologne",
         "France",
         "Italie",
-        "Espagne"
+        "Suède"
       ],
       "en": [
         "Poland",
         "France",
         "Italy",
-        "Spain"
+        "Sweden"
       ],
       "nl": [
         "Polen",
         "Frankrijk",
         "Italië",
-        "Spanje"
+        "Zweden"
       ]
     },
     "correctAnswer": {
@@ -4284,14 +4825,391 @@ const CULINARY_50=[
       "nl": "Polen"
     },
     "explanation": {
-      "fr": "Une soupe polonaise traditionnelle au goût aigre-doux.",
-      "en": "A traditional Polish sweet-and-sour soup.",
-      "nl": "Een traditionele Poolse zoetzure soep."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "country"
+    "image": {
+      "file": "czernina.jpg",
+      "path": "assets/food/czernina.jpg",
+      "adobeStockId": "20264185",
+      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
+      "url": "https://stock.adobe.com/images/polish-duck-blood-soup-black-soup-czernina/20264185",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Czernina",
+        "en": "Non-AI Adobe Stock photo: Czernina",
+        "nl": "Niet-AI Adobe Stock-foto: Czernina"
+      }
+    }
   },
   {
     "id": "c041",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Ciorbă de burtă",
+      "en": "Ciorbă de burtă",
+      "nl": "Ciorbă de burtă"
+    },
+    "country": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië"
+    },
+    "region": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië"
+    },
+    "zone": "east",
+    "scenario": {
+      "fr": "Le plat s’appelle Ciorbă de burtă.",
+      "en": "The dish is called Ciorbă de burtă.",
+      "nl": "Het gerecht heet Ciorbă de burtă."
+    },
+    "question": {
+      "fr": "Dans quel pays ou région le Ciorbă de burtă est-il traditionnel ?",
+      "en": "In which country or region is Ciorbă de burtă traditional?",
+      "nl": "In welk land of welke regio is Ciorbă de burtă traditioneel?"
+    },
+    "answers": {
+      "fr": [
+        "Roumanie",
+        "France",
+        "Italie",
+        "Suède"
+      ],
+      "en": [
+        "Romania",
+        "France",
+        "Italy",
+        "Sweden"
+      ],
+      "nl": [
+        "Roemenië",
+        "Frankrijk",
+        "Italië",
+        "Zweden"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië"
+    },
+    "explanation": {
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
+    },
+    "image": {
+      "file": "ciorba-de-burta.jpg",
+      "path": "assets/food/ciorba-de-burta.jpg",
+      "adobeStockId": "198001933",
+      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
+      "url": "https://stock.adobe.com/images/romanian-traditional-soup-ciorba-de-burta-seasoned-with-vinegar-and-horseradish/198001933",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Ciorbă de burtă",
+        "en": "Non-AI Adobe Stock photo: Ciorbă de burtă",
+        "nl": "Niet-AI Adobe Stock-foto: Ciorbă de burtă"
+      }
+    }
+  },
+  {
+    "id": "c042",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Kokoretsi",
+      "en": "Kokoretsi",
+      "nl": "Kokoretsi"
+    },
+    "country": {
+      "fr": "Grèce",
+      "en": "Greece",
+      "nl": "Griekenland"
+    },
+    "region": {
+      "fr": "Grèce",
+      "en": "Greece",
+      "nl": "Griekenland"
+    },
+    "zone": "south",
+    "scenario": {
+      "fr": "Le plat s’appelle Kokoretsi.",
+      "en": "The dish is called Kokoretsi.",
+      "nl": "Het gerecht heet Kokoretsi."
+    },
+    "question": {
+      "fr": "Dans quel pays ou région le Kokoretsi est-il traditionnel ?",
+      "en": "In which country or region is Kokoretsi traditional?",
+      "nl": "In welk land of welke regio is Kokoretsi traditioneel?"
+    },
+    "answers": {
+      "fr": [
+        "Grèce",
+        "France",
+        "Italie",
+        "Suède"
+      ],
+      "en": [
+        "Greece",
+        "France",
+        "Italy",
+        "Sweden"
+      ],
+      "nl": [
+        "Griekenland",
+        "Frankrijk",
+        "Italië",
+        "Zweden"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Grèce",
+      "en": "Greece",
+      "nl": "Griekenland"
+    },
+    "explanation": {
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
+    },
+    "image": {
+      "file": "kokoretsi.jpg",
+      "path": "assets/food/kokoretsi.jpg",
+      "adobeStockId": "271480410",
+      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
+      "url": "https://stock.adobe.com/fr/images/greek-easter-custom-kokoretsi-kokorec-and-lamb-sheep-kid-grilling-on-spits-over-charcoals-fire/271480410",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Kokoretsi",
+        "en": "Non-AI Adobe Stock photo: Kokoretsi",
+        "nl": "Niet-AI Adobe Stock-foto: Kokoretsi"
+      }
+    }
+  },
+  {
+    "id": "c043",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Labskaus",
+      "en": "Labskaus",
+      "nl": "Labskaus"
+    },
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland"
+    },
+    "region": {
+      "fr": "Nord de l’Allemagne",
+      "en": "Northern Germany",
+      "nl": "Noord-Duitsland"
+    },
+    "zone": "central",
+    "scenario": {
+      "fr": "Le plat s’appelle Labskaus.",
+      "en": "The dish is called Labskaus.",
+      "nl": "Het gerecht heet Labskaus."
+    },
+    "question": {
+      "fr": "Dans quel pays ou région le Labskaus est-il traditionnel ?",
+      "en": "In which country or region is Labskaus traditional?",
+      "nl": "In welk land of welke regio is Labskaus traditioneel?"
+    },
+    "answers": {
+      "fr": [
+        "Allemagne",
+        "France",
+        "Italie",
+        "Suède"
+      ],
+      "en": [
+        "Germany",
+        "France",
+        "Italy",
+        "Sweden"
+      ],
+      "nl": [
+        "Duitsland",
+        "Frankrijk",
+        "Italië",
+        "Zweden"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland"
+    },
+    "explanation": {
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
+    },
+    "image": {
+      "file": "labskaus.jpg",
+      "path": "assets/food/labskaus.jpg",
+      "adobeStockId": "234422895",
+      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
+      "url": "https://stock.adobe.com/images/german-cuisine-labskaus-is-a-mashed-potato-corned-beef-and-beetroot-with-fried-egg-pickled-cucumbers-and-rollmop-close-up-horizontal-top-view/234422895",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Labskaus",
+        "en": "Non-AI Adobe Stock photo: Labskaus",
+        "nl": "Niet-AI Adobe Stock-foto: Labskaus"
+      }
+    }
+  },
+  {
+    "id": "c044",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Tripas à moda do Porto",
+      "en": "Tripas à moda do Porto",
+      "nl": "Tripas à moda do Porto"
+    },
+    "country": {
+      "fr": "Portugal",
+      "en": "Portugal",
+      "nl": "Portugal"
+    },
+    "region": {
+      "fr": "Porto",
+      "en": "Porto",
+      "nl": "Porto"
+    },
+    "zone": "south",
+    "scenario": {
+      "fr": "Le plat s’appelle Tripas à moda do Porto.",
+      "en": "The dish is called Tripas à moda do Porto.",
+      "nl": "Het gerecht heet Tripas à moda do Porto."
+    },
+    "question": {
+      "fr": "Dans quel pays ou région le Tripas à moda do Porto est-il traditionnel ?",
+      "en": "In which country or region is Tripas à moda do Porto traditional?",
+      "nl": "In welk land of welke regio is Tripas à moda do Porto traditioneel?"
+    },
+    "answers": {
+      "fr": [
+        "Portugal",
+        "France",
+        "Italie",
+        "Suède"
+      ],
+      "en": [
+        "Portugal",
+        "France",
+        "Italy",
+        "Sweden"
+      ],
+      "nl": [
+        "Portugal",
+        "Frankrijk",
+        "Italië",
+        "Zweden"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Portugal",
+      "en": "Portugal",
+      "nl": "Portugal"
+    },
+    "explanation": {
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
+    },
+    "image": {
+      "file": "tripas-porto.jpg",
+      "path": "assets/food/tripas-porto.jpg",
+      "adobeStockId": "649614974",
+      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
+      "url": "https://stock.adobe.com/images/typical-portuguese-dish-tripas-a-moda-do-porto/649614974",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Tripas à moda do Porto",
+        "en": "Non-AI Adobe Stock photo: Tripas à moda do Porto",
+        "nl": "Niet-AI Adobe Stock-foto: Tripas à moda do Porto"
+      }
+    }
+  },
+  {
+    "id": "c045",
+    "mode": "culinary",
+    "traditionName": {
+      "fr": "Sklandrausis",
+      "en": "Sklandrausis",
+      "nl": "Sklandrausis"
+    },
+    "country": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland"
+    },
+    "region": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland"
+    },
+    "zone": "north",
+    "scenario": {
+      "fr": "Le plat s’appelle Sklandrausis.",
+      "en": "The dish is called Sklandrausis.",
+      "nl": "Het gerecht heet Sklandrausis."
+    },
+    "question": {
+      "fr": "Dans quel pays ou région le Sklandrausis est-il traditionnel ?",
+      "en": "In which country or region is Sklandrausis traditional?",
+      "nl": "In welk land of welke regio is Sklandrausis traditioneel?"
+    },
+    "answers": {
+      "fr": [
+        "Lettonie",
+        "France",
+        "Italie",
+        "Suède"
+      ],
+      "en": [
+        "Latvia",
+        "France",
+        "Italy",
+        "Sweden"
+      ],
+      "nl": [
+        "Letland",
+        "Frankrijk",
+        "Italië",
+        "Zweden"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland"
+    },
+    "explanation": {
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
+    },
+    "image": {
+      "file": "sklandrausis.jpg",
+      "path": "assets/food/sklandrausis.jpg",
+      "adobeStockId": "387591373",
+      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
+      "url": "https://stock.adobe.com/fr/images/traditional-latvian-carrot-at-the-sklandrausis-latvian-dessert-at-sklandrausis-with-carrot-and-rye-dough/387591373",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Sklandrausis",
+        "en": "Non-AI Adobe Stock photo: Sklandrausis",
+        "nl": "Niet-AI Adobe Stock-foto: Sklandrausis"
+      }
+    }
+  },
+  {
+    "id": "c046",
     "mode": "culinary",
     "traditionName": {
       "fr": "Casu Marzu",
@@ -4299,59 +5217,72 @@ const CULINARY_50=[
       "nl": "Casu Marzu"
     },
     "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
+    },
+    "region": {
       "fr": "Sardaigne",
       "en": "Sardinia",
       "nl": "Sardinië"
     },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardaigne",
-      "nl": "Sardaigne"
-    },
+    "zone": "south",
     "scenario": {
-      "fr": "Le Casu Marzu est un fromage contenant des larves vivantes.",
-      "en": "Casu Marzu is a cheese containing live larvae.",
-      "nl": "Casu Marzu is een kaas met levende larven."
+      "fr": "Le plat s’appelle Casu Marzu.",
+      "en": "The dish is called Casu Marzu.",
+      "nl": "Het gerecht heet Casu Marzu."
     },
     "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?"
+      "fr": "Dans quel pays ou région le Casu Marzu est-il traditionnel ?",
+      "en": "In which country or region is Casu Marzu traditional?",
+      "nl": "In welk land of welke regio is Casu Marzu traditioneel?"
     },
     "answers": {
       "fr": [
-        "Vrai",
-        "Faux",
-        "Seulement dans certaines régions",
-        "Nom inventé"
+        "Italie",
+        "France",
+        "Italie",
+        "Suède"
       ],
       "en": [
-        "True",
-        "False",
-        "Only in some regions",
-        "Invented name"
+        "Italy",
+        "France",
+        "Italy",
+        "Sweden"
       ],
       "nl": [
-        "Waar",
-        "Onwaar",
-        "Alleen in sommige regio’s",
-        "Verzonnen naam"
+        "Italië",
+        "Frankrijk",
+        "Italië",
+        "Zweden"
       ]
     },
     "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië"
     },
     "explanation": {
-      "fr": "Un fromage sarde connu pour sa fermentation très particulière.",
-      "en": "A Sardinian cheese known for its unusual fermentation.",
-      "nl": "Een Sardijnse kaas met een zeer bijzondere fermentatie."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
+      "url": "https://stock.adobe.com/images/casu-marzu/69736294",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Casu Marzu",
+        "en": "Non-AI Adobe Stock photo: Casu Marzu",
+        "nl": "Niet-AI Adobe Stock-foto: Casu Marzu"
+      }
+    }
   },
   {
-    "id": "c042",
+    "id": "c047",
     "mode": "culinary",
     "traditionName": {
       "fr": "Haggis",
@@ -4365,53 +5296,66 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Écosse",
-      "en": "Écosse",
-      "nl": "Écosse"
+      "en": "Scotland",
+      "nl": "Schotland"
     },
+    "zone": "west",
     "scenario": {
-      "fr": "Le Haggis est un dessert sucré à base de chocolat.",
-      "en": "Haggis is a sweet chocolate-based dessert.",
-      "nl": "Haggis is een zoet dessert op basis van chocolade."
+      "fr": "Le plat s’appelle Haggis.",
+      "en": "The dish is called Haggis.",
+      "nl": "Het gerecht heet Haggis."
     },
     "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?"
+      "fr": "Dans quel pays ou région le Haggis est-il traditionnel ?",
+      "en": "In which country or region is Haggis traditional?",
+      "nl": "In welk land of welke regio is Haggis traditioneel?"
     },
     "answers": {
       "fr": [
-        "Vrai",
-        "Faux",
-        "Seulement dans certaines régions",
-        "Nom inventé"
+        "Écosse",
+        "France",
+        "Italie",
+        "Suède"
       ],
       "en": [
-        "True",
-        "False",
-        "Only in some regions",
-        "Invented name"
+        "Scotland",
+        "France",
+        "Italy",
+        "Sweden"
       ],
       "nl": [
-        "Waar",
-        "Onwaar",
-        "Alleen in sommige regio’s",
-        "Verzonnen naam"
+        "Schotland",
+        "Frankrijk",
+        "Italië",
+        "Zweden"
       ]
     },
     "correctAnswer": {
-      "fr": "Faux",
-      "en": "False",
-      "nl": "Onwaar"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland"
     },
     "explanation": {
-      "fr": "Un plat emblématique écossais traditionnellement associé à l’avoine, aux épices et aux abats.",
-      "en": "An emblematic Scottish dish traditionally associated with oats, spices and offal.",
-      "nl": "Een emblematisch Schots gerecht met haver, kruiden en orgaanvlees."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
+      "url": "https://stock.adobe.com/images/haggis-neeps-and-tatties/422032025",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Haggis",
+        "en": "Non-AI Adobe Stock photo: Haggis",
+        "nl": "Niet-AI Adobe Stock-foto: Haggis"
+      }
+    }
   },
   {
-    "id": "c043",
+    "id": "c048",
     "mode": "culinary",
     "traditionName": {
       "fr": "Surströmming",
@@ -4424,54 +5368,67 @@ const CULINARY_50=[
       "nl": "Zweden"
     },
     "region": {
-      "fr": "Suède",
-      "en": "Suède",
-      "nl": "Suède"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden"
     },
+    "zone": "north",
     "scenario": {
-      "fr": "Le Surströmming est du hareng fermenté.",
-      "en": "Surströmming is fermented herring.",
-      "nl": "Surströmming is gefermenteerde haring."
+      "fr": "Le plat s’appelle Surströmming.",
+      "en": "The dish is called Surströmming.",
+      "nl": "Het gerecht heet Surströmming."
     },
     "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?"
+      "fr": "Dans quel pays ou région le Surströmming est-il traditionnel ?",
+      "en": "In which country or region is Surströmming traditional?",
+      "nl": "In welk land of welke regio is Surströmming traditioneel?"
     },
     "answers": {
       "fr": [
-        "Vrai",
-        "Faux",
-        "Seulement dans certaines régions",
-        "Nom inventé"
+        "Suède",
+        "France",
+        "Italie",
+        "Suède"
       ],
       "en": [
-        "True",
-        "False",
-        "Only in some regions",
-        "Invented name"
+        "Sweden",
+        "France",
+        "Italy",
+        "Sweden"
       ],
       "nl": [
-        "Waar",
-        "Onwaar",
-        "Alleen in sommige regio’s",
-        "Verzonnen naam"
+        "Zweden",
+        "Frankrijk",
+        "Italië",
+        "Zweden"
       ]
     },
     "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden"
     },
     "explanation": {
-      "fr": "Un poisson fermenté surtout connu pour son odeur très puissante.",
-      "en": "A fermented fish best known for its extremely strong smell.",
-      "nl": "Een gefermenteerde vis die vooral bekendstaat om zijn sterke geur."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
+      "url": "https://stock.adobe.com/images/close-up-of-herring-fillet-out-of-a-surstromming-can/143413426",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Surströmming",
+        "en": "Non-AI Adobe Stock photo: Surströmming",
+        "nl": "Niet-AI Adobe Stock-foto: Surströmming"
+      }
+    }
   },
   {
-    "id": "c044",
+    "id": "c049",
     "mode": "culinary",
     "traditionName": {
       "fr": "Hákarl",
@@ -4485,53 +5442,66 @@ const CULINARY_50=[
     },
     "region": {
       "fr": "Islande",
-      "en": "Islande",
-      "nl": "Islande"
+      "en": "Iceland",
+      "nl": "IJsland"
     },
+    "zone": "north",
     "scenario": {
-      "fr": "Le Hákarl est du requin fermenté.",
-      "en": "Hákarl is fermented shark.",
-      "nl": "Hákarl is gefermenteerde haai."
+      "fr": "Le plat s’appelle Hákarl.",
+      "en": "The dish is called Hákarl.",
+      "nl": "Het gerecht heet Hákarl."
     },
     "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?"
+      "fr": "Dans quel pays ou région le Hákarl est-il traditionnel ?",
+      "en": "In which country or region is Hákarl traditional?",
+      "nl": "In welk land of welke regio is Hákarl traditioneel?"
     },
     "answers": {
       "fr": [
-        "Vrai",
-        "Faux",
-        "Seulement dans certaines régions",
-        "Nom inventé"
+        "Islande",
+        "France",
+        "Italie",
+        "Suède"
       ],
       "en": [
-        "True",
-        "False",
-        "Only in some regions",
-        "Invented name"
+        "Iceland",
+        "France",
+        "Italy",
+        "Sweden"
       ],
       "nl": [
-        "Waar",
-        "Onwaar",
-        "Alleen in sommige regio’s",
-        "Verzonnen naam"
+        "IJsland",
+        "Frankrijk",
+        "Italië",
+        "Zweden"
       ]
     },
     "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland"
     },
     "explanation": {
-      "fr": "Une spécialité islandaise au goût très marqué.",
-      "en": "An Icelandic speciality with a very strong taste.",
-      "nl": "Een IJslandse specialiteit met een zeer uitgesproken smaak."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
+    "image": {
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
+      "url": "https://stock.adobe.com/images/specialty-of-iceland-called-hakarl-fermented-shark-in-open-warehouse-at-bjarnarhoefn/124049250",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Hákarl",
+        "en": "Non-AI Adobe Stock photo: Hákarl",
+        "nl": "Niet-AI Adobe Stock-foto: Hákarl"
+      }
+    }
   },
   {
-    "id": "c045",
+    "id": "c050",
     "mode": "culinary",
     "traditionName": {
       "fr": "Smalahove",
@@ -4544,350 +5514,63 @@ const CULINARY_50=[
       "nl": "Noorwegen"
     },
     "region": {
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen"
+    },
+    "zone": "north",
+    "scenario": {
+      "fr": "Le plat s’appelle Smalahove.",
+      "en": "The dish is called Smalahove.",
+      "nl": "Het gerecht heet Smalahove."
+    },
+    "question": {
+      "fr": "Dans quel pays ou région le Smalahove est-il traditionnel ?",
+      "en": "In which country or region is Smalahove traditional?",
+      "nl": "In welk land of welke regio is Smalahove traditioneel?"
+    },
+    "answers": {
+      "fr": [
+        "Norvège",
+        "France",
+        "Italie",
+        "Suède"
+      ],
+      "en": [
+        "Norway",
+        "France",
+        "Italy",
+        "Sweden"
+      ],
+      "nl": [
+        "Noorwegen",
+        "Frankrijk",
+        "Italië",
+        "Zweden"
+      ]
+    },
+    "correctAnswer": {
       "fr": "Norvège",
-      "en": "Norvège",
-      "nl": "Norvège"
-    },
-    "scenario": {
-      "fr": "Le Smalahove est un dessert sucré à base de chocolat.",
-      "en": "Smalahove is a sweet chocolate-based dessert.",
-      "nl": "Smalahove is een zoet dessert op basis van chocolade."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Seulement dans certaines régions",
-        "Nom inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Only in some regions",
-        "Invented name"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Alleen in sommige regio’s",
-        "Verzonnen naam"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Faux",
-      "en": "False",
-      "nl": "Onwaar"
+      "en": "Norway",
+      "nl": "Noorwegen"
     },
     "explanation": {
-      "fr": "Un plat norvégien traditionnellement associé à certaines périodes de fête.",
-      "en": "A Norwegian dish traditionally associated with festive periods.",
-      "nl": "Een Noors gerecht dat traditioneel met feestperiodes wordt verbonden."
+      "fr": "Entrée culinaire européenne.",
+      "en": "European culinary entry.",
+      "nl": "Europese culinaire vraag."
     },
-    "kind": "option"
-  },
-  {
-    "id": "c046",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
-    },
-    "region": {
-      "fr": "Finlande / Suède",
-      "en": "Finlande / Suède",
-      "nl": "Finlande / Suède"
-    },
-    "scenario": {
-      "fr": "Le Blodplättar est des crêpes au sang.",
-      "en": "Blodplättar is blood pancakes.",
-      "nl": "Blodplättar is bloedpannenkoeken."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Seulement dans certaines régions",
-        "Nom inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Only in some regions",
-        "Invented name"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Alleen in sommige regio’s",
-        "Verzonnen naam"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar"
-    },
-    "explanation": {
-      "fr": "Des crêpes préparées à base de sang, consommées dans plusieurs régions du nord de l’Europe.",
-      "en": "Pancakes made with blood, eaten in several northern European regions.",
-      "nl": "Pannenkoeken gemaakt met bloed, gegeten in meerdere Noord-Europese regio’s."
-    },
-    "kind": "option"
-  },
-  {
-    "id": "c047",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "France"
-    },
-    "scenario": {
-      "fr": "Le Andouillette est une saucisse à base d’intestins de porc.",
-      "en": "Andouillette is a sausage made with pork intestines.",
-      "nl": "Andouillette is een worst gemaakt met varkensdarmen."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Seulement dans certaines régions",
-        "Nom inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Only in some regions",
-        "Invented name"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Alleen in sommige regio’s",
-        "Verzonnen naam"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar"
-    },
-    "explanation": {
-      "fr": "Une spécialité charcutière française connue pour son goût et son odeur très marqués.",
-      "en": "A French charcuterie speciality known for its strong taste and smell.",
-      "nl": "Een Franse vleeswarenspecialiteit met een sterke smaak en geur."
-    },
-    "kind": "option"
-  },
-  {
-    "id": "c048",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finlande",
-      "nl": "Finlande"
-    },
-    "scenario": {
-      "fr": "Le Mämmi est un dessert sucré à base de chocolat.",
-      "en": "Mämmi is a sweet chocolate-based dessert.",
-      "nl": "Mämmi is een zoet dessert op basis van chocolade."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Seulement dans certaines régions",
-        "Nom inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Only in some regions",
-        "Invented name"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Alleen in sommige regio’s",
-        "Verzonnen naam"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Faux",
-      "en": "False",
-      "nl": "Onwaar"
-    },
-    "explanation": {
-      "fr": "Un dessert finlandais traditionnellement associé à Pâques.",
-      "en": "A Finnish dessert traditionally associated with Easter.",
-      "nl": "Een Fins dessert dat traditioneel met Pasen wordt geassocieerd."
-    },
-    "kind": "option"
-  },
-  {
-    "id": "c049",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels"
-    },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "Londres",
-      "nl": "Londres"
-    },
-    "scenario": {
-      "fr": "Le Jellied eels est des anguilles servies dans une gelée froide.",
-      "en": "Jellied eels is eels served in cold jelly.",
-      "nl": "Jellied eels is paling geserveerd in koude gelei."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Seulement dans certaines régions",
-        "Nom inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Only in some regions",
-        "Invented name"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Alleen in sommige regio’s",
-        "Verzonnen naam"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar"
-    },
-    "explanation": {
-      "fr": "Une spécialité traditionnelle associée à Londres.",
-      "en": "A traditional speciality associated with London.",
-      "nl": "Een traditionele specialiteit die met Londen wordt geassocieerd."
-    },
-    "kind": "option"
-  },
-  {
-    "id": "c050",
-    "mode": "culinary",
-    "traditionName": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina"
-    },
-    "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen"
-    },
-    "region": {
-      "fr": "Pologne",
-      "en": "Pologne",
-      "nl": "Pologne"
-    },
-    "scenario": {
-      "fr": "Le Czernina est une soupe au sang de canard.",
-      "en": "Czernina is a duck-blood soup.",
-      "nl": "Czernina is een soep met eendenbloed."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Seulement dans certaines régions",
-        "Nom inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Only in some regions",
-        "Invented name"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Alleen in sommige regio’s",
-        "Verzonnen naam"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar"
-    },
-    "explanation": {
-      "fr": "Une soupe polonaise traditionnelle au goût aigre-doux.",
-      "en": "A traditional Polish sweet-and-sour soup.",
-      "nl": "Een traditionele Poolse zoetzure soep."
-    },
-    "kind": "option"
+    "image": {
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
+      "url": "https://stock.adobe.com/fr/search?k=Smalahove&search_type=usertyped&filters%5Bgentech%5D=exclude&asset_id=213777525",
+      "aiGenerated": false,
+      "alt": {
+        "fr": "Photo Adobe Stock non générée par IA : Smalahove",
+        "en": "Non-AI Adobe Stock photo: Smalahove",
+        "nl": "Niet-AI Adobe Stock-foto: Smalahove"
+      }
+    }
   }
 ];

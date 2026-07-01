@@ -1,1 +1,1 @@
-V8.1: suppressed card subtitles and centred start buttons.
+V8.7: 15 non-AI Adobe Stock image slots integrated. Place licensed JPGs in assets/food/.

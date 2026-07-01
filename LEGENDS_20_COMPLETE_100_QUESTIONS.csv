@@ -1,0 +1,101 @@
+id,subjectKey,type,fr_question,fr_correct
+l001_what,legend_nutons,what,Que sont / qu’est-ce que Les Nutons ?,De petits êtres souterrains du folklore wallon
+l001_country,legend_nutons,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Belgique
+l001_detail,legend_nutons,detail,Quel détail est associé à Les Nutons ?,"Ils sont souvent associés aux grottes, aux ateliers nocturnes et aux objets réparés en secret."
+l001_riddle,legend_nutons,riddle,"Devinette : je viens de Wallonie et je suis lié à ce détail : Ils sont souvent associés aux grottes, aux ateliers nocturnes et aux objets réparés en secret.. Qui suis-je ?",Les Nutons
+l001_tf,legend_nutons,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l002_what,legend_krampus,what,Que sont / qu’est-ce que Krampus ?,Une créature cornue associée à Saint Nicolas
+l002_country,legend_krampus,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Autriche
+l002_detail,legend_krampus,detail,Quel détail est associé à Krampus ?,"Il apparaît avec fourrure, cornes et chaînes dans des défilés hivernaux."
+l002_riddle,legend_krampus,riddle,"Devinette : je viens de Régions alpines et je suis lié à ce détail : Il apparaît avec fourrure, cornes et chaînes dans des défilés hivernaux.. Qui suis-je ?",Krampus
+l002_tf,legend_krampus,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l003_what,legend_golem_prague,what,Que sont / qu’est-ce que Le Golem de Prague ?,Un géant d’argile protecteur
+l003_country,legend_golem_prague,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Tchéquie
+l003_detail,legend_golem_prague,detail,Quel détail est associé à Le Golem de Prague ?,Il aurait été créé pour protéger la communauté juive de Prague.
+l003_riddle,legend_golem_prague,riddle,Devinette : je viens de Prague et je suis lié à ce détail : Il aurait été créé pour protéger la communauté juive de Prague.. Qui suis-je ?,Le Golem de Prague
+l003_tf,legend_golem_prague,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l004_what,legend_banshee,what,Que sont / qu’est-ce que Banshee ?,Un être surnaturel annonçant une mort
+l004_country,legend_banshee,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Irlande
+l004_detail,legend_banshee,detail,Quel détail est associé à Banshee ?,Ses cris nocturnes annonceraient un décès dans une famille.
+l004_riddle,legend_banshee,riddle,Devinette : je viens de Folklore irlandais et je suis lié à ce détail : Ses cris nocturnes annonceraient un décès dans une famille.. Qui suis-je ?,Banshee
+l004_tf,legend_banshee,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l005_what,legend_lorelei,what,Que sont / qu’est-ce que Lorelei ?,Une figure féminine associée au Rhin et au chant
+l005_country,legend_lorelei,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Allemagne
+l005_detail,legend_lorelei,detail,Quel détail est associé à Lorelei ?,Son chant aurait attiré les marins vers les rochers dangereux du Rhin.
+l005_riddle,legend_lorelei,riddle,Devinette : je viens de Rhin et je suis lié à ce détail : Son chant aurait attiré les marins vers les rochers dangereux du Rhin.. Qui suis-je ?,Lorelei
+l005_tf,legend_lorelei,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l006_what,legend_befana,what,Que sont / qu’est-ce que La Befana ?,Une vieille femme volante qui apporte des cadeaux
+l006_country,legend_befana,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Italie
+l006_detail,legend_befana,detail,Quel détail est associé à La Befana ?,Elle visite les enfants dans la nuit du 5 au 6 janvier.
+l006_riddle,legend_befana,riddle,Devinette : je viens de Tradition de l’Épiphanie et je suis lié à ce détail : Elle visite les enfants dans la nuit du 5 au 6 janvier.. Qui suis-je ?,La Befana
+l006_tf,legend_befana,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l007_what,legend_melusine,what,Que sont / qu’est-ce que Mélusine ?,Une femme-serpent ou femme-dragon
+l007_country,legend_melusine,country,Dans quel pays ou région cette légende est-elle surtout connue ?,France / Luxembourg
+l007_detail,legend_melusine,detail,Quel détail est associé à Mélusine ?,"Elle possède une apparence double, humaine et merveilleuse."
+l007_riddle,legend_melusine,riddle,"Devinette : je viens de Récits médiévaux et je suis lié à ce détail : Elle possède une apparence double, humaine et merveilleuse.. Qui suis-je ?",Mélusine
+l007_tf,legend_melusine,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l008_what,legend_wawel_dragon,what,Que sont / qu’est-ce que Le dragon du Wawel ?,Un dragon vaincu par la ruse
+l008_country,legend_wawel_dragon,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Pologne
+l008_detail,legend_wawel_dragon,detail,Quel détail est associé à Le dragon du Wawel ?,Le récit est lié à la colline du Wawel à Cracovie.
+l008_riddle,legend_wawel_dragon,riddle,Devinette : je viens de Cracovie et je suis lié à ce détail : Le récit est lié à la colline du Wawel à Cracovie.. Qui suis-je ?,Le dragon du Wawel
+l008_tf,legend_wawel_dragon,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l009_what,legend_zlatorog,what,Que sont / qu’est-ce que Zlatorog ?,Un bouquetin mythique aux cornes d’or
+l009_country,legend_zlatorog,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Slovénie
+l009_detail,legend_zlatorog,detail,Quel détail est associé à Zlatorog ?,Il garde un trésor caché dans la montagne.
+l009_riddle,legend_zlatorog,riddle,Devinette : je viens de Alpes juliennes et je suis lié à ce détail : Il garde un trésor caché dans la montagne.. Qui suis-je ?,Zlatorog
+l009_tf,legend_zlatorog,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l010_what,legend_nacken,what,Que sont / qu’est-ce que Näcken ?,Un esprit des eaux musicien
+l010_country,legend_nacken,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Suède
+l010_detail,legend_nacken,detail,Quel détail est associé à Näcken ?,Il attire les voyageurs avec son violon.
+l010_riddle,legend_nacken,riddle,Devinette : je viens de Rivières et lacs et je suis lié à ce détail : Il attire les voyageurs avec son violon.. Qui suis-je ?,Näcken
+l010_tf,legend_nacken,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l011_what,legend_leprechaun,what,Que sont / qu’est-ce que Leprechaun ?,Un petit personnage associé aux trésors
+l011_country,legend_leprechaun,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Irlande
+l011_detail,legend_leprechaun,detail,Quel détail est associé à Leprechaun ?,Il est réputé cacher de l’or au pied des arcs-en-ciel.
+l011_riddle,legend_leprechaun,riddle,Devinette : je viens de Folklore irlandais et je suis lié à ce détail : Il est réputé cacher de l’or au pied des arcs-en-ciel.. Qui suis-je ?,Leprechaun
+l011_tf,legend_leprechaun,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l012_what,legend_tomte,what,Que sont / qu’est-ce que Tomte ?,Un petit gardien de ferme
+l012_country,legend_tomte,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Suède
+l012_detail,legend_tomte,detail,Quel détail est associé à Tomte ?,Il protège la ferme si les habitants le respectent.
+l012_riddle,legend_tomte,riddle,Devinette : je viens de Fermes nordiques et je suis lié à ce détail : Il protège la ferme si les habitants le respectent.. Qui suis-je ?,Tomte
+l012_tf,legend_tomte,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l013_what,legend_strigoi,what,Que sont / qu’est-ce que Strigoi ?,Des morts revenus tourmenter les vivants
+l013_country,legend_strigoi,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Roumanie
+l013_detail,legend_strigoi,detail,Quel détail est associé à Strigoi ?,Cette figure nourrit l’imaginaire vampirique d’Europe orientale.
+l013_riddle,legend_strigoi,riddle,Devinette : je viens de Folklore roumain et je suis lié à ce détail : Cette figure nourrit l’imaginaire vampirique d’Europe orientale.. Qui suis-je ?,Strigoi
+l013_tf,legend_strigoi,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l014_what,legend_kurent,what,Que sont / qu’est-ce que Kurent ?,Un personnage masqué qui chasse l’hiver
+l014_country,legend_kurent,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Slovénie
+l014_detail,legend_kurent,detail,Quel détail est associé à Kurent ?,Il porte peaux et cloches pour faire du bruit.
+l014_riddle,legend_kurent,riddle,Devinette : je viens de Célébrations de printemps et je suis lié à ce détail : Il porte peaux et cloches pour faire du bruit.. Qui suis-je ?,Kurent
+l014_tf,legend_kurent,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l015_what,legend_turul,what,Que sont / qu’est-ce que Turul ?,Un oiseau mythique hongrois
+l015_country,legend_turul,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Hongrie
+l015_detail,legend_turul,detail,Quel détail est associé à Turul ?,Il est lié aux récits d’origine et aux symboles nationaux.
+l015_riddle,legend_turul,riddle,Devinette : je viens de Récits d’origine et je suis lié à ce détail : Il est lié aux récits d’origine et aux symboles nationaux.. Qui suis-je ?,Turul
+l015_tf,legend_turul,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l016_what,legend_jurate,what,Que sont / qu’est-ce que Jūratė et Kastytis ?,Une histoire d’amour entre une déesse marine et un pêcheur
+l016_country,legend_jurate,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Lituanie
+l016_detail,legend_jurate,detail,Quel détail est associé à Jūratė et Kastytis ?,La légende expliquerait l’ambre de la Baltique.
+l016_riddle,legend_jurate,riddle,Devinette : je viens de Mer Baltique et je suis lié à ce détail : La légende expliquerait l’ambre de la Baltique.. Qui suis-je ?,Jūratė et Kastytis
+l016_tf,legend_jurate,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l017_what,legend_laclplesis,what,Que sont / qu’est-ce que Lāčplēsis ?,Un héros à la force d’ours
+l017_country,legend_laclplesis,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Lettonie
+l017_detail,legend_laclplesis,detail,Quel détail est associé à Lāčplēsis ?,Son nom évoque celui qui déchire l’ours.
+l017_riddle,legend_laclplesis,riddle,Devinette : je viens de Épopée lettone et je suis lié à ce détail : Son nom évoque celui qui déchire l’ours.. Qui suis-je ?,Lāčplēsis
+l017_tf,legend_laclplesis,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l018_what,legend_vaina,what,Que sont / qu’est-ce que Väinämöinen ?,Un sage musicien et magicien
+l018_country,legend_vaina,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Finlande
+l018_detail,legend_vaina,detail,Quel détail est associé à Väinämöinen ?,Il utilise le chant et la connaissance plus que la force.
+l018_riddle,legend_vaina,riddle,Devinette : je viens de Kalevala et je suis lié à ce détail : Il utilise le chant et la connaissance plus que la force.. Qui suis-je ?,Väinämöinen
+l018_tf,legend_vaina,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l019_what,legend_flying_dutchman,what,Que sont / qu’est-ce que Le Hollandais volant ?,Un navire fantôme condamné à errer
+l019_country,legend_flying_dutchman,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Pays-Bas
+l019_detail,legend_flying_dutchman,detail,Quel détail est associé à Le Hollandais volant ?,Il incarne la peur de la mer et des voyages sans retour.
+l019_riddle,legend_flying_dutchman,riddle,Devinette : je viens de Légendes maritimes et je suis lié à ce détail : Il incarne la peur de la mer et des voyages sans retour.. Qui suis-je ?,Le Hollandais volant
+l019_tf,legend_flying_dutchman,truefalse,Cette affirmation est-elle correcte ?,Vrai
+l020_what,legend_santa_compana,what,Que sont / qu’est-ce que La Santa Compaña ?,Une procession fantomatique nocturne
+l020_country,legend_santa_compana,country,Dans quel pays ou région cette légende est-elle surtout connue ?,Espagne
+l020_detail,legend_santa_compana,detail,Quel détail est associé à La Santa Compaña ?,Elle traverse les chemins dans certaines légendes galiciennes.
+l020_riddle,legend_santa_compana,riddle,Devinette : je viens de Galice et je suis lié à ce détail : Elle traverse les chemins dans certaines légendes galiciennes.. Qui suis-je ?,La Santa Compaña
+l020_tf,legend_santa_compana,truefalse,Cette affirmation est-elle correcte ?,Vrai

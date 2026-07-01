@@ -192,10 +192,10 @@ const TRADITIONS_30=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -204,74 +204,74 @@ const TRADITIONS_30=[
   {
     "id": "t002",
     "mode": "traditions",
-    "subjectKey": "shrimp_horse",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard",
-      "de": "Garnelenfang zu Pferd"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen",
-      "de": "Oostduinkerke, Westflandern"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes avec de grands filets.",
-      "en": "Fishers ride into the sea on horseback to catch shrimp with large nets.",
-      "nl": "Vissers rijden te paard de zee in om garnalen te vangen met grote netten.",
-      "de": "Fischer reiten mit Pferden ins Meer, um mit großen Netzen Garnelen zu fangen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?",
-      "de": "In welchem Land gibt es diese maritime Tradition noch?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Belgien",
-        "Niederlande",
-        "Dänemark",
-        "Deutschland"
+        "Spanien",
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -280,74 +280,74 @@ const TRADITIONS_30=[
   {
     "id": "t003",
     "mode": "traditions",
-    "subjectKey": "colacho",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho",
-      "de": "El Colacho"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia",
-      "de": "Castrillo de Murcia"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des personnages costumés sautent au-dessus de bébés couchés sur des matelas dans la rue.",
-      "en": "Costumed figures jump over babies lying on mattresses in the street.",
-      "nl": "Verklede figuren springen over baby’s die op matrassen in de straat liggen.",
-      "de": "Verkleidete Figuren springen über Babys, die auf Matratzen in der Straße liegen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition spectaculaire a-t-elle lieu ?",
-      "en": "In which country does this spectacular tradition take place?",
-      "nl": "In welk land vindt deze spectaculaire traditie plaats?",
-      "de": "In welchem Land findet diese spektakuläre Tradition statt?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Italie",
         "Espagne",
-        "Portugal",
-        "Grèce"
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Italy",
         "Spain",
-        "Portugal",
-        "Greece"
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Italië",
         "Spanje",
-        "Portugal",
-        "Griekenland"
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Italien",
         "Spanien",
-        "Portugal",
-        "Griechenland"
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -420,10 +420,10 @@ const TRADITIONS_30=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -432,74 +432,74 @@ const TRADITIONS_30=[
   {
     "id": "t005",
     "mode": "traditions",
-    "subjectKey": "shrimp_horse",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard",
-      "de": "Garnelenfang zu Pferd"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen",
-      "de": "Oostduinkerke, Westflandern"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes avec de grands filets.",
-      "en": "Fishers ride into the sea on horseback to catch shrimp with large nets.",
-      "nl": "Vissers rijden te paard de zee in om garnalen te vangen met grote netten.",
-      "de": "Fischer reiten mit Pferden ins Meer, um mit großen Netzen Garnelen zu fangen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?",
-      "de": "In welchem Land gibt es diese maritime Tradition noch?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Belgien",
-        "Niederlande",
-        "Dänemark",
-        "Deutschland"
+        "Spanien",
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -508,74 +508,74 @@ const TRADITIONS_30=[
   {
     "id": "t006",
     "mode": "traditions",
-    "subjectKey": "colacho",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho",
-      "de": "El Colacho"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia",
-      "de": "Castrillo de Murcia"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des personnages costumés sautent au-dessus de bébés couchés sur des matelas dans la rue.",
-      "en": "Costumed figures jump over babies lying on mattresses in the street.",
-      "nl": "Verklede figuren springen over baby’s die op matrassen in de straat liggen.",
-      "de": "Verkleidete Figuren springen über Babys, die auf Matratzen in der Straße liegen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition spectaculaire a-t-elle lieu ?",
-      "en": "In which country does this spectacular tradition take place?",
-      "nl": "In welk land vindt deze spectaculaire traditie plaats?",
-      "de": "In welchem Land findet diese spektakuläre Tradition statt?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Italie",
         "Espagne",
-        "Portugal",
-        "Grèce"
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Italy",
         "Spain",
-        "Portugal",
-        "Greece"
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Italië",
         "Spanje",
-        "Portugal",
-        "Griekenland"
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Italien",
         "Spanien",
-        "Portugal",
-        "Griechenland"
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -648,10 +648,10 @@ const TRADITIONS_30=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -660,74 +660,74 @@ const TRADITIONS_30=[
   {
     "id": "t008",
     "mode": "traditions",
-    "subjectKey": "shrimp_horse",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard",
-      "de": "Garnelenfang zu Pferd"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen",
-      "de": "Oostduinkerke, Westflandern"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes avec de grands filets.",
-      "en": "Fishers ride into the sea on horseback to catch shrimp with large nets.",
-      "nl": "Vissers rijden te paard de zee in om garnalen te vangen met grote netten.",
-      "de": "Fischer reiten mit Pferden ins Meer, um mit großen Netzen Garnelen zu fangen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?",
-      "de": "In welchem Land gibt es diese maritime Tradition noch?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Belgien",
-        "Niederlande",
-        "Dänemark",
-        "Deutschland"
+        "Spanien",
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -736,74 +736,74 @@ const TRADITIONS_30=[
   {
     "id": "t009",
     "mode": "traditions",
-    "subjectKey": "colacho",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho",
-      "de": "El Colacho"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia",
-      "de": "Castrillo de Murcia"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des personnages costumés sautent au-dessus de bébés couchés sur des matelas dans la rue.",
-      "en": "Costumed figures jump over babies lying on mattresses in the street.",
-      "nl": "Verklede figuren springen over baby’s die op matrassen in de straat liggen.",
-      "de": "Verkleidete Figuren springen über Babys, die auf Matratzen in der Straße liegen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition spectaculaire a-t-elle lieu ?",
-      "en": "In which country does this spectacular tradition take place?",
-      "nl": "In welk land vindt deze spectaculaire traditie plaats?",
-      "de": "In welchem Land findet diese spektakuläre Tradition statt?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Italie",
         "Espagne",
-        "Portugal",
-        "Grèce"
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Italy",
         "Spain",
-        "Portugal",
-        "Greece"
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Italië",
         "Spanje",
-        "Portugal",
-        "Griekenland"
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Italien",
         "Spanien",
-        "Portugal",
-        "Griechenland"
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -876,10 +876,10 @@ const TRADITIONS_30=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -888,74 +888,74 @@ const TRADITIONS_30=[
   {
     "id": "t011",
     "mode": "traditions",
-    "subjectKey": "shrimp_horse",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard",
-      "de": "Garnelenfang zu Pferd"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen",
-      "de": "Oostduinkerke, Westflandern"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes avec de grands filets.",
-      "en": "Fishers ride into the sea on horseback to catch shrimp with large nets.",
-      "nl": "Vissers rijden te paard de zee in om garnalen te vangen met grote netten.",
-      "de": "Fischer reiten mit Pferden ins Meer, um mit großen Netzen Garnelen zu fangen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?",
-      "de": "In welchem Land gibt es diese maritime Tradition noch?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Belgien",
-        "Niederlande",
-        "Dänemark",
-        "Deutschland"
+        "Spanien",
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -964,74 +964,74 @@ const TRADITIONS_30=[
   {
     "id": "t012",
     "mode": "traditions",
-    "subjectKey": "colacho",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho",
-      "de": "El Colacho"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia",
-      "de": "Castrillo de Murcia"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des personnages costumés sautent au-dessus de bébés couchés sur des matelas dans la rue.",
-      "en": "Costumed figures jump over babies lying on mattresses in the street.",
-      "nl": "Verklede figuren springen over baby’s die op matrassen in de straat liggen.",
-      "de": "Verkleidete Figuren springen über Babys, die auf Matratzen in der Straße liegen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition spectaculaire a-t-elle lieu ?",
-      "en": "In which country does this spectacular tradition take place?",
-      "nl": "In welk land vindt deze spectaculaire traditie plaats?",
-      "de": "In welchem Land findet diese spektakuläre Tradition statt?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Italie",
         "Espagne",
-        "Portugal",
-        "Grèce"
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Italy",
         "Spain",
-        "Portugal",
-        "Greece"
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Italië",
         "Spanje",
-        "Portugal",
-        "Griekenland"
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Italien",
         "Spanien",
-        "Portugal",
-        "Griechenland"
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -1104,10 +1104,10 @@ const TRADITIONS_30=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -1116,74 +1116,74 @@ const TRADITIONS_30=[
   {
     "id": "t014",
     "mode": "traditions",
-    "subjectKey": "shrimp_horse",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard",
-      "de": "Garnelenfang zu Pferd"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen",
-      "de": "Oostduinkerke, Westflandern"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes avec de grands filets.",
-      "en": "Fishers ride into the sea on horseback to catch shrimp with large nets.",
-      "nl": "Vissers rijden te paard de zee in om garnalen te vangen met grote netten.",
-      "de": "Fischer reiten mit Pferden ins Meer, um mit großen Netzen Garnelen zu fangen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?",
-      "de": "In welchem Land gibt es diese maritime Tradition noch?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Belgien",
-        "Niederlande",
-        "Dänemark",
-        "Deutschland"
+        "Spanien",
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -1192,74 +1192,74 @@ const TRADITIONS_30=[
   {
     "id": "t015",
     "mode": "traditions",
-    "subjectKey": "colacho",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho",
-      "de": "El Colacho"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia",
-      "de": "Castrillo de Murcia"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des personnages costumés sautent au-dessus de bébés couchés sur des matelas dans la rue.",
-      "en": "Costumed figures jump over babies lying on mattresses in the street.",
-      "nl": "Verklede figuren springen over baby’s die op matrassen in de straat liggen.",
-      "de": "Verkleidete Figuren springen über Babys, die auf Matratzen in der Straße liegen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition spectaculaire a-t-elle lieu ?",
-      "en": "In which country does this spectacular tradition take place?",
-      "nl": "In welk land vindt deze spectaculaire traditie plaats?",
-      "de": "In welchem Land findet diese spektakuläre Tradition statt?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Italie",
         "Espagne",
-        "Portugal",
-        "Grèce"
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Italy",
         "Spain",
-        "Portugal",
-        "Greece"
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Italië",
         "Spanje",
-        "Portugal",
-        "Griekenland"
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Italien",
         "Spanien",
-        "Portugal",
-        "Griechenland"
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -1332,10 +1332,10 @@ const TRADITIONS_30=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -1344,74 +1344,74 @@ const TRADITIONS_30=[
   {
     "id": "t017",
     "mode": "traditions",
-    "subjectKey": "shrimp_horse",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard",
-      "de": "Garnelenfang zu Pferd"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen",
-      "de": "Oostduinkerke, Westflandern"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes avec de grands filets.",
-      "en": "Fishers ride into the sea on horseback to catch shrimp with large nets.",
-      "nl": "Vissers rijden te paard de zee in om garnalen te vangen met grote netten.",
-      "de": "Fischer reiten mit Pferden ins Meer, um mit großen Netzen Garnelen zu fangen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?",
-      "de": "In welchem Land gibt es diese maritime Tradition noch?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Belgien",
-        "Niederlande",
-        "Dänemark",
-        "Deutschland"
+        "Spanien",
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -1420,74 +1420,74 @@ const TRADITIONS_30=[
   {
     "id": "t018",
     "mode": "traditions",
-    "subjectKey": "colacho",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho",
-      "de": "El Colacho"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia",
-      "de": "Castrillo de Murcia"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des personnages costumés sautent au-dessus de bébés couchés sur des matelas dans la rue.",
-      "en": "Costumed figures jump over babies lying on mattresses in the street.",
-      "nl": "Verklede figuren springen over baby’s die op matrassen in de straat liggen.",
-      "de": "Verkleidete Figuren springen über Babys, die auf Matratzen in der Straße liegen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition spectaculaire a-t-elle lieu ?",
-      "en": "In which country does this spectacular tradition take place?",
-      "nl": "In welk land vindt deze spectaculaire traditie plaats?",
-      "de": "In welchem Land findet diese spektakuläre Tradition statt?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Italie",
         "Espagne",
-        "Portugal",
-        "Grèce"
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Italy",
         "Spain",
-        "Portugal",
-        "Greece"
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Italië",
         "Spanje",
-        "Portugal",
-        "Griekenland"
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Italien",
         "Spanien",
-        "Portugal",
-        "Griechenland"
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -1560,10 +1560,10 @@ const TRADITIONS_30=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -1572,74 +1572,74 @@ const TRADITIONS_30=[
   {
     "id": "t020",
     "mode": "traditions",
-    "subjectKey": "shrimp_horse",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard",
-      "de": "Garnelenfang zu Pferd"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen",
-      "de": "Oostduinkerke, Westflandern"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes avec de grands filets.",
-      "en": "Fishers ride into the sea on horseback to catch shrimp with large nets.",
-      "nl": "Vissers rijden te paard de zee in om garnalen te vangen met grote netten.",
-      "de": "Fischer reiten mit Pferden ins Meer, um mit großen Netzen Garnelen zu fangen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?",
-      "de": "In welchem Land gibt es diese maritime Tradition noch?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Belgien",
-        "Niederlande",
-        "Dänemark",
-        "Deutschland"
+        "Spanien",
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -1648,74 +1648,74 @@ const TRADITIONS_30=[
   {
     "id": "t021",
     "mode": "traditions",
-    "subjectKey": "colacho",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho",
-      "de": "El Colacho"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia",
-      "de": "Castrillo de Murcia"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des personnages costumés sautent au-dessus de bébés couchés sur des matelas dans la rue.",
-      "en": "Costumed figures jump over babies lying on mattresses in the street.",
-      "nl": "Verklede figuren springen over baby’s die op matrassen in de straat liggen.",
-      "de": "Verkleidete Figuren springen über Babys, die auf Matratzen in der Straße liegen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition spectaculaire a-t-elle lieu ?",
-      "en": "In which country does this spectacular tradition take place?",
-      "nl": "In welk land vindt deze spectaculaire traditie plaats?",
-      "de": "In welchem Land findet diese spektakuläre Tradition statt?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Italie",
         "Espagne",
-        "Portugal",
-        "Grèce"
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Italy",
         "Spain",
-        "Portugal",
-        "Greece"
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Italië",
         "Spanje",
-        "Portugal",
-        "Griekenland"
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Italien",
         "Spanien",
-        "Portugal",
-        "Griechenland"
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -1788,10 +1788,10 @@ const TRADITIONS_30=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -1800,74 +1800,74 @@ const TRADITIONS_30=[
   {
     "id": "t023",
     "mode": "traditions",
-    "subjectKey": "shrimp_horse",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard",
-      "de": "Garnelenfang zu Pferd"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen",
-      "de": "Oostduinkerke, Westflandern"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes avec de grands filets.",
-      "en": "Fishers ride into the sea on horseback to catch shrimp with large nets.",
-      "nl": "Vissers rijden te paard de zee in om garnalen te vangen met grote netten.",
-      "de": "Fischer reiten mit Pferden ins Meer, um mit großen Netzen Garnelen zu fangen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?",
-      "de": "In welchem Land gibt es diese maritime Tradition noch?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Belgien",
-        "Niederlande",
-        "Dänemark",
-        "Deutschland"
+        "Spanien",
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -1876,74 +1876,74 @@ const TRADITIONS_30=[
   {
     "id": "t024",
     "mode": "traditions",
-    "subjectKey": "colacho",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho",
-      "de": "El Colacho"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia",
-      "de": "Castrillo de Murcia"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des personnages costumés sautent au-dessus de bébés couchés sur des matelas dans la rue.",
-      "en": "Costumed figures jump over babies lying on mattresses in the street.",
-      "nl": "Verklede figuren springen over baby’s die op matrassen in de straat liggen.",
-      "de": "Verkleidete Figuren springen über Babys, die auf Matratzen in der Straße liegen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition spectaculaire a-t-elle lieu ?",
-      "en": "In which country does this spectacular tradition take place?",
-      "nl": "In welk land vindt deze spectaculaire traditie plaats?",
-      "de": "In welchem Land findet diese spektakuläre Tradition statt?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Italie",
         "Espagne",
-        "Portugal",
-        "Grèce"
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Italy",
         "Spain",
-        "Portugal",
-        "Greece"
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Italië",
         "Spanje",
-        "Portugal",
-        "Griekenland"
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Italien",
         "Spanien",
-        "Portugal",
-        "Griechenland"
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -2016,10 +2016,10 @@ const TRADITIONS_30=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -2028,74 +2028,74 @@ const TRADITIONS_30=[
   {
     "id": "t026",
     "mode": "traditions",
-    "subjectKey": "shrimp_horse",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard",
-      "de": "Garnelenfang zu Pferd"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen",
-      "de": "Oostduinkerke, Westflandern"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes avec de grands filets.",
-      "en": "Fishers ride into the sea on horseback to catch shrimp with large nets.",
-      "nl": "Vissers rijden te paard de zee in om garnalen te vangen met grote netten.",
-      "de": "Fischer reiten mit Pferden ins Meer, um mit großen Netzen Garnelen zu fangen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?",
-      "de": "In welchem Land gibt es diese maritime Tradition noch?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Belgien",
-        "Niederlande",
-        "Dänemark",
-        "Deutschland"
+        "Spanien",
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -2104,74 +2104,74 @@ const TRADITIONS_30=[
   {
     "id": "t027",
     "mode": "traditions",
-    "subjectKey": "colacho",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho",
-      "de": "El Colacho"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia",
-      "de": "Castrillo de Murcia"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des personnages costumés sautent au-dessus de bébés couchés sur des matelas dans la rue.",
-      "en": "Costumed figures jump over babies lying on mattresses in the street.",
-      "nl": "Verklede figuren springen over baby’s die op matrassen in de straat liggen.",
-      "de": "Verkleidete Figuren springen über Babys, die auf Matratzen in der Straße liegen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition spectaculaire a-t-elle lieu ?",
-      "en": "In which country does this spectacular tradition take place?",
-      "nl": "In welk land vindt deze spectaculaire traditie plaats?",
-      "de": "In welchem Land findet diese spektakuläre Tradition statt?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Italie",
         "Espagne",
-        "Portugal",
-        "Grèce"
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Italy",
         "Spain",
-        "Portugal",
-        "Greece"
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Italië",
         "Spanje",
-        "Portugal",
-        "Griekenland"
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Italien",
         "Spanien",
-        "Portugal",
-        "Griechenland"
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -2244,10 +2244,10 @@ const TRADITIONS_30=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -2256,74 +2256,74 @@ const TRADITIONS_30=[
   {
     "id": "t029",
     "mode": "traditions",
-    "subjectKey": "shrimp_horse",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "Pêche aux crevettes à cheval",
-      "en": "Horseback shrimp fishing",
-      "nl": "Garnalenvissen te paard",
-      "de": "Garnelenfang zu Pferd"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Oostduinkerke, Flandre occidentale",
-      "en": "Oostduinkerke, West Flanders",
-      "nl": "Oostduinkerke, West-Vlaanderen",
-      "de": "Oostduinkerke, Westflandern"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des pêcheurs entrent dans la mer à cheval pour capturer des crevettes avec de grands filets.",
-      "en": "Fishers ride into the sea on horseback to catch shrimp with large nets.",
-      "nl": "Vissers rijden te paard de zee in om garnalen te vangen met grote netten.",
-      "de": "Fischer reiten mit Pferden ins Meer, um mit großen Netzen Garnelen zu fangen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition maritime existe-t-elle encore ?",
-      "en": "In which country does this maritime tradition still exist?",
-      "nl": "In welk land bestaat deze maritieme traditie nog?",
-      "de": "In welchem Land gibt es diese maritime Tradition noch?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Belgique",
-        "Pays-Bas",
-        "Danemark",
-        "Allemagne"
+        "Espagne",
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Belgium",
-        "Netherlands",
-        "Denmark",
-        "Germany"
+        "Spain",
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "België",
-        "Nederland",
-        "Denemarken",
-        "Duitsland"
+        "Spanje",
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Belgien",
-        "Niederlande",
-        "Dänemark",
-        "Deutschland"
+        "Spanien",
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -2332,74 +2332,74 @@ const TRADITIONS_30=[
   {
     "id": "t030",
     "mode": "traditions",
-    "subjectKey": "colacho",
+    "subjectKey": "orange",
     "traditionName": {
-      "fr": "El Colacho",
-      "en": "El Colacho",
-      "nl": "El Colacho",
-      "de": "El Colacho"
+      "fr": "Bataille des oranges",
+      "en": "Battle of the Oranges",
+      "nl": "Sinaasappelgevecht",
+      "de": "Orangenschlacht"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Castrillo de Murcia",
-      "en": "Castrillo de Murcia",
-      "nl": "Castrillo de Murcia",
-      "de": "Castrillo de Murcia"
+      "fr": "Ivrea, Piémont",
+      "en": "Ivrea, Piedmont",
+      "nl": "Ivrea, Piëmont",
+      "de": "Ivrea, Piemont"
     },
     "scenario": {
-      "fr": "Des personnages costumés sautent au-dessus de bébés couchés sur des matelas dans la rue.",
-      "en": "Costumed figures jump over babies lying on mattresses in the street.",
-      "nl": "Verklede figuren springen over baby’s die op matrassen in de straat liggen.",
-      "de": "Verkleidete Figuren springen über Babys, die auf Matratzen in der Straße liegen."
+      "fr": "Pendant un carnaval, des milliers d’oranges sont lancées entre équipes rivales.",
+      "en": "During a carnival, thousands of oranges are thrown between rival teams.",
+      "nl": "Tijdens een carnaval worden duizenden sinaasappels tussen rivaliserende teams gegooid.",
+      "de": "Während eines Karnevals werfen rivalisierende Teams tausende Orangen aufeinander."
     },
     "question": {
-      "fr": "Dans quel pays cette tradition spectaculaire a-t-elle lieu ?",
-      "en": "In which country does this spectacular tradition take place?",
-      "nl": "In welk land vindt deze spectaculaire traditie plaats?",
-      "de": "In welchem Land findet diese spektakuläre Tradition statt?"
+      "fr": "Dans quel pays se déroule cette bataille d’agrumes ?",
+      "en": "In which country does this citrus battle take place?",
+      "nl": "In welk land vindt dit citrusgevecht plaats?",
+      "de": "In welchem Land findet diese Zitrus-Schlacht statt?"
     },
     "answers": {
       "fr": [
-        "Italie",
         "Espagne",
-        "Portugal",
-        "Grèce"
+        "Italie",
+        "France",
+        "Slovénie"
       ],
       "en": [
-        "Italy",
         "Spain",
-        "Portugal",
-        "Greece"
+        "Italy",
+        "France",
+        "Slovenia"
       ],
       "nl": [
-        "Italië",
         "Spanje",
-        "Portugal",
-        "Griekenland"
+        "Italië",
+        "Frankrijk",
+        "Slovenië"
       ],
       "de": [
-        "Italien",
         "Spanien",
-        "Portugal",
-        "Griechenland"
+        "Italien",
+        "Frankreich",
+        "Slowenien"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "explanation": {
-      "fr": "Cette tradition montre comment les fêtes locales peuvent transformer l’espace public en spectacle collectif.",
-      "en": "This tradition shows how local celebrations can turn public space into a collective spectacle.",
-      "nl": "Deze traditie toont hoe lokale feesten de openbare ruimte kunnen veranderen in een collectief spektakel.",
-      "de": "Diese Tradition zeigt, wie lokale Feste den öffentlichen Raum in ein gemeinschaftliches Spektakel verwandeln können."
+      "fr": "Cette tradition transforme un carnaval local en spectacle collectif très reconnaissable.",
+      "en": "This tradition turns a local carnival into a very recognisable collective spectacle.",
+      "nl": "Deze traditie verandert een lokaal carnaval in een herkenbaar collectief spektakel.",
+      "de": "Diese Tradition verwandelt einen lokalen Karneval in ein sehr erkennbares gemeinschaftliches Spektakel."
     },
     "questionType": "standard",
     "image": null,
@@ -2584,270 +2584,6 @@ const CULINARY_BANK=[
     "showImageInQuestion": false
   },
   {
-    "id": "c001_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_casu_marzu",
-    "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
-    },
-    "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
-    },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Casu Marzu particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Casu Marzu especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Casu Marzu bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Casu Marzu besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "La fermentation très poussée",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Its advanced fermentation",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "De sterke fermentatie",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Die starke Fermentation",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "La fermentation très poussée",
-      "en": "Its advanced fermentation",
-      "nl": "De sterke fermentatie",
-      "de": "Die starke Fermentation"
-    },
-    "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "casu-marzu.jpg",
-      "path": "assets/food/casu-marzu.jpg",
-      "adobeStockId": "69736294",
-      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Casu Marzu",
-        "en": "Photo of the dish: Casu Marzu",
-        "nl": "Foto van het gerecht: Casu Marzu",
-        "de": "Foto des Gerichts: Casu Marzu"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c001_known",
-    "mode": "culinary",
-    "subjectKey": "food_casu_marzu",
-    "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
-    },
-    "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
-    },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Casu Marzu sont-ils particulièrement connus ?",
-      "en": "Why are Casu Marzu especially known?",
-      "nl": "Waarom zijn Casu Marzu bijzonder bekend?",
-      "de": "Wofür sind Casu Marzu besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Sa texture très souple et sa réputation controversée",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its very soft texture and controversial reputation",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn zeer zachte textuur en controversiële reputatie",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Seine sehr weiche textur und seinen kontroversen ruf",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Sa texture très souple et sa réputation controversée",
-      "en": "Its very soft texture and controversial reputation",
-      "nl": "Zijn zeer zachte textuur en controversiële reputatie",
-      "de": "Seine sehr weiche textur und seinen kontroversen ruf"
-    },
-    "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "casu-marzu.jpg",
-      "path": "assets/food/casu-marzu.jpg",
-      "adobeStockId": "69736294",
-      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Casu Marzu",
-        "en": "Photo of the dish: Casu Marzu",
-        "nl": "Foto van het gerecht: Casu Marzu",
-        "de": "Foto des Gerichts: Casu Marzu"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c001_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_casu_marzu",
-    "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
-    },
-    "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
-    },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Sardaigne, je surprends par sa texture très souple et sa réputation controversée. Qui suis-je ?",
-      "en": "Riddle: I am linked to Sardinia, and I surprise people with its very soft texture and controversial reputation. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Sardinië en verras door zijn zeer zachte textuur en controversiële reputatie. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Sardinien verbunden und überrasche durch seine sehr weiche Textur und seinen kontroversen Ruf. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming",
-        "Hákarl"
-      ],
-      "en": [
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming",
-        "Hákarl"
-      ],
-      "nl": [
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming",
-        "Hákarl"
-      ],
-      "de": [
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming",
-        "Hákarl"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
-    },
-    "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "casu-marzu.jpg",
-      "path": "assets/food/casu-marzu.jpg",
-      "adobeStockId": "69736294",
-      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Casu Marzu",
-        "en": "Photo of the dish: Casu Marzu",
-        "nl": "Foto van het gerecht: Casu Marzu",
-        "de": "Foto des Gerichts: Casu Marzu"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
     "id": "c001_image",
     "mode": "culinary",
     "subjectKey": "food_casu_marzu",
@@ -2884,27 +2620,27 @@ const CULINARY_BANK=[
     "answers": {
       "fr": [
         "Casu Marzu",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Haggis",
+        "Surströmming",
+        "Hákarl"
       ],
       "en": [
         "Casu Marzu",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Haggis",
+        "Surströmming",
+        "Hákarl"
       ],
       "nl": [
         "Casu Marzu",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Haggis",
+        "Surströmming",
+        "Hákarl"
       ],
       "de": [
         "Casu Marzu",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Haggis",
+        "Surströmming",
+        "Hákarl"
       ]
     },
     "correctAnswer": {
@@ -2934,94 +2670,6 @@ const CULINARY_BANK=[
       }
     },
     "showImageInQuestion": true
-  },
-  {
-    "id": "c001_tf",
-    "mode": "culinary",
-    "subjectKey": "food_casu_marzu",
-    "traditionName": {
-      "fr": "Casu Marzu",
-      "en": "Casu Marzu",
-      "nl": "Casu Marzu",
-      "de": "Casu Marzu"
-    },
-    "country": {
-      "fr": "Italie",
-      "en": "Italy",
-      "nl": "Italië",
-      "de": "Italien"
-    },
-    "region": {
-      "fr": "Sardaigne",
-      "en": "Sardinia",
-      "nl": "Sardinië",
-      "de": "Sardinien"
-    },
-    "scenario": {
-      "fr": "Les Casu Marzu sont principalement associés à Lettonie.",
-      "en": "Casu Marzu is mainly associated with Latvia.",
-      "nl": "Casu Marzu is vooral verbonden met Letland.",
-      "de": "Casu Marzu ist hauptsächlich mit Lettland verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Faux",
-      "en": "False",
-      "nl": "Onwaar",
-      "de": "Falsch"
-    },
-    "explanation": {
-      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
-      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
-      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
-      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "casu-marzu.jpg",
-      "path": "assets/food/casu-marzu.jpg",
-      "adobeStockId": "69736294",
-      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Casu Marzu",
-        "en": "Photo of the dish: Casu Marzu",
-        "nl": "Foto van het gerecht: Casu Marzu",
-        "de": "Foto des Gerichts: Casu Marzu"
-      }
-    },
-    "showImageInQuestion": false
   },
   {
     "id": "c002_what",
@@ -3200,270 +2848,6 @@ const CULINARY_BANK=[
     "showImageInQuestion": false
   },
   {
-    "id": "c002_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_haggis",
-    "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
-    },
-    "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
-    },
-    "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Haggis particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Haggis especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Haggis bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Haggis besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "Les abats, l’avoine et les épices",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Offal, oats and spices",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Orgaanvlees, haver en kruiden",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Innereien, Hafer und Gewürze",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Les abats, l’avoine et les épices",
-      "en": "Offal, oats and spices",
-      "nl": "Orgaanvlees, haver en kruiden",
-      "de": "Innereien, Hafer und Gewürze"
-    },
-    "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "haggis.jpg",
-      "path": "assets/food/haggis.jpg",
-      "adobeStockId": "422032025",
-      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Haggis",
-        "en": "Photo of the dish: Haggis",
-        "nl": "Foto van het gerecht: Haggis",
-        "de": "Foto des Gerichts: Haggis"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c002_known",
-    "mode": "culinary",
-    "subjectKey": "food_haggis",
-    "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
-    },
-    "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
-    },
-    "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Haggis sont-ils particulièrement connus ?",
-      "en": "Why are Haggis especially known?",
-      "nl": "Waarom zijn Haggis bijzonder bekend?",
-      "de": "Wofür sind Haggis besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Son lien avec les soupers de burns",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its link with burns suppers",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn link met burns suppers",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Seine verbindung zu burns suppers",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Son lien avec les soupers de burns",
-      "en": "Its link with burns suppers",
-      "nl": "Zijn link met burns suppers",
-      "de": "Seine verbindung zu burns suppers"
-    },
-    "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "haggis.jpg",
-      "path": "assets/food/haggis.jpg",
-      "adobeStockId": "422032025",
-      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Haggis",
-        "en": "Photo of the dish: Haggis",
-        "nl": "Foto van het gerecht: Haggis",
-        "de": "Foto des Gerichts: Haggis"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c002_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_haggis",
-    "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
-    },
-    "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
-    },
-    "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Écosse, je surprends par son lien avec les soupers de Burns. Qui suis-je ?",
-      "en": "Riddle: I am linked to Scotland, and I surprise people with its link with Burns suppers. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Schotland en verras door zijn link met Burns suppers. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Schottland verbunden und überrasche durch seine Verbindung zu Burns Suppers. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Haggis",
-        "Casu Marzu",
-        "Surströmming",
-        "Hákarl"
-      ],
-      "en": [
-        "Haggis",
-        "Casu Marzu",
-        "Surströmming",
-        "Hákarl"
-      ],
-      "nl": [
-        "Haggis",
-        "Casu Marzu",
-        "Surströmming",
-        "Hákarl"
-      ],
-      "de": [
-        "Haggis",
-        "Casu Marzu",
-        "Surströmming",
-        "Hákarl"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
-    },
-    "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "haggis.jpg",
-      "path": "assets/food/haggis.jpg",
-      "adobeStockId": "422032025",
-      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Haggis",
-        "en": "Photo of the dish: Haggis",
-        "nl": "Foto van het gerecht: Haggis",
-        "de": "Foto des Gerichts: Haggis"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
     "id": "c002_image",
     "mode": "culinary",
     "subjectKey": "food_haggis",
@@ -3500,27 +2884,27 @@ const CULINARY_BANK=[
     "answers": {
       "fr": [
         "Haggis",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Surströmming",
+        "Hákarl"
       ],
       "en": [
         "Haggis",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Surströmming",
+        "Hákarl"
       ],
       "nl": [
         "Haggis",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Surströmming",
+        "Hákarl"
       ],
       "de": [
         "Haggis",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Surströmming",
+        "Hákarl"
       ]
     },
     "correctAnswer": {
@@ -3550,94 +2934,6 @@ const CULINARY_BANK=[
       }
     },
     "showImageInQuestion": true
-  },
-  {
-    "id": "c002_tf",
-    "mode": "culinary",
-    "subjectKey": "food_haggis",
-    "traditionName": {
-      "fr": "Haggis",
-      "en": "Haggis",
-      "nl": "Haggis",
-      "de": "Haggis"
-    },
-    "country": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
-    },
-    "region": {
-      "fr": "Écosse",
-      "en": "Scotland",
-      "nl": "Schotland",
-      "de": "Schottland"
-    },
-    "scenario": {
-      "fr": "Les Haggis sont associés à Écosse.",
-      "en": "Haggis is associated with Scotland.",
-      "nl": "Haggis is verbonden met Schotland.",
-      "de": "Haggis ist mit Schottland verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar",
-      "de": "Richtig"
-    },
-    "explanation": {
-      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
-      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
-      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
-      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "haggis.jpg",
-      "path": "assets/food/haggis.jpg",
-      "adobeStockId": "422032025",
-      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Haggis",
-        "en": "Photo of the dish: Haggis",
-        "nl": "Foto van het gerecht: Haggis",
-        "de": "Foto des Gerichts: Haggis"
-      }
-    },
-    "showImageInQuestion": false
   },
   {
     "id": "c003_what",
@@ -3816,270 +3112,6 @@ const CULINARY_BANK=[
     "showImageInQuestion": false
   },
   {
-    "id": "c003_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_surstromming",
-    "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
-    },
-    "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
-    },
-    "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Surströmming particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Surströmming especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Surströmming bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Surströmming besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "Le hareng de la Baltique fermenté",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Fermented Baltic herring",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Gefermenteerde Baltische haring",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Fermentierter Ostseehering",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Le hareng de la Baltique fermenté",
-      "en": "Fermented Baltic herring",
-      "nl": "Gefermenteerde Baltische haring",
-      "de": "Fermentierter Ostseehering"
-    },
-    "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "surstromming.jpg",
-      "path": "assets/food/surstromming.jpg",
-      "adobeStockId": "143413426",
-      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Surströmming",
-        "en": "Photo of the dish: Surströmming",
-        "nl": "Foto van het gerecht: Surströmming",
-        "de": "Foto des Gerichts: Surströmming"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c003_known",
-    "mode": "culinary",
-    "subjectKey": "food_surstromming",
-    "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
-    },
-    "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
-    },
-    "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Surströmming sont-ils particulièrement connus ?",
-      "en": "Why are Surströmming especially known?",
-      "nl": "Waarom zijn Surströmming bijzonder bekend?",
-      "de": "Wofür sind Surströmming besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Son odeur extrêmement forte",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its extremely strong smell",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn extreem sterke geur",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Seinen extrem starken geruch",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Son odeur extrêmement forte",
-      "en": "Its extremely strong smell",
-      "nl": "Zijn extreem sterke geur",
-      "de": "Seinen extrem starken geruch"
-    },
-    "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "surstromming.jpg",
-      "path": "assets/food/surstromming.jpg",
-      "adobeStockId": "143413426",
-      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Surströmming",
-        "en": "Photo of the dish: Surströmming",
-        "nl": "Foto van het gerecht: Surströmming",
-        "de": "Foto des Gerichts: Surströmming"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c003_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_surstromming",
-    "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
-    },
-    "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
-    },
-    "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Nord de la Suède, je surprends par son odeur extrêmement forte. Qui suis-je ?",
-      "en": "Riddle: I am linked to Northern Sweden, and I surprise people with its extremely strong smell. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Noord-Zweden en verras door zijn extreem sterke geur. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Nordschweden verbunden und überrasche durch seinen extrem starken Geruch. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Surströmming",
-        "Casu Marzu",
-        "Haggis",
-        "Hákarl"
-      ],
-      "en": [
-        "Surströmming",
-        "Casu Marzu",
-        "Haggis",
-        "Hákarl"
-      ],
-      "nl": [
-        "Surströmming",
-        "Casu Marzu",
-        "Haggis",
-        "Hákarl"
-      ],
-      "de": [
-        "Surströmming",
-        "Casu Marzu",
-        "Haggis",
-        "Hákarl"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
-    },
-    "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "surstromming.jpg",
-      "path": "assets/food/surstromming.jpg",
-      "adobeStockId": "143413426",
-      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Surströmming",
-        "en": "Photo of the dish: Surströmming",
-        "nl": "Foto van het gerecht: Surströmming",
-        "de": "Foto des Gerichts: Surströmming"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
     "id": "c003_image",
     "mode": "culinary",
     "subjectKey": "food_surstromming",
@@ -4116,27 +3148,27 @@ const CULINARY_BANK=[
     "answers": {
       "fr": [
         "Surströmming",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Haggis",
+        "Hákarl"
       ],
       "en": [
         "Surströmming",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Haggis",
+        "Hákarl"
       ],
       "nl": [
         "Surströmming",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Haggis",
+        "Hákarl"
       ],
       "de": [
         "Surströmming",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Haggis",
+        "Hákarl"
       ]
     },
     "correctAnswer": {
@@ -4166,94 +3198,6 @@ const CULINARY_BANK=[
       }
     },
     "showImageInQuestion": true
-  },
-  {
-    "id": "c003_tf",
-    "mode": "culinary",
-    "subjectKey": "food_surstromming",
-    "traditionName": {
-      "fr": "Surströmming",
-      "en": "Surströmming",
-      "nl": "Surströmming",
-      "de": "Surströmming"
-    },
-    "country": {
-      "fr": "Suède",
-      "en": "Sweden",
-      "nl": "Zweden",
-      "de": "Schweden"
-    },
-    "region": {
-      "fr": "Nord de la Suède",
-      "en": "Northern Sweden",
-      "nl": "Noord-Zweden",
-      "de": "Nordschweden"
-    },
-    "scenario": {
-      "fr": "Les Surströmming sont principalement associés à Lettonie.",
-      "en": "Surströmming is mainly associated with Latvia.",
-      "nl": "Surströmming is vooral verbonden met Letland.",
-      "de": "Surströmming ist hauptsächlich mit Lettland verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Faux",
-      "en": "False",
-      "nl": "Onwaar",
-      "de": "Falsch"
-    },
-    "explanation": {
-      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
-      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
-      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
-      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "surstromming.jpg",
-      "path": "assets/food/surstromming.jpg",
-      "adobeStockId": "143413426",
-      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Surströmming",
-        "en": "Photo of the dish: Surströmming",
-        "nl": "Foto van het gerecht: Surströmming",
-        "de": "Foto des Gerichts: Surströmming"
-      }
-    },
-    "showImageInQuestion": false
   },
   {
     "id": "c004_what",
@@ -4432,270 +3376,6 @@ const CULINARY_BANK=[
     "showImageInQuestion": false
   },
   {
-    "id": "c004_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_hakarl",
-    "traditionName": {
-      "fr": "Hákarl",
-      "en": "Hákarl",
-      "nl": "Hákarl",
-      "de": "Hákarl"
-    },
-    "country": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland",
-      "de": "Island"
-    },
-    "region": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland",
-      "de": "Island"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Hákarl particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Hákarl especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Hákarl bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Hákarl besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "Le requin fermenté puis séché",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Fermented and dried shark",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Gefermenteerde en gedroogde haai",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Fermentierter und getrockneter Hai",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Le requin fermenté puis séché",
-      "en": "Fermented and dried shark",
-      "nl": "Gefermenteerde en gedroogde haai",
-      "de": "Fermentierter und getrockneter Hai"
-    },
-    "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
-      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
-      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
-      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "hakarl.jpg",
-      "path": "assets/food/hakarl.jpg",
-      "adobeStockId": "124049250",
-      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Hákarl",
-        "en": "Photo of the dish: Hákarl",
-        "nl": "Foto van het gerecht: Hákarl",
-        "de": "Foto des Gerichts: Hákarl"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c004_known",
-    "mode": "culinary",
-    "subjectKey": "food_hakarl",
-    "traditionName": {
-      "fr": "Hákarl",
-      "en": "Hákarl",
-      "nl": "Hákarl",
-      "de": "Hákarl"
-    },
-    "country": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland",
-      "de": "Island"
-    },
-    "region": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland",
-      "de": "Island"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Hákarl sont-ils particulièrement connus ?",
-      "en": "Why are Hákarl especially known?",
-      "nl": "Waarom zijn Hákarl bijzonder bekend?",
-      "de": "Wofür sind Hákarl besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Son goût puissant et sa préparation longue",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its powerful taste and long preparation",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn krachtige smaak en lange bereiding",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Seinen kräftigen geschmack und die lange zubereitung",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Son goût puissant et sa préparation longue",
-      "en": "Its powerful taste and long preparation",
-      "nl": "Zijn krachtige smaak en lange bereiding",
-      "de": "Seinen kräftigen geschmack und die lange zubereitung"
-    },
-    "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
-      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
-      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
-      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "hakarl.jpg",
-      "path": "assets/food/hakarl.jpg",
-      "adobeStockId": "124049250",
-      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Hákarl",
-        "en": "Photo of the dish: Hákarl",
-        "nl": "Foto van het gerecht: Hákarl",
-        "de": "Foto des Gerichts: Hákarl"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c004_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_hakarl",
-    "traditionName": {
-      "fr": "Hákarl",
-      "en": "Hákarl",
-      "nl": "Hákarl",
-      "de": "Hákarl"
-    },
-    "country": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland",
-      "de": "Island"
-    },
-    "region": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland",
-      "de": "Island"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Islande, je surprends par son goût puissant et sa préparation longue. Qui suis-je ?",
-      "en": "Riddle: I am linked to Iceland, and I surprise people with its powerful taste and long preparation. What am I?",
-      "nl": "Raadsel: ik ben verbonden met IJsland en verras door zijn krachtige smaak en lange bereiding. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Island verbunden und überrasche durch seinen kräftigen Geschmack und die lange Zubereitung. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Hákarl",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "en": [
-        "Hákarl",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "nl": [
-        "Hákarl",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "de": [
-        "Hákarl",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Hákarl",
-      "en": "Hákarl",
-      "nl": "Hákarl",
-      "de": "Hákarl"
-    },
-    "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
-      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
-      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
-      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "hakarl.jpg",
-      "path": "assets/food/hakarl.jpg",
-      "adobeStockId": "124049250",
-      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Hákarl",
-        "en": "Photo of the dish: Hákarl",
-        "nl": "Foto van het gerecht: Hákarl",
-        "de": "Foto des Gerichts: Hákarl"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
     "id": "c004_image",
     "mode": "culinary",
     "subjectKey": "food_hakarl",
@@ -4732,27 +3412,27 @@ const CULINARY_BANK=[
     "answers": {
       "fr": [
         "Hákarl",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Haggis",
+        "Surströmming"
       ],
       "en": [
         "Hákarl",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Haggis",
+        "Surströmming"
       ],
       "nl": [
         "Hákarl",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Haggis",
+        "Surströmming"
       ],
       "de": [
         "Hákarl",
-        "Smalahove",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Haggis",
+        "Surströmming"
       ]
     },
     "correctAnswer": {
@@ -4782,94 +3462,6 @@ const CULINARY_BANK=[
       }
     },
     "showImageInQuestion": true
-  },
-  {
-    "id": "c004_tf",
-    "mode": "culinary",
-    "subjectKey": "food_hakarl",
-    "traditionName": {
-      "fr": "Hákarl",
-      "en": "Hákarl",
-      "nl": "Hákarl",
-      "de": "Hákarl"
-    },
-    "country": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland",
-      "de": "Island"
-    },
-    "region": {
-      "fr": "Islande",
-      "en": "Iceland",
-      "nl": "IJsland",
-      "de": "Island"
-    },
-    "scenario": {
-      "fr": "Les Hákarl sont associés à Islande.",
-      "en": "Hákarl is associated with Iceland.",
-      "nl": "Hákarl is verbonden met IJsland.",
-      "de": "Hákarl ist mit Island verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar",
-      "de": "Richtig"
-    },
-    "explanation": {
-      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
-      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
-      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
-      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "hakarl.jpg",
-      "path": "assets/food/hakarl.jpg",
-      "adobeStockId": "124049250",
-      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Hákarl",
-        "en": "Photo of the dish: Hákarl",
-        "nl": "Foto van het gerecht: Hákarl",
-        "de": "Foto des Gerichts: Hákarl"
-      }
-    },
-    "showImageInQuestion": false
   },
   {
     "id": "c005_what",
@@ -5048,270 +3640,6 @@ const CULINARY_BANK=[
     "showImageInQuestion": false
   },
   {
-    "id": "c005_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_smalahove",
-    "traditionName": {
-      "fr": "Smalahove",
-      "en": "Smalahove",
-      "nl": "Smalahove",
-      "de": "Smalahove"
-    },
-    "country": {
-      "fr": "Norvège",
-      "en": "Norway",
-      "nl": "Noorwegen",
-      "de": "Norwegen"
-    },
-    "region": {
-      "fr": "Ouest de la Norvège",
-      "en": "Western Norway",
-      "nl": "West-Noorwegen",
-      "de": "Westnorwegen"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Smalahove particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Smalahove especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Smalahove bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Smalahove besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "La tête de mouton",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Sheep’s head",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Schapenkop",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Schafskopf",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "La tête de mouton",
-      "en": "Sheep’s head",
-      "nl": "Schapenkop",
-      "de": "Schafskopf"
-    },
-    "explanation": {
-      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
-      "en": "Smalahove is a sheep’s head served whole or almost whole.",
-      "nl": "Smalahove is een hele of bijna hele schapenkop.",
-      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "smalahove.jpg",
-      "path": "assets/food/smalahove.jpg",
-      "adobeStockId": "213777525",
-      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Smalahove",
-        "en": "Photo of the dish: Smalahove",
-        "nl": "Foto van het gerecht: Smalahove",
-        "de": "Foto des Gerichts: Smalahove"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c005_known",
-    "mode": "culinary",
-    "subjectKey": "food_smalahove",
-    "traditionName": {
-      "fr": "Smalahove",
-      "en": "Smalahove",
-      "nl": "Smalahove",
-      "de": "Smalahove"
-    },
-    "country": {
-      "fr": "Norvège",
-      "en": "Norway",
-      "nl": "Noorwegen",
-      "de": "Norwegen"
-    },
-    "region": {
-      "fr": "Ouest de la Norvège",
-      "en": "Western Norway",
-      "nl": "West-Noorwegen",
-      "de": "Westnorwegen"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Smalahove sont-ils particulièrement connus ?",
-      "en": "Why are Smalahove especially known?",
-      "nl": "Waarom zijn Smalahove bijzonder bekend?",
-      "de": "Wofür sind Smalahove besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Sa présentation entière ou presque entière",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Being served whole or almost whole",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn hele of bijna hele presentatie",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Seine ganze oder fast ganze präsentation",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Sa présentation entière ou presque entière",
-      "en": "Being served whole or almost whole",
-      "nl": "Zijn hele of bijna hele presentatie",
-      "de": "Seine ganze oder fast ganze präsentation"
-    },
-    "explanation": {
-      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
-      "en": "Smalahove is a sheep’s head served whole or almost whole.",
-      "nl": "Smalahove is een hele of bijna hele schapenkop.",
-      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "smalahove.jpg",
-      "path": "assets/food/smalahove.jpg",
-      "adobeStockId": "213777525",
-      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Smalahove",
-        "en": "Photo of the dish: Smalahove",
-        "nl": "Foto van het gerecht: Smalahove",
-        "de": "Foto des Gerichts: Smalahove"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c005_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_smalahove",
-    "traditionName": {
-      "fr": "Smalahove",
-      "en": "Smalahove",
-      "nl": "Smalahove",
-      "de": "Smalahove"
-    },
-    "country": {
-      "fr": "Norvège",
-      "en": "Norway",
-      "nl": "Noorwegen",
-      "de": "Norwegen"
-    },
-    "region": {
-      "fr": "Ouest de la Norvège",
-      "en": "Western Norway",
-      "nl": "West-Noorwegen",
-      "de": "Westnorwegen"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Ouest de la Norvège, je surprends par sa présentation entière ou presque entière. Qui suis-je ?",
-      "en": "Riddle: I am linked to Western Norway, and I surprise people with being served whole or almost whole. What am I?",
-      "nl": "Raadsel: ik ben verbonden met West-Noorwegen en verras door zijn hele of bijna hele presentatie. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Westnorwegen verbunden und überrasche durch seine ganze oder fast ganze Präsentation. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Smalahove",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "en": [
-        "Smalahove",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "nl": [
-        "Smalahove",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "de": [
-        "Smalahove",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Smalahove",
-      "en": "Smalahove",
-      "nl": "Smalahove",
-      "de": "Smalahove"
-    },
-    "explanation": {
-      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
-      "en": "Smalahove is a sheep’s head served whole or almost whole.",
-      "nl": "Smalahove is een hele of bijna hele schapenkop.",
-      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "smalahove.jpg",
-      "path": "assets/food/smalahove.jpg",
-      "adobeStockId": "213777525",
-      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Smalahove",
-        "en": "Photo of the dish: Smalahove",
-        "nl": "Foto van het gerecht: Smalahove",
-        "de": "Foto des Gerichts: Smalahove"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
     "id": "c005_image",
     "mode": "culinary",
     "subjectKey": "food_smalahove",
@@ -5348,27 +3676,27 @@ const CULINARY_BANK=[
     "answers": {
       "fr": [
         "Smalahove",
-        "Hákarl",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Haggis",
+        "Surströmming"
       ],
       "en": [
         "Smalahove",
-        "Hákarl",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Haggis",
+        "Surströmming"
       ],
       "nl": [
         "Smalahove",
-        "Hákarl",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Haggis",
+        "Surströmming"
       ],
       "de": [
         "Smalahove",
-        "Hákarl",
-        "Blodplättar",
-        "Andouillette"
+        "Casu Marzu",
+        "Haggis",
+        "Surströmming"
       ]
     },
     "correctAnswer": {
@@ -5398,2561 +3726,9 @@ const CULINARY_BANK=[
       }
     },
     "showImageInQuestion": true
-  },
-  {
-    "id": "c005_tf",
-    "mode": "culinary",
-    "subjectKey": "food_smalahove",
-    "traditionName": {
-      "fr": "Smalahove",
-      "en": "Smalahove",
-      "nl": "Smalahove",
-      "de": "Smalahove"
-    },
-    "country": {
-      "fr": "Norvège",
-      "en": "Norway",
-      "nl": "Noorwegen",
-      "de": "Norwegen"
-    },
-    "region": {
-      "fr": "Ouest de la Norvège",
-      "en": "Western Norway",
-      "nl": "West-Noorwegen",
-      "de": "Westnorwegen"
-    },
-    "scenario": {
-      "fr": "Les Smalahove sont principalement associés à Lettonie.",
-      "en": "Smalahove is mainly associated with Latvia.",
-      "nl": "Smalahove is vooral verbonden met Letland.",
-      "de": "Smalahove ist hauptsächlich mit Lettland verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Faux",
-      "en": "False",
-      "nl": "Onwaar",
-      "de": "Falsch"
-    },
-    "explanation": {
-      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
-      "en": "Smalahove is a sheep’s head served whole or almost whole.",
-      "nl": "Smalahove is een hele of bijna hele schapenkop.",
-      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "smalahove.jpg",
-      "path": "assets/food/smalahove.jpg",
-      "adobeStockId": "213777525",
-      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Smalahove",
-        "en": "Photo of the dish: Smalahove",
-        "nl": "Foto van het gerecht: Smalahove",
-        "de": "Foto des Gerichts: Smalahove"
-      }
-    },
-    "showImageInQuestion": false
   },
   {
     "id": "c006_what",
-    "mode": "culinary",
-    "subjectKey": "food_blodplattar",
-    "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar",
-      "de": "Blodplättar"
-    },
-    "country": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Sweden",
-      "de": "Finnland / Schweden"
-    },
-    "region": {
-      "fr": "Pays nordiques",
-      "en": "Nordic countries",
-      "nl": "Noordse landen",
-      "de": "Nordische Länder"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont les Blodplättar ?",
-      "en": "What are Blodplättar?",
-      "nl": "Wat zijn Blodplättar?",
-      "de": "Was sind Blodplättar?"
-    },
-    "answers": {
-      "fr": [
-        "Des crêpes au sang",
-        "Une soupe",
-        "Un dessert",
-        "Une boisson"
-      ],
-      "en": [
-        "Blood pancakes",
-        "A soup",
-        "A dessert",
-        "A drink"
-      ],
-      "nl": [
-        "Bloedpannenkoeken",
-        "Een soep",
-        "Een dessert",
-        "Een drank"
-      ],
-      "de": [
-        "Blutpfannkuchen",
-        "Eine Suppe",
-        "Ein Dessert",
-        "Ein Getränk"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Des crêpes au sang",
-      "en": "Blood pancakes",
-      "nl": "Bloedpannenkoeken",
-      "de": "Blutpfannkuchen"
-    },
-    "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
-      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
-    },
-    "questionType": "what",
-    "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Blodplättar",
-        "en": "Photo of the dish: Blodplättar",
-        "nl": "Foto van het gerecht: Blodplättar",
-        "de": "Foto des Gerichts: Blodplättar"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c006_country",
-    "mode": "culinary",
-    "subjectKey": "food_blodplattar",
-    "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar",
-      "de": "Blodplättar"
-    },
-    "country": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Sweden",
-      "de": "Finnland / Schweden"
-    },
-    "region": {
-      "fr": "Pays nordiques",
-      "en": "Nordic countries",
-      "nl": "Noordse landen",
-      "de": "Nordische Länder"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays ou région déguste-t-on traditionnellement les Blodplättar ?",
-      "en": "In which country or region are Blodplättar traditionally eaten?",
-      "nl": "In welk land of welke regio worden Blodplättar traditioneel gegeten?",
-      "de": "In welchem Land oder welcher Region werden Blodplättar traditionell gegessen?"
-    },
-    "answers": {
-      "fr": [
-        "Finlande / Suède",
-        "Italie",
-        "Écosse",
-        "Suède"
-      ],
-      "en": [
-        "Finland / Sweden",
-        "Italy",
-        "Scotland",
-        "Sweden"
-      ],
-      "nl": [
-        "Finland / Sweden",
-        "Italië",
-        "Schotland",
-        "Zweden"
-      ],
-      "de": [
-        "Finnland / Schweden",
-        "Italien",
-        "Schottland",
-        "Schweden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Sweden",
-      "de": "Finnland / Schweden"
-    },
-    "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
-      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
-    },
-    "questionType": "country",
-    "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Blodplättar",
-        "en": "Photo of the dish: Blodplättar",
-        "nl": "Foto van het gerecht: Blodplättar",
-        "de": "Foto des Gerichts: Blodplättar"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c006_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_blodplattar",
-    "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar",
-      "de": "Blodplättar"
-    },
-    "country": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Sweden",
-      "de": "Finnland / Schweden"
-    },
-    "region": {
-      "fr": "Pays nordiques",
-      "en": "Nordic countries",
-      "nl": "Noordse landen",
-      "de": "Nordische Länder"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Blodplättar particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Blodplättar especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Blodplättar bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Blodplättar besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "Le sang utilisé dans la pâte",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Blood used in the batter",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Bloed in het beslag",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Blut im Teig",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Le sang utilisé dans la pâte",
-      "en": "Blood used in the batter",
-      "nl": "Bloed in het beslag",
-      "de": "Blut im Teig"
-    },
-    "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
-      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Blodplättar",
-        "en": "Photo of the dish: Blodplättar",
-        "nl": "Foto van het gerecht: Blodplättar",
-        "de": "Foto des Gerichts: Blodplättar"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c006_known",
-    "mode": "culinary",
-    "subjectKey": "food_blodplattar",
-    "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar",
-      "de": "Blodplättar"
-    },
-    "country": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Sweden",
-      "de": "Finnland / Schweden"
-    },
-    "region": {
-      "fr": "Pays nordiques",
-      "en": "Nordic countries",
-      "nl": "Noordse landen",
-      "de": "Nordische Länder"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Blodplättar sont-ils particulièrement connus ?",
-      "en": "Why are Blodplättar especially known?",
-      "nl": "Waarom zijn Blodplättar bijzonder bekend?",
-      "de": "Wofür sind Blodplättar besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Sa couleur sombre et son ingrédient inattendu",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its dark colour and unexpected ingredient",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn donkere kleur en onverwachte ingrediënt",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Seine dunkle farbe und unerwartete zutat",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Sa couleur sombre et son ingrédient inattendu",
-      "en": "Its dark colour and unexpected ingredient",
-      "nl": "Zijn donkere kleur en onverwachte ingrediënt",
-      "de": "Seine dunkle farbe und unerwartete zutat"
-    },
-    "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
-      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Blodplättar",
-        "en": "Photo of the dish: Blodplättar",
-        "nl": "Foto van het gerecht: Blodplättar",
-        "de": "Foto des Gerichts: Blodplättar"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c006_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_blodplattar",
-    "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar",
-      "de": "Blodplättar"
-    },
-    "country": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Sweden",
-      "de": "Finnland / Schweden"
-    },
-    "region": {
-      "fr": "Pays nordiques",
-      "en": "Nordic countries",
-      "nl": "Noordse landen",
-      "de": "Nordische Länder"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Pays nordiques, je surprends par sa couleur sombre et son ingrédient inattendu. Qui suis-je ?",
-      "en": "Riddle: I am linked to Nordic countries, and I surprise people with its dark colour and unexpected ingredient. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Noordse landen en verras door zijn donkere kleur en onverwachte ingrediënt. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Nordische Länder verbunden und überrasche durch seine dunkle Farbe und unerwartete Zutat. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Blodplättar",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "en": [
-        "Blodplättar",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "nl": [
-        "Blodplättar",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "de": [
-        "Blodplättar",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar",
-      "de": "Blodplättar"
-    },
-    "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
-      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Blodplättar",
-        "en": "Photo of the dish: Blodplättar",
-        "nl": "Foto van het gerecht: Blodplättar",
-        "de": "Foto des Gerichts: Blodplättar"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c006_image",
-    "mode": "culinary",
-    "subjectKey": "food_blodplattar",
-    "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar",
-      "de": "Blodplättar"
-    },
-    "country": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Sweden",
-      "de": "Finnland / Schweden"
-    },
-    "region": {
-      "fr": "Pays nordiques",
-      "en": "Nordic countries",
-      "nl": "Noordse landen",
-      "de": "Nordische Länder"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quelle spécialité est représentée sur cette photo ?",
-      "en": "Which speciality is shown in this photo?",
-      "nl": "Welke specialiteit staat op deze foto?",
-      "de": "Welche Spezialität ist auf diesem Foto zu sehen?"
-    },
-    "answers": {
-      "fr": [
-        "Blodplättar",
-        "Hákarl",
-        "Smalahove",
-        "Andouillette"
-      ],
-      "en": [
-        "Blodplättar",
-        "Hákarl",
-        "Smalahove",
-        "Andouillette"
-      ],
-      "nl": [
-        "Blodplättar",
-        "Hákarl",
-        "Smalahove",
-        "Andouillette"
-      ],
-      "de": [
-        "Blodplättar",
-        "Hákarl",
-        "Smalahove",
-        "Andouillette"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar",
-      "de": "Blodplättar"
-    },
-    "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
-      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
-    },
-    "questionType": "image",
-    "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Blodplättar",
-        "en": "Photo of the dish: Blodplättar",
-        "nl": "Foto van het gerecht: Blodplättar",
-        "de": "Foto des Gerichts: Blodplättar"
-      }
-    },
-    "showImageInQuestion": true
-  },
-  {
-    "id": "c006_tf",
-    "mode": "culinary",
-    "subjectKey": "food_blodplattar",
-    "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar",
-      "de": "Blodplättar"
-    },
-    "country": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Sweden",
-      "de": "Finnland / Schweden"
-    },
-    "region": {
-      "fr": "Pays nordiques",
-      "en": "Nordic countries",
-      "nl": "Noordse landen",
-      "de": "Nordische Länder"
-    },
-    "scenario": {
-      "fr": "Les Blodplättar sont associés à Finlande / Suède.",
-      "en": "Blodplättar is associated with Finland / Sweden.",
-      "nl": "Blodplättar is verbonden met Finland / Sweden.",
-      "de": "Blodplättar ist mit Finnland / Schweden verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar",
-      "de": "Richtig"
-    },
-    "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
-      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Blodplättar",
-        "en": "Photo of the dish: Blodplättar",
-        "nl": "Foto van het gerecht: Blodplättar",
-        "de": "Foto des Gerichts: Blodplättar"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c007_what",
-    "mode": "culinary",
-    "subjectKey": "food_andouillette",
-    "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette",
-      "de": "Andouillette"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont les Andouillette ?",
-      "en": "What are Andouillette?",
-      "nl": "Wat zijn Andouillette?",
-      "de": "Was sind Andouillette?"
-    },
-    "answers": {
-      "fr": [
-        "Une saucisse à base d’intestins",
-        "Une soupe",
-        "Un dessert",
-        "Une boisson"
-      ],
-      "en": [
-        "A sausage made with intestines",
-        "A soup",
-        "A dessert",
-        "A drink"
-      ],
-      "nl": [
-        "Een worst gemaakt met darmen",
-        "Een soep",
-        "Een dessert",
-        "Een drank"
-      ],
-      "de": [
-        "Eine Wurst aus Därmen",
-        "Eine Suppe",
-        "Ein Dessert",
-        "Ein Getränk"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une saucisse à base d’intestins",
-      "en": "A sausage made with intestines",
-      "nl": "Een worst gemaakt met darmen",
-      "de": "Eine Wurst aus Därmen"
-    },
-    "explanation": {
-      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
-      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
-      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
-    },
-    "questionType": "what",
-    "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Andouillette",
-        "en": "Photo of the dish: Andouillette",
-        "nl": "Foto van het gerecht: Andouillette",
-        "de": "Foto des Gerichts: Andouillette"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c007_country",
-    "mode": "culinary",
-    "subjectKey": "food_andouillette",
-    "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette",
-      "de": "Andouillette"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays ou région déguste-t-on traditionnellement les Andouillette ?",
-      "en": "In which country or region are Andouillette traditionally eaten?",
-      "nl": "In welk land of welke regio worden Andouillette traditioneel gegeten?",
-      "de": "In welchem Land oder welcher Region werden Andouillette traditionell gegessen?"
-    },
-    "answers": {
-      "fr": [
-        "France",
-        "Italie",
-        "Écosse",
-        "Suède"
-      ],
-      "en": [
-        "France",
-        "Italy",
-        "Scotland",
-        "Sweden"
-      ],
-      "nl": [
-        "Frankrijk",
-        "Italië",
-        "Schotland",
-        "Zweden"
-      ],
-      "de": [
-        "Frankreich",
-        "Italien",
-        "Schottland",
-        "Schweden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "explanation": {
-      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
-      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
-      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
-    },
-    "questionType": "country",
-    "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Andouillette",
-        "en": "Photo of the dish: Andouillette",
-        "nl": "Foto van het gerecht: Andouillette",
-        "de": "Foto des Gerichts: Andouillette"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c007_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_andouillette",
-    "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette",
-      "de": "Andouillette"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Andouillette particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Andouillette especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Andouillette bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Andouillette besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "Les intestins préparés en charcuterie",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Intestines prepared as charcuterie",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Darmen verwerkt als vleeswaar",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Därme als Wurstspezialität",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Les intestins préparés en charcuterie",
-      "en": "Intestines prepared as charcuterie",
-      "nl": "Darmen verwerkt als vleeswaar",
-      "de": "Därme als Wurstspezialität"
-    },
-    "explanation": {
-      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
-      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
-      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Andouillette",
-        "en": "Photo of the dish: Andouillette",
-        "nl": "Foto van het gerecht: Andouillette",
-        "de": "Foto des Gerichts: Andouillette"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c007_known",
-    "mode": "culinary",
-    "subjectKey": "food_andouillette",
-    "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette",
-      "de": "Andouillette"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Andouillette sont-ils particulièrement connus ?",
-      "en": "Why are Andouillette especially known?",
-      "nl": "Waarom zijn Andouillette bijzonder bekend?",
-      "de": "Wofür sind Andouillette besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Son parfum très reconnaissable",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its very recognisable aroma",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn zeer herkenbare geur",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Ihren sehr erkennbaren geruch",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Son parfum très reconnaissable",
-      "en": "Its very recognisable aroma",
-      "nl": "Zijn zeer herkenbare geur",
-      "de": "Ihren sehr erkennbaren geruch"
-    },
-    "explanation": {
-      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
-      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
-      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Andouillette",
-        "en": "Photo of the dish: Andouillette",
-        "nl": "Foto van het gerecht: Andouillette",
-        "de": "Foto des Gerichts: Andouillette"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c007_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_andouillette",
-    "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette",
-      "de": "Andouillette"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à France, je surprends par son parfum très reconnaissable. Qui suis-je ?",
-      "en": "Riddle: I am linked to France, and I surprise people with its very recognisable aroma. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Frankrijk en verras door zijn zeer herkenbare geur. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Frankreich verbunden und überrasche durch ihren sehr erkennbaren Geruch. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Andouillette",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "en": [
-        "Andouillette",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "nl": [
-        "Andouillette",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "de": [
-        "Andouillette",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette",
-      "de": "Andouillette"
-    },
-    "explanation": {
-      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
-      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
-      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Andouillette",
-        "en": "Photo of the dish: Andouillette",
-        "nl": "Foto van het gerecht: Andouillette",
-        "de": "Foto des Gerichts: Andouillette"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c007_image",
-    "mode": "culinary",
-    "subjectKey": "food_andouillette",
-    "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette",
-      "de": "Andouillette"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quelle spécialité est représentée sur cette photo ?",
-      "en": "Which speciality is shown in this photo?",
-      "nl": "Welke specialiteit staat op deze foto?",
-      "de": "Welche Spezialität ist auf diesem Foto zu sehen?"
-    },
-    "answers": {
-      "fr": [
-        "Andouillette",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "en": [
-        "Andouillette",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "nl": [
-        "Andouillette",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "de": [
-        "Andouillette",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette",
-      "de": "Andouillette"
-    },
-    "explanation": {
-      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
-      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
-      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
-    },
-    "questionType": "image",
-    "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Andouillette",
-        "en": "Photo of the dish: Andouillette",
-        "nl": "Foto van het gerecht: Andouillette",
-        "de": "Foto des Gerichts: Andouillette"
-      }
-    },
-    "showImageInQuestion": true
-  },
-  {
-    "id": "c007_tf",
-    "mode": "culinary",
-    "subjectKey": "food_andouillette",
-    "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette",
-      "de": "Andouillette"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "scenario": {
-      "fr": "Les Andouillette sont principalement associés à Lettonie.",
-      "en": "Andouillette is mainly associated with Latvia.",
-      "nl": "Andouillette is vooral verbonden met Letland.",
-      "de": "Andouillette ist hauptsächlich mit Lettland verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Faux",
-      "en": "False",
-      "nl": "Onwaar",
-      "de": "Falsch"
-    },
-    "explanation": {
-      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
-      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
-      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Andouillette",
-        "en": "Photo of the dish: Andouillette",
-        "nl": "Foto van het gerecht: Andouillette",
-        "de": "Foto des Gerichts: Andouillette"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c008_what",
-    "mode": "culinary",
-    "subjectKey": "food_mammi",
-    "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi",
-      "de": "Mämmi"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont les Mämmi ?",
-      "en": "What are Mämmi?",
-      "nl": "Wat zijn Mämmi?",
-      "de": "Was sind Mämmi?"
-    },
-    "answers": {
-      "fr": [
-        "Un dessert de Pâques au seigle",
-        "Une soupe",
-        "Un dessert",
-        "Une boisson"
-      ],
-      "en": [
-        "An Easter dessert made with rye",
-        "A soup",
-        "A dessert",
-        "A drink"
-      ],
-      "nl": [
-        "Een paasdessert met rogge",
-        "Een soep",
-        "Een dessert",
-        "Een drank"
-      ],
-      "de": [
-        "Ein Osterdessert aus Roggen",
-        "Eine Suppe",
-        "Ein Dessert",
-        "Ein Getränk"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Un dessert de Pâques au seigle",
-      "en": "An Easter dessert made with rye",
-      "nl": "Een paasdessert met rogge",
-      "de": "Ein Osterdessert aus Roggen"
-    },
-    "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
-      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
-    },
-    "questionType": "what",
-    "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Mämmi",
-        "en": "Photo of the dish: Mämmi",
-        "nl": "Foto van het gerecht: Mämmi",
-        "de": "Foto des Gerichts: Mämmi"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c008_country",
-    "mode": "culinary",
-    "subjectKey": "food_mammi",
-    "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi",
-      "de": "Mämmi"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays ou région déguste-t-on traditionnellement les Mämmi ?",
-      "en": "In which country or region are Mämmi traditionally eaten?",
-      "nl": "In welk land of welke regio worden Mämmi traditioneel gegeten?",
-      "de": "In welchem Land oder welcher Region werden Mämmi traditionell gegessen?"
-    },
-    "answers": {
-      "fr": [
-        "Finlande",
-        "Italie",
-        "Écosse",
-        "Suède"
-      ],
-      "en": [
-        "Finland",
-        "Italy",
-        "Scotland",
-        "Sweden"
-      ],
-      "nl": [
-        "Finland",
-        "Italië",
-        "Schotland",
-        "Zweden"
-      ],
-      "de": [
-        "Finnland",
-        "Italien",
-        "Schottland",
-        "Schweden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
-      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
-    },
-    "questionType": "country",
-    "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Mämmi",
-        "en": "Photo of the dish: Mämmi",
-        "nl": "Foto van het gerecht: Mämmi",
-        "de": "Foto des Gerichts: Mämmi"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c008_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_mammi",
-    "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi",
-      "de": "Mämmi"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Mämmi particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Mämmi especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Mämmi bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Mämmi besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "Le seigle et le malt",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Rye and malt",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Rogge en mout",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Roggen und Malz",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Le seigle et le malt",
-      "en": "Rye and malt",
-      "nl": "Rogge en mout",
-      "de": "Roggen und Malz"
-    },
-    "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
-      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Mämmi",
-        "en": "Photo of the dish: Mämmi",
-        "nl": "Foto van het gerecht: Mämmi",
-        "de": "Foto des Gerichts: Mämmi"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c008_known",
-    "mode": "culinary",
-    "subjectKey": "food_mammi",
-    "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi",
-      "de": "Mämmi"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Mämmi sont-ils particulièrement connus ?",
-      "en": "Why are Mämmi especially known?",
-      "nl": "Waarom zijn Mämmi bijzonder bekend?",
-      "de": "Wofür sind Mämmi besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Son lien avec pâques",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its link with easter",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn link met pasen",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Seine verbindung zu ostern",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Son lien avec pâques",
-      "en": "Its link with easter",
-      "nl": "Zijn link met pasen",
-      "de": "Seine verbindung zu ostern"
-    },
-    "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
-      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Mämmi",
-        "en": "Photo of the dish: Mämmi",
-        "nl": "Foto van het gerecht: Mämmi",
-        "de": "Foto des Gerichts: Mämmi"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c008_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_mammi",
-    "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi",
-      "de": "Mämmi"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Finlande, je surprends par son lien avec Pâques. Qui suis-je ?",
-      "en": "Riddle: I am linked to Finland, and I surprise people with its link with Easter. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Finland en verras door zijn link met Pasen. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Finnland verbunden und überrasche durch seine Verbindung zu Ostern. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Mämmi",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "en": [
-        "Mämmi",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "nl": [
-        "Mämmi",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "de": [
-        "Mämmi",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi",
-      "de": "Mämmi"
-    },
-    "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
-      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Mämmi",
-        "en": "Photo of the dish: Mämmi",
-        "nl": "Foto van het gerecht: Mämmi",
-        "de": "Foto des Gerichts: Mämmi"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c008_image",
-    "mode": "culinary",
-    "subjectKey": "food_mammi",
-    "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi",
-      "de": "Mämmi"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quelle spécialité est représentée sur cette photo ?",
-      "en": "Which speciality is shown in this photo?",
-      "nl": "Welke specialiteit staat op deze foto?",
-      "de": "Welche Spezialität ist auf diesem Foto zu sehen?"
-    },
-    "answers": {
-      "fr": [
-        "Mämmi",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "en": [
-        "Mämmi",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "nl": [
-        "Mämmi",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "de": [
-        "Mämmi",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi",
-      "de": "Mämmi"
-    },
-    "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
-      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
-    },
-    "questionType": "image",
-    "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Mämmi",
-        "en": "Photo of the dish: Mämmi",
-        "nl": "Foto van het gerecht: Mämmi",
-        "de": "Foto des Gerichts: Mämmi"
-      }
-    },
-    "showImageInQuestion": true
-  },
-  {
-    "id": "c008_tf",
-    "mode": "culinary",
-    "subjectKey": "food_mammi",
-    "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi",
-      "de": "Mämmi"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "scenario": {
-      "fr": "Les Mämmi sont associés à Finlande.",
-      "en": "Mämmi is associated with Finland.",
-      "nl": "Mämmi is verbonden met Finland.",
-      "de": "Mämmi ist mit Finnland verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar",
-      "de": "Richtig"
-    },
-    "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
-      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Mämmi",
-        "en": "Photo of the dish: Mämmi",
-        "nl": "Foto van het gerecht: Mämmi",
-        "de": "Foto des Gerichts: Mämmi"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c009_what",
-    "mode": "culinary",
-    "subjectKey": "food_jellied_eels",
-    "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels",
-      "de": "Jellied eels"
-    },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk",
-      "de": "Vereinigtes Königreich"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen",
-      "de": "London"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont les Jellied eels ?",
-      "en": "What are Jellied eels?",
-      "nl": "Wat zijn Jellied eels?",
-      "de": "Was sind Jellied eels?"
-    },
-    "answers": {
-      "fr": [
-        "Des anguilles en gelée",
-        "Une soupe",
-        "Un dessert",
-        "Une boisson"
-      ],
-      "en": [
-        "Eels in jelly",
-        "A soup",
-        "A dessert",
-        "A drink"
-      ],
-      "nl": [
-        "Paling in gelei",
-        "Een soep",
-        "Een dessert",
-        "Een drank"
-      ],
-      "de": [
-        "Aal in Gelee",
-        "Eine Suppe",
-        "Ein Dessert",
-        "Ein Getränk"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Des anguilles en gelée",
-      "en": "Eels in jelly",
-      "nl": "Paling in gelei",
-      "de": "Aal in Gelee"
-    },
-    "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
-      "en": "Jellied eels are a historic speciality of London’s East End.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
-      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
-    },
-    "questionType": "what",
-    "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Jellied eels",
-        "en": "Photo of the dish: Jellied eels",
-        "nl": "Foto van het gerecht: Jellied eels",
-        "de": "Foto des Gerichts: Jellied eels"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c009_country",
-    "mode": "culinary",
-    "subjectKey": "food_jellied_eels",
-    "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels",
-      "de": "Jellied eels"
-    },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk",
-      "de": "Vereinigtes Königreich"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen",
-      "de": "London"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays ou région déguste-t-on traditionnellement les Jellied eels ?",
-      "en": "In which country or region are Jellied eels traditionally eaten?",
-      "nl": "In welk land of welke regio worden Jellied eels traditioneel gegeten?",
-      "de": "In welchem Land oder welcher Region werden Jellied eels traditionell gegessen?"
-    },
-    "answers": {
-      "fr": [
-        "Royaume-Uni",
-        "Italie",
-        "Écosse",
-        "Suède"
-      ],
-      "en": [
-        "United Kingdom",
-        "Italy",
-        "Scotland",
-        "Sweden"
-      ],
-      "nl": [
-        "Verenigd Koninkrijk",
-        "Italië",
-        "Schotland",
-        "Zweden"
-      ],
-      "de": [
-        "Vereinigtes Königreich",
-        "Italien",
-        "Schottland",
-        "Schweden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk",
-      "de": "Vereinigtes Königreich"
-    },
-    "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
-      "en": "Jellied eels are a historic speciality of London’s East End.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
-      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
-    },
-    "questionType": "country",
-    "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Jellied eels",
-        "en": "Photo of the dish: Jellied eels",
-        "nl": "Foto van het gerecht: Jellied eels",
-        "de": "Foto des Gerichts: Jellied eels"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c009_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_jellied_eels",
-    "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels",
-      "de": "Jellied eels"
-    },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk",
-      "de": "Vereinigtes Königreich"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen",
-      "de": "London"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Jellied eels particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Jellied eels especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Jellied eels bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Jellied eels besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "L’anguille servie dans une gelée froide",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Eel served in cold jelly",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Paling in koude gelei",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Aal in kaltem Gelee",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "L’anguille servie dans une gelée froide",
-      "en": "Eel served in cold jelly",
-      "nl": "Paling in koude gelei",
-      "de": "Aal in kaltem Gelee"
-    },
-    "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
-      "en": "Jellied eels are a historic speciality of London’s East End.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
-      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Jellied eels",
-        "en": "Photo of the dish: Jellied eels",
-        "nl": "Foto van het gerecht: Jellied eels",
-        "de": "Foto des Gerichts: Jellied eels"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c009_known",
-    "mode": "culinary",
-    "subjectKey": "food_jellied_eels",
-    "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels",
-      "de": "Jellied eels"
-    },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk",
-      "de": "Vereinigtes Königreich"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen",
-      "de": "London"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Jellied eels sont-ils particulièrement connus ?",
-      "en": "Why are Jellied eels especially known?",
-      "nl": "Waarom zijn Jellied eels bijzonder bekend?",
-      "de": "Wofür sind Jellied eels besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Son lien avec l’east end londonien",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its link with london’s east end",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn link met east end londen",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Seine verbindung zum londoner east end",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Son lien avec l’east end londonien",
-      "en": "Its link with london’s east end",
-      "nl": "Zijn link met east end londen",
-      "de": "Seine verbindung zum londoner east end"
-    },
-    "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
-      "en": "Jellied eels are a historic speciality of London’s East End.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
-      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Jellied eels",
-        "en": "Photo of the dish: Jellied eels",
-        "nl": "Foto van het gerecht: Jellied eels",
-        "de": "Foto des Gerichts: Jellied eels"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c009_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_jellied_eels",
-    "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels",
-      "de": "Jellied eels"
-    },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk",
-      "de": "Vereinigtes Königreich"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen",
-      "de": "London"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Londres, je surprends par son lien avec l’East End londonien. Qui suis-je ?",
-      "en": "Riddle: I am linked to London, and I surprise people with its link with London’s East End. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Londen en verras door zijn link met East End Londen. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit London verbunden und überrasche durch seine Verbindung zum Londoner East End. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Jellied eels",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "en": [
-        "Jellied eels",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "nl": [
-        "Jellied eels",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "de": [
-        "Jellied eels",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels",
-      "de": "Jellied eels"
-    },
-    "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
-      "en": "Jellied eels are a historic speciality of London’s East End.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
-      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Jellied eels",
-        "en": "Photo of the dish: Jellied eels",
-        "nl": "Foto van het gerecht: Jellied eels",
-        "de": "Foto des Gerichts: Jellied eels"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c009_image",
-    "mode": "culinary",
-    "subjectKey": "food_jellied_eels",
-    "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels",
-      "de": "Jellied eels"
-    },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk",
-      "de": "Vereinigtes Königreich"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen",
-      "de": "London"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quelle spécialité est représentée sur cette photo ?",
-      "en": "Which speciality is shown in this photo?",
-      "nl": "Welke specialiteit staat op deze foto?",
-      "de": "Welche Spezialität ist auf diesem Foto zu sehen?"
-    },
-    "answers": {
-      "fr": [
-        "Jellied eels",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "en": [
-        "Jellied eels",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "nl": [
-        "Jellied eels",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "de": [
-        "Jellied eels",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels",
-      "de": "Jellied eels"
-    },
-    "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
-      "en": "Jellied eels are a historic speciality of London’s East End.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
-      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
-    },
-    "questionType": "image",
-    "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Jellied eels",
-        "en": "Photo of the dish: Jellied eels",
-        "nl": "Foto van het gerecht: Jellied eels",
-        "de": "Foto des Gerichts: Jellied eels"
-      }
-    },
-    "showImageInQuestion": true
-  },
-  {
-    "id": "c009_tf",
-    "mode": "culinary",
-    "subjectKey": "food_jellied_eels",
-    "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels",
-      "de": "Jellied eels"
-    },
-    "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk",
-      "de": "Vereinigtes Königreich"
-    },
-    "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen",
-      "de": "London"
-    },
-    "scenario": {
-      "fr": "Les Jellied eels sont principalement associés à Lettonie.",
-      "en": "Jellied eels is mainly associated with Latvia.",
-      "nl": "Jellied eels is vooral verbonden met Letland.",
-      "de": "Jellied eels ist hauptsächlich mit Lettland verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Faux",
-      "en": "False",
-      "nl": "Onwaar",
-      "de": "Falsch"
-    },
-    "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
-      "en": "Jellied eels are a historic speciality of London’s East End.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
-      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Jellied eels",
-        "en": "Photo of the dish: Jellied eels",
-        "nl": "Foto van het gerecht: Jellied eels",
-        "de": "Foto des Gerichts: Jellied eels"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c010_what",
     "mode": "culinary",
     "subjectKey": "food_czernina",
     "traditionName": {
@@ -8040,7 +3816,7 @@ const CULINARY_BANK=[
     "showImageInQuestion": false
   },
   {
-    "id": "c010_country",
+    "id": "c006_country",
     "mode": "culinary",
     "subjectKey": "food_czernina",
     "traditionName": {
@@ -8128,7 +3904,7 @@ const CULINARY_BANK=[
     "showImageInQuestion": false
   },
   {
-    "id": "c010_ingredient",
+    "id": "c006_image",
     "mode": "culinary",
     "subjectKey": "food_czernina",
     "traditionName": {
@@ -8156,186 +3932,10 @@ const CULINARY_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Quel ingrédient ou élément rend les Czernina particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Czernina especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Czernina bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Czernina besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "Le sang de canard",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Duck blood",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Eendenbloed",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Entenblut",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Le sang de canard",
-      "en": "Duck blood",
-      "nl": "Eendenbloed",
-      "de": "Entenblut"
-    },
-    "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard.",
-      "en": "Czernina is a traditional Polish duck-blood soup.",
-      "nl": "Czernina is een traditionele Poolse soep met eendenbloed.",
-      "de": "Czernina ist eine traditionelle polnische Suppe mit Entenblut."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "czernina.jpg",
-      "path": "assets/food/czernina.jpg",
-      "adobeStockId": "20264185",
-      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Czernina",
-        "en": "Photo of the dish: Czernina",
-        "nl": "Foto van het gerecht: Czernina",
-        "de": "Foto des Gerichts: Czernina"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c010_known",
-    "mode": "culinary",
-    "subjectKey": "food_czernina",
-    "traditionName": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina",
-      "de": "Czernina"
-    },
-    "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
-    },
-    "region": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Czernina sont-ils particulièrement connus ?",
-      "en": "Why are Czernina especially known?",
-      "nl": "Waarom zijn Czernina bijzonder bekend?",
-      "de": "Wofür sind Czernina besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Son équilibre entre goût acidulé et ingrédient surprenant",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its balance of tangy flavour and surprising ingredient",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn balans tussen zure smaak en verrassend ingrediënt",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Ihre balance aus säuerlichem geschmack und überraschender zutat",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Son équilibre entre goût acidulé et ingrédient surprenant",
-      "en": "Its balance of tangy flavour and surprising ingredient",
-      "nl": "Zijn balans tussen zure smaak en verrassend ingrediënt",
-      "de": "Ihre balance aus säuerlichem geschmack und überraschender zutat"
-    },
-    "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard.",
-      "en": "Czernina is a traditional Polish duck-blood soup.",
-      "nl": "Czernina is een traditionele Poolse soep met eendenbloed.",
-      "de": "Czernina ist eine traditionelle polnische Suppe mit Entenblut."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "czernina.jpg",
-      "path": "assets/food/czernina.jpg",
-      "adobeStockId": "20264185",
-      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Czernina",
-        "en": "Photo of the dish: Czernina",
-        "nl": "Foto van het gerecht: Czernina",
-        "de": "Foto des Gerichts: Czernina"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c010_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_czernina",
-    "traditionName": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina",
-      "de": "Czernina"
-    },
-    "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
-    },
-    "region": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Pologne, je surprends par son équilibre entre goût acidulé et ingrédient surprenant. Qui suis-je ?",
-      "en": "Riddle: I am linked to Poland, and I surprise people with its balance of tangy flavour and surprising ingredient. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Polen en verras door zijn balans tussen zure smaak en verrassend ingrediënt. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Polen verbunden und überrasche durch ihre Balance aus säuerlichem Geschmack und überraschender Zutat. Was bin ich?"
+      "fr": "Quelle spécialité est représentée sur cette photo ?",
+      "en": "Which speciality is shown in this photo?",
+      "nl": "Welke specialiteit staat op deze foto?",
+      "de": "Welche Spezialität ist auf diesem Foto zu sehen?"
     },
     "answers": {
       "fr": [
@@ -8375,94 +3975,6 @@ const CULINARY_BANK=[
       "nl": "Czernina is een traditionele Poolse soep met eendenbloed.",
       "de": "Czernina ist eine traditionelle polnische Suppe mit Entenblut."
     },
-    "questionType": "riddle",
-    "image": {
-      "file": "czernina.jpg",
-      "path": "assets/food/czernina.jpg",
-      "adobeStockId": "20264185",
-      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Czernina",
-        "en": "Photo of the dish: Czernina",
-        "nl": "Foto van het gerecht: Czernina",
-        "de": "Foto des Gerichts: Czernina"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c010_image",
-    "mode": "culinary",
-    "subjectKey": "food_czernina",
-    "traditionName": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina",
-      "de": "Czernina"
-    },
-    "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
-    },
-    "region": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quelle spécialité est représentée sur cette photo ?",
-      "en": "Which speciality is shown in this photo?",
-      "nl": "Welke specialiteit staat op deze foto?",
-      "de": "Welche Spezialität ist auf diesem Foto zu sehen?"
-    },
-    "answers": {
-      "fr": [
-        "Czernina",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "en": [
-        "Czernina",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "nl": [
-        "Czernina",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "de": [
-        "Czernina",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina",
-      "de": "Czernina"
-    },
-    "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard.",
-      "en": "Czernina is a traditional Polish duck-blood soup.",
-      "nl": "Czernina is een traditionele Poolse soep met eendenbloed.",
-      "de": "Czernina ist eine traditionelle polnische Suppe mit Entenblut."
-    },
     "questionType": "image",
     "image": {
       "file": "czernina.jpg",
@@ -8478,3257 +3990,13 @@ const CULINARY_BANK=[
       }
     },
     "showImageInQuestion": true
-  },
-  {
-    "id": "c010_tf",
-    "mode": "culinary",
-    "subjectKey": "food_czernina",
-    "traditionName": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina",
-      "de": "Czernina"
-    },
-    "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
-    },
-    "region": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
-    },
-    "scenario": {
-      "fr": "Les Czernina sont associés à Pologne.",
-      "en": "Czernina is associated with Poland.",
-      "nl": "Czernina is verbonden met Polen.",
-      "de": "Czernina ist mit Polen verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar",
-      "de": "Richtig"
-    },
-    "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard.",
-      "en": "Czernina is a traditional Polish duck-blood soup.",
-      "nl": "Czernina is een traditionele Poolse soep met eendenbloed.",
-      "de": "Czernina ist eine traditionelle polnische Suppe mit Entenblut."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "czernina.jpg",
-      "path": "assets/food/czernina.jpg",
-      "adobeStockId": "20264185",
-      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Czernina",
-        "en": "Photo of the dish: Czernina",
-        "nl": "Foto van het gerecht: Czernina",
-        "de": "Foto des Gerichts: Czernina"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c011_what",
-    "mode": "culinary",
-    "subjectKey": "food_ciorba_de_burta",
-    "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă",
-      "de": "Ciorbă de burtă"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont les Ciorbă de burtă ?",
-      "en": "What are Ciorbă de burtă?",
-      "nl": "Wat zijn Ciorbă de burtă?",
-      "de": "Was sind Ciorbă de burtă?"
-    },
-    "answers": {
-      "fr": [
-        "Une soupe de tripes",
-        "Une soupe",
-        "Un dessert",
-        "Une boisson"
-      ],
-      "en": [
-        "A tripe soup",
-        "A soup",
-        "A dessert",
-        "A drink"
-      ],
-      "nl": [
-        "Een penssoep",
-        "Een soep",
-        "Een dessert",
-        "Een drank"
-      ],
-      "de": [
-        "Eine Kuttelsuppe",
-        "Eine Suppe",
-        "Ein Dessert",
-        "Ein Getränk"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une soupe de tripes",
-      "en": "A tripe soup",
-      "nl": "Een penssoep",
-      "de": "Eine Kuttelsuppe"
-    },
-    "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak met room, knoflook of azijn.",
-      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe, oft mit Sahne, Knoblauch oder Essig."
-    },
-    "questionType": "what",
-    "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Ciorbă de burtă",
-        "en": "Photo of the dish: Ciorbă de burtă",
-        "nl": "Foto van het gerecht: Ciorbă de burtă",
-        "de": "Foto des Gerichts: Ciorbă de burtă"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c011_country",
-    "mode": "culinary",
-    "subjectKey": "food_ciorba_de_burta",
-    "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă",
-      "de": "Ciorbă de burtă"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays ou région déguste-t-on traditionnellement les Ciorbă de burtă ?",
-      "en": "In which country or region are Ciorbă de burtă traditionally eaten?",
-      "nl": "In welk land of welke regio worden Ciorbă de burtă traditioneel gegeten?",
-      "de": "In welchem Land oder welcher Region werden Ciorbă de burtă traditionell gegessen?"
-    },
-    "answers": {
-      "fr": [
-        "Roumanie",
-        "Italie",
-        "Écosse",
-        "Suède"
-      ],
-      "en": [
-        "Romania",
-        "Italy",
-        "Scotland",
-        "Sweden"
-      ],
-      "nl": [
-        "Roemenië",
-        "Italië",
-        "Schotland",
-        "Zweden"
-      ],
-      "de": [
-        "Rumänien",
-        "Italien",
-        "Schottland",
-        "Schweden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak met room, knoflook of azijn.",
-      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe, oft mit Sahne, Knoblauch oder Essig."
-    },
-    "questionType": "country",
-    "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Ciorbă de burtă",
-        "en": "Photo of the dish: Ciorbă de burtă",
-        "nl": "Foto van het gerecht: Ciorbă de burtă",
-        "de": "Foto des Gerichts: Ciorbă de burtă"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c011_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_ciorba_de_burta",
-    "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă",
-      "de": "Ciorbă de burtă"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Ciorbă de burtă particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Ciorbă de burtă especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Ciorbă de burtă bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Ciorbă de burtă besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "Les tripes, souvent avec crème, ail ou vinaigre",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Tripe, often with cream, garlic or vinegar",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Pens, vaak met room, knoflook of azijn",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Kutteln, oft mit Sahne, Knoblauch oder Essig",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Les tripes, souvent avec crème, ail ou vinaigre",
-      "en": "Tripe, often with cream, garlic or vinegar",
-      "nl": "Pens, vaak met room, knoflook of azijn",
-      "de": "Kutteln, oft mit Sahne, Knoblauch oder Essig"
-    },
-    "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak met room, knoflook of azijn.",
-      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe, oft mit Sahne, Knoblauch oder Essig."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Ciorbă de burtă",
-        "en": "Photo of the dish: Ciorbă de burtă",
-        "nl": "Foto van het gerecht: Ciorbă de burtă",
-        "de": "Foto des Gerichts: Ciorbă de burtă"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c011_known",
-    "mode": "culinary",
-    "subjectKey": "food_ciorba_de_burta",
-    "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă",
-      "de": "Ciorbă de burtă"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Ciorbă de burtă sont-ils particulièrement connus ?",
-      "en": "Why are Ciorbă de burtă especially known?",
-      "nl": "Waarom zijn Ciorbă de burtă bijzonder bekend?",
-      "de": "Wofür sind Ciorbă de burtă besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Sa texture et son assaisonnement puissant",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its texture and powerful seasoning",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn textuur en krachtige kruiding",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Ihre textur und kräftige würzung",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Sa texture et son assaisonnement puissant",
-      "en": "Its texture and powerful seasoning",
-      "nl": "Zijn textuur en krachtige kruiding",
-      "de": "Ihre textur und kräftige würzung"
-    },
-    "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak met room, knoflook of azijn.",
-      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe, oft mit Sahne, Knoblauch oder Essig."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Ciorbă de burtă",
-        "en": "Photo of the dish: Ciorbă de burtă",
-        "nl": "Foto van het gerecht: Ciorbă de burtă",
-        "de": "Foto des Gerichts: Ciorbă de burtă"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c011_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_ciorba_de_burta",
-    "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă",
-      "de": "Ciorbă de burtă"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Roumanie, je surprends par sa texture et son assaisonnement puissant. Qui suis-je ?",
-      "en": "Riddle: I am linked to Romania, and I surprise people with its texture and powerful seasoning. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Roemenië en verras door zijn textuur en krachtige kruiding. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Rumänien verbunden und überrasche durch ihre Textur und kräftige Würzung. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Ciorbă de burtă",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "en": [
-        "Ciorbă de burtă",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "nl": [
-        "Ciorbă de burtă",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "de": [
-        "Ciorbă de burtă",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă",
-      "de": "Ciorbă de burtă"
-    },
-    "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak met room, knoflook of azijn.",
-      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe, oft mit Sahne, Knoblauch oder Essig."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Ciorbă de burtă",
-        "en": "Photo of the dish: Ciorbă de burtă",
-        "nl": "Foto van het gerecht: Ciorbă de burtă",
-        "de": "Foto des Gerichts: Ciorbă de burtă"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c011_image",
-    "mode": "culinary",
-    "subjectKey": "food_ciorba_de_burta",
-    "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă",
-      "de": "Ciorbă de burtă"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quelle spécialité est représentée sur cette photo ?",
-      "en": "Which speciality is shown in this photo?",
-      "nl": "Welke specialiteit staat op deze foto?",
-      "de": "Welche Spezialität ist auf diesem Foto zu sehen?"
-    },
-    "answers": {
-      "fr": [
-        "Ciorbă de burtă",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "en": [
-        "Ciorbă de burtă",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "nl": [
-        "Ciorbă de burtă",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "de": [
-        "Ciorbă de burtă",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă",
-      "de": "Ciorbă de burtă"
-    },
-    "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak met room, knoflook of azijn.",
-      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe, oft mit Sahne, Knoblauch oder Essig."
-    },
-    "questionType": "image",
-    "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Ciorbă de burtă",
-        "en": "Photo of the dish: Ciorbă de burtă",
-        "nl": "Foto van het gerecht: Ciorbă de burtă",
-        "de": "Foto des Gerichts: Ciorbă de burtă"
-      }
-    },
-    "showImageInQuestion": true
-  },
-  {
-    "id": "c011_tf",
-    "mode": "culinary",
-    "subjectKey": "food_ciorba_de_burta",
-    "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă",
-      "de": "Ciorbă de burtă"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "scenario": {
-      "fr": "Les Ciorbă de burtă sont principalement associés à Lettonie.",
-      "en": "Ciorbă de burtă is mainly associated with Latvia.",
-      "nl": "Ciorbă de burtă is vooral verbonden met Letland.",
-      "de": "Ciorbă de burtă ist hauptsächlich mit Lettland verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Faux",
-      "en": "False",
-      "nl": "Onwaar",
-      "de": "Falsch"
-    },
-    "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep, vaak met room, knoflook of azijn.",
-      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe, oft mit Sahne, Knoblauch oder Essig."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Ciorbă de burtă",
-        "en": "Photo of the dish: Ciorbă de burtă",
-        "nl": "Foto van het gerecht: Ciorbă de burtă",
-        "de": "Foto des Gerichts: Ciorbă de burtă"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c012_what",
-    "mode": "culinary",
-    "subjectKey": "food_kokoretsi",
-    "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi",
-      "de": "Kokoretsi"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "region": {
-      "fr": "Grèce / Balkans",
-      "en": "Greece / Balkans",
-      "nl": "Griekenland / Balkan",
-      "de": "Griechenland / Balkan"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont les Kokoretsi ?",
-      "en": "What are Kokoretsi?",
-      "nl": "Wat zijn Kokoretsi?",
-      "de": "Was sind Kokoretsi?"
-    },
-    "answers": {
-      "fr": [
-        "Une spécialité d’abats grillés",
-        "Une soupe",
-        "Un dessert",
-        "Une boisson"
-      ],
-      "en": [
-        "A grilled offal speciality",
-        "A soup",
-        "A dessert",
-        "A drink"
-      ],
-      "nl": [
-        "Een specialiteit van gegrild orgaanvlees",
-        "Een soep",
-        "Een dessert",
-        "Een drank"
-      ],
-      "de": [
-        "Eine Spezialität aus gegrillten Innereien",
-        "Eine Suppe",
-        "Ein Dessert",
-        "Ein Getränk"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une spécialité d’abats grillés",
-      "en": "A grilled offal speciality",
-      "nl": "Een specialiteit van gegrild orgaanvlees",
-      "de": "Eine Spezialität aus gegrillten Innereien"
-    },
-    "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
-      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
-    },
-    "questionType": "what",
-    "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Kokoretsi",
-        "en": "Photo of the dish: Kokoretsi",
-        "nl": "Foto van het gerecht: Kokoretsi",
-        "de": "Foto des Gerichts: Kokoretsi"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c012_country",
-    "mode": "culinary",
-    "subjectKey": "food_kokoretsi",
-    "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi",
-      "de": "Kokoretsi"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "region": {
-      "fr": "Grèce / Balkans",
-      "en": "Greece / Balkans",
-      "nl": "Griekenland / Balkan",
-      "de": "Griechenland / Balkan"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays ou région déguste-t-on traditionnellement les Kokoretsi ?",
-      "en": "In which country or region are Kokoretsi traditionally eaten?",
-      "nl": "In welk land of welke regio worden Kokoretsi traditioneel gegeten?",
-      "de": "In welchem Land oder welcher Region werden Kokoretsi traditionell gegessen?"
-    },
-    "answers": {
-      "fr": [
-        "Grèce",
-        "Italie",
-        "Écosse",
-        "Suède"
-      ],
-      "en": [
-        "Greece",
-        "Italy",
-        "Scotland",
-        "Sweden"
-      ],
-      "nl": [
-        "Griekenland",
-        "Italië",
-        "Schotland",
-        "Zweden"
-      ],
-      "de": [
-        "Griechenland",
-        "Italien",
-        "Schottland",
-        "Schweden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
-      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
-    },
-    "questionType": "country",
-    "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Kokoretsi",
-        "en": "Photo of the dish: Kokoretsi",
-        "nl": "Foto van het gerecht: Kokoretsi",
-        "de": "Foto des Gerichts: Kokoretsi"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c012_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_kokoretsi",
-    "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi",
-      "de": "Kokoretsi"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "region": {
-      "fr": "Grèce / Balkans",
-      "en": "Greece / Balkans",
-      "nl": "Griekenland / Balkan",
-      "de": "Griechenland / Balkan"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Kokoretsi particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Kokoretsi especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Kokoretsi bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Kokoretsi besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "Les abats grillés à la broche",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Offal grilled on a spit",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Orgaanvlees aan het spit",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Innereien vom Spieß",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Les abats grillés à la broche",
-      "en": "Offal grilled on a spit",
-      "nl": "Orgaanvlees aan het spit",
-      "de": "Innereien vom Spieß"
-    },
-    "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
-      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Kokoretsi",
-        "en": "Photo of the dish: Kokoretsi",
-        "nl": "Foto van het gerecht: Kokoretsi",
-        "de": "Foto des Gerichts: Kokoretsi"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c012_known",
-    "mode": "culinary",
-    "subjectKey": "food_kokoretsi",
-    "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi",
-      "de": "Kokoretsi"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "region": {
-      "fr": "Grèce / Balkans",
-      "en": "Greece / Balkans",
-      "nl": "Griekenland / Balkan",
-      "de": "Griechenland / Balkan"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Kokoretsi sont-ils particulièrement connus ?",
-      "en": "Why are Kokoretsi especially known?",
-      "nl": "Waarom zijn Kokoretsi bijzonder bekend?",
-      "de": "Wofür sind Kokoretsi besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Sa cuisson à la broche",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Being cooked on a spit",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "De bereiding aan het spit",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Die zubereitung am spieß",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Sa cuisson à la broche",
-      "en": "Being cooked on a spit",
-      "nl": "De bereiding aan het spit",
-      "de": "Die zubereitung am spieß"
-    },
-    "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
-      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Kokoretsi",
-        "en": "Photo of the dish: Kokoretsi",
-        "nl": "Foto van het gerecht: Kokoretsi",
-        "de": "Foto des Gerichts: Kokoretsi"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c012_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_kokoretsi",
-    "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi",
-      "de": "Kokoretsi"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "region": {
-      "fr": "Grèce / Balkans",
-      "en": "Greece / Balkans",
-      "nl": "Griekenland / Balkan",
-      "de": "Griechenland / Balkan"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Grèce / Balkans, je surprends par sa cuisson à la broche. Qui suis-je ?",
-      "en": "Riddle: I am linked to Greece / Balkans, and I surprise people with being cooked on a spit. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Griekenland / Balkan en verras door de bereiding aan het spit. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Griechenland / Balkan verbunden und überrasche durch die Zubereitung am Spieß. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Kokoretsi",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "en": [
-        "Kokoretsi",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "nl": [
-        "Kokoretsi",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "de": [
-        "Kokoretsi",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi",
-      "de": "Kokoretsi"
-    },
-    "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
-      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Kokoretsi",
-        "en": "Photo of the dish: Kokoretsi",
-        "nl": "Foto van het gerecht: Kokoretsi",
-        "de": "Foto des Gerichts: Kokoretsi"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c012_image",
-    "mode": "culinary",
-    "subjectKey": "food_kokoretsi",
-    "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi",
-      "de": "Kokoretsi"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "region": {
-      "fr": "Grèce / Balkans",
-      "en": "Greece / Balkans",
-      "nl": "Griekenland / Balkan",
-      "de": "Griechenland / Balkan"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quelle spécialité est représentée sur cette photo ?",
-      "en": "Which speciality is shown in this photo?",
-      "nl": "Welke specialiteit staat op deze foto?",
-      "de": "Welche Spezialität ist auf diesem Foto zu sehen?"
-    },
-    "answers": {
-      "fr": [
-        "Kokoretsi",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "en": [
-        "Kokoretsi",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "nl": [
-        "Kokoretsi",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "de": [
-        "Kokoretsi",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi",
-      "de": "Kokoretsi"
-    },
-    "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
-      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
-    },
-    "questionType": "image",
-    "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Kokoretsi",
-        "en": "Photo of the dish: Kokoretsi",
-        "nl": "Foto van het gerecht: Kokoretsi",
-        "de": "Foto des Gerichts: Kokoretsi"
-      }
-    },
-    "showImageInQuestion": true
-  },
-  {
-    "id": "c012_tf",
-    "mode": "culinary",
-    "subjectKey": "food_kokoretsi",
-    "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi",
-      "de": "Kokoretsi"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "region": {
-      "fr": "Grèce / Balkans",
-      "en": "Greece / Balkans",
-      "nl": "Griekenland / Balkan",
-      "de": "Griechenland / Balkan"
-    },
-    "scenario": {
-      "fr": "Les Kokoretsi sont associés à Grèce.",
-      "en": "Kokoretsi is associated with Greece.",
-      "nl": "Kokoretsi is verbonden met Griekenland.",
-      "de": "Kokoretsi ist mit Griechenland verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar",
-      "de": "Richtig"
-    },
-    "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
-      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Kokoretsi",
-        "en": "Photo of the dish: Kokoretsi",
-        "nl": "Foto van het gerecht: Kokoretsi",
-        "de": "Foto des Gerichts: Kokoretsi"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c013_what",
-    "mode": "culinary",
-    "subjectKey": "food_labskaus",
-    "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus",
-      "de": "Labskaus"
-    },
-    "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland",
-      "de": "Deutschland"
-    },
-    "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland",
-      "de": "Norddeutschland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont les Labskaus ?",
-      "en": "What are Labskaus?",
-      "nl": "Wat zijn Labskaus?",
-      "de": "Was sind Labskaus?"
-    },
-    "answers": {
-      "fr": [
-        "Un plat de marins à base de viande et pommes de terre",
-        "Une soupe",
-        "Un dessert",
-        "Une boisson"
-      ],
-      "en": [
-        "A sailors’ dish with meat and potatoes",
-        "A soup",
-        "A dessert",
-        "A drink"
-      ],
-      "nl": [
-        "Een zeemansgerecht met vlees en aardappelen",
-        "Een soep",
-        "Een dessert",
-        "Een drank"
-      ],
-      "de": [
-        "Ein Seemannsgericht mit Fleisch und Kartoffeln",
-        "Eine Suppe",
-        "Ein Dessert",
-        "Ein Getränk"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Un plat de marins à base de viande et pommes de terre",
-      "en": "A sailors’ dish with meat and potatoes",
-      "nl": "Een zeemansgerecht met vlees en aardappelen",
-      "de": "Ein Seemannsgericht mit Fleisch und Kartoffeln"
-    },
-    "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
-      "en": "Labskaus is a northern German dish associated with maritime culture.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
-      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
-    },
-    "questionType": "what",
-    "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Labskaus",
-        "en": "Photo of the dish: Labskaus",
-        "nl": "Foto van het gerecht: Labskaus",
-        "de": "Foto des Gerichts: Labskaus"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c013_country",
-    "mode": "culinary",
-    "subjectKey": "food_labskaus",
-    "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus",
-      "de": "Labskaus"
-    },
-    "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland",
-      "de": "Deutschland"
-    },
-    "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland",
-      "de": "Norddeutschland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays ou région déguste-t-on traditionnellement les Labskaus ?",
-      "en": "In which country or region are Labskaus traditionally eaten?",
-      "nl": "In welk land of welke regio worden Labskaus traditioneel gegeten?",
-      "de": "In welchem Land oder welcher Region werden Labskaus traditionell gegessen?"
-    },
-    "answers": {
-      "fr": [
-        "Allemagne",
-        "Italie",
-        "Écosse",
-        "Suède"
-      ],
-      "en": [
-        "Germany",
-        "Italy",
-        "Scotland",
-        "Sweden"
-      ],
-      "nl": [
-        "Duitsland",
-        "Italië",
-        "Schotland",
-        "Zweden"
-      ],
-      "de": [
-        "Deutschland",
-        "Italien",
-        "Schottland",
-        "Schweden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland",
-      "de": "Deutschland"
-    },
-    "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
-      "en": "Labskaus is a northern German dish associated with maritime culture.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
-      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
-    },
-    "questionType": "country",
-    "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Labskaus",
-        "en": "Photo of the dish: Labskaus",
-        "nl": "Foto van het gerecht: Labskaus",
-        "de": "Foto des Gerichts: Labskaus"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c013_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_labskaus",
-    "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus",
-      "de": "Labskaus"
-    },
-    "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland",
-      "de": "Deutschland"
-    },
-    "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland",
-      "de": "Norddeutschland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Labskaus particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Labskaus especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Labskaus bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Labskaus besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "La viande et la pomme de terre",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Meat and potatoes",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Vlees en aardappelen",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Fleisch und Kartoffeln",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "La viande et la pomme de terre",
-      "en": "Meat and potatoes",
-      "nl": "Vlees en aardappelen",
-      "de": "Fleisch und Kartoffeln"
-    },
-    "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
-      "en": "Labskaus is a northern German dish associated with maritime culture.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
-      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Labskaus",
-        "en": "Photo of the dish: Labskaus",
-        "nl": "Foto van het gerecht: Labskaus",
-        "de": "Foto des Gerichts: Labskaus"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c013_known",
-    "mode": "culinary",
-    "subjectKey": "food_labskaus",
-    "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus",
-      "de": "Labskaus"
-    },
-    "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland",
-      "de": "Deutschland"
-    },
-    "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland",
-      "de": "Norddeutschland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Labskaus sont-ils particulièrement connus ?",
-      "en": "Why are Labskaus especially known?",
-      "nl": "Waarom zijn Labskaus bijzonder bekend?",
-      "de": "Wofür sind Labskaus besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Son origine maritime dans le nord",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its northern maritime origin",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn noordelijke maritieme oorsprong",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Seinen norddeutschen seefahrtsursprung",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Son origine maritime dans le nord",
-      "en": "Its northern maritime origin",
-      "nl": "Zijn noordelijke maritieme oorsprong",
-      "de": "Seinen norddeutschen seefahrtsursprung"
-    },
-    "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
-      "en": "Labskaus is a northern German dish associated with maritime culture.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
-      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Labskaus",
-        "en": "Photo of the dish: Labskaus",
-        "nl": "Foto van het gerecht: Labskaus",
-        "de": "Foto des Gerichts: Labskaus"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c013_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_labskaus",
-    "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus",
-      "de": "Labskaus"
-    },
-    "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland",
-      "de": "Deutschland"
-    },
-    "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland",
-      "de": "Norddeutschland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Nord de l’Allemagne, je surprends par son origine maritime dans le nord. Qui suis-je ?",
-      "en": "Riddle: I am linked to Northern Germany, and I surprise people with its northern maritime origin. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Noord-Duitsland en verras door zijn noordelijke maritieme oorsprong. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Norddeutschland verbunden und überrasche durch seinen norddeutschen Seefahrtsursprung. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Labskaus",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "en": [
-        "Labskaus",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "nl": [
-        "Labskaus",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "de": [
-        "Labskaus",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus",
-      "de": "Labskaus"
-    },
-    "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
-      "en": "Labskaus is a northern German dish associated with maritime culture.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
-      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Labskaus",
-        "en": "Photo of the dish: Labskaus",
-        "nl": "Foto van het gerecht: Labskaus",
-        "de": "Foto des Gerichts: Labskaus"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c013_image",
-    "mode": "culinary",
-    "subjectKey": "food_labskaus",
-    "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus",
-      "de": "Labskaus"
-    },
-    "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland",
-      "de": "Deutschland"
-    },
-    "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland",
-      "de": "Norddeutschland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quelle spécialité est représentée sur cette photo ?",
-      "en": "Which speciality is shown in this photo?",
-      "nl": "Welke specialiteit staat op deze foto?",
-      "de": "Welche Spezialität ist auf diesem Foto zu sehen?"
-    },
-    "answers": {
-      "fr": [
-        "Labskaus",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "en": [
-        "Labskaus",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "nl": [
-        "Labskaus",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "de": [
-        "Labskaus",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus",
-      "de": "Labskaus"
-    },
-    "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
-      "en": "Labskaus is a northern German dish associated with maritime culture.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
-      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
-    },
-    "questionType": "image",
-    "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Labskaus",
-        "en": "Photo of the dish: Labskaus",
-        "nl": "Foto van het gerecht: Labskaus",
-        "de": "Foto des Gerichts: Labskaus"
-      }
-    },
-    "showImageInQuestion": true
-  },
-  {
-    "id": "c013_tf",
-    "mode": "culinary",
-    "subjectKey": "food_labskaus",
-    "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus",
-      "de": "Labskaus"
-    },
-    "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland",
-      "de": "Deutschland"
-    },
-    "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland",
-      "de": "Norddeutschland"
-    },
-    "scenario": {
-      "fr": "Les Labskaus sont principalement associés à Lettonie.",
-      "en": "Labskaus is mainly associated with Latvia.",
-      "nl": "Labskaus is vooral verbonden met Letland.",
-      "de": "Labskaus ist hauptsächlich mit Lettland verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Faux",
-      "en": "False",
-      "nl": "Onwaar",
-      "de": "Falsch"
-    },
-    "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
-      "en": "Labskaus is a northern German dish associated with maritime culture.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
-      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Labskaus",
-        "en": "Photo of the dish: Labskaus",
-        "nl": "Foto van het gerecht: Labskaus",
-        "de": "Foto des Gerichts: Labskaus"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c014_what",
-    "mode": "culinary",
-    "subjectKey": "food_tripas_porto",
-    "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto",
-      "de": "Tripas à moda do Porto"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto",
-      "de": "Porto"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont les Tripas à moda do Porto ?",
-      "en": "What are Tripas à moda do Porto?",
-      "nl": "Wat zijn Tripas à moda do Porto?",
-      "de": "Was sind Tripas à moda do Porto?"
-    },
-    "answers": {
-      "fr": [
-        "Un plat de tripes portugais",
-        "Une soupe",
-        "Un dessert",
-        "Une boisson"
-      ],
-      "en": [
-        "A Portuguese tripe dish",
-        "A soup",
-        "A dessert",
-        "A drink"
-      ],
-      "nl": [
-        "Een Portugees pensgerecht",
-        "Een soep",
-        "Een dessert",
-        "Een drank"
-      ],
-      "de": [
-        "Ein portugiesisches Kuttelgericht",
-        "Eine Suppe",
-        "Ein Dessert",
-        "Ein Getränk"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Un plat de tripes portugais",
-      "en": "A Portuguese tripe dish",
-      "nl": "Een Portugees pensgerecht",
-      "de": "Ein portugiesisches Kuttelgericht"
-    },
-    "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
-      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
-      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
-      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
-    },
-    "questionType": "what",
-    "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Tripas à moda do Porto",
-        "en": "Photo of the dish: Tripas à moda do Porto",
-        "nl": "Foto van het gerecht: Tripas à moda do Porto",
-        "de": "Foto des Gerichts: Tripas à moda do Porto"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c014_country",
-    "mode": "culinary",
-    "subjectKey": "food_tripas_porto",
-    "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto",
-      "de": "Tripas à moda do Porto"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto",
-      "de": "Porto"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays ou région déguste-t-on traditionnellement les Tripas à moda do Porto ?",
-      "en": "In which country or region are Tripas à moda do Porto traditionally eaten?",
-      "nl": "In welk land of welke regio worden Tripas à moda do Porto traditioneel gegeten?",
-      "de": "In welchem Land oder welcher Region werden Tripas à moda do Porto traditionell gegessen?"
-    },
-    "answers": {
-      "fr": [
-        "Portugal",
-        "Italie",
-        "Écosse",
-        "Suède"
-      ],
-      "en": [
-        "Portugal",
-        "Italy",
-        "Scotland",
-        "Sweden"
-      ],
-      "nl": [
-        "Portugal",
-        "Italië",
-        "Schotland",
-        "Zweden"
-      ],
-      "de": [
-        "Portugal",
-        "Italien",
-        "Schottland",
-        "Schweden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
-      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
-      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
-      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
-    },
-    "questionType": "country",
-    "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Tripas à moda do Porto",
-        "en": "Photo of the dish: Tripas à moda do Porto",
-        "nl": "Foto van het gerecht: Tripas à moda do Porto",
-        "de": "Foto des Gerichts: Tripas à moda do Porto"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c014_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_tripas_porto",
-    "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto",
-      "de": "Tripas à moda do Porto"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto",
-      "de": "Porto"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Tripas à moda do Porto particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Tripas à moda do Porto especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Tripas à moda do Porto bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Tripas à moda do Porto besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "Les tripes cuisinées à la mode de Porto",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Tripe cooked Porto style",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Pens bereid op de manier van Porto",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Kutteln nach Porto-Art",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Les tripes cuisinées à la mode de Porto",
-      "en": "Tripe cooked Porto style",
-      "nl": "Pens bereid op de manier van Porto",
-      "de": "Kutteln nach Porto-Art"
-    },
-    "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
-      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
-      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
-      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Tripas à moda do Porto",
-        "en": "Photo of the dish: Tripas à moda do Porto",
-        "nl": "Foto van het gerecht: Tripas à moda do Porto",
-        "de": "Foto des Gerichts: Tripas à moda do Porto"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c014_known",
-    "mode": "culinary",
-    "subjectKey": "food_tripas_porto",
-    "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto",
-      "de": "Tripas à moda do Porto"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto",
-      "de": "Porto"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Tripas à moda do Porto sont-ils particulièrement connus ?",
-      "en": "Why are Tripas à moda do Porto especially known?",
-      "nl": "Waarom zijn Tripas à moda do Porto bijzonder bekend?",
-      "de": "Wofür sind Tripas à moda do Porto besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Son association forte avec porto",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its strong association with porto",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn sterke band met porto",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Seine starke verbindung zu porto",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Son association forte avec porto",
-      "en": "Its strong association with porto",
-      "nl": "Zijn sterke band met porto",
-      "de": "Seine starke verbindung zu porto"
-    },
-    "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
-      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
-      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
-      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Tripas à moda do Porto",
-        "en": "Photo of the dish: Tripas à moda do Porto",
-        "nl": "Foto van het gerecht: Tripas à moda do Porto",
-        "de": "Foto des Gerichts: Tripas à moda do Porto"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c014_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_tripas_porto",
-    "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto",
-      "de": "Tripas à moda do Porto"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto",
-      "de": "Porto"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Porto, je surprends par son association forte avec Porto. Qui suis-je ?",
-      "en": "Riddle: I am linked to Porto, and I surprise people with its strong association with Porto. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Porto en verras door zijn sterke band met Porto. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Porto verbunden und überrasche durch seine starke Verbindung zu Porto. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Tripas à moda do Porto",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "en": [
-        "Tripas à moda do Porto",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "nl": [
-        "Tripas à moda do Porto",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "de": [
-        "Tripas à moda do Porto",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto",
-      "de": "Tripas à moda do Porto"
-    },
-    "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
-      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
-      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
-      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Tripas à moda do Porto",
-        "en": "Photo of the dish: Tripas à moda do Porto",
-        "nl": "Foto van het gerecht: Tripas à moda do Porto",
-        "de": "Foto des Gerichts: Tripas à moda do Porto"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c014_image",
-    "mode": "culinary",
-    "subjectKey": "food_tripas_porto",
-    "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto",
-      "de": "Tripas à moda do Porto"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto",
-      "de": "Porto"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quelle spécialité est représentée sur cette photo ?",
-      "en": "Which speciality is shown in this photo?",
-      "nl": "Welke specialiteit staat op deze foto?",
-      "de": "Welche Spezialität ist auf diesem Foto zu sehen?"
-    },
-    "answers": {
-      "fr": [
-        "Tripas à moda do Porto",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "en": [
-        "Tripas à moda do Porto",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "nl": [
-        "Tripas à moda do Porto",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "de": [
-        "Tripas à moda do Porto",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto",
-      "de": "Tripas à moda do Porto"
-    },
-    "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
-      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
-      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
-      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
-    },
-    "questionType": "image",
-    "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Tripas à moda do Porto",
-        "en": "Photo of the dish: Tripas à moda do Porto",
-        "nl": "Foto van het gerecht: Tripas à moda do Porto",
-        "de": "Foto des Gerichts: Tripas à moda do Porto"
-      }
-    },
-    "showImageInQuestion": true
-  },
-  {
-    "id": "c014_tf",
-    "mode": "culinary",
-    "subjectKey": "food_tripas_porto",
-    "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto",
-      "de": "Tripas à moda do Porto"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto",
-      "de": "Porto"
-    },
-    "scenario": {
-      "fr": "Les Tripas à moda do Porto sont associés à Portugal.",
-      "en": "Tripas à moda do Porto is associated with Portugal.",
-      "nl": "Tripas à moda do Porto is verbonden met Portugal.",
-      "de": "Tripas à moda do Porto ist mit Portugal verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Vrai",
-      "en": "True",
-      "nl": "Waar",
-      "de": "Richtig"
-    },
-    "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
-      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
-      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
-      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Tripas à moda do Porto",
-        "en": "Photo of the dish: Tripas à moda do Porto",
-        "nl": "Foto van het gerecht: Tripas à moda do Porto",
-        "de": "Foto des Gerichts: Tripas à moda do Porto"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c015_what",
-    "mode": "culinary",
-    "subjectKey": "food_sklandrausis",
-    "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis",
-      "de": "Sklandrausis"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont les Sklandrausis ?",
-      "en": "What are Sklandrausis?",
-      "nl": "Wat zijn Sklandrausis?",
-      "de": "Was sind Sklandrausis?"
-    },
-    "answers": {
-      "fr": [
-        "Une tartelette au seigle et aux légumes",
-        "Une soupe",
-        "Un dessert",
-        "Une boisson"
-      ],
-      "en": [
-        "A rye and vegetable tartlet",
-        "A soup",
-        "A dessert",
-        "A drink"
-      ],
-      "nl": [
-        "Een taartje met rogge en groenten",
-        "Een soep",
-        "Een dessert",
-        "Een drank"
-      ],
-      "de": [
-        "Ein Roggen-Gemüse-Törtchen",
-        "Eine Suppe",
-        "Ein Dessert",
-        "Ein Getränk"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une tartelette au seigle et aux légumes",
-      "en": "A rye and vegetable tartlet",
-      "nl": "Een taartje met rogge en groenten",
-      "de": "Ein Roggen-Gemüse-Törtchen"
-    },
-    "explanation": {
-      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
-      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
-      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
-      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
-    },
-    "questionType": "what",
-    "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Sklandrausis",
-        "en": "Photo of the dish: Sklandrausis",
-        "nl": "Foto van het gerecht: Sklandrausis",
-        "de": "Foto des Gerichts: Sklandrausis"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c015_country",
-    "mode": "culinary",
-    "subjectKey": "food_sklandrausis",
-    "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis",
-      "de": "Sklandrausis"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays ou région déguste-t-on traditionnellement les Sklandrausis ?",
-      "en": "In which country or region are Sklandrausis traditionally eaten?",
-      "nl": "In welk land of welke regio worden Sklandrausis traditioneel gegeten?",
-      "de": "In welchem Land oder welcher Region werden Sklandrausis traditionell gegessen?"
-    },
-    "answers": {
-      "fr": [
-        "Lettonie",
-        "Italie",
-        "Écosse",
-        "Suède"
-      ],
-      "en": [
-        "Latvia",
-        "Italy",
-        "Scotland",
-        "Sweden"
-      ],
-      "nl": [
-        "Letland",
-        "Italië",
-        "Schotland",
-        "Zweden"
-      ],
-      "de": [
-        "Lettland",
-        "Italien",
-        "Schottland",
-        "Schweden"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "explanation": {
-      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
-      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
-      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
-      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
-    },
-    "questionType": "country",
-    "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Sklandrausis",
-        "en": "Photo of the dish: Sklandrausis",
-        "nl": "Foto van het gerecht: Sklandrausis",
-        "de": "Foto des Gerichts: Sklandrausis"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c015_ingredient",
-    "mode": "culinary",
-    "subjectKey": "food_sklandrausis",
-    "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis",
-      "de": "Sklandrausis"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quel ingrédient ou élément rend les Sklandrausis particulièrement reconnaissables ?",
-      "en": "Which ingredient or element makes Sklandrausis especially recognisable?",
-      "nl": "Welk ingrediënt of element maakt Sklandrausis bijzonder herkenbaar?",
-      "de": "Welche Zutat oder welches Element macht Sklandrausis besonders erkennbar?"
-    },
-    "answers": {
-      "fr": [
-        "La pâte de seigle, la carotte et la pomme de terre",
-        "Du chocolat",
-        "Des agrumes",
-        "Du riz sucré"
-      ],
-      "en": [
-        "Rye dough, carrot and potato",
-        "Chocolate",
-        "Citrus fruit",
-        "Sweet rice"
-      ],
-      "nl": [
-        "Roggebodem, wortel en aardappel",
-        "Chocolade",
-        "Citrusvruchten",
-        "Zoete rijst"
-      ],
-      "de": [
-        "Roggenteig, Karotte und Kartoffel",
-        "Schokolade",
-        "Zitrusfrüchte",
-        "Süßer Reis"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "La pâte de seigle, la carotte et la pomme de terre",
-      "en": "Rye dough, carrot and potato",
-      "nl": "Roggebodem, wortel en aardappel",
-      "de": "Roggenteig, Karotte und Kartoffel"
-    },
-    "explanation": {
-      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
-      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
-      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
-      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
-    },
-    "questionType": "ingredient",
-    "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Sklandrausis",
-        "en": "Photo of the dish: Sklandrausis",
-        "nl": "Foto van het gerecht: Sklandrausis",
-        "de": "Foto des Gerichts: Sklandrausis"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c015_known",
-    "mode": "culinary",
-    "subjectKey": "food_sklandrausis",
-    "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis",
-      "de": "Sklandrausis"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Pourquoi les Sklandrausis sont-ils particulièrement connus ?",
-      "en": "Why are Sklandrausis especially known?",
-      "nl": "Waarom zijn Sklandrausis bijzonder bekend?",
-      "de": "Wofür sind Sklandrausis besonders bekannt?"
-    },
-    "answers": {
-      "fr": [
-        "Sa forme de tartelette traditionnelle",
-        "Une cuisson dans du sucre bleu",
-        "Une origine totalement inventée",
-        "Une forme de pizza moderne"
-      ],
-      "en": [
-        "Its traditional tartlet shape",
-        "Being cooked in blue sugar",
-        "A completely invented origin",
-        "A modern pizza shape"
-      ],
-      "nl": [
-        "Zijn traditionele taartvorm",
-        "Een bereiding in blauwe suiker",
-        "Een volledig verzonnen oorsprong",
-        "Een moderne pizzavorm"
-      ],
-      "de": [
-        "Seine traditionelle törtchenform",
-        "Eine Zubereitung in blauem Zucker",
-        "Einen völlig erfundenen Ursprung",
-        "Eine moderne Pizzaform"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Sa forme de tartelette traditionnelle",
-      "en": "Its traditional tartlet shape",
-      "nl": "Zijn traditionele taartvorm",
-      "de": "Seine traditionelle törtchenform"
-    },
-    "explanation": {
-      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
-      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
-      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
-      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
-    },
-    "questionType": "knownfor",
-    "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Sklandrausis",
-        "en": "Photo of the dish: Sklandrausis",
-        "nl": "Foto van het gerecht: Sklandrausis",
-        "de": "Foto des Gerichts: Sklandrausis"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c015_riddle",
-    "mode": "culinary",
-    "subjectKey": "food_sklandrausis",
-    "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis",
-      "de": "Sklandrausis"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Devinette : je suis lié à Lettonie, je surprends par sa forme de tartelette traditionnelle. Qui suis-je ?",
-      "en": "Riddle: I am linked to Latvia, and I surprise people with its traditional tartlet shape. What am I?",
-      "nl": "Raadsel: ik ben verbonden met Letland en verras door zijn traditionele taartvorm. Wat ben ik?",
-      "de": "Rätsel: Ich bin mit Lettland verbunden und überrasche durch seine traditionelle Törtchenform. Was bin ich?"
-    },
-    "answers": {
-      "fr": [
-        "Sklandrausis",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "en": [
-        "Sklandrausis",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "nl": [
-        "Sklandrausis",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ],
-      "de": [
-        "Sklandrausis",
-        "Casu Marzu",
-        "Haggis",
-        "Surströmming"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis",
-      "de": "Sklandrausis"
-    },
-    "explanation": {
-      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
-      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
-      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
-      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
-    },
-    "questionType": "riddle",
-    "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Sklandrausis",
-        "en": "Photo of the dish: Sklandrausis",
-        "nl": "Foto van het gerecht: Sklandrausis",
-        "de": "Foto des Gerichts: Sklandrausis"
-      }
-    },
-    "showImageInQuestion": false
-  },
-  {
-    "id": "c015_image",
-    "mode": "culinary",
-    "subjectKey": "food_sklandrausis",
-    "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis",
-      "de": "Sklandrausis"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Quelle spécialité est représentée sur cette photo ?",
-      "en": "Which speciality is shown in this photo?",
-      "nl": "Welke specialiteit staat op deze foto?",
-      "de": "Welche Spezialität ist auf diesem Foto zu sehen?"
-    },
-    "answers": {
-      "fr": [
-        "Sklandrausis",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "en": [
-        "Sklandrausis",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "nl": [
-        "Sklandrausis",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ],
-      "de": [
-        "Sklandrausis",
-        "Hákarl",
-        "Smalahove",
-        "Blodplättar"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis",
-      "de": "Sklandrausis"
-    },
-    "explanation": {
-      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
-      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
-      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
-      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
-    },
-    "questionType": "image",
-    "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Sklandrausis",
-        "en": "Photo of the dish: Sklandrausis",
-        "nl": "Foto van het gerecht: Sklandrausis",
-        "de": "Foto des Gerichts: Sklandrausis"
-      }
-    },
-    "showImageInQuestion": true
-  },
-  {
-    "id": "c015_tf",
-    "mode": "culinary",
-    "subjectKey": "food_sklandrausis",
-    "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis",
-      "de": "Sklandrausis"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "scenario": {
-      "fr": "Les Sklandrausis sont principalement associés à Portugal.",
-      "en": "Sklandrausis is mainly associated with Portugal.",
-      "nl": "Sklandrausis is vooral verbonden met Portugal.",
-      "de": "Sklandrausis ist hauptsächlich mit Portugal verbunden."
-    },
-    "question": {
-      "fr": "Cette affirmation est-elle correcte ?",
-      "en": "Is this statement correct?",
-      "nl": "Klopt deze uitspraak?",
-      "de": "Ist diese Aussage richtig?"
-    },
-    "answers": {
-      "fr": [
-        "Vrai",
-        "Faux",
-        "Impossible à dire",
-        "Plat inventé"
-      ],
-      "en": [
-        "True",
-        "False",
-        "Impossible to say",
-        "Invented dish"
-      ],
-      "nl": [
-        "Waar",
-        "Onwaar",
-        "Niet te zeggen",
-        "Verzonnen gerecht"
-      ],
-      "de": [
-        "Richtig",
-        "Falsch",
-        "Nicht zu sagen",
-        "Erfundenes Gericht"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Faux",
-      "en": "False",
-      "nl": "Onwaar",
-      "de": "Falsch"
-    },
-    "explanation": {
-      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
-      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
-      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
-      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
-    },
-    "questionType": "truefalse",
-    "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
-      "aiGenerated": false,
-      "alt": {
-        "fr": "Photo du plat : Sklandrausis",
-        "en": "Photo of the dish: Sklandrausis",
-        "nl": "Foto van het gerecht: Sklandrausis",
-        "de": "Foto des Gerichts: Sklandrausis"
-      }
-    },
-    "showImageInQuestion": false
   }
 ];
 const LEGENDS_BANK=[
   {
-    "id": "l001_country",
-    "mode": "legends",
-    "subjectKey": "legend_001",
-    "traditionName": {
-      "fr": "Les Nutons",
-      "en": "The Nutons",
-      "nl": "De Nutons",
-      "de": "Die Nutons"
-    },
-    "country": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Les Nutons ?",
-      "en": "In which country is this legend mainly known: The Nutons?",
-      "nl": "In welk land is deze legende vooral bekend: De Nutons?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Die Nutons?"
-    },
-    "answers": {
-      "fr": [
-        "Belgique",
-        "Autriche",
-        "Tchéquie",
-        "Irlande"
-      ],
-      "en": [
-        "Belgium",
-        "Austria",
-        "Czechia",
-        "Ireland"
-      ],
-      "nl": [
-        "België",
-        "Oostenrijk",
-        "Tsjechië",
-        "Ierland"
-      ],
-      "de": [
-        "Belgien",
-        "Österreich",
-        "Tschechien",
-        "Irland"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Belgique",
-      "en": "Belgium",
-      "nl": "België",
-      "de": "Belgien"
-    },
-    "explanation": {
-      "fr": "Les Nutons sont de petits êtres du folklore wallon, souvent associés aux grottes et aux travaux nocturnes. Ils aident parfois les humains, à condition de rester discrets et respectueux.",
-      "en": "The Nutons are small beings from Walloon folklore, often linked to caves and night work. They may help humans, provided people remain discreet and respectful.",
-      "nl": "De Nutons zijn kleine wezens uit de Waalse folklore, vaak verbonden met grotten en nachtelijk werk. Ze helpen soms mensen, als die discreet en respectvol blijven.",
-      "de": "Die Nutons sind kleine Wesen der wallonischen Folklore, oft mit Höhlen und nächtlicher Arbeit verbunden. Sie helfen manchmal Menschen, wenn diese diskret und respektvoll bleiben."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
     "id": "l001_what",
     "mode": "legends",
-    "subjectKey": "legend_001",
+    "subjectKey": "legend_nutons",
     "traditionName": {
       "fr": "Les Nutons",
       "en": "The Nutons",
@@ -11742,10 +4010,10 @@ const LEGENDS_BANK=[
       "de": "Belgien"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Wallonie",
+      "en": "Wallonia",
+      "nl": "Wallonië",
+      "de": "Wallonien"
     },
     "scenario": {
       "fr": "",
@@ -11761,67 +4029,67 @@ const LEGENDS_BANK=[
     },
     "answers": {
       "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
+        "De petits êtres souterrains du folklore wallon",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
       ],
       "en": [
-        "A figure or creature from folklore",
-        "A European institution",
+        "Small underground beings from Walloon folklore",
+        "A festive recipe",
         "An old currency",
-        "A modern recipe"
+        "A European institution"
       ],
       "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
+        "Kleine ondergrondse wezens uit de Waalse folklore",
+        "Een feestgerecht",
         "Een oude munteenheid",
-        "Een modern recept"
+        "Een Europese instelling"
       ],
       "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
+        "Kleine unterirdische Wesen der wallonischen Folklore",
+        "Ein Festgericht",
         "Eine alte Währung",
-        "Ein modernes Rezept"
+        "Eine europäische Institution"
       ]
     },
     "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
+      "fr": "De petits êtres souterrains du folklore wallon",
+      "en": "Small underground beings from Walloon folklore",
+      "nl": "Kleine ondergrondse wezens uit de Waalse folklore",
+      "de": "Kleine unterirdische Wesen der wallonischen Folklore"
     },
     "explanation": {
-      "fr": "Les Nutons sont de petits êtres du folklore wallon, souvent associés aux grottes et aux travaux nocturnes. Ils aident parfois les humains, à condition de rester discrets et respectueux.",
-      "en": "The Nutons are small beings from Walloon folklore, often linked to caves and night work. They may help humans, provided people remain discreet and respectful.",
-      "nl": "De Nutons zijn kleine wezens uit de Waalse folklore, vaak verbonden met grotten en nachtelijk werk. Ze helpen soms mensen, als die discreet en respectvol blijven.",
-      "de": "Die Nutons sind kleine Wesen der wallonischen Folklore, oft mit Höhlen und nächtlicher Arbeit verbunden. Sie helfen manchmal Menschen, wenn diese diskret und respektvoll bleiben."
+      "fr": "Les Nutons sont de petits êtres du folklore wallon. Les récits les placent souvent dans des grottes ou sous terre, où ils peuvent réparer des objets pendant la nuit. Ils aident les humains uniquement si ces derniers restent discrets et respectueux.",
+      "en": "The Nutons are small beings from Walloon folklore. Stories often place the Nutons in caves or underground, where the Nutons can repair objects during the night. The Nutons help humans only when humans remain discreet and respectful.",
+      "nl": "De Nutons zijn kleine wezens uit de Waalse folklore. Verhalen plaatsen de Nutons vaak in grotten of onder de grond, waar de Nutons ’s nachts voorwerpen herstellen. De Nutons helpen mensen alleen wanneer mensen discreet en respectvol blijven.",
+      "de": "Die Nutons sind kleine Wesen der wallonischen Folklore. Erzählungen verorten die Nutons oft in Höhlen oder unter der Erde, wo die Nutons nachts Gegenstände reparieren. Die Nutons helfen Menschen nur, wenn Menschen diskret und respektvoll bleiben."
     },
     "questionType": "what",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l002_country",
+    "id": "l001_country",
     "mode": "legends",
-    "subjectKey": "legend_002",
+    "subjectKey": "legend_nutons",
     "traditionName": {
-      "fr": "Krampus",
-      "en": "Krampus",
-      "nl": "Krampus",
-      "de": "Krampus"
+      "fr": "Les Nutons",
+      "en": "The Nutons",
+      "nl": "De Nutons",
+      "de": "Die Nutons"
     },
     "country": {
-      "fr": "Autriche",
-      "en": "Austria",
-      "nl": "Oostenrijk",
-      "de": "Österreich"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België",
+      "de": "Belgien"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Wallonie",
+      "en": "Wallonia",
+      "nl": "Wallonië",
+      "de": "Wallonien"
     },
     "scenario": {
       "fr": "",
@@ -11830,57 +4098,285 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Krampus ?",
-      "en": "In which country is this legend mainly known: Krampus?",
-      "nl": "In welk land is deze legende vooral bekend: Krampus?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Krampus?"
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
     },
     "answers": {
       "fr": [
-        "Autriche",
         "Belgique",
+        "Autriche",
         "Tchéquie",
         "Irlande"
       ],
       "en": [
-        "Austria",
         "Belgium",
+        "Austria",
         "Czechia",
         "Ireland"
       ],
       "nl": [
-        "Oostenrijk",
         "België",
+        "Oostenrijk",
         "Tsjechië",
         "Ierland"
       ],
       "de": [
-        "Österreich",
         "Belgien",
+        "Österreich",
         "Tschechien",
         "Irland"
       ]
     },
     "correctAnswer": {
-      "fr": "Autriche",
-      "en": "Austria",
-      "nl": "Oostenrijk",
-      "de": "Österreich"
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België",
+      "de": "Belgien"
     },
     "explanation": {
-      "fr": "Krampus accompagne Saint Nicolas dans certaines régions alpines. Il apparaît avec cornes, fourrure et chaînes pour représenter la punition des enfants désobéissants.",
-      "en": "Krampus accompanies Saint Nicholas in some Alpine regions. Krampus appears with horns, fur and chains as the figure who punishes disobedient children.",
-      "nl": "Krampus begeleidt Sinterklaas in sommige Alpenregio’s. Krampus verschijnt met hoorns, pels en kettingen als figuur die ongehoorzame kinderen straft.",
-      "de": "Krampus begleitet den Nikolaus in einigen Alpenregionen. Krampus erscheint mit Hörnern, Fell und Ketten als Figur, die unartige Kinder bestraft."
+      "fr": "Les Nutons sont de petits êtres du folklore wallon. Les récits les placent souvent dans des grottes ou sous terre, où ils peuvent réparer des objets pendant la nuit. Ils aident les humains uniquement si ces derniers restent discrets et respectueux.",
+      "en": "The Nutons are small beings from Walloon folklore. Stories often place the Nutons in caves or underground, where the Nutons can repair objects during the night. The Nutons help humans only when humans remain discreet and respectful.",
+      "nl": "De Nutons zijn kleine wezens uit de Waalse folklore. Verhalen plaatsen de Nutons vaak in grotten of onder de grond, waar de Nutons ’s nachts voorwerpen herstellen. De Nutons helpen mensen alleen wanneer mensen discreet en respectvol blijven.",
+      "de": "Die Nutons sind kleine Wesen der wallonischen Folklore. Erzählungen verorten die Nutons oft in Höhlen oder unter der Erde, wo die Nutons nachts Gegenstände reparieren. Die Nutons helfen Menschen nur, wenn Menschen diskret und respektvoll bleiben."
     },
     "questionType": "country",
     "image": null,
     "showImageInQuestion": false
   },
   {
+    "id": "l001_detail",
+    "mode": "legends",
+    "subjectKey": "legend_nutons",
+    "traditionName": {
+      "fr": "Les Nutons",
+      "en": "The Nutons",
+      "nl": "De Nutons",
+      "de": "Die Nutons"
+    },
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België",
+      "de": "Belgien"
+    },
+    "region": {
+      "fr": "Wallonie",
+      "en": "Wallonia",
+      "nl": "Wallonië",
+      "de": "Wallonien"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Quel détail est associé à Les Nutons ?",
+      "en": "Which detail is associated with The Nutons?",
+      "nl": "Welk detail hoort bij De Nutons?",
+      "de": "Welches Detail gehört zu Die Nutons?"
+    },
+    "answers": {
+      "fr": [
+        "Ils sont souvent associés aux grottes, aux ateliers nocturnes et aux objets réparés en secret.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
+      ],
+      "en": [
+        "They are often linked to caves, night work and objects repaired in secret.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "Ze worden vaak verbonden met grotten, nachtelijk werk en voorwerpen die in het geheim worden hersteld.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Sie werden oft mit Höhlen, nächtlicher Arbeit und heimlich reparierten Gegenständen verbunden.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Ils sont souvent associés aux grottes, aux ateliers nocturnes et aux objets réparés en secret.",
+      "en": "They are often linked to caves, night work and objects repaired in secret.",
+      "nl": "Ze worden vaak verbonden met grotten, nachtelijk werk en voorwerpen die in het geheim worden hersteld.",
+      "de": "Sie werden oft mit Höhlen, nächtlicher Arbeit und heimlich reparierten Gegenständen verbunden."
+    },
+    "explanation": {
+      "fr": "Les Nutons sont de petits êtres du folklore wallon. Les récits les placent souvent dans des grottes ou sous terre, où ils peuvent réparer des objets pendant la nuit. Ils aident les humains uniquement si ces derniers restent discrets et respectueux.",
+      "en": "The Nutons are small beings from Walloon folklore. Stories often place the Nutons in caves or underground, where the Nutons can repair objects during the night. The Nutons help humans only when humans remain discreet and respectful.",
+      "nl": "De Nutons zijn kleine wezens uit de Waalse folklore. Verhalen plaatsen de Nutons vaak in grotten of onder de grond, waar de Nutons ’s nachts voorwerpen herstellen. De Nutons helpen mensen alleen wanneer mensen discreet en respectvol blijven.",
+      "de": "Die Nutons sind kleine Wesen der wallonischen Folklore. Erzählungen verorten die Nutons oft in Höhlen oder unter der Erde, wo die Nutons nachts Gegenstände reparieren. Die Nutons helfen Menschen nur, wenn Menschen diskret und respektvoll bleiben."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l001_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_nutons",
+    "traditionName": {
+      "fr": "Les Nutons",
+      "en": "The Nutons",
+      "nl": "De Nutons",
+      "de": "Die Nutons"
+    },
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België",
+      "de": "Belgien"
+    },
+    "region": {
+      "fr": "Wallonie",
+      "en": "Wallonia",
+      "nl": "Wallonië",
+      "de": "Wallonien"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Wallonie et je suis lié à ce détail : Ils sont souvent associés aux grottes, aux ateliers nocturnes et aux objets réparés en secret.. Qui suis-je ?",
+      "en": "Riddle: I come from Wallonia and I am linked to this detail: They are often linked to caves, night work and objects repaired in secret.. What am I?",
+      "nl": "Raadsel: ik kom uit Wallonië en ben verbonden met dit detail: Ze worden vaak verbonden met grotten, nachtelijk werk en voorwerpen die in het geheim worden hersteld.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Wallonien und bin mit diesem Detail verbunden: Sie werden oft mit Höhlen, nächtlicher Arbeit und heimlich reparierten Gegenständen verbunden.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague",
+        "Banshee"
+      ],
+      "en": [
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague",
+        "Banshee"
+      ],
+      "nl": [
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag",
+        "Banshee"
+      ],
+      "de": [
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag",
+        "Banshee"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Les Nutons",
+      "en": "The Nutons",
+      "nl": "De Nutons",
+      "de": "Die Nutons"
+    },
+    "explanation": {
+      "fr": "Les Nutons sont de petits êtres du folklore wallon. Les récits les placent souvent dans des grottes ou sous terre, où ils peuvent réparer des objets pendant la nuit. Ils aident les humains uniquement si ces derniers restent discrets et respectueux.",
+      "en": "The Nutons are small beings from Walloon folklore. Stories often place the Nutons in caves or underground, where the Nutons can repair objects during the night. The Nutons help humans only when humans remain discreet and respectful.",
+      "nl": "De Nutons zijn kleine wezens uit de Waalse folklore. Verhalen plaatsen de Nutons vaak in grotten of onder de grond, waar de Nutons ’s nachts voorwerpen herstellen. De Nutons helpen mensen alleen wanneer mensen discreet en respectvol blijven.",
+      "de": "Die Nutons sind kleine Wesen der wallonischen Folklore. Erzählungen verorten die Nutons oft in Höhlen oder unter der Erde, wo die Nutons nachts Gegenstände reparieren. Die Nutons helfen Menschen nur, wenn Menschen diskret und respektvoll bleiben."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l001_tf",
+    "mode": "legends",
+    "subjectKey": "legend_nutons",
+    "traditionName": {
+      "fr": "Les Nutons",
+      "en": "The Nutons",
+      "nl": "De Nutons",
+      "de": "Die Nutons"
+    },
+    "country": {
+      "fr": "Belgique",
+      "en": "Belgium",
+      "nl": "België",
+      "de": "Belgien"
+    },
+    "region": {
+      "fr": "Wallonie",
+      "en": "Wallonia",
+      "nl": "Wallonië",
+      "de": "Wallonien"
+    },
+    "scenario": {
+      "fr": "Les Nutons est associé à Belgique.",
+      "en": "The Nutons is associated with Belgium.",
+      "nl": "De Nutons is verbonden met België.",
+      "de": "Die Nutons ist mit Belgien verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Les Nutons sont de petits êtres du folklore wallon. Les récits les placent souvent dans des grottes ou sous terre, où ils peuvent réparer des objets pendant la nuit. Ils aident les humains uniquement si ces derniers restent discrets et respectueux.",
+      "en": "The Nutons are small beings from Walloon folklore. Stories often place the Nutons in caves or underground, where the Nutons can repair objects during the night. The Nutons help humans only when humans remain discreet and respectful.",
+      "nl": "De Nutons zijn kleine wezens uit de Waalse folklore. Verhalen plaatsen de Nutons vaak in grotten of onder de grond, waar de Nutons ’s nachts voorwerpen herstellen. De Nutons helpen mensen alleen wanneer mensen discreet en respectvol blijven.",
+      "de": "Die Nutons sind kleine Wesen der wallonischen Folklore. Erzählungen verorten die Nutons oft in Höhlen oder unter der Erde, wo die Nutons nachts Gegenstände reparieren. Die Nutons helfen Menschen nur, wenn Menschen diskret und respektvoll bleiben."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
     "id": "l002_what",
     "mode": "legends",
-    "subjectKey": "legend_002",
+    "subjectKey": "legend_krampus",
     "traditionName": {
       "fr": "Krampus",
       "en": "Krampus",
@@ -11894,10 +4390,10 @@ const LEGENDS_BANK=[
       "de": "Österreich"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Régions alpines",
+      "en": "Alpine regions",
+      "nl": "Alpenregio’s",
+      "de": "Alpenregionen"
     },
     "scenario": {
       "fr": "",
@@ -11913,50 +4409,354 @@ const LEGENDS_BANK=[
     },
     "answers": {
       "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
+        "Une créature cornue associée à Saint Nicolas",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
       ],
       "en": [
-        "A figure or creature from folklore",
-        "A European institution",
+        "A horned creature associated with Saint Nicholas",
+        "A festive recipe",
         "An old currency",
-        "A modern recipe"
+        "A European institution"
       ],
       "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
+        "Een gehoornd wezen verbonden met Sinterklaas",
+        "Een feestgerecht",
         "Een oude munteenheid",
-        "Een modern recept"
+        "Een Europese instelling"
       ],
       "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
+        "Ein gehörntes Wesen im Umfeld des Nikolaus",
+        "Ein Festgericht",
         "Eine alte Währung",
-        "Ein modernes Rezept"
+        "Eine europäische Institution"
       ]
     },
     "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
+      "fr": "Une créature cornue associée à Saint Nicolas",
+      "en": "A horned creature associated with Saint Nicholas",
+      "nl": "Een gehoornd wezen verbonden met Sinterklaas",
+      "de": "Ein gehörntes Wesen im Umfeld des Nikolaus"
     },
     "explanation": {
-      "fr": "Krampus accompagne Saint Nicolas dans certaines régions alpines. Il apparaît avec cornes, fourrure et chaînes pour représenter la punition des enfants désobéissants.",
-      "en": "Krampus accompanies Saint Nicholas in some Alpine regions. Krampus appears with horns, fur and chains as the figure who punishes disobedient children.",
-      "nl": "Krampus begeleidt Sinterklaas in sommige Alpenregio’s. Krampus verschijnt met hoorns, pels en kettingen als figuur die ongehoorzame kinderen straft.",
-      "de": "Krampus begleitet den Nikolaus in einigen Alpenregionen. Krampus erscheint mit Hörnern, Fell und Ketten als Figur, die unartige Kinder bestraft."
+      "fr": "Krampus accompagne Saint Nicolas dans plusieurs régions alpines. Contrairement au saint qui récompense les enfants sages, Krampus représente la punition des enfants désobéissants. Les défilés de Krampus utilisent costumes, masques, cornes et chaînes pour créer un moment spectaculaire.",
+      "en": "Krampus accompanies Saint Nicholas in several Alpine regions. Unlike the saint who rewards well-behaved children, Krampus represents the punishment of disobedient children. Krampus parades use costumes, masks, horns and chains to create a spectacular moment.",
+      "nl": "Krampus begeleidt Sinterklaas in verschillende Alpenregio’s. In tegenstelling tot de heilige die brave kinderen beloont, staat Krampus voor de straf van ongehoorzame kinderen. Krampusoptochten gebruiken kostuums, maskers, hoorns en kettingen voor een spectaculair effect.",
+      "de": "Krampus begleitet den Nikolaus in mehreren Alpenregionen. Anders als der Heilige, der brave Kinder belohnt, steht Krampus für die Bestrafung unartiger Kinder. Krampusumzüge nutzen Kostüme, Masken, Hörner und Ketten für ein spektakuläres Ereignis."
     },
     "questionType": "what",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l003_country",
+    "id": "l002_country",
     "mode": "legends",
-    "subjectKey": "legend_003",
+    "subjectKey": "legend_krampus",
+    "traditionName": {
+      "fr": "Krampus",
+      "en": "Krampus",
+      "nl": "Krampus",
+      "de": "Krampus"
+    },
+    "country": {
+      "fr": "Autriche",
+      "en": "Austria",
+      "nl": "Oostenrijk",
+      "de": "Österreich"
+    },
+    "region": {
+      "fr": "Régions alpines",
+      "en": "Alpine regions",
+      "nl": "Alpenregio’s",
+      "de": "Alpenregionen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
+    },
+    "answers": {
+      "fr": [
+        "Autriche",
+        "Belgique",
+        "Tchéquie",
+        "Irlande"
+      ],
+      "en": [
+        "Austria",
+        "Belgium",
+        "Czechia",
+        "Ireland"
+      ],
+      "nl": [
+        "Oostenrijk",
+        "België",
+        "Tsjechië",
+        "Ierland"
+      ],
+      "de": [
+        "Österreich",
+        "Belgien",
+        "Tschechien",
+        "Irland"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Autriche",
+      "en": "Austria",
+      "nl": "Oostenrijk",
+      "de": "Österreich"
+    },
+    "explanation": {
+      "fr": "Krampus accompagne Saint Nicolas dans plusieurs régions alpines. Contrairement au saint qui récompense les enfants sages, Krampus représente la punition des enfants désobéissants. Les défilés de Krampus utilisent costumes, masques, cornes et chaînes pour créer un moment spectaculaire.",
+      "en": "Krampus accompanies Saint Nicholas in several Alpine regions. Unlike the saint who rewards well-behaved children, Krampus represents the punishment of disobedient children. Krampus parades use costumes, masks, horns and chains to create a spectacular moment.",
+      "nl": "Krampus begeleidt Sinterklaas in verschillende Alpenregio’s. In tegenstelling tot de heilige die brave kinderen beloont, staat Krampus voor de straf van ongehoorzame kinderen. Krampusoptochten gebruiken kostuums, maskers, hoorns en kettingen voor een spectaculair effect.",
+      "de": "Krampus begleitet den Nikolaus in mehreren Alpenregionen. Anders als der Heilige, der brave Kinder belohnt, steht Krampus für die Bestrafung unartiger Kinder. Krampusumzüge nutzen Kostüme, Masken, Hörner und Ketten für ein spektakuläres Ereignis."
+    },
+    "questionType": "country",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l002_detail",
+    "mode": "legends",
+    "subjectKey": "legend_krampus",
+    "traditionName": {
+      "fr": "Krampus",
+      "en": "Krampus",
+      "nl": "Krampus",
+      "de": "Krampus"
+    },
+    "country": {
+      "fr": "Autriche",
+      "en": "Austria",
+      "nl": "Oostenrijk",
+      "de": "Österreich"
+    },
+    "region": {
+      "fr": "Régions alpines",
+      "en": "Alpine regions",
+      "nl": "Alpenregio’s",
+      "de": "Alpenregionen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Quel détail est associé à Krampus ?",
+      "en": "Which detail is associated with Krampus?",
+      "nl": "Welk detail hoort bij Krampus?",
+      "de": "Welches Detail gehört zu Krampus?"
+    },
+    "answers": {
+      "fr": [
+        "Il apparaît avec fourrure, cornes et chaînes dans des défilés hivernaux.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
+      ],
+      "en": [
+        "Krampus appears with fur, horns and chains in winter parades.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "Krampus verschijnt met pels, hoorns en kettingen in winterse optochten.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Krampus erscheint mit Fell, Hörnern und Ketten bei Winterumzügen.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Il apparaît avec fourrure, cornes et chaînes dans des défilés hivernaux.",
+      "en": "Krampus appears with fur, horns and chains in winter parades.",
+      "nl": "Krampus verschijnt met pels, hoorns en kettingen in winterse optochten.",
+      "de": "Krampus erscheint mit Fell, Hörnern und Ketten bei Winterumzügen."
+    },
+    "explanation": {
+      "fr": "Krampus accompagne Saint Nicolas dans plusieurs régions alpines. Contrairement au saint qui récompense les enfants sages, Krampus représente la punition des enfants désobéissants. Les défilés de Krampus utilisent costumes, masques, cornes et chaînes pour créer un moment spectaculaire.",
+      "en": "Krampus accompanies Saint Nicholas in several Alpine regions. Unlike the saint who rewards well-behaved children, Krampus represents the punishment of disobedient children. Krampus parades use costumes, masks, horns and chains to create a spectacular moment.",
+      "nl": "Krampus begeleidt Sinterklaas in verschillende Alpenregio’s. In tegenstelling tot de heilige die brave kinderen beloont, staat Krampus voor de straf van ongehoorzame kinderen. Krampusoptochten gebruiken kostuums, maskers, hoorns en kettingen voor een spectaculair effect.",
+      "de": "Krampus begleitet den Nikolaus in mehreren Alpenregionen. Anders als der Heilige, der brave Kinder belohnt, steht Krampus für die Bestrafung unartiger Kinder. Krampusumzüge nutzen Kostüme, Masken, Hörner und Ketten für ein spektakuläres Ereignis."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l002_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_krampus",
+    "traditionName": {
+      "fr": "Krampus",
+      "en": "Krampus",
+      "nl": "Krampus",
+      "de": "Krampus"
+    },
+    "country": {
+      "fr": "Autriche",
+      "en": "Austria",
+      "nl": "Oostenrijk",
+      "de": "Österreich"
+    },
+    "region": {
+      "fr": "Régions alpines",
+      "en": "Alpine regions",
+      "nl": "Alpenregio’s",
+      "de": "Alpenregionen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Régions alpines et je suis lié à ce détail : Il apparaît avec fourrure, cornes et chaînes dans des défilés hivernaux.. Qui suis-je ?",
+      "en": "Riddle: I come from Alpine regions and I am linked to this detail: Krampus appears with fur, horns and chains in winter parades.. What am I?",
+      "nl": "Raadsel: ik kom uit Alpenregio’s en ben verbonden met dit detail: Krampus verschijnt met pels, hoorns en kettingen in winterse optochten.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Alpenregionen und bin mit diesem Detail verbunden: Krampus erscheint mit Fell, Hörnern und Ketten bei Winterumzügen.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Krampus",
+        "Les Nutons",
+        "Le Golem de Prague",
+        "Banshee"
+      ],
+      "en": [
+        "Krampus",
+        "The Nutons",
+        "The Golem of Prague",
+        "Banshee"
+      ],
+      "nl": [
+        "Krampus",
+        "De Nutons",
+        "De Golem van Praag",
+        "Banshee"
+      ],
+      "de": [
+        "Krampus",
+        "Die Nutons",
+        "Der Golem von Prag",
+        "Banshee"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Krampus",
+      "en": "Krampus",
+      "nl": "Krampus",
+      "de": "Krampus"
+    },
+    "explanation": {
+      "fr": "Krampus accompagne Saint Nicolas dans plusieurs régions alpines. Contrairement au saint qui récompense les enfants sages, Krampus représente la punition des enfants désobéissants. Les défilés de Krampus utilisent costumes, masques, cornes et chaînes pour créer un moment spectaculaire.",
+      "en": "Krampus accompanies Saint Nicholas in several Alpine regions. Unlike the saint who rewards well-behaved children, Krampus represents the punishment of disobedient children. Krampus parades use costumes, masks, horns and chains to create a spectacular moment.",
+      "nl": "Krampus begeleidt Sinterklaas in verschillende Alpenregio’s. In tegenstelling tot de heilige die brave kinderen beloont, staat Krampus voor de straf van ongehoorzame kinderen. Krampusoptochten gebruiken kostuums, maskers, hoorns en kettingen voor een spectaculair effect.",
+      "de": "Krampus begleitet den Nikolaus in mehreren Alpenregionen. Anders als der Heilige, der brave Kinder belohnt, steht Krampus für die Bestrafung unartiger Kinder. Krampusumzüge nutzen Kostüme, Masken, Hörner und Ketten für ein spektakuläres Ereignis."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l002_tf",
+    "mode": "legends",
+    "subjectKey": "legend_krampus",
+    "traditionName": {
+      "fr": "Krampus",
+      "en": "Krampus",
+      "nl": "Krampus",
+      "de": "Krampus"
+    },
+    "country": {
+      "fr": "Autriche",
+      "en": "Austria",
+      "nl": "Oostenrijk",
+      "de": "Österreich"
+    },
+    "region": {
+      "fr": "Régions alpines",
+      "en": "Alpine regions",
+      "nl": "Alpenregio’s",
+      "de": "Alpenregionen"
+    },
+    "scenario": {
+      "fr": "Krampus est associé à Autriche.",
+      "en": "Krampus is associated with Austria.",
+      "nl": "Krampus is verbonden met Oostenrijk.",
+      "de": "Krampus ist mit Österreich verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Krampus accompagne Saint Nicolas dans plusieurs régions alpines. Contrairement au saint qui récompense les enfants sages, Krampus représente la punition des enfants désobéissants. Les défilés de Krampus utilisent costumes, masques, cornes et chaînes pour créer un moment spectaculaire.",
+      "en": "Krampus accompanies Saint Nicholas in several Alpine regions. Unlike the saint who rewards well-behaved children, Krampus represents the punishment of disobedient children. Krampus parades use costumes, masks, horns and chains to create a spectacular moment.",
+      "nl": "Krampus begeleidt Sinterklaas in verschillende Alpenregio’s. In tegenstelling tot de heilige die brave kinderen beloont, staat Krampus voor de straf van ongehoorzame kinderen. Krampusoptochten gebruiken kostuums, maskers, hoorns en kettingen voor een spectaculair effect.",
+      "de": "Krampus begleitet den Nikolaus in mehreren Alpenregionen. Anders als der Heilige, der brave Kinder belohnt, steht Krampus für die Bestrafung unartiger Kinder. Krampusumzüge nutzen Kostüme, Masken, Hörner und Ketten für ein spektakuläres Ereignis."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l003_what",
+    "mode": "legends",
+    "subjectKey": "legend_golem_prague",
     "traditionName": {
       "fr": "Le Golem de Prague",
       "en": "The Golem of Prague",
@@ -11970,10 +4770,10 @@ const LEGENDS_BANK=[
       "de": "Tschechien"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Prague",
+      "en": "Prague",
+      "nl": "Praag",
+      "de": "Prag"
     },
     "scenario": {
       "fr": "",
@@ -11982,10 +4782,86 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Le Golem de Prague ?",
-      "en": "In which country is this legend mainly known: The Golem of Prague?",
-      "nl": "In welk land is deze legende vooral bekend: De Golem van Praag?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Der Golem von Prag?"
+      "fr": "Que sont / qu’est-ce que Le Golem de Prague ?",
+      "en": "What are / what is The Golem of Prague?",
+      "nl": "Wat zijn / wat is De Golem van Praag?",
+      "de": "Was ist / was sind Der Golem von Prag?"
+    },
+    "answers": {
+      "fr": [
+        "Un géant d’argile protecteur",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A protective clay giant",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een beschermende reus van klei",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Ein schützender Lehmriese",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un géant d’argile protecteur",
+      "en": "A protective clay giant",
+      "nl": "Een beschermende reus van klei",
+      "de": "Ein schützender Lehmriese"
+    },
+    "explanation": {
+      "fr": "Le Golem de Prague est un géant d’argile qui aurait été animé par un rabbin pour protéger la communauté juive de la ville. La légende est liée au quartier juif de Prague et à l’idée qu’une créature protectrice peut devenir incontrôlable.",
+      "en": "The Golem of Prague is a clay giant said to have been animated by a rabbi to protect the city’s Jewish community. The legend is linked to Prague’s Jewish Quarter and to the idea that a protective creature can become uncontrollable.",
+      "nl": "De Golem van Praag is een reus van klei die door een rabbijn tot leven zou zijn gebracht om de Joodse gemeenschap van de stad te beschermen. De legende is verbonden met de Joodse wijk van Praag en met het idee dat een beschermer onbeheersbaar kan worden.",
+      "de": "Der Golem von Prag ist ein Lehmriese, der von einem Rabbiner belebt worden sein soll, um die jüdische Gemeinde der Stadt zu schützen. Die Legende ist mit dem jüdischen Viertel Prags verbunden und zeigt, dass ein Beschützer unkontrollierbar werden kann."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l003_country",
+    "mode": "legends",
+    "subjectKey": "legend_golem_prague",
+    "traditionName": {
+      "fr": "Le Golem de Prague",
+      "en": "The Golem of Prague",
+      "nl": "De Golem van Praag",
+      "de": "Der Golem von Prag"
+    },
+    "country": {
+      "fr": "Tchéquie",
+      "en": "Czechia",
+      "nl": "Tsjechië",
+      "de": "Tschechien"
+    },
+    "region": {
+      "fr": "Prague",
+      "en": "Prague",
+      "nl": "Praag",
+      "de": "Prag"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
     },
     "answers": {
       "fr": [
@@ -12020,19 +4896,19 @@ const LEGENDS_BANK=[
       "de": "Tschechien"
     },
     "explanation": {
-      "fr": "Le Golem de Prague appartient au folklore de Tchéquie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "The Golem of Prague belongs to the folklore of Czechia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "De Golem van Praag behoort tot de folklore van Tsjechië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Der Golem von Prag gehört zur Folklore von Tschechien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "Le Golem de Prague est un géant d’argile qui aurait été animé par un rabbin pour protéger la communauté juive de la ville. La légende est liée au quartier juif de Prague et à l’idée qu’une créature protectrice peut devenir incontrôlable.",
+      "en": "The Golem of Prague is a clay giant said to have been animated by a rabbi to protect the city’s Jewish community. The legend is linked to Prague’s Jewish Quarter and to the idea that a protective creature can become uncontrollable.",
+      "nl": "De Golem van Praag is een reus van klei die door een rabbijn tot leven zou zijn gebracht om de Joodse gemeenschap van de stad te beschermen. De legende is verbonden met de Joodse wijk van Praag en met het idee dat een beschermer onbeheersbaar kan worden.",
+      "de": "Der Golem von Prag ist ein Lehmriese, der von einem Rabbiner belebt worden sein soll, um die jüdische Gemeinde der Stadt zu schützen. Die Legende ist mit dem jüdischen Viertel Prags verbunden und zeigt, dass ein Beschützer unkontrollierbar werden kann."
     },
     "questionType": "country",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l003_what",
+    "id": "l003_detail",
     "mode": "legends",
-    "subjectKey": "legend_003",
+    "subjectKey": "legend_golem_prague",
     "traditionName": {
       "fr": "Le Golem de Prague",
       "en": "The Golem of Prague",
@@ -12046,10 +4922,10 @@ const LEGENDS_BANK=[
       "de": "Tschechien"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Prague",
+      "en": "Prague",
+      "nl": "Praag",
+      "de": "Prag"
     },
     "scenario": {
       "fr": "",
@@ -12058,57 +4934,209 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont / qu’est-ce que Le Golem de Prague ?",
-      "en": "What are / what is The Golem of Prague?",
-      "nl": "Wat zijn / wat is De Golem van Praag?",
-      "de": "Was ist / was sind Der Golem von Prag?"
+      "fr": "Quel détail est associé à Le Golem de Prague ?",
+      "en": "Which detail is associated with The Golem of Prague?",
+      "nl": "Welk detail hoort bij De Golem van Praag?",
+      "de": "Welches Detail gehört zu Der Golem von Prag?"
     },
     "answers": {
       "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
+        "Il aurait été créé pour protéger la communauté juive de Prague.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
       ],
       "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
+        "The Golem was said to be created to protect Prague’s Jewish community.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
       ],
       "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
+        "De Golem zou zijn gemaakt om de Joodse gemeenschap van Praag te beschermen.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
       ],
       "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
+        "Der Golem soll geschaffen worden sein, um die jüdische Gemeinde Prags zu schützen.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
       ]
     },
     "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
+      "fr": "Il aurait été créé pour protéger la communauté juive de Prague.",
+      "en": "The Golem was said to be created to protect Prague’s Jewish community.",
+      "nl": "De Golem zou zijn gemaakt om de Joodse gemeenschap van Praag te beschermen.",
+      "de": "Der Golem soll geschaffen worden sein, um die jüdische Gemeinde Prags zu schützen."
     },
     "explanation": {
-      "fr": "Le Golem de Prague appartient au folklore de Tchéquie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "The Golem of Prague belongs to the folklore of Czechia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "De Golem van Praag behoort tot de folklore van Tsjechië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Der Golem von Prag gehört zur Folklore von Tschechien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "Le Golem de Prague est un géant d’argile qui aurait été animé par un rabbin pour protéger la communauté juive de la ville. La légende est liée au quartier juif de Prague et à l’idée qu’une créature protectrice peut devenir incontrôlable.",
+      "en": "The Golem of Prague is a clay giant said to have been animated by a rabbi to protect the city’s Jewish community. The legend is linked to Prague’s Jewish Quarter and to the idea that a protective creature can become uncontrollable.",
+      "nl": "De Golem van Praag is een reus van klei die door een rabbijn tot leven zou zijn gebracht om de Joodse gemeenschap van de stad te beschermen. De legende is verbonden met de Joodse wijk van Praag en met het idee dat een beschermer onbeheersbaar kan worden.",
+      "de": "Der Golem von Prag ist ein Lehmriese, der von einem Rabbiner belebt worden sein soll, um die jüdische Gemeinde der Stadt zu schützen. Die Legende ist mit dem jüdischen Viertel Prags verbunden und zeigt, dass ein Beschützer unkontrollierbar werden kann."
     },
-    "questionType": "what",
+    "questionType": "detail",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l004_country",
+    "id": "l003_riddle",
     "mode": "legends",
-    "subjectKey": "legend_004",
+    "subjectKey": "legend_golem_prague",
+    "traditionName": {
+      "fr": "Le Golem de Prague",
+      "en": "The Golem of Prague",
+      "nl": "De Golem van Praag",
+      "de": "Der Golem von Prag"
+    },
+    "country": {
+      "fr": "Tchéquie",
+      "en": "Czechia",
+      "nl": "Tsjechië",
+      "de": "Tschechien"
+    },
+    "region": {
+      "fr": "Prague",
+      "en": "Prague",
+      "nl": "Praag",
+      "de": "Prag"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Prague et je suis lié à ce détail : Il aurait été créé pour protéger la communauté juive de Prague.. Qui suis-je ?",
+      "en": "Riddle: I come from Prague and I am linked to this detail: The Golem was said to be created to protect Prague’s Jewish community.. What am I?",
+      "nl": "Raadsel: ik kom uit Praag en ben verbonden met dit detail: De Golem zou zijn gemaakt om de Joodse gemeenschap van Praag te beschermen.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Prag und bin mit diesem Detail verbunden: Der Golem soll geschaffen worden sein, um die jüdische Gemeinde Prags zu schützen.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Le Golem de Prague",
+        "Les Nutons",
+        "Krampus",
+        "Banshee"
+      ],
+      "en": [
+        "The Golem of Prague",
+        "The Nutons",
+        "Krampus",
+        "Banshee"
+      ],
+      "nl": [
+        "De Golem van Praag",
+        "De Nutons",
+        "Krampus",
+        "Banshee"
+      ],
+      "de": [
+        "Der Golem von Prag",
+        "Die Nutons",
+        "Krampus",
+        "Banshee"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Le Golem de Prague",
+      "en": "The Golem of Prague",
+      "nl": "De Golem van Praag",
+      "de": "Der Golem von Prag"
+    },
+    "explanation": {
+      "fr": "Le Golem de Prague est un géant d’argile qui aurait été animé par un rabbin pour protéger la communauté juive de la ville. La légende est liée au quartier juif de Prague et à l’idée qu’une créature protectrice peut devenir incontrôlable.",
+      "en": "The Golem of Prague is a clay giant said to have been animated by a rabbi to protect the city’s Jewish community. The legend is linked to Prague’s Jewish Quarter and to the idea that a protective creature can become uncontrollable.",
+      "nl": "De Golem van Praag is een reus van klei die door een rabbijn tot leven zou zijn gebracht om de Joodse gemeenschap van de stad te beschermen. De legende is verbonden met de Joodse wijk van Praag en met het idee dat een beschermer onbeheersbaar kan worden.",
+      "de": "Der Golem von Prag ist ein Lehmriese, der von einem Rabbiner belebt worden sein soll, um die jüdische Gemeinde der Stadt zu schützen. Die Legende ist mit dem jüdischen Viertel Prags verbunden und zeigt, dass ein Beschützer unkontrollierbar werden kann."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l003_tf",
+    "mode": "legends",
+    "subjectKey": "legend_golem_prague",
+    "traditionName": {
+      "fr": "Le Golem de Prague",
+      "en": "The Golem of Prague",
+      "nl": "De Golem van Praag",
+      "de": "Der Golem von Prag"
+    },
+    "country": {
+      "fr": "Tchéquie",
+      "en": "Czechia",
+      "nl": "Tsjechië",
+      "de": "Tschechien"
+    },
+    "region": {
+      "fr": "Prague",
+      "en": "Prague",
+      "nl": "Praag",
+      "de": "Prag"
+    },
+    "scenario": {
+      "fr": "Le Golem de Prague est associé à Tchéquie.",
+      "en": "The Golem of Prague is associated with Czechia.",
+      "nl": "De Golem van Praag is verbonden met Tsjechië.",
+      "de": "Der Golem von Prag ist mit Tschechien verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Le Golem de Prague est un géant d’argile qui aurait été animé par un rabbin pour protéger la communauté juive de la ville. La légende est liée au quartier juif de Prague et à l’idée qu’une créature protectrice peut devenir incontrôlable.",
+      "en": "The Golem of Prague is a clay giant said to have been animated by a rabbi to protect the city’s Jewish community. The legend is linked to Prague’s Jewish Quarter and to the idea that a protective creature can become uncontrollable.",
+      "nl": "De Golem van Praag is een reus van klei die door een rabbijn tot leven zou zijn gebracht om de Joodse gemeenschap van de stad te beschermen. De legende is verbonden met de Joodse wijk van Praag en met het idee dat een beschermer onbeheersbaar kan worden.",
+      "de": "Der Golem von Prag ist ein Lehmriese, der von einem Rabbiner belebt worden sein soll, um die jüdische Gemeinde der Stadt zu schützen. Die Legende ist mit dem jüdischen Viertel Prags verbunden und zeigt, dass ein Beschützer unkontrollierbar werden kann."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l004_what",
+    "mode": "legends",
+    "subjectKey": "legend_banshee",
     "traditionName": {
       "fr": "Banshee",
       "en": "Banshee",
@@ -12122,10 +5150,10 @@ const LEGENDS_BANK=[
       "de": "Irland"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Folklore irlandais",
+      "en": "Irish folklore",
+      "nl": "Ierse folklore",
+      "de": "Irische Folklore"
     },
     "scenario": {
       "fr": "",
@@ -12134,10 +5162,86 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Banshee ?",
-      "en": "In which country is this legend mainly known: Banshee?",
-      "nl": "In welk land is deze legende vooral bekend: Banshee?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Banshee?"
+      "fr": "Que sont / qu’est-ce que Banshee ?",
+      "en": "What are / what is Banshee?",
+      "nl": "Wat zijn / wat is Banshee?",
+      "de": "Was ist / was sind Banshee?"
+    },
+    "answers": {
+      "fr": [
+        "Un être surnaturel annonçant une mort",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A supernatural being announcing a death",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een bovennatuurlijk wezen dat een overlijden aankondigt",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Ein übernatürliches Wesen, das einen Tod ankündigt",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un être surnaturel annonçant une mort",
+      "en": "A supernatural being announcing a death",
+      "nl": "Een bovennatuurlijk wezen dat een overlijden aankondigt",
+      "de": "Ein übernatürliches Wesen, das einen Tod ankündigt"
+    },
+    "explanation": {
+      "fr": "La Banshee appartient au folklore irlandais. Ses cris ou lamentations nocturnes annonceraient la mort prochaine d’un membre de la famille. Elle représente aussi le lien entre les vivants, les morts et la mémoire familiale.",
+      "en": "The Banshee belongs to Irish folklore. The Banshee’s night cries or laments are said to announce the coming death of a family member. The Banshee also represents the bond between the living, the dead and family memory.",
+      "nl": "De Banshee behoort tot de Ierse folklore. De nachtelijke kreten of klaagzangen van de Banshee zouden het naderende overlijden van een familielid aankondigen. De Banshee staat ook voor de band tussen levenden, doden en familieherinnering.",
+      "de": "Die Banshee gehört zur irischen Folklore. Die nächtlichen Schreie oder Klagen der Banshee sollen den bevorstehenden Tod eines Familienmitglieds ankündigen. Die Banshee steht auch für die Verbindung zwischen Lebenden, Toten und Familiengedächtnis."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l004_country",
+    "mode": "legends",
+    "subjectKey": "legend_banshee",
+    "traditionName": {
+      "fr": "Banshee",
+      "en": "Banshee",
+      "nl": "Banshee",
+      "de": "Banshee"
+    },
+    "country": {
+      "fr": "Irlande",
+      "en": "Ireland",
+      "nl": "Ierland",
+      "de": "Irland"
+    },
+    "region": {
+      "fr": "Folklore irlandais",
+      "en": "Irish folklore",
+      "nl": "Ierse folklore",
+      "de": "Irische Folklore"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
     },
     "answers": {
       "fr": [
@@ -12172,19 +5276,19 @@ const LEGENDS_BANK=[
       "de": "Irland"
     },
     "explanation": {
-      "fr": "Banshee appartient au folklore de Irlande. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Banshee belongs to the folklore of Ireland. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Banshee behoort tot de folklore van Ierland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Banshee gehört zur Folklore von Irland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "La Banshee appartient au folklore irlandais. Ses cris ou lamentations nocturnes annonceraient la mort prochaine d’un membre de la famille. Elle représente aussi le lien entre les vivants, les morts et la mémoire familiale.",
+      "en": "The Banshee belongs to Irish folklore. The Banshee’s night cries or laments are said to announce the coming death of a family member. The Banshee also represents the bond between the living, the dead and family memory.",
+      "nl": "De Banshee behoort tot de Ierse folklore. De nachtelijke kreten of klaagzangen van de Banshee zouden het naderende overlijden van een familielid aankondigen. De Banshee staat ook voor de band tussen levenden, doden en familieherinnering.",
+      "de": "Die Banshee gehört zur irischen Folklore. Die nächtlichen Schreie oder Klagen der Banshee sollen den bevorstehenden Tod eines Familienmitglieds ankündigen. Die Banshee steht auch für die Verbindung zwischen Lebenden, Toten und Familiengedächtnis."
     },
     "questionType": "country",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l004_what",
+    "id": "l004_detail",
     "mode": "legends",
-    "subjectKey": "legend_004",
+    "subjectKey": "legend_banshee",
     "traditionName": {
       "fr": "Banshee",
       "en": "Banshee",
@@ -12198,10 +5302,10 @@ const LEGENDS_BANK=[
       "de": "Irland"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Folklore irlandais",
+      "en": "Irish folklore",
+      "nl": "Ierse folklore",
+      "de": "Irische Folklore"
     },
     "scenario": {
       "fr": "",
@@ -12210,57 +5314,209 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont / qu’est-ce que Banshee ?",
-      "en": "What are / what is Banshee?",
-      "nl": "Wat zijn / wat is Banshee?",
-      "de": "Was ist / was sind Banshee?"
+      "fr": "Quel détail est associé à Banshee ?",
+      "en": "Which detail is associated with Banshee?",
+      "nl": "Welk detail hoort bij Banshee?",
+      "de": "Welches Detail gehört zu Banshee?"
     },
     "answers": {
       "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
+        "Ses cris nocturnes annonceraient un décès dans une famille.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
       ],
       "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
+        "The Banshee’s night cries are said to announce a death in a family.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
       ],
       "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
+        "De nachtelijke kreten van de Banshee zouden een overlijden in een familie aankondigen.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
       ],
       "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
+        "Die nächtlichen Schreie der Banshee sollen einen Todesfall in einer Familie ankündigen.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
       ]
     },
     "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
+      "fr": "Ses cris nocturnes annonceraient un décès dans une famille.",
+      "en": "The Banshee’s night cries are said to announce a death in a family.",
+      "nl": "De nachtelijke kreten van de Banshee zouden een overlijden in een familie aankondigen.",
+      "de": "Die nächtlichen Schreie der Banshee sollen einen Todesfall in einer Familie ankündigen."
     },
     "explanation": {
-      "fr": "Banshee appartient au folklore de Irlande. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Banshee belongs to the folklore of Ireland. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Banshee behoort tot de folklore van Ierland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Banshee gehört zur Folklore von Irland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "La Banshee appartient au folklore irlandais. Ses cris ou lamentations nocturnes annonceraient la mort prochaine d’un membre de la famille. Elle représente aussi le lien entre les vivants, les morts et la mémoire familiale.",
+      "en": "The Banshee belongs to Irish folklore. The Banshee’s night cries or laments are said to announce the coming death of a family member. The Banshee also represents the bond between the living, the dead and family memory.",
+      "nl": "De Banshee behoort tot de Ierse folklore. De nachtelijke kreten of klaagzangen van de Banshee zouden het naderende overlijden van een familielid aankondigen. De Banshee staat ook voor de band tussen levenden, doden en familieherinnering.",
+      "de": "Die Banshee gehört zur irischen Folklore. Die nächtlichen Schreie oder Klagen der Banshee sollen den bevorstehenden Tod eines Familienmitglieds ankündigen. Die Banshee steht auch für die Verbindung zwischen Lebenden, Toten und Familiengedächtnis."
     },
-    "questionType": "what",
+    "questionType": "detail",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l005_country",
+    "id": "l004_riddle",
     "mode": "legends",
-    "subjectKey": "legend_005",
+    "subjectKey": "legend_banshee",
+    "traditionName": {
+      "fr": "Banshee",
+      "en": "Banshee",
+      "nl": "Banshee",
+      "de": "Banshee"
+    },
+    "country": {
+      "fr": "Irlande",
+      "en": "Ireland",
+      "nl": "Ierland",
+      "de": "Irland"
+    },
+    "region": {
+      "fr": "Folklore irlandais",
+      "en": "Irish folklore",
+      "nl": "Ierse folklore",
+      "de": "Irische Folklore"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Folklore irlandais et je suis lié à ce détail : Ses cris nocturnes annonceraient un décès dans une famille.. Qui suis-je ?",
+      "en": "Riddle: I come from Irish folklore and I am linked to this detail: The Banshee’s night cries are said to announce a death in a family.. What am I?",
+      "nl": "Raadsel: ik kom uit Ierse folklore en ben verbonden met dit detail: De nachtelijke kreten van de Banshee zouden een overlijden in een familie aankondigen.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Irische Folklore und bin mit diesem Detail verbunden: Die nächtlichen Schreie der Banshee sollen einen Todesfall in einer Familie ankündigen.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Banshee",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Banshee",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Banshee",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Banshee",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Banshee",
+      "en": "Banshee",
+      "nl": "Banshee",
+      "de": "Banshee"
+    },
+    "explanation": {
+      "fr": "La Banshee appartient au folklore irlandais. Ses cris ou lamentations nocturnes annonceraient la mort prochaine d’un membre de la famille. Elle représente aussi le lien entre les vivants, les morts et la mémoire familiale.",
+      "en": "The Banshee belongs to Irish folklore. The Banshee’s night cries or laments are said to announce the coming death of a family member. The Banshee also represents the bond between the living, the dead and family memory.",
+      "nl": "De Banshee behoort tot de Ierse folklore. De nachtelijke kreten of klaagzangen van de Banshee zouden het naderende overlijden van een familielid aankondigen. De Banshee staat ook voor de band tussen levenden, doden en familieherinnering.",
+      "de": "Die Banshee gehört zur irischen Folklore. Die nächtlichen Schreie oder Klagen der Banshee sollen den bevorstehenden Tod eines Familienmitglieds ankündigen. Die Banshee steht auch für die Verbindung zwischen Lebenden, Toten und Familiengedächtnis."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l004_tf",
+    "mode": "legends",
+    "subjectKey": "legend_banshee",
+    "traditionName": {
+      "fr": "Banshee",
+      "en": "Banshee",
+      "nl": "Banshee",
+      "de": "Banshee"
+    },
+    "country": {
+      "fr": "Irlande",
+      "en": "Ireland",
+      "nl": "Ierland",
+      "de": "Irland"
+    },
+    "region": {
+      "fr": "Folklore irlandais",
+      "en": "Irish folklore",
+      "nl": "Ierse folklore",
+      "de": "Irische Folklore"
+    },
+    "scenario": {
+      "fr": "Banshee est associé à Irlande.",
+      "en": "Banshee is associated with Ireland.",
+      "nl": "Banshee is verbonden met Ierland.",
+      "de": "Banshee ist mit Irland verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "La Banshee appartient au folklore irlandais. Ses cris ou lamentations nocturnes annonceraient la mort prochaine d’un membre de la famille. Elle représente aussi le lien entre les vivants, les morts et la mémoire familiale.",
+      "en": "The Banshee belongs to Irish folklore. The Banshee’s night cries or laments are said to announce the coming death of a family member. The Banshee also represents the bond between the living, the dead and family memory.",
+      "nl": "De Banshee behoort tot de Ierse folklore. De nachtelijke kreten of klaagzangen van de Banshee zouden het naderende overlijden van een familielid aankondigen. De Banshee staat ook voor de band tussen levenden, doden en familieherinnering.",
+      "de": "Die Banshee gehört zur irischen Folklore. Die nächtlichen Schreie oder Klagen der Banshee sollen den bevorstehenden Tod eines Familienmitglieds ankündigen. Die Banshee steht auch für die Verbindung zwischen Lebenden, Toten und Familiengedächtnis."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l005_what",
+    "mode": "legends",
+    "subjectKey": "legend_lorelei",
     "traditionName": {
       "fr": "Lorelei",
       "en": "Lorelei",
@@ -12274,10 +5530,10 @@ const LEGENDS_BANK=[
       "de": "Deutschland"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Rhin",
+      "en": "Rhine",
+      "nl": "Rijn",
+      "de": "Rhein"
     },
     "scenario": {
       "fr": "",
@@ -12286,10 +5542,86 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Lorelei ?",
-      "en": "In which country is this legend mainly known: Lorelei?",
-      "nl": "In welk land is deze legende vooral bekend: Lorelei?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Lorelei?"
+      "fr": "Que sont / qu’est-ce que Lorelei ?",
+      "en": "What are / what is Lorelei?",
+      "nl": "Wat zijn / wat is Lorelei?",
+      "de": "Was ist / was sind Lorelei?"
+    },
+    "answers": {
+      "fr": [
+        "Une figure féminine associée au Rhin et au chant",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A female figure linked to the Rhine and song",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een vrouwelijke figuur verbonden met de Rijn en zang",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Eine weibliche Figur, verbunden mit Rhein und Gesang",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une figure féminine associée au Rhin et au chant",
+      "en": "A female figure linked to the Rhine and song",
+      "nl": "Een vrouwelijke figuur verbonden met de Rijn en zang",
+      "de": "Eine weibliche Figur, verbunden mit Rhein und Gesang"
+    },
+    "explanation": {
+      "fr": "Lorelei est associée à un rocher dominant le Rhin. Son chant envoûtant aurait détourné l’attention des marins et les aurait attirés vers les dangers du fleuve. La légende mêle paysage réel, poésie romantique et fascination pour la voix.",
+      "en": "Lorelei is linked to a rock above the Rhine. Her enchanting song was said to distract sailors and draw sailors towards the river’s dangers. The legend combines a real landscape, Romantic poetry and fascination with the voice.",
+      "nl": "Lorelei is verbonden met een rots boven de Rijn. Haar betoverende zang zou schippers hebben afgeleid en naar de gevaren van de rivier hebben gelokt. De legende combineert een echt landschap, romantische poëzie en fascinatie voor de stem.",
+      "de": "Lorelei ist mit einem Felsen am Rhein verbunden. Ihr betörender Gesang soll Schiffer abgelenkt und in die Gefahren des Flusses gelockt haben. Die Legende verbindet reale Landschaft, romantische Dichtung und die Faszination der Stimme."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l005_country",
+    "mode": "legends",
+    "subjectKey": "legend_lorelei",
+    "traditionName": {
+      "fr": "Lorelei",
+      "en": "Lorelei",
+      "nl": "Lorelei",
+      "de": "Lorelei"
+    },
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland",
+      "de": "Deutschland"
+    },
+    "region": {
+      "fr": "Rhin",
+      "en": "Rhine",
+      "nl": "Rijn",
+      "de": "Rhein"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
     },
     "answers": {
       "fr": [
@@ -12324,19 +5656,19 @@ const LEGENDS_BANK=[
       "de": "Deutschland"
     },
     "explanation": {
-      "fr": "Lorelei appartient au folklore de Allemagne. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Lorelei belongs to the folklore of Germany. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Lorelei behoort tot de folklore van Duitsland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Lorelei gehört zur Folklore von Deutschland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "Lorelei est associée à un rocher dominant le Rhin. Son chant envoûtant aurait détourné l’attention des marins et les aurait attirés vers les dangers du fleuve. La légende mêle paysage réel, poésie romantique et fascination pour la voix.",
+      "en": "Lorelei is linked to a rock above the Rhine. Her enchanting song was said to distract sailors and draw sailors towards the river’s dangers. The legend combines a real landscape, Romantic poetry and fascination with the voice.",
+      "nl": "Lorelei is verbonden met een rots boven de Rijn. Haar betoverende zang zou schippers hebben afgeleid en naar de gevaren van de rivier hebben gelokt. De legende combineert een echt landschap, romantische poëzie en fascinatie voor de stem.",
+      "de": "Lorelei ist mit einem Felsen am Rhein verbunden. Ihr betörender Gesang soll Schiffer abgelenkt und in die Gefahren des Flusses gelockt haben. Die Legende verbindet reale Landschaft, romantische Dichtung und die Faszination der Stimme."
     },
     "questionType": "country",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l005_what",
+    "id": "l005_detail",
     "mode": "legends",
-    "subjectKey": "legend_005",
+    "subjectKey": "legend_lorelei",
     "traditionName": {
       "fr": "Lorelei",
       "en": "Lorelei",
@@ -12350,10 +5682,10 @@ const LEGENDS_BANK=[
       "de": "Deutschland"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Rhin",
+      "en": "Rhine",
+      "nl": "Rijn",
+      "de": "Rhein"
     },
     "scenario": {
       "fr": "",
@@ -12362,57 +5694,209 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont / qu’est-ce que Lorelei ?",
-      "en": "What are / what is Lorelei?",
-      "nl": "Wat zijn / wat is Lorelei?",
-      "de": "Was ist / was sind Lorelei?"
+      "fr": "Quel détail est associé à Lorelei ?",
+      "en": "Which detail is associated with Lorelei?",
+      "nl": "Welk detail hoort bij Lorelei?",
+      "de": "Welches Detail gehört zu Lorelei?"
     },
     "answers": {
       "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
+        "Son chant aurait attiré les marins vers les rochers dangereux du Rhin.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
       ],
       "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
+        "Her song was said to draw sailors towards dangerous rocks on the Rhine.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
       ],
       "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
+        "Haar zang zou schippers naar gevaarlijke rotsen aan de Rijn hebben gelokt.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
       ],
       "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
+        "Ihr Gesang soll Schiffer zu gefährlichen Felsen am Rhein gelockt haben.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
       ]
     },
     "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
+      "fr": "Son chant aurait attiré les marins vers les rochers dangereux du Rhin.",
+      "en": "Her song was said to draw sailors towards dangerous rocks on the Rhine.",
+      "nl": "Haar zang zou schippers naar gevaarlijke rotsen aan de Rijn hebben gelokt.",
+      "de": "Ihr Gesang soll Schiffer zu gefährlichen Felsen am Rhein gelockt haben."
     },
     "explanation": {
-      "fr": "Lorelei appartient au folklore de Allemagne. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Lorelei belongs to the folklore of Germany. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Lorelei behoort tot de folklore van Duitsland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Lorelei gehört zur Folklore von Deutschland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "Lorelei est associée à un rocher dominant le Rhin. Son chant envoûtant aurait détourné l’attention des marins et les aurait attirés vers les dangers du fleuve. La légende mêle paysage réel, poésie romantique et fascination pour la voix.",
+      "en": "Lorelei is linked to a rock above the Rhine. Her enchanting song was said to distract sailors and draw sailors towards the river’s dangers. The legend combines a real landscape, Romantic poetry and fascination with the voice.",
+      "nl": "Lorelei is verbonden met een rots boven de Rijn. Haar betoverende zang zou schippers hebben afgeleid en naar de gevaren van de rivier hebben gelokt. De legende combineert een echt landschap, romantische poëzie en fascinatie voor de stem.",
+      "de": "Lorelei ist mit einem Felsen am Rhein verbunden. Ihr betörender Gesang soll Schiffer abgelenkt und in die Gefahren des Flusses gelockt haben. Die Legende verbindet reale Landschaft, romantische Dichtung und die Faszination der Stimme."
     },
-    "questionType": "what",
+    "questionType": "detail",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l006_country",
+    "id": "l005_riddle",
     "mode": "legends",
-    "subjectKey": "legend_006",
+    "subjectKey": "legend_lorelei",
+    "traditionName": {
+      "fr": "Lorelei",
+      "en": "Lorelei",
+      "nl": "Lorelei",
+      "de": "Lorelei"
+    },
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland",
+      "de": "Deutschland"
+    },
+    "region": {
+      "fr": "Rhin",
+      "en": "Rhine",
+      "nl": "Rijn",
+      "de": "Rhein"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Rhin et je suis lié à ce détail : Son chant aurait attiré les marins vers les rochers dangereux du Rhin.. Qui suis-je ?",
+      "en": "Riddle: I come from Rhine and I am linked to this detail: Her song was said to draw sailors towards dangerous rocks on the Rhine.. What am I?",
+      "nl": "Raadsel: ik kom uit Rijn en ben verbonden met dit detail: Haar zang zou schippers naar gevaarlijke rotsen aan de Rijn hebben gelokt.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Rhein und bin mit diesem Detail verbunden: Ihr Gesang soll Schiffer zu gefährlichen Felsen am Rhein gelockt haben.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Lorelei",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Lorelei",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Lorelei",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Lorelei",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Lorelei",
+      "en": "Lorelei",
+      "nl": "Lorelei",
+      "de": "Lorelei"
+    },
+    "explanation": {
+      "fr": "Lorelei est associée à un rocher dominant le Rhin. Son chant envoûtant aurait détourné l’attention des marins et les aurait attirés vers les dangers du fleuve. La légende mêle paysage réel, poésie romantique et fascination pour la voix.",
+      "en": "Lorelei is linked to a rock above the Rhine. Her enchanting song was said to distract sailors and draw sailors towards the river’s dangers. The legend combines a real landscape, Romantic poetry and fascination with the voice.",
+      "nl": "Lorelei is verbonden met een rots boven de Rijn. Haar betoverende zang zou schippers hebben afgeleid en naar de gevaren van de rivier hebben gelokt. De legende combineert een echt landschap, romantische poëzie en fascinatie voor de stem.",
+      "de": "Lorelei ist mit einem Felsen am Rhein verbunden. Ihr betörender Gesang soll Schiffer abgelenkt und in die Gefahren des Flusses gelockt haben. Die Legende verbindet reale Landschaft, romantische Dichtung und die Faszination der Stimme."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l005_tf",
+    "mode": "legends",
+    "subjectKey": "legend_lorelei",
+    "traditionName": {
+      "fr": "Lorelei",
+      "en": "Lorelei",
+      "nl": "Lorelei",
+      "de": "Lorelei"
+    },
+    "country": {
+      "fr": "Allemagne",
+      "en": "Germany",
+      "nl": "Duitsland",
+      "de": "Deutschland"
+    },
+    "region": {
+      "fr": "Rhin",
+      "en": "Rhine",
+      "nl": "Rijn",
+      "de": "Rhein"
+    },
+    "scenario": {
+      "fr": "Lorelei est associé à Allemagne.",
+      "en": "Lorelei is associated with Germany.",
+      "nl": "Lorelei is verbonden met Duitsland.",
+      "de": "Lorelei ist mit Deutschland verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Lorelei est associée à un rocher dominant le Rhin. Son chant envoûtant aurait détourné l’attention des marins et les aurait attirés vers les dangers du fleuve. La légende mêle paysage réel, poésie romantique et fascination pour la voix.",
+      "en": "Lorelei is linked to a rock above the Rhine. Her enchanting song was said to distract sailors and draw sailors towards the river’s dangers. The legend combines a real landscape, Romantic poetry and fascination with the voice.",
+      "nl": "Lorelei is verbonden met een rots boven de Rijn. Haar betoverende zang zou schippers hebben afgeleid en naar de gevaren van de rivier hebben gelokt. De legende combineert een echt landschap, romantische poëzie en fascinatie voor de stem.",
+      "de": "Lorelei ist mit einem Felsen am Rhein verbunden. Ihr betörender Gesang soll Schiffer abgelenkt und in die Gefahren des Flusses gelockt haben. Die Legende verbindet reale Landschaft, romantische Dichtung und die Faszination der Stimme."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l006_what",
+    "mode": "legends",
+    "subjectKey": "legend_befana",
     "traditionName": {
       "fr": "La Befana",
       "en": "La Befana",
@@ -12426,10 +5910,10 @@ const LEGENDS_BANK=[
       "de": "Italien"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Tradition de l’Épiphanie",
+      "en": "Epiphany tradition",
+      "nl": "Driekoningentraditie",
+      "de": "Epiphanie-Tradition"
     },
     "scenario": {
       "fr": "",
@@ -12438,10 +5922,86 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : La Befana ?",
-      "en": "In which country is this legend mainly known: La Befana?",
-      "nl": "In welk land is deze legende vooral bekend: La Befana?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: La Befana?"
+      "fr": "Que sont / qu’est-ce que La Befana ?",
+      "en": "What are / what is La Befana?",
+      "nl": "Wat zijn / wat is La Befana?",
+      "de": "Was ist / was sind La Befana?"
+    },
+    "answers": {
+      "fr": [
+        "Une vieille femme volante qui apporte des cadeaux",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A flying old woman who brings gifts",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een vliegende oude vrouw die cadeaus brengt",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Eine fliegende alte Frau, die Geschenke bringt",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une vieille femme volante qui apporte des cadeaux",
+      "en": "A flying old woman who brings gifts",
+      "nl": "Een vliegende oude vrouw die cadeaus brengt",
+      "de": "Eine fliegende alte Frau, die Geschenke bringt"
+    },
+    "explanation": {
+      "fr": "La Befana est une vieille femme volante du folklore italien. Dans la nuit de l’Épiphanie, La Befana apporte des cadeaux aux enfants sages et du charbon symbolique aux plus turbulents. Cette figure donne une couleur très populaire aux fêtes de janvier.",
+      "en": "La Befana is a flying old woman from Italian folklore. On Epiphany night, La Befana brings gifts to well-behaved children and symbolic coal to more unruly children. This figure gives January celebrations a very popular character.",
+      "nl": "La Befana is een vliegende oude vrouw uit de Italiaanse folklore. In de nacht van Driekoningen brengt La Befana cadeaus aan brave kinderen en symbolische kool aan ondeugende kinderen. Deze figuur geeft de januarifeesten een volkse kleur.",
+      "de": "La Befana ist eine fliegende alte Frau der italienischen Folklore. In der Nacht der Epiphanie bringt La Befana braven Kindern Geschenke und unartigen symbolische Kohle. Diese Figur verleiht den Januarfesten eine volkstümliche Prägung."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l006_country",
+    "mode": "legends",
+    "subjectKey": "legend_befana",
+    "traditionName": {
+      "fr": "La Befana",
+      "en": "La Befana",
+      "nl": "La Befana",
+      "de": "La Befana"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
+    },
+    "region": {
+      "fr": "Tradition de l’Épiphanie",
+      "en": "Epiphany tradition",
+      "nl": "Driekoningentraditie",
+      "de": "Epiphanie-Tradition"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
     },
     "answers": {
       "fr": [
@@ -12476,19 +6036,19 @@ const LEGENDS_BANK=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "La Befana appartient au folklore de Italie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "La Befana belongs to the folklore of Italy. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "La Befana behoort tot de folklore van Italië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "La Befana gehört zur Folklore von Italien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "La Befana est une vieille femme volante du folklore italien. Dans la nuit de l’Épiphanie, La Befana apporte des cadeaux aux enfants sages et du charbon symbolique aux plus turbulents. Cette figure donne une couleur très populaire aux fêtes de janvier.",
+      "en": "La Befana is a flying old woman from Italian folklore. On Epiphany night, La Befana brings gifts to well-behaved children and symbolic coal to more unruly children. This figure gives January celebrations a very popular character.",
+      "nl": "La Befana is een vliegende oude vrouw uit de Italiaanse folklore. In de nacht van Driekoningen brengt La Befana cadeaus aan brave kinderen en symbolische kool aan ondeugende kinderen. Deze figuur geeft de januarifeesten een volkse kleur.",
+      "de": "La Befana ist eine fliegende alte Frau der italienischen Folklore. In der Nacht der Epiphanie bringt La Befana braven Kindern Geschenke und unartigen symbolische Kohle. Diese Figur verleiht den Januarfesten eine volkstümliche Prägung."
     },
     "questionType": "country",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l006_what",
+    "id": "l006_detail",
     "mode": "legends",
-    "subjectKey": "legend_006",
+    "subjectKey": "legend_befana",
     "traditionName": {
       "fr": "La Befana",
       "en": "La Befana",
@@ -12502,10 +6062,10 @@ const LEGENDS_BANK=[
       "de": "Italien"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Tradition de l’Épiphanie",
+      "en": "Epiphany tradition",
+      "nl": "Driekoningentraditie",
+      "de": "Epiphanie-Tradition"
     },
     "scenario": {
       "fr": "",
@@ -12514,48 +6074,276 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont / qu’est-ce que La Befana ?",
-      "en": "What are / what is La Befana?",
-      "nl": "Wat zijn / wat is La Befana?",
-      "de": "Was ist / was sind La Befana?"
+      "fr": "Quel détail est associé à La Befana ?",
+      "en": "Which detail is associated with La Befana?",
+      "nl": "Welk detail hoort bij La Befana?",
+      "de": "Welches Detail gehört zu La Befana?"
     },
     "answers": {
       "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
+        "Elle visite les enfants dans la nuit du 5 au 6 janvier.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
       ],
       "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
+        "She visits children during the night of 5 to 6 January.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
       ],
       "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
+        "Ze bezoekt kinderen in de nacht van 5 op 6 januari.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
       ],
       "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
+        "Sie besucht Kinder in der Nacht vom 5. auf den 6. Januar.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
       ]
     },
     "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
+      "fr": "Elle visite les enfants dans la nuit du 5 au 6 janvier.",
+      "en": "She visits children during the night of 5 to 6 January.",
+      "nl": "Ze bezoekt kinderen in de nacht van 5 op 6 januari.",
+      "de": "Sie besucht Kinder in der Nacht vom 5. auf den 6. Januar."
     },
     "explanation": {
-      "fr": "La Befana appartient au folklore de Italie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "La Befana belongs to the folklore of Italy. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "La Befana behoort tot de folklore van Italië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "La Befana gehört zur Folklore von Italien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "La Befana est une vieille femme volante du folklore italien. Dans la nuit de l’Épiphanie, La Befana apporte des cadeaux aux enfants sages et du charbon symbolique aux plus turbulents. Cette figure donne une couleur très populaire aux fêtes de janvier.",
+      "en": "La Befana is a flying old woman from Italian folklore. On Epiphany night, La Befana brings gifts to well-behaved children and symbolic coal to more unruly children. This figure gives January celebrations a very popular character.",
+      "nl": "La Befana is een vliegende oude vrouw uit de Italiaanse folklore. In de nacht van Driekoningen brengt La Befana cadeaus aan brave kinderen en symbolische kool aan ondeugende kinderen. Deze figuur geeft de januarifeesten een volkse kleur.",
+      "de": "La Befana ist eine fliegende alte Frau der italienischen Folklore. In der Nacht der Epiphanie bringt La Befana braven Kindern Geschenke und unartigen symbolische Kohle. Diese Figur verleiht den Januarfesten eine volkstümliche Prägung."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l006_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_befana",
+    "traditionName": {
+      "fr": "La Befana",
+      "en": "La Befana",
+      "nl": "La Befana",
+      "de": "La Befana"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
+    },
+    "region": {
+      "fr": "Tradition de l’Épiphanie",
+      "en": "Epiphany tradition",
+      "nl": "Driekoningentraditie",
+      "de": "Epiphanie-Tradition"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Tradition de l’Épiphanie et je suis lié à ce détail : Elle visite les enfants dans la nuit du 5 au 6 janvier.. Qui suis-je ?",
+      "en": "Riddle: I come from Epiphany tradition and I am linked to this detail: She visits children during the night of 5 to 6 January.. What am I?",
+      "nl": "Raadsel: ik kom uit Driekoningentraditie en ben verbonden met dit detail: Ze bezoekt kinderen in de nacht van 5 op 6 januari.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Epiphanie-Tradition und bin mit diesem Detail verbunden: Sie besucht Kinder in der Nacht vom 5. auf den 6. Januar.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "La Befana",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "La Befana",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "La Befana",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "La Befana",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "La Befana",
+      "en": "La Befana",
+      "nl": "La Befana",
+      "de": "La Befana"
+    },
+    "explanation": {
+      "fr": "La Befana est une vieille femme volante du folklore italien. Dans la nuit de l’Épiphanie, La Befana apporte des cadeaux aux enfants sages et du charbon symbolique aux plus turbulents. Cette figure donne une couleur très populaire aux fêtes de janvier.",
+      "en": "La Befana is a flying old woman from Italian folklore. On Epiphany night, La Befana brings gifts to well-behaved children and symbolic coal to more unruly children. This figure gives January celebrations a very popular character.",
+      "nl": "La Befana is een vliegende oude vrouw uit de Italiaanse folklore. In de nacht van Driekoningen brengt La Befana cadeaus aan brave kinderen en symbolische kool aan ondeugende kinderen. Deze figuur geeft de januarifeesten een volkse kleur.",
+      "de": "La Befana ist eine fliegende alte Frau der italienischen Folklore. In der Nacht der Epiphanie bringt La Befana braven Kindern Geschenke und unartigen symbolische Kohle. Diese Figur verleiht den Januarfesten eine volkstümliche Prägung."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l006_tf",
+    "mode": "legends",
+    "subjectKey": "legend_befana",
+    "traditionName": {
+      "fr": "La Befana",
+      "en": "La Befana",
+      "nl": "La Befana",
+      "de": "La Befana"
+    },
+    "country": {
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
+    },
+    "region": {
+      "fr": "Tradition de l’Épiphanie",
+      "en": "Epiphany tradition",
+      "nl": "Driekoningentraditie",
+      "de": "Epiphanie-Tradition"
+    },
+    "scenario": {
+      "fr": "La Befana est associé à Italie.",
+      "en": "La Befana is associated with Italy.",
+      "nl": "La Befana is verbonden met Italië.",
+      "de": "La Befana ist mit Italien verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "La Befana est une vieille femme volante du folklore italien. Dans la nuit de l’Épiphanie, La Befana apporte des cadeaux aux enfants sages et du charbon symbolique aux plus turbulents. Cette figure donne une couleur très populaire aux fêtes de janvier.",
+      "en": "La Befana is a flying old woman from Italian folklore. On Epiphany night, La Befana brings gifts to well-behaved children and symbolic coal to more unruly children. This figure gives January celebrations a very popular character.",
+      "nl": "La Befana is een vliegende oude vrouw uit de Italiaanse folklore. In de nacht van Driekoningen brengt La Befana cadeaus aan brave kinderen en symbolische kool aan ondeugende kinderen. Deze figuur geeft de januarifeesten een volkse kleur.",
+      "de": "La Befana ist eine fliegende alte Frau der italienischen Folklore. In der Nacht der Epiphanie bringt La Befana braven Kindern Geschenke und unartigen symbolische Kohle. Diese Figur verleiht den Januarfesten eine volkstümliche Prägung."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l007_what",
+    "mode": "legends",
+    "subjectKey": "legend_melusine",
+    "traditionName": {
+      "fr": "Mélusine",
+      "en": "Melusine",
+      "nl": "Melusine",
+      "de": "Melusine"
+    },
+    "country": {
+      "fr": "France / Luxembourg",
+      "en": "France / Luxembourg",
+      "nl": "Frankrijk / Luxemburg",
+      "de": "Frankreich / Luxemburg"
+    },
+    "region": {
+      "fr": "Récits médiévaux",
+      "en": "Medieval tales",
+      "nl": "Middeleeuwse verhalen",
+      "de": "Mittelalterliche Erzählungen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont / qu’est-ce que Mélusine ?",
+      "en": "What are / what is Melusine?",
+      "nl": "Wat zijn / wat is Melusine?",
+      "de": "Was ist / was sind Melusine?"
+    },
+    "answers": {
+      "fr": [
+        "Une femme-serpent ou femme-dragon",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A serpent-woman or dragon-woman",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een slangenvrouw of drakenvrouw",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Eine Schlangenfrau oder Drachenfrau",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une femme-serpent ou femme-dragon",
+      "en": "A serpent-woman or dragon-woman",
+      "nl": "Een slangenvrouw of drakenvrouw",
+      "de": "Eine Schlangenfrau oder Drachenfrau"
+    },
+    "explanation": {
+      "fr": "Mélusine appartient au patrimoine légendaire de France / Luxembourg. Elle possède une apparence double, humaine et merveilleuse. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Melusine belongs to the legendary heritage of France / Luxembourg. Melusine has a dual appearance, both human and marvellous. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk / Luxemburg. Melusine heeft een dubbele gedaante, menselijk en wonderlijk. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Melusine gehört zum legendären Erbe von Frankreich / Luxemburg. Melusine besitzt eine doppelte Gestalt, menschlich und wundersam. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
     },
     "questionType": "what",
     "image": null,
@@ -12564,7 +6352,691 @@ const LEGENDS_BANK=[
   {
     "id": "l007_country",
     "mode": "legends",
-    "subjectKey": "legend_007",
+    "subjectKey": "legend_melusine",
+    "traditionName": {
+      "fr": "Mélusine",
+      "en": "Melusine",
+      "nl": "Melusine",
+      "de": "Melusine"
+    },
+    "country": {
+      "fr": "France / Luxembourg",
+      "en": "France / Luxembourg",
+      "nl": "Frankrijk / Luxemburg",
+      "de": "Frankreich / Luxemburg"
+    },
+    "region": {
+      "fr": "Récits médiévaux",
+      "en": "Medieval tales",
+      "nl": "Middeleeuwse verhalen",
+      "de": "Mittelalterliche Erzählungen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
+    },
+    "answers": {
+      "fr": [
+        "France / Luxembourg",
+        "Belgique",
+        "Autriche",
+        "Tchéquie"
+      ],
+      "en": [
+        "France / Luxembourg",
+        "Belgium",
+        "Austria",
+        "Czechia"
+      ],
+      "nl": [
+        "Frankrijk / Luxemburg",
+        "België",
+        "Oostenrijk",
+        "Tsjechië"
+      ],
+      "de": [
+        "Frankreich / Luxemburg",
+        "Belgien",
+        "Österreich",
+        "Tschechien"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "France / Luxembourg",
+      "en": "France / Luxembourg",
+      "nl": "Frankrijk / Luxemburg",
+      "de": "Frankreich / Luxemburg"
+    },
+    "explanation": {
+      "fr": "Mélusine appartient au patrimoine légendaire de France / Luxembourg. Elle possède une apparence double, humaine et merveilleuse. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Melusine belongs to the legendary heritage of France / Luxembourg. Melusine has a dual appearance, both human and marvellous. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk / Luxemburg. Melusine heeft een dubbele gedaante, menselijk en wonderlijk. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Melusine gehört zum legendären Erbe von Frankreich / Luxemburg. Melusine besitzt eine doppelte Gestalt, menschlich und wundersam. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "country",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l007_detail",
+    "mode": "legends",
+    "subjectKey": "legend_melusine",
+    "traditionName": {
+      "fr": "Mélusine",
+      "en": "Melusine",
+      "nl": "Melusine",
+      "de": "Melusine"
+    },
+    "country": {
+      "fr": "France / Luxembourg",
+      "en": "France / Luxembourg",
+      "nl": "Frankrijk / Luxemburg",
+      "de": "Frankreich / Luxemburg"
+    },
+    "region": {
+      "fr": "Récits médiévaux",
+      "en": "Medieval tales",
+      "nl": "Middeleeuwse verhalen",
+      "de": "Mittelalterliche Erzählungen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Quel détail est associé à Mélusine ?",
+      "en": "Which detail is associated with Melusine?",
+      "nl": "Welk detail hoort bij Melusine?",
+      "de": "Welches Detail gehört zu Melusine?"
+    },
+    "answers": {
+      "fr": [
+        "Elle possède une apparence double, humaine et merveilleuse.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
+      ],
+      "en": [
+        "Melusine has a dual appearance, both human and marvellous.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "Melusine heeft een dubbele gedaante, menselijk en wonderlijk.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Melusine besitzt eine doppelte Gestalt, menschlich und wundersam.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Elle possède une apparence double, humaine et merveilleuse.",
+      "en": "Melusine has a dual appearance, both human and marvellous.",
+      "nl": "Melusine heeft een dubbele gedaante, menselijk en wonderlijk.",
+      "de": "Melusine besitzt eine doppelte Gestalt, menschlich und wundersam."
+    },
+    "explanation": {
+      "fr": "Mélusine appartient au patrimoine légendaire de France / Luxembourg. Elle possède une apparence double, humaine et merveilleuse. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Melusine belongs to the legendary heritage of France / Luxembourg. Melusine has a dual appearance, both human and marvellous. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk / Luxemburg. Melusine heeft een dubbele gedaante, menselijk en wonderlijk. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Melusine gehört zum legendären Erbe von Frankreich / Luxemburg. Melusine besitzt eine doppelte Gestalt, menschlich und wundersam. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l007_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_melusine",
+    "traditionName": {
+      "fr": "Mélusine",
+      "en": "Melusine",
+      "nl": "Melusine",
+      "de": "Melusine"
+    },
+    "country": {
+      "fr": "France / Luxembourg",
+      "en": "France / Luxembourg",
+      "nl": "Frankrijk / Luxemburg",
+      "de": "Frankreich / Luxemburg"
+    },
+    "region": {
+      "fr": "Récits médiévaux",
+      "en": "Medieval tales",
+      "nl": "Middeleeuwse verhalen",
+      "de": "Mittelalterliche Erzählungen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Récits médiévaux et je suis lié à ce détail : Elle possède une apparence double, humaine et merveilleuse.. Qui suis-je ?",
+      "en": "Riddle: I come from Medieval tales and I am linked to this detail: Melusine has a dual appearance, both human and marvellous.. What am I?",
+      "nl": "Raadsel: ik kom uit Middeleeuwse verhalen en ben verbonden met dit detail: Melusine heeft een dubbele gedaante, menselijk en wonderlijk.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Mittelalterliche Erzählungen und bin mit diesem Detail verbunden: Melusine besitzt eine doppelte Gestalt, menschlich und wundersam.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Mélusine",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Melusine",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Melusine",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Melusine",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Mélusine",
+      "en": "Melusine",
+      "nl": "Melusine",
+      "de": "Melusine"
+    },
+    "explanation": {
+      "fr": "Mélusine appartient au patrimoine légendaire de France / Luxembourg. Elle possède une apparence double, humaine et merveilleuse. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Melusine belongs to the legendary heritage of France / Luxembourg. Melusine has a dual appearance, both human and marvellous. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk / Luxemburg. Melusine heeft een dubbele gedaante, menselijk en wonderlijk. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Melusine gehört zum legendären Erbe von Frankreich / Luxemburg. Melusine besitzt eine doppelte Gestalt, menschlich und wundersam. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l007_tf",
+    "mode": "legends",
+    "subjectKey": "legend_melusine",
+    "traditionName": {
+      "fr": "Mélusine",
+      "en": "Melusine",
+      "nl": "Melusine",
+      "de": "Melusine"
+    },
+    "country": {
+      "fr": "France / Luxembourg",
+      "en": "France / Luxembourg",
+      "nl": "Frankrijk / Luxemburg",
+      "de": "Frankreich / Luxemburg"
+    },
+    "region": {
+      "fr": "Récits médiévaux",
+      "en": "Medieval tales",
+      "nl": "Middeleeuwse verhalen",
+      "de": "Mittelalterliche Erzählungen"
+    },
+    "scenario": {
+      "fr": "Mélusine est associé à France / Luxembourg.",
+      "en": "Melusine is associated with France / Luxembourg.",
+      "nl": "Melusine is verbonden met Frankrijk / Luxemburg.",
+      "de": "Melusine ist mit Frankreich / Luxemburg verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Mélusine appartient au patrimoine légendaire de France / Luxembourg. Elle possède une apparence double, humaine et merveilleuse. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Melusine belongs to the legendary heritage of France / Luxembourg. Melusine has a dual appearance, both human and marvellous. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk / Luxemburg. Melusine heeft een dubbele gedaante, menselijk en wonderlijk. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Melusine gehört zum legendären Erbe von Frankreich / Luxemburg. Melusine besitzt eine doppelte Gestalt, menschlich und wundersam. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l008_what",
+    "mode": "legends",
+    "subjectKey": "legend_wawel_dragon",
+    "traditionName": {
+      "fr": "Le dragon du Wawel",
+      "en": "The Wawel Dragon",
+      "nl": "De Wawel-draak",
+      "de": "Der Wawel-Drache"
+    },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen",
+      "de": "Polen"
+    },
+    "region": {
+      "fr": "Cracovie",
+      "en": "Kraków",
+      "nl": "Krakau",
+      "de": "Krakau"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont / qu’est-ce que Le dragon du Wawel ?",
+      "en": "What are / what is The Wawel Dragon?",
+      "nl": "Wat zijn / wat is De Wawel-draak?",
+      "de": "Was ist / was sind Der Wawel-Drache?"
+    },
+    "answers": {
+      "fr": [
+        "Un dragon vaincu par la ruse",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A dragon defeated by trickery",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een draak die door list wordt verslagen",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Ein Drache, der durch List besiegt wird",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un dragon vaincu par la ruse",
+      "en": "A dragon defeated by trickery",
+      "nl": "Een draak die door list wordt verslagen",
+      "de": "Ein Drache, der durch List besiegt wird"
+    },
+    "explanation": {
+      "fr": "Le dragon du Wawel appartient au patrimoine légendaire de Pologne. Le récit est lié à la colline du Wawel à Cracovie. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "The Wawel Dragon belongs to the legendary heritage of Poland. The story is linked to Wawel Hill in Kraków. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen. Het verhaal is verbonden met de Wawelheuvel in Krakau. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Der Wawel-Drache gehört zum legendären Erbe von Polen. Die Erzählung ist mit dem Wawel-Hügel in Krakau verbunden. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l008_country",
+    "mode": "legends",
+    "subjectKey": "legend_wawel_dragon",
+    "traditionName": {
+      "fr": "Le dragon du Wawel",
+      "en": "The Wawel Dragon",
+      "nl": "De Wawel-draak",
+      "de": "Der Wawel-Drache"
+    },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen",
+      "de": "Polen"
+    },
+    "region": {
+      "fr": "Cracovie",
+      "en": "Kraków",
+      "nl": "Krakau",
+      "de": "Krakau"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
+    },
+    "answers": {
+      "fr": [
+        "Pologne",
+        "Belgique",
+        "Autriche",
+        "Tchéquie"
+      ],
+      "en": [
+        "Poland",
+        "Belgium",
+        "Austria",
+        "Czechia"
+      ],
+      "nl": [
+        "Polen",
+        "België",
+        "Oostenrijk",
+        "Tsjechië"
+      ],
+      "de": [
+        "Polen",
+        "Belgien",
+        "Österreich",
+        "Tschechien"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen",
+      "de": "Polen"
+    },
+    "explanation": {
+      "fr": "Le dragon du Wawel appartient au patrimoine légendaire de Pologne. Le récit est lié à la colline du Wawel à Cracovie. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "The Wawel Dragon belongs to the legendary heritage of Poland. The story is linked to Wawel Hill in Kraków. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen. Het verhaal is verbonden met de Wawelheuvel in Krakau. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Der Wawel-Drache gehört zum legendären Erbe von Polen. Die Erzählung ist mit dem Wawel-Hügel in Krakau verbunden. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "country",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l008_detail",
+    "mode": "legends",
+    "subjectKey": "legend_wawel_dragon",
+    "traditionName": {
+      "fr": "Le dragon du Wawel",
+      "en": "The Wawel Dragon",
+      "nl": "De Wawel-draak",
+      "de": "Der Wawel-Drache"
+    },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen",
+      "de": "Polen"
+    },
+    "region": {
+      "fr": "Cracovie",
+      "en": "Kraków",
+      "nl": "Krakau",
+      "de": "Krakau"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Quel détail est associé à Le dragon du Wawel ?",
+      "en": "Which detail is associated with The Wawel Dragon?",
+      "nl": "Welk detail hoort bij De Wawel-draak?",
+      "de": "Welches Detail gehört zu Der Wawel-Drache?"
+    },
+    "answers": {
+      "fr": [
+        "Le récit est lié à la colline du Wawel à Cracovie.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
+      ],
+      "en": [
+        "The story is linked to Wawel Hill in Kraków.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "Het verhaal is verbonden met de Wawelheuvel in Krakau.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Die Erzählung ist mit dem Wawel-Hügel in Krakau verbunden.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Le récit est lié à la colline du Wawel à Cracovie.",
+      "en": "The story is linked to Wawel Hill in Kraków.",
+      "nl": "Het verhaal is verbonden met de Wawelheuvel in Krakau.",
+      "de": "Die Erzählung ist mit dem Wawel-Hügel in Krakau verbunden."
+    },
+    "explanation": {
+      "fr": "Le dragon du Wawel appartient au patrimoine légendaire de Pologne. Le récit est lié à la colline du Wawel à Cracovie. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "The Wawel Dragon belongs to the legendary heritage of Poland. The story is linked to Wawel Hill in Kraków. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen. Het verhaal is verbonden met de Wawelheuvel in Krakau. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Der Wawel-Drache gehört zum legendären Erbe von Polen. Die Erzählung ist mit dem Wawel-Hügel in Krakau verbunden. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l008_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_wawel_dragon",
+    "traditionName": {
+      "fr": "Le dragon du Wawel",
+      "en": "The Wawel Dragon",
+      "nl": "De Wawel-draak",
+      "de": "Der Wawel-Drache"
+    },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen",
+      "de": "Polen"
+    },
+    "region": {
+      "fr": "Cracovie",
+      "en": "Kraków",
+      "nl": "Krakau",
+      "de": "Krakau"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Cracovie et je suis lié à ce détail : Le récit est lié à la colline du Wawel à Cracovie.. Qui suis-je ?",
+      "en": "Riddle: I come from Kraków and I am linked to this detail: The story is linked to Wawel Hill in Kraków.. What am I?",
+      "nl": "Raadsel: ik kom uit Krakau en ben verbonden met dit detail: Het verhaal is verbonden met de Wawelheuvel in Krakau.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Krakau und bin mit diesem Detail verbunden: Die Erzählung ist mit dem Wawel-Hügel in Krakau verbunden.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Le dragon du Wawel",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "The Wawel Dragon",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "De Wawel-draak",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Der Wawel-Drache",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Le dragon du Wawel",
+      "en": "The Wawel Dragon",
+      "nl": "De Wawel-draak",
+      "de": "Der Wawel-Drache"
+    },
+    "explanation": {
+      "fr": "Le dragon du Wawel appartient au patrimoine légendaire de Pologne. Le récit est lié à la colline du Wawel à Cracovie. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "The Wawel Dragon belongs to the legendary heritage of Poland. The story is linked to Wawel Hill in Kraków. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen. Het verhaal is verbonden met de Wawelheuvel in Krakau. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Der Wawel-Drache gehört zum legendären Erbe von Polen. Die Erzählung ist mit dem Wawel-Hügel in Krakau verbunden. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l008_tf",
+    "mode": "legends",
+    "subjectKey": "legend_wawel_dragon",
+    "traditionName": {
+      "fr": "Le dragon du Wawel",
+      "en": "The Wawel Dragon",
+      "nl": "De Wawel-draak",
+      "de": "Der Wawel-Drache"
+    },
+    "country": {
+      "fr": "Pologne",
+      "en": "Poland",
+      "nl": "Polen",
+      "de": "Polen"
+    },
+    "region": {
+      "fr": "Cracovie",
+      "en": "Kraków",
+      "nl": "Krakau",
+      "de": "Krakau"
+    },
+    "scenario": {
+      "fr": "Le dragon du Wawel est associé à Pologne.",
+      "en": "The Wawel Dragon is associated with Poland.",
+      "nl": "De Wawel-draak is verbonden met Polen.",
+      "de": "Der Wawel-Drache ist mit Polen verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Le dragon du Wawel appartient au patrimoine légendaire de Pologne. Le récit est lié à la colline du Wawel à Cracovie. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "The Wawel Dragon belongs to the legendary heritage of Poland. The story is linked to Wawel Hill in Kraków. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen. Het verhaal is verbonden met de Wawelheuvel in Krakau. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Der Wawel-Drache gehört zum legendären Erbe von Polen. Die Erzählung ist mit dem Wawel-Hügel in Krakau verbunden. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l009_what",
+    "mode": "legends",
+    "subjectKey": "legend_zlatorog",
     "traditionName": {
       "fr": "Zlatorog",
       "en": "Zlatorog",
@@ -12578,10 +7050,10 @@ const LEGENDS_BANK=[
       "de": "Slowenien"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Alpes juliennes",
+      "en": "Julian Alps",
+      "nl": "Julische Alpen",
+      "de": "Julische Alpen"
     },
     "scenario": {
       "fr": "",
@@ -12590,10 +7062,86 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Zlatorog ?",
-      "en": "In which country is this legend mainly known: Zlatorog?",
-      "nl": "In welk land is deze legende vooral bekend: Zlatorog?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Zlatorog?"
+      "fr": "Que sont / qu’est-ce que Zlatorog ?",
+      "en": "What are / what is Zlatorog?",
+      "nl": "Wat zijn / wat is Zlatorog?",
+      "de": "Was ist / was sind Zlatorog?"
+    },
+    "answers": {
+      "fr": [
+        "Un bouquetin mythique aux cornes d’or",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A mythical ibex with golden horns",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een mythische steenbok met gouden hoorns",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Ein mythischer Steinbock mit goldenen Hörnern",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un bouquetin mythique aux cornes d’or",
+      "en": "A mythical ibex with golden horns",
+      "nl": "Een mythische steenbok met gouden hoorns",
+      "de": "Ein mythischer Steinbock mit goldenen Hörnern"
+    },
+    "explanation": {
+      "fr": "Zlatorog appartient au patrimoine légendaire de Slovénie. Il garde un trésor caché dans la montagne. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Zlatorog belongs to the legendary heritage of Slovenia. Zlatorog guards a hidden treasure in the mountains. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië. Zlatorog bewaakt een verborgen schat in de bergen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Zlatorog gehört zum legendären Erbe von Slowenien. Zlatorog bewacht einen verborgenen Schatz in den Bergen. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l009_country",
+    "mode": "legends",
+    "subjectKey": "legend_zlatorog",
+    "traditionName": {
+      "fr": "Zlatorog",
+      "en": "Zlatorog",
+      "nl": "Zlatorog",
+      "de": "Zlatorog"
+    },
+    "country": {
+      "fr": "Slovénie",
+      "en": "Slovenia",
+      "nl": "Slovenië",
+      "de": "Slowenien"
+    },
+    "region": {
+      "fr": "Alpes juliennes",
+      "en": "Julian Alps",
+      "nl": "Julische Alpen",
+      "de": "Julische Alpen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
     },
     "answers": {
       "fr": [
@@ -12628,19 +7176,19 @@ const LEGENDS_BANK=[
       "de": "Slowenien"
     },
     "explanation": {
-      "fr": "Zlatorog appartient au folklore de Slovénie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Zlatorog belongs to the folklore of Slovenia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Zlatorog behoort tot de folklore van Slovenië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Zlatorog gehört zur Folklore von Slowenien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "Zlatorog appartient au patrimoine légendaire de Slovénie. Il garde un trésor caché dans la montagne. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Zlatorog belongs to the legendary heritage of Slovenia. Zlatorog guards a hidden treasure in the mountains. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië. Zlatorog bewaakt een verborgen schat in de bergen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Zlatorog gehört zum legendären Erbe von Slowenien. Zlatorog bewacht einen verborgenen Schatz in den Bergen. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
     },
     "questionType": "country",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l007_what",
+    "id": "l009_detail",
     "mode": "legends",
-    "subjectKey": "legend_007",
+    "subjectKey": "legend_zlatorog",
     "traditionName": {
       "fr": "Zlatorog",
       "en": "Zlatorog",
@@ -12654,10 +7202,10 @@ const LEGENDS_BANK=[
       "de": "Slowenien"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Alpes juliennes",
+      "en": "Julian Alps",
+      "nl": "Julische Alpen",
+      "de": "Julische Alpen"
     },
     "scenario": {
       "fr": "",
@@ -12666,57 +7214,209 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont / qu’est-ce que Zlatorog ?",
-      "en": "What are / what is Zlatorog?",
-      "nl": "Wat zijn / wat is Zlatorog?",
-      "de": "Was ist / was sind Zlatorog?"
+      "fr": "Quel détail est associé à Zlatorog ?",
+      "en": "Which detail is associated with Zlatorog?",
+      "nl": "Welk detail hoort bij Zlatorog?",
+      "de": "Welches Detail gehört zu Zlatorog?"
     },
     "answers": {
       "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
+        "Il garde un trésor caché dans la montagne.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
       ],
       "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
+        "Zlatorog guards a hidden treasure in the mountains.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
       ],
       "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
+        "Zlatorog bewaakt een verborgen schat in de bergen.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
       ],
       "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
+        "Zlatorog bewacht einen verborgenen Schatz in den Bergen.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
       ]
     },
     "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
+      "fr": "Il garde un trésor caché dans la montagne.",
+      "en": "Zlatorog guards a hidden treasure in the mountains.",
+      "nl": "Zlatorog bewaakt een verborgen schat in de bergen.",
+      "de": "Zlatorog bewacht einen verborgenen Schatz in den Bergen."
     },
     "explanation": {
-      "fr": "Zlatorog appartient au folklore de Slovénie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Zlatorog belongs to the folklore of Slovenia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Zlatorog behoort tot de folklore van Slovenië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Zlatorog gehört zur Folklore von Slowenien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "Zlatorog appartient au patrimoine légendaire de Slovénie. Il garde un trésor caché dans la montagne. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Zlatorog belongs to the legendary heritage of Slovenia. Zlatorog guards a hidden treasure in the mountains. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië. Zlatorog bewaakt een verborgen schat in de bergen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Zlatorog gehört zum legendären Erbe von Slowenien. Zlatorog bewacht einen verborgenen Schatz in den Bergen. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
     },
-    "questionType": "what",
+    "questionType": "detail",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l008_country",
+    "id": "l009_riddle",
     "mode": "legends",
-    "subjectKey": "legend_008",
+    "subjectKey": "legend_zlatorog",
+    "traditionName": {
+      "fr": "Zlatorog",
+      "en": "Zlatorog",
+      "nl": "Zlatorog",
+      "de": "Zlatorog"
+    },
+    "country": {
+      "fr": "Slovénie",
+      "en": "Slovenia",
+      "nl": "Slovenië",
+      "de": "Slowenien"
+    },
+    "region": {
+      "fr": "Alpes juliennes",
+      "en": "Julian Alps",
+      "nl": "Julische Alpen",
+      "de": "Julische Alpen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Alpes juliennes et je suis lié à ce détail : Il garde un trésor caché dans la montagne.. Qui suis-je ?",
+      "en": "Riddle: I come from Julian Alps and I am linked to this detail: Zlatorog guards a hidden treasure in the mountains.. What am I?",
+      "nl": "Raadsel: ik kom uit Julische Alpen en ben verbonden met dit detail: Zlatorog bewaakt een verborgen schat in de bergen.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Julische Alpen und bin mit diesem Detail verbunden: Zlatorog bewacht einen verborgenen Schatz in den Bergen.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Zlatorog",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Zlatorog",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Zlatorog",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Zlatorog",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Zlatorog",
+      "en": "Zlatorog",
+      "nl": "Zlatorog",
+      "de": "Zlatorog"
+    },
+    "explanation": {
+      "fr": "Zlatorog appartient au patrimoine légendaire de Slovénie. Il garde un trésor caché dans la montagne. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Zlatorog belongs to the legendary heritage of Slovenia. Zlatorog guards a hidden treasure in the mountains. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië. Zlatorog bewaakt een verborgen schat in de bergen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Zlatorog gehört zum legendären Erbe von Slowenien. Zlatorog bewacht einen verborgenen Schatz in den Bergen. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l009_tf",
+    "mode": "legends",
+    "subjectKey": "legend_zlatorog",
+    "traditionName": {
+      "fr": "Zlatorog",
+      "en": "Zlatorog",
+      "nl": "Zlatorog",
+      "de": "Zlatorog"
+    },
+    "country": {
+      "fr": "Slovénie",
+      "en": "Slovenia",
+      "nl": "Slovenië",
+      "de": "Slowenien"
+    },
+    "region": {
+      "fr": "Alpes juliennes",
+      "en": "Julian Alps",
+      "nl": "Julische Alpen",
+      "de": "Julische Alpen"
+    },
+    "scenario": {
+      "fr": "Zlatorog est associé à Slovénie.",
+      "en": "Zlatorog is associated with Slovenia.",
+      "nl": "Zlatorog is verbonden met Slovenië.",
+      "de": "Zlatorog ist mit Slowenien verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Zlatorog appartient au patrimoine légendaire de Slovénie. Il garde un trésor caché dans la montagne. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Zlatorog belongs to the legendary heritage of Slovenia. Zlatorog guards a hidden treasure in the mountains. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië. Zlatorog bewaakt een verborgen schat in de bergen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Zlatorog gehört zum legendären Erbe von Slowenien. Zlatorog bewacht einen verborgenen Schatz in den Bergen. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l010_what",
+    "mode": "legends",
+    "subjectKey": "legend_nacken",
     "traditionName": {
       "fr": "Näcken",
       "en": "Näcken",
@@ -12730,10 +7430,10 @@ const LEGENDS_BANK=[
       "de": "Schweden"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Rivières et lacs",
+      "en": "Rivers and lakes",
+      "nl": "Rivieren en meren",
+      "de": "Flüsse und Seen"
     },
     "scenario": {
       "fr": "",
@@ -12742,10 +7442,86 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Näcken ?",
-      "en": "In which country is this legend mainly known: Näcken?",
-      "nl": "In welk land is deze legende vooral bekend: Näcken?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Näcken?"
+      "fr": "Que sont / qu’est-ce que Näcken ?",
+      "en": "What are / what is Näcken?",
+      "nl": "Wat zijn / wat is Näcken?",
+      "de": "Was ist / was sind Näcken?"
+    },
+    "answers": {
+      "fr": [
+        "Un esprit des eaux musicien",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A musical water spirit",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een muzikale watergeest",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Ein musizierender Wassergeist",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un esprit des eaux musicien",
+      "en": "A musical water spirit",
+      "nl": "Een muzikale watergeest",
+      "de": "Ein musizierender Wassergeist"
+    },
+    "explanation": {
+      "fr": "Näcken appartient au patrimoine légendaire de Suède. Il attire les voyageurs avec son violon. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Näcken belongs to the legendary heritage of Sweden. Näcken draws travellers with the violin. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Näcken behoort tot het legendarische erfgoed van Zweden. Näcken lokt reizigers met vioolmuziek. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Näcken gehört zum legendären Erbe von Schweden. Näcken lockt Reisende mit Geigenmusik. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l010_country",
+    "mode": "legends",
+    "subjectKey": "legend_nacken",
+    "traditionName": {
+      "fr": "Näcken",
+      "en": "Näcken",
+      "nl": "Näcken",
+      "de": "Näcken"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
+    },
+    "region": {
+      "fr": "Rivières et lacs",
+      "en": "Rivers and lakes",
+      "nl": "Rivieren en meren",
+      "de": "Flüsse und Seen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
     },
     "answers": {
       "fr": [
@@ -12780,19 +7556,19 @@ const LEGENDS_BANK=[
       "de": "Schweden"
     },
     "explanation": {
-      "fr": "Näcken appartient au folklore de Suède. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Näcken belongs to the folklore of Sweden. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Näcken behoort tot de folklore van Zweden. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Näcken gehört zur Folklore von Schweden. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "Näcken appartient au patrimoine légendaire de Suède. Il attire les voyageurs avec son violon. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Näcken belongs to the legendary heritage of Sweden. Näcken draws travellers with the violin. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Näcken behoort tot het legendarische erfgoed van Zweden. Näcken lokt reizigers met vioolmuziek. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Näcken gehört zum legendären Erbe von Schweden. Näcken lockt Reisende mit Geigenmusik. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
     },
     "questionType": "country",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l008_what",
+    "id": "l010_detail",
     "mode": "legends",
-    "subjectKey": "legend_008",
+    "subjectKey": "legend_nacken",
     "traditionName": {
       "fr": "Näcken",
       "en": "Näcken",
@@ -12806,10 +7582,10 @@ const LEGENDS_BANK=[
       "de": "Schweden"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Rivières et lacs",
+      "en": "Rivers and lakes",
+      "nl": "Rivieren en meren",
+      "de": "Flüsse und Seen"
     },
     "scenario": {
       "fr": "",
@@ -12818,352 +7594,276 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont / qu’est-ce que Näcken ?",
-      "en": "What are / what is Näcken?",
-      "nl": "Wat zijn / wat is Näcken?",
-      "de": "Was ist / was sind Näcken?"
+      "fr": "Quel détail est associé à Näcken ?",
+      "en": "Which detail is associated with Näcken?",
+      "nl": "Welk detail hoort bij Näcken?",
+      "de": "Welches Detail gehört zu Näcken?"
     },
     "answers": {
       "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
+        "Il attire les voyageurs avec son violon.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
       ],
       "en": [
-        "A figure or creature from folklore",
-        "A European institution",
+        "Näcken draws travellers with the violin.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "Näcken lokt reizigers met vioolmuziek.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Näcken lockt Reisende mit Geigenmusik.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Il attire les voyageurs avec son violon.",
+      "en": "Näcken draws travellers with the violin.",
+      "nl": "Näcken lokt reizigers met vioolmuziek.",
+      "de": "Näcken lockt Reisende mit Geigenmusik."
+    },
+    "explanation": {
+      "fr": "Näcken appartient au patrimoine légendaire de Suède. Il attire les voyageurs avec son violon. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Näcken belongs to the legendary heritage of Sweden. Näcken draws travellers with the violin. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Näcken behoort tot het legendarische erfgoed van Zweden. Näcken lokt reizigers met vioolmuziek. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Näcken gehört zum legendären Erbe von Schweden. Näcken lockt Reisende mit Geigenmusik. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l010_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_nacken",
+    "traditionName": {
+      "fr": "Näcken",
+      "en": "Näcken",
+      "nl": "Näcken",
+      "de": "Näcken"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
+    },
+    "region": {
+      "fr": "Rivières et lacs",
+      "en": "Rivers and lakes",
+      "nl": "Rivieren en meren",
+      "de": "Flüsse und Seen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Rivières et lacs et je suis lié à ce détail : Il attire les voyageurs avec son violon.. Qui suis-je ?",
+      "en": "Riddle: I come from Rivers and lakes and I am linked to this detail: Näcken draws travellers with the violin.. What am I?",
+      "nl": "Raadsel: ik kom uit Rivieren en meren en ben verbonden met dit detail: Näcken lokt reizigers met vioolmuziek.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Flüsse und Seen und bin mit diesem Detail verbunden: Näcken lockt Reisende mit Geigenmusik.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Näcken",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Näcken",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Näcken",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Näcken",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Näcken",
+      "en": "Näcken",
+      "nl": "Näcken",
+      "de": "Näcken"
+    },
+    "explanation": {
+      "fr": "Näcken appartient au patrimoine légendaire de Suède. Il attire les voyageurs avec son violon. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Näcken belongs to the legendary heritage of Sweden. Näcken draws travellers with the violin. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Näcken behoort tot het legendarische erfgoed van Zweden. Näcken lokt reizigers met vioolmuziek. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Näcken gehört zum legendären Erbe von Schweden. Näcken lockt Reisende mit Geigenmusik. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l010_tf",
+    "mode": "legends",
+    "subjectKey": "legend_nacken",
+    "traditionName": {
+      "fr": "Näcken",
+      "en": "Näcken",
+      "nl": "Näcken",
+      "de": "Näcken"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
+    },
+    "region": {
+      "fr": "Rivières et lacs",
+      "en": "Rivers and lakes",
+      "nl": "Rivieren en meren",
+      "de": "Flüsse und Seen"
+    },
+    "scenario": {
+      "fr": "Näcken est associé à Suède.",
+      "en": "Näcken is associated with Sweden.",
+      "nl": "Näcken is verbonden met Zweden.",
+      "de": "Näcken ist mit Schweden verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Näcken appartient au patrimoine légendaire de Suède. Il attire les voyageurs avec son violon. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Näcken belongs to the legendary heritage of Sweden. Näcken draws travellers with the violin. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Näcken behoort tot het legendarische erfgoed van Zweden. Näcken lokt reizigers met vioolmuziek. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Näcken gehört zum legendären Erbe von Schweden. Näcken lockt Reisende mit Geigenmusik. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l011_what",
+    "mode": "legends",
+    "subjectKey": "legend_leprechaun",
+    "traditionName": {
+      "fr": "Leprechaun",
+      "en": "Leprechaun",
+      "nl": "Leprechaun",
+      "de": "Leprechaun"
+    },
+    "country": {
+      "fr": "Irlande",
+      "en": "Ireland",
+      "nl": "Ierland",
+      "de": "Irland"
+    },
+    "region": {
+      "fr": "Folklore irlandais",
+      "en": "Irish folklore",
+      "nl": "Ierse folklore",
+      "de": "Irische Folklore"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont / qu’est-ce que Leprechaun ?",
+      "en": "What are / what is Leprechaun?",
+      "nl": "Wat zijn / wat is Leprechaun?",
+      "de": "Was ist / was sind Leprechaun?"
+    },
+    "answers": {
+      "fr": [
+        "Un petit personnage associé aux trésors",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A small figure associated with treasure",
+        "A festive recipe",
         "An old currency",
-        "A modern recipe"
+        "A European institution"
       ],
       "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
+        "Een klein figuur verbonden met schatten",
+        "Een feestgerecht",
         "Een oude munteenheid",
-        "Een modern recept"
+        "Een Europese instelling"
       ],
       "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
+        "Eine kleine Gestalt, verbunden mit Schätzen",
+        "Ein Festgericht",
         "Eine alte Währung",
-        "Ein modernes Rezept"
+        "Eine europäische Institution"
       ]
     },
     "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
+      "fr": "Un petit personnage associé aux trésors",
+      "en": "A small figure associated with treasure",
+      "nl": "Een klein figuur verbonden met schatten",
+      "de": "Eine kleine Gestalt, verbunden mit Schätzen"
     },
     "explanation": {
-      "fr": "Näcken appartient au folklore de Suède. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Näcken belongs to the folklore of Sweden. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Näcken behoort tot de folklore van Zweden. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Näcken gehört zur Folklore von Schweden. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l009_country",
-    "mode": "legends",
-    "subjectKey": "legend_009",
-    "traditionName": {
-      "fr": "Légende de France",
-      "en": "Legend of France",
-      "nl": "Legende van Frankrijk",
-      "de": "Legende aus Frankreich"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de France ?",
-      "en": "In which country is this legend mainly known: Legend of France?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Frankrijk?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Frankreich?"
-    },
-    "answers": {
-      "fr": [
-        "France",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "France",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Frankrijk",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Frankreich",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "explanation": {
-      "fr": "Légende de France appartient au folklore de France. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of France belongs to the folklore of France. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Frankrijk behoort tot de folklore van Frankrijk. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Frankreich gehört zur Folklore von Frankreich. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l009_what",
-    "mode": "legends",
-    "subjectKey": "legend_009",
-    "traditionName": {
-      "fr": "Légende de France",
-      "en": "Legend of France",
-      "nl": "Legende van Frankrijk",
-      "de": "Legende aus Frankreich"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de France ?",
-      "en": "What are / what is Legend of France?",
-      "nl": "Wat zijn / wat is Legende van Frankrijk?",
-      "de": "Was ist / was sind Legende aus Frankreich?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de France appartient au folklore de France. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of France belongs to the folklore of France. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Frankrijk behoort tot de folklore van Frankrijk. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Frankreich gehört zur Folklore von Frankreich. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l010_country",
-    "mode": "legends",
-    "subjectKey": "legend_010",
-    "traditionName": {
-      "fr": "Créature de France",
-      "en": "Creature of France",
-      "nl": "Wezen van Frankrijk",
-      "de": "Wesen aus Frankreich"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de France ?",
-      "en": "In which country is this legend mainly known: Creature of France?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Frankrijk?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Frankreich?"
-    },
-    "answers": {
-      "fr": [
-        "France",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "France",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Frankrijk",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Frankreich",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "explanation": {
-      "fr": "Créature de France appartient au folklore de France. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of France belongs to the folklore of France. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Frankrijk behoort tot de folklore van Frankrijk. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Frankreich gehört zur Folklore von Frankreich. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l010_what",
-    "mode": "legends",
-    "subjectKey": "legend_010",
-    "traditionName": {
-      "fr": "Créature de France",
-      "en": "Creature of France",
-      "nl": "Wezen van Frankrijk",
-      "de": "Wesen aus Frankreich"
-    },
-    "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de France ?",
-      "en": "What are / what is Creature of France?",
-      "nl": "Wat zijn / wat is Wezen van Frankrijk?",
-      "de": "Was ist / was sind Wesen aus Frankreich?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de France appartient au folklore de France. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of France belongs to the folklore of France. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Frankrijk behoort tot de folklore van Frankrijk. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Frankreich gehört zur Folklore von Frankreich. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "Leprechaun appartient au patrimoine légendaire de Irlande. Il est réputé cacher de l’or au pied des arcs-en-ciel. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Leprechaun belongs to the legendary heritage of Ireland. The Leprechaun is said to hide gold at the end of rainbows. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland. De Leprechaun zou goud verbergen aan het einde van regenbogen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Leprechaun gehört zum legendären Erbe von Irland. Der Leprechaun soll Gold am Ende von Regenbögen verstecken. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
     },
     "questionType": "what",
     "image": null,
@@ -13172,24 +7872,24 @@ const LEGENDS_BANK=[
   {
     "id": "l011_country",
     "mode": "legends",
-    "subjectKey": "legend_011",
+    "subjectKey": "legend_leprechaun",
     "traditionName": {
-      "fr": "Légende de Espagne",
-      "en": "Legend of Spain",
-      "nl": "Legende van Spanje",
-      "de": "Legende aus Spanien"
+      "fr": "Leprechaun",
+      "en": "Leprechaun",
+      "nl": "Leprechaun",
+      "de": "Leprechaun"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Irlande",
+      "en": "Ireland",
+      "nl": "Ierland",
+      "de": "Irland"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Folklore irlandais",
+      "en": "Irish folklore",
+      "nl": "Ierse folklore",
+      "de": "Irische Folklore"
     },
     "scenario": {
       "fr": "",
@@ -13198,74 +7898,74 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Espagne ?",
-      "en": "In which country is this legend mainly known: Legend of Spain?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Spanje?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Spanien?"
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
     },
     "answers": {
       "fr": [
-        "Espagne",
+        "Irlande",
         "Belgique",
         "Autriche",
         "Tchéquie"
       ],
       "en": [
-        "Spain",
+        "Ireland",
         "Belgium",
         "Austria",
         "Czechia"
       ],
       "nl": [
-        "Spanje",
+        "Ierland",
         "België",
         "Oostenrijk",
         "Tsjechië"
       ],
       "de": [
-        "Spanien",
+        "Irland",
         "Belgien",
         "Österreich",
         "Tschechien"
       ]
     },
     "correctAnswer": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Irlande",
+      "en": "Ireland",
+      "nl": "Ierland",
+      "de": "Irland"
     },
     "explanation": {
-      "fr": "Légende de Espagne appartient au folklore de Espagne. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Spain belongs to the folklore of Spain. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Spanje behoort tot de folklore van Spanje. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Spanien gehört zur Folklore von Spanien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "Leprechaun appartient au patrimoine légendaire de Irlande. Il est réputé cacher de l’or au pied des arcs-en-ciel. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Leprechaun belongs to the legendary heritage of Ireland. The Leprechaun is said to hide gold at the end of rainbows. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland. De Leprechaun zou goud verbergen aan het einde van regenbogen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Leprechaun gehört zum legendären Erbe von Irland. Der Leprechaun soll Gold am Ende von Regenbögen verstecken. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
     },
     "questionType": "country",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l011_what",
+    "id": "l011_detail",
     "mode": "legends",
-    "subjectKey": "legend_011",
+    "subjectKey": "legend_leprechaun",
     "traditionName": {
-      "fr": "Légende de Espagne",
-      "en": "Legend of Spain",
-      "nl": "Legende van Spanje",
-      "de": "Legende aus Spanien"
+      "fr": "Leprechaun",
+      "en": "Leprechaun",
+      "nl": "Leprechaun",
+      "de": "Leprechaun"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Irlande",
+      "en": "Ireland",
+      "nl": "Ierland",
+      "de": "Irland"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Folklore irlandais",
+      "en": "Irish folklore",
+      "nl": "Ierse folklore",
+      "de": "Irische Folklore"
     },
     "scenario": {
       "fr": "",
@@ -13274,48 +7974,276 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Espagne ?",
-      "en": "What are / what is Legend of Spain?",
-      "nl": "Wat zijn / wat is Legende van Spanje?",
-      "de": "Was ist / was sind Legende aus Spanien?"
+      "fr": "Quel détail est associé à Leprechaun ?",
+      "en": "Which detail is associated with Leprechaun?",
+      "nl": "Welk detail hoort bij Leprechaun?",
+      "de": "Welches Detail gehört zu Leprechaun?"
     },
     "answers": {
       "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
+        "Il est réputé cacher de l’or au pied des arcs-en-ciel.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
       ],
       "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
+        "The Leprechaun is said to hide gold at the end of rainbows.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
       ],
       "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
+        "De Leprechaun zou goud verbergen aan het einde van regenbogen.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
       ],
       "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
+        "Der Leprechaun soll Gold am Ende von Regenbögen verstecken.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
       ]
     },
     "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
+      "fr": "Il est réputé cacher de l’or au pied des arcs-en-ciel.",
+      "en": "The Leprechaun is said to hide gold at the end of rainbows.",
+      "nl": "De Leprechaun zou goud verbergen aan het einde van regenbogen.",
+      "de": "Der Leprechaun soll Gold am Ende von Regenbögen verstecken."
     },
     "explanation": {
-      "fr": "Légende de Espagne appartient au folklore de Espagne. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Spain belongs to the folklore of Spain. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Spanje behoort tot de folklore van Spanje. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Spanien gehört zur Folklore von Spanien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "Leprechaun appartient au patrimoine légendaire de Irlande. Il est réputé cacher de l’or au pied des arcs-en-ciel. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Leprechaun belongs to the legendary heritage of Ireland. The Leprechaun is said to hide gold at the end of rainbows. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland. De Leprechaun zou goud verbergen aan het einde van regenbogen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Leprechaun gehört zum legendären Erbe von Irland. Der Leprechaun soll Gold am Ende von Regenbögen verstecken. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l011_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_leprechaun",
+    "traditionName": {
+      "fr": "Leprechaun",
+      "en": "Leprechaun",
+      "nl": "Leprechaun",
+      "de": "Leprechaun"
+    },
+    "country": {
+      "fr": "Irlande",
+      "en": "Ireland",
+      "nl": "Ierland",
+      "de": "Irland"
+    },
+    "region": {
+      "fr": "Folklore irlandais",
+      "en": "Irish folklore",
+      "nl": "Ierse folklore",
+      "de": "Irische Folklore"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Folklore irlandais et je suis lié à ce détail : Il est réputé cacher de l’or au pied des arcs-en-ciel.. Qui suis-je ?",
+      "en": "Riddle: I come from Irish folklore and I am linked to this detail: The Leprechaun is said to hide gold at the end of rainbows.. What am I?",
+      "nl": "Raadsel: ik kom uit Ierse folklore en ben verbonden met dit detail: De Leprechaun zou goud verbergen aan het einde van regenbogen.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Irische Folklore und bin mit diesem Detail verbunden: Der Leprechaun soll Gold am Ende von Regenbögen verstecken.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Leprechaun",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Leprechaun",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Leprechaun",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Leprechaun",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Leprechaun",
+      "en": "Leprechaun",
+      "nl": "Leprechaun",
+      "de": "Leprechaun"
+    },
+    "explanation": {
+      "fr": "Leprechaun appartient au patrimoine légendaire de Irlande. Il est réputé cacher de l’or au pied des arcs-en-ciel. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Leprechaun belongs to the legendary heritage of Ireland. The Leprechaun is said to hide gold at the end of rainbows. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland. De Leprechaun zou goud verbergen aan het einde van regenbogen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Leprechaun gehört zum legendären Erbe von Irland. Der Leprechaun soll Gold am Ende von Regenbögen verstecken. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l011_tf",
+    "mode": "legends",
+    "subjectKey": "legend_leprechaun",
+    "traditionName": {
+      "fr": "Leprechaun",
+      "en": "Leprechaun",
+      "nl": "Leprechaun",
+      "de": "Leprechaun"
+    },
+    "country": {
+      "fr": "Irlande",
+      "en": "Ireland",
+      "nl": "Ierland",
+      "de": "Irland"
+    },
+    "region": {
+      "fr": "Folklore irlandais",
+      "en": "Irish folklore",
+      "nl": "Ierse folklore",
+      "de": "Irische Folklore"
+    },
+    "scenario": {
+      "fr": "Leprechaun est associé à Irlande.",
+      "en": "Leprechaun is associated with Ireland.",
+      "nl": "Leprechaun is verbonden met Ierland.",
+      "de": "Leprechaun ist mit Irland verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Leprechaun appartient au patrimoine légendaire de Irlande. Il est réputé cacher de l’or au pied des arcs-en-ciel. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Leprechaun belongs to the legendary heritage of Ireland. The Leprechaun is said to hide gold at the end of rainbows. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland. De Leprechaun zou goud verbergen aan het einde van regenbogen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Leprechaun gehört zum legendären Erbe von Irland. Der Leprechaun soll Gold am Ende von Regenbögen verstecken. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l012_what",
+    "mode": "legends",
+    "subjectKey": "legend_tomte",
+    "traditionName": {
+      "fr": "Tomte",
+      "en": "Tomte",
+      "nl": "Tomte",
+      "de": "Tomte"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
+    },
+    "region": {
+      "fr": "Fermes nordiques",
+      "en": "Nordic farms",
+      "nl": "Noordse boerderijen",
+      "de": "Nordische Bauernhöfe"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont / qu’est-ce que Tomte ?",
+      "en": "What are / what is Tomte?",
+      "nl": "Wat zijn / wat is Tomte?",
+      "de": "Was ist / was sind Tomte?"
+    },
+    "answers": {
+      "fr": [
+        "Un petit gardien de ferme",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A small farm guardian",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een kleine boerderijwachter",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Ein kleiner Hofwächter",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un petit gardien de ferme",
+      "en": "A small farm guardian",
+      "nl": "Een kleine boerderijwachter",
+      "de": "Ein kleiner Hofwächter"
+    },
+    "explanation": {
+      "fr": "Tomte appartient au patrimoine légendaire de Suède. Il protège la ferme si les habitants le respectent. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Tomte belongs to the legendary heritage of Sweden. Tomte protects the farm if the inhabitants treat Tomte with respect. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Tomte behoort tot het legendarische erfgoed van Zweden. Tomte beschermt de boerderij als bewoners Tomte respecteren. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Tomte gehört zum legendären Erbe von Schweden. Tomte schützt den Hof, wenn die Bewohner Tomte respektieren. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
     },
     "questionType": "what",
     "image": null,
@@ -13324,24 +8252,24 @@ const LEGENDS_BANK=[
   {
     "id": "l012_country",
     "mode": "legends",
-    "subjectKey": "legend_012",
+    "subjectKey": "legend_tomte",
     "traditionName": {
-      "fr": "Créature de Espagne",
-      "en": "Creature of Spain",
-      "nl": "Wezen van Spanje",
-      "de": "Wesen aus Spanien"
+      "fr": "Tomte",
+      "en": "Tomte",
+      "nl": "Tomte",
+      "de": "Tomte"
     },
     "country": {
-      "fr": "Espagne",
-      "en": "Spain",
-      "nl": "Spanje",
-      "de": "Spanien"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Fermes nordiques",
+      "en": "Nordic farms",
+      "nl": "Noordse boerderijen",
+      "de": "Nordische Bauernhöfe"
     },
     "scenario": {
       "fr": "",
@@ -13350,10 +8278,3050 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Espagne ?",
-      "en": "In which country is this legend mainly known: Creature of Spain?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Spanje?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Spanien?"
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
+    },
+    "answers": {
+      "fr": [
+        "Suède",
+        "Belgique",
+        "Autriche",
+        "Tchéquie"
+      ],
+      "en": [
+        "Sweden",
+        "Belgium",
+        "Austria",
+        "Czechia"
+      ],
+      "nl": [
+        "Zweden",
+        "België",
+        "Oostenrijk",
+        "Tsjechië"
+      ],
+      "de": [
+        "Schweden",
+        "Belgien",
+        "Österreich",
+        "Tschechien"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
+    },
+    "explanation": {
+      "fr": "Tomte appartient au patrimoine légendaire de Suède. Il protège la ferme si les habitants le respectent. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Tomte belongs to the legendary heritage of Sweden. Tomte protects the farm if the inhabitants treat Tomte with respect. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Tomte behoort tot het legendarische erfgoed van Zweden. Tomte beschermt de boerderij als bewoners Tomte respecteren. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Tomte gehört zum legendären Erbe von Schweden. Tomte schützt den Hof, wenn die Bewohner Tomte respektieren. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "country",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l012_detail",
+    "mode": "legends",
+    "subjectKey": "legend_tomte",
+    "traditionName": {
+      "fr": "Tomte",
+      "en": "Tomte",
+      "nl": "Tomte",
+      "de": "Tomte"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
+    },
+    "region": {
+      "fr": "Fermes nordiques",
+      "en": "Nordic farms",
+      "nl": "Noordse boerderijen",
+      "de": "Nordische Bauernhöfe"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Quel détail est associé à Tomte ?",
+      "en": "Which detail is associated with Tomte?",
+      "nl": "Welk detail hoort bij Tomte?",
+      "de": "Welches Detail gehört zu Tomte?"
+    },
+    "answers": {
+      "fr": [
+        "Il protège la ferme si les habitants le respectent.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
+      ],
+      "en": [
+        "Tomte protects the farm if the inhabitants treat Tomte with respect.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "Tomte beschermt de boerderij als bewoners Tomte respecteren.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Tomte schützt den Hof, wenn die Bewohner Tomte respektieren.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Il protège la ferme si les habitants le respectent.",
+      "en": "Tomte protects the farm if the inhabitants treat Tomte with respect.",
+      "nl": "Tomte beschermt de boerderij als bewoners Tomte respecteren.",
+      "de": "Tomte schützt den Hof, wenn die Bewohner Tomte respektieren."
+    },
+    "explanation": {
+      "fr": "Tomte appartient au patrimoine légendaire de Suède. Il protège la ferme si les habitants le respectent. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Tomte belongs to the legendary heritage of Sweden. Tomte protects the farm if the inhabitants treat Tomte with respect. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Tomte behoort tot het legendarische erfgoed van Zweden. Tomte beschermt de boerderij als bewoners Tomte respecteren. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Tomte gehört zum legendären Erbe von Schweden. Tomte schützt den Hof, wenn die Bewohner Tomte respektieren. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l012_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_tomte",
+    "traditionName": {
+      "fr": "Tomte",
+      "en": "Tomte",
+      "nl": "Tomte",
+      "de": "Tomte"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
+    },
+    "region": {
+      "fr": "Fermes nordiques",
+      "en": "Nordic farms",
+      "nl": "Noordse boerderijen",
+      "de": "Nordische Bauernhöfe"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Fermes nordiques et je suis lié à ce détail : Il protège la ferme si les habitants le respectent.. Qui suis-je ?",
+      "en": "Riddle: I come from Nordic farms and I am linked to this detail: Tomte protects the farm if the inhabitants treat Tomte with respect.. What am I?",
+      "nl": "Raadsel: ik kom uit Noordse boerderijen en ben verbonden met dit detail: Tomte beschermt de boerderij als bewoners Tomte respecteren.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Nordische Bauernhöfe und bin mit diesem Detail verbunden: Tomte schützt den Hof, wenn die Bewohner Tomte respektieren.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Tomte",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Tomte",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Tomte",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Tomte",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Tomte",
+      "en": "Tomte",
+      "nl": "Tomte",
+      "de": "Tomte"
+    },
+    "explanation": {
+      "fr": "Tomte appartient au patrimoine légendaire de Suède. Il protège la ferme si les habitants le respectent. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Tomte belongs to the legendary heritage of Sweden. Tomte protects the farm if the inhabitants treat Tomte with respect. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Tomte behoort tot het legendarische erfgoed van Zweden. Tomte beschermt de boerderij als bewoners Tomte respecteren. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Tomte gehört zum legendären Erbe von Schweden. Tomte schützt den Hof, wenn die Bewohner Tomte respektieren. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l012_tf",
+    "mode": "legends",
+    "subjectKey": "legend_tomte",
+    "traditionName": {
+      "fr": "Tomte",
+      "en": "Tomte",
+      "nl": "Tomte",
+      "de": "Tomte"
+    },
+    "country": {
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
+    },
+    "region": {
+      "fr": "Fermes nordiques",
+      "en": "Nordic farms",
+      "nl": "Noordse boerderijen",
+      "de": "Nordische Bauernhöfe"
+    },
+    "scenario": {
+      "fr": "Tomte est associé à Suède.",
+      "en": "Tomte is associated with Sweden.",
+      "nl": "Tomte is verbonden met Zweden.",
+      "de": "Tomte ist mit Schweden verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Tomte appartient au patrimoine légendaire de Suède. Il protège la ferme si les habitants le respectent. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Tomte belongs to the legendary heritage of Sweden. Tomte protects the farm if the inhabitants treat Tomte with respect. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Tomte behoort tot het legendarische erfgoed van Zweden. Tomte beschermt de boerderij als bewoners Tomte respecteren. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Tomte gehört zum legendären Erbe von Schweden. Tomte schützt den Hof, wenn die Bewohner Tomte respektieren. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l013_what",
+    "mode": "legends",
+    "subjectKey": "legend_strigoi",
+    "traditionName": {
+      "fr": "Strigoi",
+      "en": "Strigoi",
+      "nl": "Strigoi",
+      "de": "Strigoi"
+    },
+    "country": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië",
+      "de": "Rumänien"
+    },
+    "region": {
+      "fr": "Folklore roumain",
+      "en": "Romanian folklore",
+      "nl": "Roemeense folklore",
+      "de": "Rumänische Folklore"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont / qu’est-ce que Strigoi ?",
+      "en": "What are / what is Strigoi?",
+      "nl": "Wat zijn / wat is Strigoi?",
+      "de": "Was ist / was sind Strigoi?"
+    },
+    "answers": {
+      "fr": [
+        "Des morts revenus tourmenter les vivants",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "The dead returning to trouble the living",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Doden die terugkeren om levenden te kwellen",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Tote, die zurückkehren, um Lebende zu plagen",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Des morts revenus tourmenter les vivants",
+      "en": "The dead returning to trouble the living",
+      "nl": "Doden die terugkeren om levenden te kwellen",
+      "de": "Tote, die zurückkehren, um Lebende zu plagen"
+    },
+    "explanation": {
+      "fr": "Strigoi appartient au patrimoine légendaire de Roumanie. Cette figure nourrit l’imaginaire vampirique d’Europe orientale. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Strigoi belongs to the legendary heritage of Romania. This figure feeds the vampire imagination of Eastern Europe. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië. Deze figuur voedt de vampierverbeelding van Oost-Europa. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Strigoi gehört zum legendären Erbe von Rumänien. Diese Figur nährt die Vampirvorstellungen Osteuropas. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l013_country",
+    "mode": "legends",
+    "subjectKey": "legend_strigoi",
+    "traditionName": {
+      "fr": "Strigoi",
+      "en": "Strigoi",
+      "nl": "Strigoi",
+      "de": "Strigoi"
+    },
+    "country": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië",
+      "de": "Rumänien"
+    },
+    "region": {
+      "fr": "Folklore roumain",
+      "en": "Romanian folklore",
+      "nl": "Roemeense folklore",
+      "de": "Rumänische Folklore"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
+    },
+    "answers": {
+      "fr": [
+        "Roumanie",
+        "Belgique",
+        "Autriche",
+        "Tchéquie"
+      ],
+      "en": [
+        "Romania",
+        "Belgium",
+        "Austria",
+        "Czechia"
+      ],
+      "nl": [
+        "Roemenië",
+        "België",
+        "Oostenrijk",
+        "Tsjechië"
+      ],
+      "de": [
+        "Rumänien",
+        "Belgien",
+        "Österreich",
+        "Tschechien"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië",
+      "de": "Rumänien"
+    },
+    "explanation": {
+      "fr": "Strigoi appartient au patrimoine légendaire de Roumanie. Cette figure nourrit l’imaginaire vampirique d’Europe orientale. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Strigoi belongs to the legendary heritage of Romania. This figure feeds the vampire imagination of Eastern Europe. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië. Deze figuur voedt de vampierverbeelding van Oost-Europa. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Strigoi gehört zum legendären Erbe von Rumänien. Diese Figur nährt die Vampirvorstellungen Osteuropas. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "country",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l013_detail",
+    "mode": "legends",
+    "subjectKey": "legend_strigoi",
+    "traditionName": {
+      "fr": "Strigoi",
+      "en": "Strigoi",
+      "nl": "Strigoi",
+      "de": "Strigoi"
+    },
+    "country": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië",
+      "de": "Rumänien"
+    },
+    "region": {
+      "fr": "Folklore roumain",
+      "en": "Romanian folklore",
+      "nl": "Roemeense folklore",
+      "de": "Rumänische Folklore"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Quel détail est associé à Strigoi ?",
+      "en": "Which detail is associated with Strigoi?",
+      "nl": "Welk detail hoort bij Strigoi?",
+      "de": "Welches Detail gehört zu Strigoi?"
+    },
+    "answers": {
+      "fr": [
+        "Cette figure nourrit l’imaginaire vampirique d’Europe orientale.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
+      ],
+      "en": [
+        "This figure feeds the vampire imagination of Eastern Europe.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "Deze figuur voedt de vampierverbeelding van Oost-Europa.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Diese Figur nährt die Vampirvorstellungen Osteuropas.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Cette figure nourrit l’imaginaire vampirique d’Europe orientale.",
+      "en": "This figure feeds the vampire imagination of Eastern Europe.",
+      "nl": "Deze figuur voedt de vampierverbeelding van Oost-Europa.",
+      "de": "Diese Figur nährt die Vampirvorstellungen Osteuropas."
+    },
+    "explanation": {
+      "fr": "Strigoi appartient au patrimoine légendaire de Roumanie. Cette figure nourrit l’imaginaire vampirique d’Europe orientale. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Strigoi belongs to the legendary heritage of Romania. This figure feeds the vampire imagination of Eastern Europe. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië. Deze figuur voedt de vampierverbeelding van Oost-Europa. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Strigoi gehört zum legendären Erbe von Rumänien. Diese Figur nährt die Vampirvorstellungen Osteuropas. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l013_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_strigoi",
+    "traditionName": {
+      "fr": "Strigoi",
+      "en": "Strigoi",
+      "nl": "Strigoi",
+      "de": "Strigoi"
+    },
+    "country": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië",
+      "de": "Rumänien"
+    },
+    "region": {
+      "fr": "Folklore roumain",
+      "en": "Romanian folklore",
+      "nl": "Roemeense folklore",
+      "de": "Rumänische Folklore"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Folklore roumain et je suis lié à ce détail : Cette figure nourrit l’imaginaire vampirique d’Europe orientale.. Qui suis-je ?",
+      "en": "Riddle: I come from Romanian folklore and I am linked to this detail: This figure feeds the vampire imagination of Eastern Europe.. What am I?",
+      "nl": "Raadsel: ik kom uit Roemeense folklore en ben verbonden met dit detail: Deze figuur voedt de vampierverbeelding van Oost-Europa.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Rumänische Folklore und bin mit diesem Detail verbunden: Diese Figur nährt die Vampirvorstellungen Osteuropas.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Strigoi",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Strigoi",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Strigoi",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Strigoi",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Strigoi",
+      "en": "Strigoi",
+      "nl": "Strigoi",
+      "de": "Strigoi"
+    },
+    "explanation": {
+      "fr": "Strigoi appartient au patrimoine légendaire de Roumanie. Cette figure nourrit l’imaginaire vampirique d’Europe orientale. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Strigoi belongs to the legendary heritage of Romania. This figure feeds the vampire imagination of Eastern Europe. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië. Deze figuur voedt de vampierverbeelding van Oost-Europa. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Strigoi gehört zum legendären Erbe von Rumänien. Diese Figur nährt die Vampirvorstellungen Osteuropas. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l013_tf",
+    "mode": "legends",
+    "subjectKey": "legend_strigoi",
+    "traditionName": {
+      "fr": "Strigoi",
+      "en": "Strigoi",
+      "nl": "Strigoi",
+      "de": "Strigoi"
+    },
+    "country": {
+      "fr": "Roumanie",
+      "en": "Romania",
+      "nl": "Roemenië",
+      "de": "Rumänien"
+    },
+    "region": {
+      "fr": "Folklore roumain",
+      "en": "Romanian folklore",
+      "nl": "Roemeense folklore",
+      "de": "Rumänische Folklore"
+    },
+    "scenario": {
+      "fr": "Strigoi est associé à Roumanie.",
+      "en": "Strigoi is associated with Romania.",
+      "nl": "Strigoi is verbonden met Roemenië.",
+      "de": "Strigoi ist mit Rumänien verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Strigoi appartient au patrimoine légendaire de Roumanie. Cette figure nourrit l’imaginaire vampirique d’Europe orientale. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Strigoi belongs to the legendary heritage of Romania. This figure feeds the vampire imagination of Eastern Europe. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië. Deze figuur voedt de vampierverbeelding van Oost-Europa. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Strigoi gehört zum legendären Erbe von Rumänien. Diese Figur nährt die Vampirvorstellungen Osteuropas. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l014_what",
+    "mode": "legends",
+    "subjectKey": "legend_kurent",
+    "traditionName": {
+      "fr": "Kurent",
+      "en": "Kurent",
+      "nl": "Kurent",
+      "de": "Kurent"
+    },
+    "country": {
+      "fr": "Slovénie",
+      "en": "Slovenia",
+      "nl": "Slovenië",
+      "de": "Slowenien"
+    },
+    "region": {
+      "fr": "Célébrations de printemps",
+      "en": "Spring celebrations",
+      "nl": "Lentefeesten",
+      "de": "Frühlingsfeiern"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont / qu’est-ce que Kurent ?",
+      "en": "What are / what is Kurent?",
+      "nl": "Wat zijn / wat is Kurent?",
+      "de": "Was ist / was sind Kurent?"
+    },
+    "answers": {
+      "fr": [
+        "Un personnage masqué qui chasse l’hiver",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A masked figure who drives winter away",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een gemaskerde figuur die de winter verjaagt",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Eine Maskengestalt, die den Winter vertreibt",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un personnage masqué qui chasse l’hiver",
+      "en": "A masked figure who drives winter away",
+      "nl": "Een gemaskerde figuur die de winter verjaagt",
+      "de": "Eine Maskengestalt, die den Winter vertreibt"
+    },
+    "explanation": {
+      "fr": "Kurent appartient au patrimoine légendaire de Slovénie. Il porte peaux et cloches pour faire du bruit. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Kurent belongs to the legendary heritage of Slovenia. Kurent wears skins and bells to make noise. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië. Kurent draagt huiden en bellen om lawaai te maken. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Kurent gehört zum legendären Erbe von Slowenien. Kurent trägt Felle und Glocken, um Lärm zu machen. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l014_country",
+    "mode": "legends",
+    "subjectKey": "legend_kurent",
+    "traditionName": {
+      "fr": "Kurent",
+      "en": "Kurent",
+      "nl": "Kurent",
+      "de": "Kurent"
+    },
+    "country": {
+      "fr": "Slovénie",
+      "en": "Slovenia",
+      "nl": "Slovenië",
+      "de": "Slowenien"
+    },
+    "region": {
+      "fr": "Célébrations de printemps",
+      "en": "Spring celebrations",
+      "nl": "Lentefeesten",
+      "de": "Frühlingsfeiern"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
+    },
+    "answers": {
+      "fr": [
+        "Slovénie",
+        "Belgique",
+        "Autriche",
+        "Tchéquie"
+      ],
+      "en": [
+        "Slovenia",
+        "Belgium",
+        "Austria",
+        "Czechia"
+      ],
+      "nl": [
+        "Slovenië",
+        "België",
+        "Oostenrijk",
+        "Tsjechië"
+      ],
+      "de": [
+        "Slowenien",
+        "Belgien",
+        "Österreich",
+        "Tschechien"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Slovénie",
+      "en": "Slovenia",
+      "nl": "Slovenië",
+      "de": "Slowenien"
+    },
+    "explanation": {
+      "fr": "Kurent appartient au patrimoine légendaire de Slovénie. Il porte peaux et cloches pour faire du bruit. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Kurent belongs to the legendary heritage of Slovenia. Kurent wears skins and bells to make noise. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië. Kurent draagt huiden en bellen om lawaai te maken. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Kurent gehört zum legendären Erbe von Slowenien. Kurent trägt Felle und Glocken, um Lärm zu machen. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "country",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l014_detail",
+    "mode": "legends",
+    "subjectKey": "legend_kurent",
+    "traditionName": {
+      "fr": "Kurent",
+      "en": "Kurent",
+      "nl": "Kurent",
+      "de": "Kurent"
+    },
+    "country": {
+      "fr": "Slovénie",
+      "en": "Slovenia",
+      "nl": "Slovenië",
+      "de": "Slowenien"
+    },
+    "region": {
+      "fr": "Célébrations de printemps",
+      "en": "Spring celebrations",
+      "nl": "Lentefeesten",
+      "de": "Frühlingsfeiern"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Quel détail est associé à Kurent ?",
+      "en": "Which detail is associated with Kurent?",
+      "nl": "Welk detail hoort bij Kurent?",
+      "de": "Welches Detail gehört zu Kurent?"
+    },
+    "answers": {
+      "fr": [
+        "Il porte peaux et cloches pour faire du bruit.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
+      ],
+      "en": [
+        "Kurent wears skins and bells to make noise.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "Kurent draagt huiden en bellen om lawaai te maken.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Kurent trägt Felle und Glocken, um Lärm zu machen.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Il porte peaux et cloches pour faire du bruit.",
+      "en": "Kurent wears skins and bells to make noise.",
+      "nl": "Kurent draagt huiden en bellen om lawaai te maken.",
+      "de": "Kurent trägt Felle und Glocken, um Lärm zu machen."
+    },
+    "explanation": {
+      "fr": "Kurent appartient au patrimoine légendaire de Slovénie. Il porte peaux et cloches pour faire du bruit. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Kurent belongs to the legendary heritage of Slovenia. Kurent wears skins and bells to make noise. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië. Kurent draagt huiden en bellen om lawaai te maken. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Kurent gehört zum legendären Erbe von Slowenien. Kurent trägt Felle und Glocken, um Lärm zu machen. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l014_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_kurent",
+    "traditionName": {
+      "fr": "Kurent",
+      "en": "Kurent",
+      "nl": "Kurent",
+      "de": "Kurent"
+    },
+    "country": {
+      "fr": "Slovénie",
+      "en": "Slovenia",
+      "nl": "Slovenië",
+      "de": "Slowenien"
+    },
+    "region": {
+      "fr": "Célébrations de printemps",
+      "en": "Spring celebrations",
+      "nl": "Lentefeesten",
+      "de": "Frühlingsfeiern"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Célébrations de printemps et je suis lié à ce détail : Il porte peaux et cloches pour faire du bruit.. Qui suis-je ?",
+      "en": "Riddle: I come from Spring celebrations and I am linked to this detail: Kurent wears skins and bells to make noise.. What am I?",
+      "nl": "Raadsel: ik kom uit Lentefeesten en ben verbonden met dit detail: Kurent draagt huiden en bellen om lawaai te maken.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Frühlingsfeiern und bin mit diesem Detail verbunden: Kurent trägt Felle und Glocken, um Lärm zu machen.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Kurent",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Kurent",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Kurent",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Kurent",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Kurent",
+      "en": "Kurent",
+      "nl": "Kurent",
+      "de": "Kurent"
+    },
+    "explanation": {
+      "fr": "Kurent appartient au patrimoine légendaire de Slovénie. Il porte peaux et cloches pour faire du bruit. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Kurent belongs to the legendary heritage of Slovenia. Kurent wears skins and bells to make noise. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië. Kurent draagt huiden en bellen om lawaai te maken. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Kurent gehört zum legendären Erbe von Slowenien. Kurent trägt Felle und Glocken, um Lärm zu machen. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l014_tf",
+    "mode": "legends",
+    "subjectKey": "legend_kurent",
+    "traditionName": {
+      "fr": "Kurent",
+      "en": "Kurent",
+      "nl": "Kurent",
+      "de": "Kurent"
+    },
+    "country": {
+      "fr": "Slovénie",
+      "en": "Slovenia",
+      "nl": "Slovenië",
+      "de": "Slowenien"
+    },
+    "region": {
+      "fr": "Célébrations de printemps",
+      "en": "Spring celebrations",
+      "nl": "Lentefeesten",
+      "de": "Frühlingsfeiern"
+    },
+    "scenario": {
+      "fr": "Kurent est associé à Slovénie.",
+      "en": "Kurent is associated with Slovenia.",
+      "nl": "Kurent is verbonden met Slovenië.",
+      "de": "Kurent ist mit Slowenien verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Kurent appartient au patrimoine légendaire de Slovénie. Il porte peaux et cloches pour faire du bruit. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Kurent belongs to the legendary heritage of Slovenia. Kurent wears skins and bells to make noise. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië. Kurent draagt huiden en bellen om lawaai te maken. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Kurent gehört zum legendären Erbe von Slowenien. Kurent trägt Felle und Glocken, um Lärm zu machen. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l015_what",
+    "mode": "legends",
+    "subjectKey": "legend_turul",
+    "traditionName": {
+      "fr": "Turul",
+      "en": "Turul",
+      "nl": "Turul",
+      "de": "Turul"
+    },
+    "country": {
+      "fr": "Hongrie",
+      "en": "Hungary",
+      "nl": "Hongarije",
+      "de": "Ungarn"
+    },
+    "region": {
+      "fr": "Récits d’origine",
+      "en": "Origin stories",
+      "nl": "Oorsprongsverhalen",
+      "de": "Ursprungserzählungen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont / qu’est-ce que Turul ?",
+      "en": "What are / what is Turul?",
+      "nl": "Wat zijn / wat is Turul?",
+      "de": "Was ist / was sind Turul?"
+    },
+    "answers": {
+      "fr": [
+        "Un oiseau mythique hongrois",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A mythical Hungarian bird",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een mythische Hongaarse vogel",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Ein mythischer ungarischer Vogel",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un oiseau mythique hongrois",
+      "en": "A mythical Hungarian bird",
+      "nl": "Een mythische Hongaarse vogel",
+      "de": "Ein mythischer ungarischer Vogel"
+    },
+    "explanation": {
+      "fr": "Turul appartient au patrimoine légendaire de Hongrie. Il est lié aux récits d’origine et aux symboles nationaux. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Turul belongs to the legendary heritage of Hungary. Turul is linked to origin stories and national symbols. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Turul behoort tot het legendarische erfgoed van Hongarije. Turul is verbonden met oorsprongsverhalen en nationale symbolen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Turul gehört zum legendären Erbe von Ungarn. Turul ist mit Ursprungserzählungen und nationalen Symbolen verbunden. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l015_country",
+    "mode": "legends",
+    "subjectKey": "legend_turul",
+    "traditionName": {
+      "fr": "Turul",
+      "en": "Turul",
+      "nl": "Turul",
+      "de": "Turul"
+    },
+    "country": {
+      "fr": "Hongrie",
+      "en": "Hungary",
+      "nl": "Hongarije",
+      "de": "Ungarn"
+    },
+    "region": {
+      "fr": "Récits d’origine",
+      "en": "Origin stories",
+      "nl": "Oorsprongsverhalen",
+      "de": "Ursprungserzählungen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
+    },
+    "answers": {
+      "fr": [
+        "Hongrie",
+        "Belgique",
+        "Autriche",
+        "Tchéquie"
+      ],
+      "en": [
+        "Hungary",
+        "Belgium",
+        "Austria",
+        "Czechia"
+      ],
+      "nl": [
+        "Hongarije",
+        "België",
+        "Oostenrijk",
+        "Tsjechië"
+      ],
+      "de": [
+        "Ungarn",
+        "Belgien",
+        "Österreich",
+        "Tschechien"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Hongrie",
+      "en": "Hungary",
+      "nl": "Hongarije",
+      "de": "Ungarn"
+    },
+    "explanation": {
+      "fr": "Turul appartient au patrimoine légendaire de Hongrie. Il est lié aux récits d’origine et aux symboles nationaux. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Turul belongs to the legendary heritage of Hungary. Turul is linked to origin stories and national symbols. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Turul behoort tot het legendarische erfgoed van Hongarije. Turul is verbonden met oorsprongsverhalen en nationale symbolen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Turul gehört zum legendären Erbe von Ungarn. Turul ist mit Ursprungserzählungen und nationalen Symbolen verbunden. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "country",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l015_detail",
+    "mode": "legends",
+    "subjectKey": "legend_turul",
+    "traditionName": {
+      "fr": "Turul",
+      "en": "Turul",
+      "nl": "Turul",
+      "de": "Turul"
+    },
+    "country": {
+      "fr": "Hongrie",
+      "en": "Hungary",
+      "nl": "Hongarije",
+      "de": "Ungarn"
+    },
+    "region": {
+      "fr": "Récits d’origine",
+      "en": "Origin stories",
+      "nl": "Oorsprongsverhalen",
+      "de": "Ursprungserzählungen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Quel détail est associé à Turul ?",
+      "en": "Which detail is associated with Turul?",
+      "nl": "Welk detail hoort bij Turul?",
+      "de": "Welches Detail gehört zu Turul?"
+    },
+    "answers": {
+      "fr": [
+        "Il est lié aux récits d’origine et aux symboles nationaux.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
+      ],
+      "en": [
+        "Turul is linked to origin stories and national symbols.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "Turul is verbonden met oorsprongsverhalen en nationale symbolen.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Turul ist mit Ursprungserzählungen und nationalen Symbolen verbunden.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Il est lié aux récits d’origine et aux symboles nationaux.",
+      "en": "Turul is linked to origin stories and national symbols.",
+      "nl": "Turul is verbonden met oorsprongsverhalen en nationale symbolen.",
+      "de": "Turul ist mit Ursprungserzählungen und nationalen Symbolen verbunden."
+    },
+    "explanation": {
+      "fr": "Turul appartient au patrimoine légendaire de Hongrie. Il est lié aux récits d’origine et aux symboles nationaux. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Turul belongs to the legendary heritage of Hungary. Turul is linked to origin stories and national symbols. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Turul behoort tot het legendarische erfgoed van Hongarije. Turul is verbonden met oorsprongsverhalen en nationale symbolen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Turul gehört zum legendären Erbe von Ungarn. Turul ist mit Ursprungserzählungen und nationalen Symbolen verbunden. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l015_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_turul",
+    "traditionName": {
+      "fr": "Turul",
+      "en": "Turul",
+      "nl": "Turul",
+      "de": "Turul"
+    },
+    "country": {
+      "fr": "Hongrie",
+      "en": "Hungary",
+      "nl": "Hongarije",
+      "de": "Ungarn"
+    },
+    "region": {
+      "fr": "Récits d’origine",
+      "en": "Origin stories",
+      "nl": "Oorsprongsverhalen",
+      "de": "Ursprungserzählungen"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Récits d’origine et je suis lié à ce détail : Il est lié aux récits d’origine et aux symboles nationaux.. Qui suis-je ?",
+      "en": "Riddle: I come from Origin stories and I am linked to this detail: Turul is linked to origin stories and national symbols.. What am I?",
+      "nl": "Raadsel: ik kom uit Oorsprongsverhalen en ben verbonden met dit detail: Turul is verbonden met oorsprongsverhalen en nationale symbolen.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Ursprungserzählungen und bin mit diesem Detail verbunden: Turul ist mit Ursprungserzählungen und nationalen Symbolen verbunden.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Turul",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Turul",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Turul",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Turul",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Turul",
+      "en": "Turul",
+      "nl": "Turul",
+      "de": "Turul"
+    },
+    "explanation": {
+      "fr": "Turul appartient au patrimoine légendaire de Hongrie. Il est lié aux récits d’origine et aux symboles nationaux. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Turul belongs to the legendary heritage of Hungary. Turul is linked to origin stories and national symbols. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Turul behoort tot het legendarische erfgoed van Hongarije. Turul is verbonden met oorsprongsverhalen en nationale symbolen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Turul gehört zum legendären Erbe von Ungarn. Turul ist mit Ursprungserzählungen und nationalen Symbolen verbunden. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l015_tf",
+    "mode": "legends",
+    "subjectKey": "legend_turul",
+    "traditionName": {
+      "fr": "Turul",
+      "en": "Turul",
+      "nl": "Turul",
+      "de": "Turul"
+    },
+    "country": {
+      "fr": "Hongrie",
+      "en": "Hungary",
+      "nl": "Hongarije",
+      "de": "Ungarn"
+    },
+    "region": {
+      "fr": "Récits d’origine",
+      "en": "Origin stories",
+      "nl": "Oorsprongsverhalen",
+      "de": "Ursprungserzählungen"
+    },
+    "scenario": {
+      "fr": "Turul est associé à Hongrie.",
+      "en": "Turul is associated with Hungary.",
+      "nl": "Turul is verbonden met Hongarije.",
+      "de": "Turul ist mit Ungarn verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Turul appartient au patrimoine légendaire de Hongrie. Il est lié aux récits d’origine et aux symboles nationaux. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Turul belongs to the legendary heritage of Hungary. Turul is linked to origin stories and national symbols. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Turul behoort tot het legendarische erfgoed van Hongarije. Turul is verbonden met oorsprongsverhalen en nationale symbolen. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Turul gehört zum legendären Erbe von Ungarn. Turul ist mit Ursprungserzählungen und nationalen Symbolen verbunden. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l016_what",
+    "mode": "legends",
+    "subjectKey": "legend_jurate",
+    "traditionName": {
+      "fr": "Jūratė et Kastytis",
+      "en": "Jūratė and Kastytis",
+      "nl": "Jūratė en Kastytis",
+      "de": "Jūratė und Kastytis"
+    },
+    "country": {
+      "fr": "Lituanie",
+      "en": "Lithuania",
+      "nl": "Litouwen",
+      "de": "Litauen"
+    },
+    "region": {
+      "fr": "Mer Baltique",
+      "en": "Baltic Sea",
+      "nl": "Baltische Zee",
+      "de": "Ostsee"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont / qu’est-ce que Jūratė et Kastytis ?",
+      "en": "What are / what is Jūratė and Kastytis?",
+      "nl": "Wat zijn / wat is Jūratė en Kastytis?",
+      "de": "Was ist / was sind Jūratė und Kastytis?"
+    },
+    "answers": {
+      "fr": [
+        "Une histoire d’amour entre une déesse marine et un pêcheur",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A love story between a sea goddess and a fisherman",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een liefdesverhaal tussen een zeegodin en een visser",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Eine Liebesgeschichte zwischen einer Meeresgöttin und einem Fischer",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une histoire d’amour entre une déesse marine et un pêcheur",
+      "en": "A love story between a sea goddess and a fisherman",
+      "nl": "Een liefdesverhaal tussen een zeegodin en een visser",
+      "de": "Eine Liebesgeschichte zwischen einer Meeresgöttin und einem Fischer"
+    },
+    "explanation": {
+      "fr": "Jūratė et Kastytis appartient au patrimoine légendaire de Lituanie. La légende expliquerait l’ambre de la Baltique. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Jūratė and Kastytis belongs to the legendary heritage of Lithuania. The legend is used to explain Baltic amber. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen. De legende wordt gebruikt om Baltische barnsteen te verklaren. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Jūratė und Kastytis gehört zum legendären Erbe von Litauen. Die Legende erklärt den Bernstein der Ostsee. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l016_country",
+    "mode": "legends",
+    "subjectKey": "legend_jurate",
+    "traditionName": {
+      "fr": "Jūratė et Kastytis",
+      "en": "Jūratė and Kastytis",
+      "nl": "Jūratė en Kastytis",
+      "de": "Jūratė und Kastytis"
+    },
+    "country": {
+      "fr": "Lituanie",
+      "en": "Lithuania",
+      "nl": "Litouwen",
+      "de": "Litauen"
+    },
+    "region": {
+      "fr": "Mer Baltique",
+      "en": "Baltic Sea",
+      "nl": "Baltische Zee",
+      "de": "Ostsee"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
+    },
+    "answers": {
+      "fr": [
+        "Lituanie",
+        "Belgique",
+        "Autriche",
+        "Tchéquie"
+      ],
+      "en": [
+        "Lithuania",
+        "Belgium",
+        "Austria",
+        "Czechia"
+      ],
+      "nl": [
+        "Litouwen",
+        "België",
+        "Oostenrijk",
+        "Tsjechië"
+      ],
+      "de": [
+        "Litauen",
+        "Belgien",
+        "Österreich",
+        "Tschechien"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Lituanie",
+      "en": "Lithuania",
+      "nl": "Litouwen",
+      "de": "Litauen"
+    },
+    "explanation": {
+      "fr": "Jūratė et Kastytis appartient au patrimoine légendaire de Lituanie. La légende expliquerait l’ambre de la Baltique. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Jūratė and Kastytis belongs to the legendary heritage of Lithuania. The legend is used to explain Baltic amber. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen. De legende wordt gebruikt om Baltische barnsteen te verklaren. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Jūratė und Kastytis gehört zum legendären Erbe von Litauen. Die Legende erklärt den Bernstein der Ostsee. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "country",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l016_detail",
+    "mode": "legends",
+    "subjectKey": "legend_jurate",
+    "traditionName": {
+      "fr": "Jūratė et Kastytis",
+      "en": "Jūratė and Kastytis",
+      "nl": "Jūratė en Kastytis",
+      "de": "Jūratė und Kastytis"
+    },
+    "country": {
+      "fr": "Lituanie",
+      "en": "Lithuania",
+      "nl": "Litouwen",
+      "de": "Litauen"
+    },
+    "region": {
+      "fr": "Mer Baltique",
+      "en": "Baltic Sea",
+      "nl": "Baltische Zee",
+      "de": "Ostsee"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Quel détail est associé à Jūratė et Kastytis ?",
+      "en": "Which detail is associated with Jūratė and Kastytis?",
+      "nl": "Welk detail hoort bij Jūratė en Kastytis?",
+      "de": "Welches Detail gehört zu Jūratė und Kastytis?"
+    },
+    "answers": {
+      "fr": [
+        "La légende expliquerait l’ambre de la Baltique.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
+      ],
+      "en": [
+        "The legend is used to explain Baltic amber.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "De legende wordt gebruikt om Baltische barnsteen te verklaren.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Die Legende erklärt den Bernstein der Ostsee.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "La légende expliquerait l’ambre de la Baltique.",
+      "en": "The legend is used to explain Baltic amber.",
+      "nl": "De legende wordt gebruikt om Baltische barnsteen te verklaren.",
+      "de": "Die Legende erklärt den Bernstein der Ostsee."
+    },
+    "explanation": {
+      "fr": "Jūratė et Kastytis appartient au patrimoine légendaire de Lituanie. La légende expliquerait l’ambre de la Baltique. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Jūratė and Kastytis belongs to the legendary heritage of Lithuania. The legend is used to explain Baltic amber. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen. De legende wordt gebruikt om Baltische barnsteen te verklaren. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Jūratė und Kastytis gehört zum legendären Erbe von Litauen. Die Legende erklärt den Bernstein der Ostsee. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l016_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_jurate",
+    "traditionName": {
+      "fr": "Jūratė et Kastytis",
+      "en": "Jūratė and Kastytis",
+      "nl": "Jūratė en Kastytis",
+      "de": "Jūratė und Kastytis"
+    },
+    "country": {
+      "fr": "Lituanie",
+      "en": "Lithuania",
+      "nl": "Litouwen",
+      "de": "Litauen"
+    },
+    "region": {
+      "fr": "Mer Baltique",
+      "en": "Baltic Sea",
+      "nl": "Baltische Zee",
+      "de": "Ostsee"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Mer Baltique et je suis lié à ce détail : La légende expliquerait l’ambre de la Baltique.. Qui suis-je ?",
+      "en": "Riddle: I come from Baltic Sea and I am linked to this detail: The legend is used to explain Baltic amber.. What am I?",
+      "nl": "Raadsel: ik kom uit Baltische Zee en ben verbonden met dit detail: De legende wordt gebruikt om Baltische barnsteen te verklaren.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Ostsee und bin mit diesem Detail verbunden: Die Legende erklärt den Bernstein der Ostsee.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Jūratė et Kastytis",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Jūratė and Kastytis",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Jūratė en Kastytis",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Jūratė und Kastytis",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Jūratė et Kastytis",
+      "en": "Jūratė and Kastytis",
+      "nl": "Jūratė en Kastytis",
+      "de": "Jūratė und Kastytis"
+    },
+    "explanation": {
+      "fr": "Jūratė et Kastytis appartient au patrimoine légendaire de Lituanie. La légende expliquerait l’ambre de la Baltique. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Jūratė and Kastytis belongs to the legendary heritage of Lithuania. The legend is used to explain Baltic amber. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen. De legende wordt gebruikt om Baltische barnsteen te verklaren. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Jūratė und Kastytis gehört zum legendären Erbe von Litauen. Die Legende erklärt den Bernstein der Ostsee. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l016_tf",
+    "mode": "legends",
+    "subjectKey": "legend_jurate",
+    "traditionName": {
+      "fr": "Jūratė et Kastytis",
+      "en": "Jūratė and Kastytis",
+      "nl": "Jūratė en Kastytis",
+      "de": "Jūratė und Kastytis"
+    },
+    "country": {
+      "fr": "Lituanie",
+      "en": "Lithuania",
+      "nl": "Litouwen",
+      "de": "Litauen"
+    },
+    "region": {
+      "fr": "Mer Baltique",
+      "en": "Baltic Sea",
+      "nl": "Baltische Zee",
+      "de": "Ostsee"
+    },
+    "scenario": {
+      "fr": "Jūratė et Kastytis est associé à Lituanie.",
+      "en": "Jūratė and Kastytis is associated with Lithuania.",
+      "nl": "Jūratė en Kastytis is verbonden met Litouwen.",
+      "de": "Jūratė und Kastytis ist mit Litauen verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Jūratė et Kastytis appartient au patrimoine légendaire de Lituanie. La légende expliquerait l’ambre de la Baltique. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Jūratė and Kastytis belongs to the legendary heritage of Lithuania. The legend is used to explain Baltic amber. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen. De legende wordt gebruikt om Baltische barnsteen te verklaren. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Jūratė und Kastytis gehört zum legendären Erbe von Litauen. Die Legende erklärt den Bernstein der Ostsee. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l017_what",
+    "mode": "legends",
+    "subjectKey": "legend_laclplesis",
+    "traditionName": {
+      "fr": "Lāčplēsis",
+      "en": "Lāčplēsis",
+      "nl": "Lāčplēsis",
+      "de": "Lāčplēsis"
+    },
+    "country": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland",
+      "de": "Lettland"
+    },
+    "region": {
+      "fr": "Épopée lettone",
+      "en": "Latvian epic",
+      "nl": "Letse epiek",
+      "de": "Lettisches Epos"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont / qu’est-ce que Lāčplēsis ?",
+      "en": "What are / what is Lāčplēsis?",
+      "nl": "Wat zijn / wat is Lāčplēsis?",
+      "de": "Was ist / was sind Lāčplēsis?"
+    },
+    "answers": {
+      "fr": [
+        "Un héros à la force d’ours",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A hero with bear-like strength",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een held met berenkracht",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Ein Held mit Bärenkraft",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un héros à la force d’ours",
+      "en": "A hero with bear-like strength",
+      "nl": "Een held met berenkracht",
+      "de": "Ein Held mit Bärenkraft"
+    },
+    "explanation": {
+      "fr": "Lāčplēsis appartient au patrimoine légendaire de Lettonie. Son nom évoque celui qui déchire l’ours. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Lāčplēsis belongs to the legendary heritage of Latvia. The name evokes the one who tears the bear. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland. De naam verwijst naar degene die de beer verscheurt. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Lāčplēsis gehört zum legendären Erbe von Lettland. Der Name verweist auf den Bärenreißer. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l017_country",
+    "mode": "legends",
+    "subjectKey": "legend_laclplesis",
+    "traditionName": {
+      "fr": "Lāčplēsis",
+      "en": "Lāčplēsis",
+      "nl": "Lāčplēsis",
+      "de": "Lāčplēsis"
+    },
+    "country": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland",
+      "de": "Lettland"
+    },
+    "region": {
+      "fr": "Épopée lettone",
+      "en": "Latvian epic",
+      "nl": "Letse epiek",
+      "de": "Lettisches Epos"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
+    },
+    "answers": {
+      "fr": [
+        "Lettonie",
+        "Belgique",
+        "Autriche",
+        "Tchéquie"
+      ],
+      "en": [
+        "Latvia",
+        "Belgium",
+        "Austria",
+        "Czechia"
+      ],
+      "nl": [
+        "Letland",
+        "België",
+        "Oostenrijk",
+        "Tsjechië"
+      ],
+      "de": [
+        "Lettland",
+        "Belgien",
+        "Österreich",
+        "Tschechien"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland",
+      "de": "Lettland"
+    },
+    "explanation": {
+      "fr": "Lāčplēsis appartient au patrimoine légendaire de Lettonie. Son nom évoque celui qui déchire l’ours. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Lāčplēsis belongs to the legendary heritage of Latvia. The name evokes the one who tears the bear. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland. De naam verwijst naar degene die de beer verscheurt. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Lāčplēsis gehört zum legendären Erbe von Lettland. Der Name verweist auf den Bärenreißer. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "country",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l017_detail",
+    "mode": "legends",
+    "subjectKey": "legend_laclplesis",
+    "traditionName": {
+      "fr": "Lāčplēsis",
+      "en": "Lāčplēsis",
+      "nl": "Lāčplēsis",
+      "de": "Lāčplēsis"
+    },
+    "country": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland",
+      "de": "Lettland"
+    },
+    "region": {
+      "fr": "Épopée lettone",
+      "en": "Latvian epic",
+      "nl": "Letse epiek",
+      "de": "Lettisches Epos"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Quel détail est associé à Lāčplēsis ?",
+      "en": "Which detail is associated with Lāčplēsis?",
+      "nl": "Welk detail hoort bij Lāčplēsis?",
+      "de": "Welches Detail gehört zu Lāčplēsis?"
+    },
+    "answers": {
+      "fr": [
+        "Son nom évoque celui qui déchire l’ours.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
+      ],
+      "en": [
+        "The name evokes the one who tears the bear.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "De naam verwijst naar degene die de beer verscheurt.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Der Name verweist auf den Bärenreißer.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Son nom évoque celui qui déchire l’ours.",
+      "en": "The name evokes the one who tears the bear.",
+      "nl": "De naam verwijst naar degene die de beer verscheurt.",
+      "de": "Der Name verweist auf den Bärenreißer."
+    },
+    "explanation": {
+      "fr": "Lāčplēsis appartient au patrimoine légendaire de Lettonie. Son nom évoque celui qui déchire l’ours. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Lāčplēsis belongs to the legendary heritage of Latvia. The name evokes the one who tears the bear. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland. De naam verwijst naar degene die de beer verscheurt. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Lāčplēsis gehört zum legendären Erbe von Lettland. Der Name verweist auf den Bärenreißer. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l017_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_laclplesis",
+    "traditionName": {
+      "fr": "Lāčplēsis",
+      "en": "Lāčplēsis",
+      "nl": "Lāčplēsis",
+      "de": "Lāčplēsis"
+    },
+    "country": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland",
+      "de": "Lettland"
+    },
+    "region": {
+      "fr": "Épopée lettone",
+      "en": "Latvian epic",
+      "nl": "Letse epiek",
+      "de": "Lettisches Epos"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Épopée lettone et je suis lié à ce détail : Son nom évoque celui qui déchire l’ours.. Qui suis-je ?",
+      "en": "Riddle: I come from Latvian epic and I am linked to this detail: The name evokes the one who tears the bear.. What am I?",
+      "nl": "Raadsel: ik kom uit Letse epiek en ben verbonden met dit detail: De naam verwijst naar degene die de beer verscheurt.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Lettisches Epos und bin mit diesem Detail verbunden: Der Name verweist auf den Bärenreißer.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Lāčplēsis",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Lāčplēsis",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Lāčplēsis",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Lāčplēsis",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Lāčplēsis",
+      "en": "Lāčplēsis",
+      "nl": "Lāčplēsis",
+      "de": "Lāčplēsis"
+    },
+    "explanation": {
+      "fr": "Lāčplēsis appartient au patrimoine légendaire de Lettonie. Son nom évoque celui qui déchire l’ours. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Lāčplēsis belongs to the legendary heritage of Latvia. The name evokes the one who tears the bear. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland. De naam verwijst naar degene die de beer verscheurt. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Lāčplēsis gehört zum legendären Erbe von Lettland. Der Name verweist auf den Bärenreißer. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l017_tf",
+    "mode": "legends",
+    "subjectKey": "legend_laclplesis",
+    "traditionName": {
+      "fr": "Lāčplēsis",
+      "en": "Lāčplēsis",
+      "nl": "Lāčplēsis",
+      "de": "Lāčplēsis"
+    },
+    "country": {
+      "fr": "Lettonie",
+      "en": "Latvia",
+      "nl": "Letland",
+      "de": "Lettland"
+    },
+    "region": {
+      "fr": "Épopée lettone",
+      "en": "Latvian epic",
+      "nl": "Letse epiek",
+      "de": "Lettisches Epos"
+    },
+    "scenario": {
+      "fr": "Lāčplēsis est associé à Lettonie.",
+      "en": "Lāčplēsis is associated with Latvia.",
+      "nl": "Lāčplēsis is verbonden met Letland.",
+      "de": "Lāčplēsis ist mit Lettland verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Lāčplēsis appartient au patrimoine légendaire de Lettonie. Son nom évoque celui qui déchire l’ours. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Lāčplēsis belongs to the legendary heritage of Latvia. The name evokes the one who tears the bear. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland. De naam verwijst naar degene die de beer verscheurt. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Lāčplēsis gehört zum legendären Erbe von Lettland. Der Name verweist auf den Bärenreißer. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l018_what",
+    "mode": "legends",
+    "subjectKey": "legend_vaina",
+    "traditionName": {
+      "fr": "Väinämöinen",
+      "en": "Väinämöinen",
+      "nl": "Väinämöinen",
+      "de": "Väinämöinen"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland",
+      "de": "Finnland"
+    },
+    "region": {
+      "fr": "Kalevala",
+      "en": "Kalevala",
+      "nl": "Kalevala",
+      "de": "Kalevala"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont / qu’est-ce que Väinämöinen ?",
+      "en": "What are / what is Väinämöinen?",
+      "nl": "Wat zijn / wat is Väinämöinen?",
+      "de": "Was ist / was sind Väinämöinen?"
+    },
+    "answers": {
+      "fr": [
+        "Un sage musicien et magicien",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A wise musician and magician",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een wijze muzikant en tovenaar",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Ein weiser Musiker und Zauberer",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un sage musicien et magicien",
+      "en": "A wise musician and magician",
+      "nl": "Een wijze muzikant en tovenaar",
+      "de": "Ein weiser Musiker und Zauberer"
+    },
+    "explanation": {
+      "fr": "Väinämöinen appartient au patrimoine légendaire de Finlande. Il utilise le chant et la connaissance plus que la force. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Väinämöinen belongs to the legendary heritage of Finland. Väinämöinen uses song and knowledge more than strength. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland. Väinämöinen gebruikt zang en kennis meer dan kracht. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Väinämöinen gehört zum legendären Erbe von Finnland. Väinämöinen nutzt Gesang und Wissen stärker als rohe Kraft. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l018_country",
+    "mode": "legends",
+    "subjectKey": "legend_vaina",
+    "traditionName": {
+      "fr": "Väinämöinen",
+      "en": "Väinämöinen",
+      "nl": "Väinämöinen",
+      "de": "Väinämöinen"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland",
+      "de": "Finnland"
+    },
+    "region": {
+      "fr": "Kalevala",
+      "en": "Kalevala",
+      "nl": "Kalevala",
+      "de": "Kalevala"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
+    },
+    "answers": {
+      "fr": [
+        "Finlande",
+        "Belgique",
+        "Autriche",
+        "Tchéquie"
+      ],
+      "en": [
+        "Finland",
+        "Belgium",
+        "Austria",
+        "Czechia"
+      ],
+      "nl": [
+        "Finland",
+        "België",
+        "Oostenrijk",
+        "Tsjechië"
+      ],
+      "de": [
+        "Finnland",
+        "Belgien",
+        "Österreich",
+        "Tschechien"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland",
+      "de": "Finnland"
+    },
+    "explanation": {
+      "fr": "Väinämöinen appartient au patrimoine légendaire de Finlande. Il utilise le chant et la connaissance plus que la force. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Väinämöinen belongs to the legendary heritage of Finland. Väinämöinen uses song and knowledge more than strength. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland. Väinämöinen gebruikt zang en kennis meer dan kracht. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Väinämöinen gehört zum legendären Erbe von Finnland. Väinämöinen nutzt Gesang und Wissen stärker als rohe Kraft. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "country",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l018_detail",
+    "mode": "legends",
+    "subjectKey": "legend_vaina",
+    "traditionName": {
+      "fr": "Väinämöinen",
+      "en": "Väinämöinen",
+      "nl": "Väinämöinen",
+      "de": "Väinämöinen"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland",
+      "de": "Finnland"
+    },
+    "region": {
+      "fr": "Kalevala",
+      "en": "Kalevala",
+      "nl": "Kalevala",
+      "de": "Kalevala"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Quel détail est associé à Väinämöinen ?",
+      "en": "Which detail is associated with Väinämöinen?",
+      "nl": "Welk detail hoort bij Väinämöinen?",
+      "de": "Welches Detail gehört zu Väinämöinen?"
+    },
+    "answers": {
+      "fr": [
+        "Il utilise le chant et la connaissance plus que la force.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
+      ],
+      "en": [
+        "Väinämöinen uses song and knowledge more than strength.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "Väinämöinen gebruikt zang en kennis meer dan kracht.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Väinämöinen nutzt Gesang und Wissen stärker als rohe Kraft.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Il utilise le chant et la connaissance plus que la force.",
+      "en": "Väinämöinen uses song and knowledge more than strength.",
+      "nl": "Väinämöinen gebruikt zang en kennis meer dan kracht.",
+      "de": "Väinämöinen nutzt Gesang und Wissen stärker als rohe Kraft."
+    },
+    "explanation": {
+      "fr": "Väinämöinen appartient au patrimoine légendaire de Finlande. Il utilise le chant et la connaissance plus que la force. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Väinämöinen belongs to the legendary heritage of Finland. Väinämöinen uses song and knowledge more than strength. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland. Väinämöinen gebruikt zang en kennis meer dan kracht. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Väinämöinen gehört zum legendären Erbe von Finnland. Väinämöinen nutzt Gesang und Wissen stärker als rohe Kraft. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l018_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_vaina",
+    "traditionName": {
+      "fr": "Väinämöinen",
+      "en": "Väinämöinen",
+      "nl": "Väinämöinen",
+      "de": "Väinämöinen"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland",
+      "de": "Finnland"
+    },
+    "region": {
+      "fr": "Kalevala",
+      "en": "Kalevala",
+      "nl": "Kalevala",
+      "de": "Kalevala"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Kalevala et je suis lié à ce détail : Il utilise le chant et la connaissance plus que la force.. Qui suis-je ?",
+      "en": "Riddle: I come from Kalevala and I am linked to this detail: Väinämöinen uses song and knowledge more than strength.. What am I?",
+      "nl": "Raadsel: ik kom uit Kalevala en ben verbonden met dit detail: Väinämöinen gebruikt zang en kennis meer dan kracht.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Kalevala und bin mit diesem Detail verbunden: Väinämöinen nutzt Gesang und Wissen stärker als rohe Kraft.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Väinämöinen",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "Väinämöinen",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "Väinämöinen",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Väinämöinen",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Väinämöinen",
+      "en": "Väinämöinen",
+      "nl": "Väinämöinen",
+      "de": "Väinämöinen"
+    },
+    "explanation": {
+      "fr": "Väinämöinen appartient au patrimoine légendaire de Finlande. Il utilise le chant et la connaissance plus que la force. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Väinämöinen belongs to the legendary heritage of Finland. Väinämöinen uses song and knowledge more than strength. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland. Väinämöinen gebruikt zang en kennis meer dan kracht. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Väinämöinen gehört zum legendären Erbe von Finnland. Väinämöinen nutzt Gesang und Wissen stärker als rohe Kraft. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l018_tf",
+    "mode": "legends",
+    "subjectKey": "legend_vaina",
+    "traditionName": {
+      "fr": "Väinämöinen",
+      "en": "Väinämöinen",
+      "nl": "Väinämöinen",
+      "de": "Väinämöinen"
+    },
+    "country": {
+      "fr": "Finlande",
+      "en": "Finland",
+      "nl": "Finland",
+      "de": "Finnland"
+    },
+    "region": {
+      "fr": "Kalevala",
+      "en": "Kalevala",
+      "nl": "Kalevala",
+      "de": "Kalevala"
+    },
+    "scenario": {
+      "fr": "Väinämöinen est associé à Finlande.",
+      "en": "Väinämöinen is associated with Finland.",
+      "nl": "Väinämöinen is verbonden met Finland.",
+      "de": "Väinämöinen ist mit Finnland verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Väinämöinen appartient au patrimoine légendaire de Finlande. Il utilise le chant et la connaissance plus que la force. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "Väinämöinen belongs to the legendary heritage of Finland. Väinämöinen uses song and knowledge more than strength. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland. Väinämöinen gebruikt zang en kennis meer dan kracht. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Väinämöinen gehört zum legendären Erbe von Finnland. Väinämöinen nutzt Gesang und Wissen stärker als rohe Kraft. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l019_what",
+    "mode": "legends",
+    "subjectKey": "legend_flying_dutchman",
+    "traditionName": {
+      "fr": "Le Hollandais volant",
+      "en": "The Flying Dutchman",
+      "nl": "De Vliegende Hollander",
+      "de": "Der Fliegende Holländer"
+    },
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "nl": "Nederland",
+      "de": "Niederlande"
+    },
+    "region": {
+      "fr": "Légendes maritimes",
+      "en": "Maritime legends",
+      "nl": "Maritieme legendes",
+      "de": "Seefahrerlegenden"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont / qu’est-ce que Le Hollandais volant ?",
+      "en": "What are / what is The Flying Dutchman?",
+      "nl": "Wat zijn / wat is De Vliegende Hollander?",
+      "de": "Was ist / was sind Der Fliegende Holländer?"
+    },
+    "answers": {
+      "fr": [
+        "Un navire fantôme condamné à errer",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A ghost ship condemned to wander",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een spookschip dat eeuwig moet dwalen",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Ein Geisterschiff, das ewig umherirrt",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Un navire fantôme condamné à errer",
+      "en": "A ghost ship condemned to wander",
+      "nl": "Een spookschip dat eeuwig moet dwalen",
+      "de": "Ein Geisterschiff, das ewig umherirrt"
+    },
+    "explanation": {
+      "fr": "Le Hollandais volant appartient au patrimoine légendaire de Pays-Bas. Il incarne la peur de la mer et des voyages sans retour. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "The Flying Dutchman belongs to the legendary heritage of Netherlands. The Flying Dutchman embodies fear of the sea and voyages with no return. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland. De Vliegende Hollander belichaamt angst voor zee en reizen zonder terugkeer. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Der Fliegende Holländer gehört zum legendären Erbe von Niederlande. Der Fliegende Holländer verkörpert die Angst vor Meer und Fahrten ohne Rückkehr. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l019_country",
+    "mode": "legends",
+    "subjectKey": "legend_flying_dutchman",
+    "traditionName": {
+      "fr": "Le Hollandais volant",
+      "en": "The Flying Dutchman",
+      "nl": "De Vliegende Hollander",
+      "de": "Der Fliegende Holländer"
+    },
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "nl": "Nederland",
+      "de": "Niederlande"
+    },
+    "region": {
+      "fr": "Légendes maritimes",
+      "en": "Maritime legends",
+      "nl": "Maritieme legendes",
+      "de": "Seefahrerlegenden"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
+    },
+    "answers": {
+      "fr": [
+        "Pays-Bas",
+        "Belgique",
+        "Autriche",
+        "Tchéquie"
+      ],
+      "en": [
+        "Netherlands",
+        "Belgium",
+        "Austria",
+        "Czechia"
+      ],
+      "nl": [
+        "Nederland",
+        "België",
+        "Oostenrijk",
+        "Tsjechië"
+      ],
+      "de": [
+        "Niederlande",
+        "Belgien",
+        "Österreich",
+        "Tschechien"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "nl": "Nederland",
+      "de": "Niederlande"
+    },
+    "explanation": {
+      "fr": "Le Hollandais volant appartient au patrimoine légendaire de Pays-Bas. Il incarne la peur de la mer et des voyages sans retour. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "The Flying Dutchman belongs to the legendary heritage of Netherlands. The Flying Dutchman embodies fear of the sea and voyages with no return. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland. De Vliegende Hollander belichaamt angst voor zee en reizen zonder terugkeer. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Der Fliegende Holländer gehört zum legendären Erbe von Niederlande. Der Fliegende Holländer verkörpert die Angst vor Meer und Fahrten ohne Rückkehr. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "country",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l019_detail",
+    "mode": "legends",
+    "subjectKey": "legend_flying_dutchman",
+    "traditionName": {
+      "fr": "Le Hollandais volant",
+      "en": "The Flying Dutchman",
+      "nl": "De Vliegende Hollander",
+      "de": "Der Fliegende Holländer"
+    },
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "nl": "Nederland",
+      "de": "Niederlande"
+    },
+    "region": {
+      "fr": "Légendes maritimes",
+      "en": "Maritime legends",
+      "nl": "Maritieme legendes",
+      "de": "Seefahrerlegenden"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Quel détail est associé à Le Hollandais volant ?",
+      "en": "Which detail is associated with The Flying Dutchman?",
+      "nl": "Welk detail hoort bij De Vliegende Hollander?",
+      "de": "Welches Detail gehört zu Der Fliegende Holländer?"
+    },
+    "answers": {
+      "fr": [
+        "Il incarne la peur de la mer et des voyages sans retour.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
+      ],
+      "en": [
+        "The Flying Dutchman embodies fear of the sea and voyages with no return.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
+      ],
+      "nl": [
+        "De Vliegende Hollander belichaamt angst voor zee en reizen zonder terugkeer.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
+      ],
+      "de": [
+        "Der Fliegende Holländer verkörpert die Angst vor Meer und Fahrten ohne Rückkehr.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Il incarne la peur de la mer et des voyages sans retour.",
+      "en": "The Flying Dutchman embodies fear of the sea and voyages with no return.",
+      "nl": "De Vliegende Hollander belichaamt angst voor zee en reizen zonder terugkeer.",
+      "de": "Der Fliegende Holländer verkörpert die Angst vor Meer und Fahrten ohne Rückkehr."
+    },
+    "explanation": {
+      "fr": "Le Hollandais volant appartient au patrimoine légendaire de Pays-Bas. Il incarne la peur de la mer et des voyages sans retour. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "The Flying Dutchman belongs to the legendary heritage of Netherlands. The Flying Dutchman embodies fear of the sea and voyages with no return. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland. De Vliegende Hollander belichaamt angst voor zee en reizen zonder terugkeer. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Der Fliegende Holländer gehört zum legendären Erbe von Niederlande. Der Fliegende Holländer verkörpert die Angst vor Meer und Fahrten ohne Rückkehr. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "detail",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l019_riddle",
+    "mode": "legends",
+    "subjectKey": "legend_flying_dutchman",
+    "traditionName": {
+      "fr": "Le Hollandais volant",
+      "en": "The Flying Dutchman",
+      "nl": "De Vliegende Hollander",
+      "de": "Der Fliegende Holländer"
+    },
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "nl": "Nederland",
+      "de": "Niederlande"
+    },
+    "region": {
+      "fr": "Légendes maritimes",
+      "en": "Maritime legends",
+      "nl": "Maritieme legendes",
+      "de": "Seefahrerlegenden"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Devinette : je viens de Légendes maritimes et je suis lié à ce détail : Il incarne la peur de la mer et des voyages sans retour.. Qui suis-je ?",
+      "en": "Riddle: I come from Maritime legends and I am linked to this detail: The Flying Dutchman embodies fear of the sea and voyages with no return.. What am I?",
+      "nl": "Raadsel: ik kom uit Maritieme legendes en ben verbonden met dit detail: De Vliegende Hollander belichaamt angst voor zee en reizen zonder terugkeer.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Seefahrerlegenden und bin mit diesem Detail verbunden: Der Fliegende Holländer verkörpert die Angst vor Meer und Fahrten ohne Rückkehr.. Was bin ich?"
+    },
+    "answers": {
+      "fr": [
+        "Le Hollandais volant",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
+      ],
+      "en": [
+        "The Flying Dutchman",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
+      ],
+      "nl": [
+        "De Vliegende Hollander",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
+      ],
+      "de": [
+        "Der Fliegende Holländer",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Le Hollandais volant",
+      "en": "The Flying Dutchman",
+      "nl": "De Vliegende Hollander",
+      "de": "Der Fliegende Holländer"
+    },
+    "explanation": {
+      "fr": "Le Hollandais volant appartient au patrimoine légendaire de Pays-Bas. Il incarne la peur de la mer et des voyages sans retour. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "The Flying Dutchman belongs to the legendary heritage of Netherlands. The Flying Dutchman embodies fear of the sea and voyages with no return. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland. De Vliegende Hollander belichaamt angst voor zee en reizen zonder terugkeer. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Der Fliegende Holländer gehört zum legendären Erbe von Niederlande. Der Fliegende Holländer verkörpert die Angst vor Meer und Fahrten ohne Rückkehr. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "riddle",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l019_tf",
+    "mode": "legends",
+    "subjectKey": "legend_flying_dutchman",
+    "traditionName": {
+      "fr": "Le Hollandais volant",
+      "en": "The Flying Dutchman",
+      "nl": "De Vliegende Hollander",
+      "de": "Der Fliegende Holländer"
+    },
+    "country": {
+      "fr": "Pays-Bas",
+      "en": "Netherlands",
+      "nl": "Nederland",
+      "de": "Niederlande"
+    },
+    "region": {
+      "fr": "Légendes maritimes",
+      "en": "Maritime legends",
+      "nl": "Maritieme legendes",
+      "de": "Seefahrerlegenden"
+    },
+    "scenario": {
+      "fr": "Le Hollandais volant est associé à Pays-Bas.",
+      "en": "The Flying Dutchman is associated with Netherlands.",
+      "nl": "De Vliegende Hollander is verbonden met Nederland.",
+      "de": "Der Fliegende Holländer ist mit Niederlande verbunden."
+    },
+    "question": {
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
+    },
+    "answers": {
+      "fr": [
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
+      ],
+      "en": [
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
+      ],
+      "nl": [
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
+      ],
+      "de": [
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
+    },
+    "explanation": {
+      "fr": "Le Hollandais volant appartient au patrimoine légendaire de Pays-Bas. Il incarne la peur de la mer et des voyages sans retour. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "The Flying Dutchman belongs to the legendary heritage of Netherlands. The Flying Dutchman embodies fear of the sea and voyages with no return. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland. De Vliegende Hollander belichaamt angst voor zee en reizen zonder terugkeer. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "Der Fliegende Holländer gehört zum legendären Erbe von Niederlande. Der Fliegende Holländer verkörpert die Angst vor Meer und Fahrten ohne Rückkehr. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "truefalse",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l020_what",
+    "mode": "legends",
+    "subjectKey": "legend_santa_compana",
+    "traditionName": {
+      "fr": "La Santa Compaña",
+      "en": "La Santa Compaña",
+      "nl": "La Santa Compaña",
+      "de": "La Santa Compaña"
+    },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje",
+      "de": "Spanien"
+    },
+    "region": {
+      "fr": "Galice",
+      "en": "Galicia",
+      "nl": "Galicië",
+      "de": "Galicien"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Que sont / qu’est-ce que La Santa Compaña ?",
+      "en": "What are / what is La Santa Compaña?",
+      "nl": "Wat zijn / wat is La Santa Compaña?",
+      "de": "Was ist / was sind La Santa Compaña?"
+    },
+    "answers": {
+      "fr": [
+        "Une procession fantomatique nocturne",
+        "Une recette de fête",
+        "Une ancienne monnaie",
+        "Une institution européenne"
+      ],
+      "en": [
+        "A ghostly night procession",
+        "A festive recipe",
+        "An old currency",
+        "A European institution"
+      ],
+      "nl": [
+        "Een nachtelijke spookprocessie",
+        "Een feestgerecht",
+        "Een oude munteenheid",
+        "Een Europese instelling"
+      ],
+      "de": [
+        "Eine nächtliche Geisterprozession",
+        "Ein Festgericht",
+        "Eine alte Währung",
+        "Eine europäische Institution"
+      ]
+    },
+    "correctAnswer": {
+      "fr": "Une procession fantomatique nocturne",
+      "en": "A ghostly night procession",
+      "nl": "Een nachtelijke spookprocessie",
+      "de": "Eine nächtliche Geisterprozession"
+    },
+    "explanation": {
+      "fr": "La Santa Compaña appartient au patrimoine légendaire de Espagne. Elle traverse les chemins dans certaines légendes galiciennes. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "La Santa Compaña belongs to the legendary heritage of Spain. It walks along paths in some Galician legends. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje. Ze trekt over wegen in sommige Galicische legendes. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "La Santa Compaña gehört zum legendären Erbe von Spanien. Sie zieht in galicischen Legenden über Wege. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
+    },
+    "questionType": "what",
+    "image": null,
+    "showImageInQuestion": false
+  },
+  {
+    "id": "l020_country",
+    "mode": "legends",
+    "subjectKey": "legend_santa_compana",
+    "traditionName": {
+      "fr": "La Santa Compaña",
+      "en": "La Santa Compaña",
+      "nl": "La Santa Compaña",
+      "de": "La Santa Compaña"
+    },
+    "country": {
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje",
+      "de": "Spanien"
+    },
+    "region": {
+      "fr": "Galice",
+      "en": "Galicia",
+      "nl": "Galicië",
+      "de": "Galicien"
+    },
+    "scenario": {
+      "fr": "",
+      "en": "",
+      "nl": "",
+      "de": ""
+    },
+    "question": {
+      "fr": "Dans quel pays ou région cette légende est-elle surtout connue ?",
+      "en": "In which country or region is this legend mainly known?",
+      "nl": "In welk land of welke regio is deze legende vooral bekend?",
+      "de": "In welchem Land oder welcher Region ist diese Legende vor allem bekannt?"
     },
     "answers": {
       "fr": [
@@ -13388,24 +11356,24 @@ const LEGENDS_BANK=[
       "de": "Spanien"
     },
     "explanation": {
-      "fr": "Créature de Espagne appartient au folklore de Espagne. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Spain belongs to the folklore of Spain. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Spanje behoort tot de folklore van Spanje. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Spanien gehört zur Folklore von Spanien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "La Santa Compaña appartient au patrimoine légendaire de Espagne. Elle traverse les chemins dans certaines légendes galiciennes. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "La Santa Compaña belongs to the legendary heritage of Spain. It walks along paths in some Galician legends. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje. Ze trekt over wegen in sommige Galicische legendes. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "La Santa Compaña gehört zum legendären Erbe von Spanien. Sie zieht in galicischen Legenden über Wege. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
     },
     "questionType": "country",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l012_what",
+    "id": "l020_detail",
     "mode": "legends",
-    "subjectKey": "legend_012",
+    "subjectKey": "legend_santa_compana",
     "traditionName": {
-      "fr": "Créature de Espagne",
-      "en": "Creature of Spain",
-      "nl": "Wezen van Spanje",
-      "de": "Wesen aus Spanien"
+      "fr": "La Santa Compaña",
+      "en": "La Santa Compaña",
+      "nl": "La Santa Compaña",
+      "de": "La Santa Compaña"
     },
     "country": {
       "fr": "Espagne",
@@ -13414,10 +11382,10 @@ const LEGENDS_BANK=[
       "de": "Spanien"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Galice",
+      "en": "Galicia",
+      "nl": "Galicië",
+      "de": "Galicien"
     },
     "scenario": {
       "fr": "",
@@ -13426,74 +11394,74 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Espagne ?",
-      "en": "What are / what is Creature of Spain?",
-      "nl": "Wat zijn / wat is Wezen van Spanje?",
-      "de": "Was ist / was sind Wesen aus Spanien?"
+      "fr": "Quel détail est associé à La Santa Compaña ?",
+      "en": "Which detail is associated with La Santa Compaña?",
+      "nl": "Welk detail hoort bij La Santa Compaña?",
+      "de": "Welches Detail gehört zu La Santa Compaña?"
     },
     "answers": {
       "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
+        "Elle traverse les chemins dans certaines légendes galiciennes.",
+        "Une compétition sportive moderne",
+        "Une recette à base de chocolat",
+        "Un traité administratif"
       ],
       "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
+        "It walks along paths in some Galician legends.",
+        "A modern sports competition",
+        "A chocolate-based recipe",
+        "An administrative treaty"
       ],
       "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
+        "Ze trekt over wegen in sommige Galicische legendes.",
+        "Een moderne sportwedstrijd",
+        "Een recept met chocolade",
+        "Een administratief verdrag"
       ],
       "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
+        "Sie zieht in galicischen Legenden über Wege.",
+        "Ein moderner Sportwettbewerb",
+        "Ein Rezept mit Schokolade",
+        "Ein Verwaltungsvertrag"
       ]
     },
     "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
+      "fr": "Elle traverse les chemins dans certaines légendes galiciennes.",
+      "en": "It walks along paths in some Galician legends.",
+      "nl": "Ze trekt over wegen in sommige Galicische legendes.",
+      "de": "Sie zieht in galicischen Legenden über Wege."
     },
     "explanation": {
-      "fr": "Créature de Espagne appartient au folklore de Espagne. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Spain belongs to the folklore of Spain. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Spanje behoort tot de folklore van Spanje. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Spanien gehört zur Folklore von Spanien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "La Santa Compaña appartient au patrimoine légendaire de Espagne. Elle traverse les chemins dans certaines légendes galiciennes. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "La Santa Compaña belongs to the legendary heritage of Spain. It walks along paths in some Galician legends. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje. Ze trekt over wegen in sommige Galicische legendes. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "La Santa Compaña gehört zum legendären Erbe von Spanien. Sie zieht in galicischen Legenden über Wege. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
     },
-    "questionType": "what",
+    "questionType": "detail",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l013_country",
+    "id": "l020_riddle",
     "mode": "legends",
-    "subjectKey": "legend_013",
+    "subjectKey": "legend_santa_compana",
     "traditionName": {
-      "fr": "Légende de Pologne",
-      "en": "Legend of Poland",
-      "nl": "Legende van Polen",
-      "de": "Legende aus Polen"
+      "fr": "La Santa Compaña",
+      "en": "La Santa Compaña",
+      "nl": "La Santa Compaña",
+      "de": "La Santa Compaña"
     },
     "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje",
+      "de": "Spanien"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Galice",
+      "en": "Galicia",
+      "nl": "Galicië",
+      "de": "Galicien"
     },
     "scenario": {
       "fr": "",
@@ -13502,5142 +11470,126 @@ const LEGENDS_BANK=[
       "de": ""
     },
     "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Pologne ?",
-      "en": "In which country is this legend mainly known: Legend of Poland?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Polen?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Polen?"
+      "fr": "Devinette : je viens de Galice et je suis lié à ce détail : Elle traverse les chemins dans certaines légendes galiciennes.. Qui suis-je ?",
+      "en": "Riddle: I come from Galicia and I am linked to this detail: It walks along paths in some Galician legends.. What am I?",
+      "nl": "Raadsel: ik kom uit Galicië en ben verbonden met dit detail: Ze trekt over wegen in sommige Galicische legendes.. Wat ben ik?",
+      "de": "Rätsel: Ich komme aus Galicien und bin mit diesem Detail verbunden: Sie zieht in galicischen Legenden über Wege.. Was bin ich?"
     },
     "answers": {
       "fr": [
-        "Pologne",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
+        "La Santa Compaña",
+        "Les Nutons",
+        "Krampus",
+        "Le Golem de Prague"
       ],
       "en": [
-        "Poland",
-        "Belgium",
-        "Austria",
-        "Czechia"
+        "La Santa Compaña",
+        "The Nutons",
+        "Krampus",
+        "The Golem of Prague"
       ],
       "nl": [
-        "Polen",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
+        "La Santa Compaña",
+        "De Nutons",
+        "Krampus",
+        "De Golem van Praag"
       ],
       "de": [
-        "Polen",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
+        "La Santa Compaña",
+        "Die Nutons",
+        "Krampus",
+        "Der Golem von Prag"
       ]
     },
     "correctAnswer": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
+      "fr": "La Santa Compaña",
+      "en": "La Santa Compaña",
+      "nl": "La Santa Compaña",
+      "de": "La Santa Compaña"
     },
     "explanation": {
-      "fr": "Légende de Pologne appartient au folklore de Pologne. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Poland belongs to the folklore of Poland. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Polen behoort tot de folklore van Polen. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Polen gehört zur Folklore von Polen. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "La Santa Compaña appartient au patrimoine légendaire de Espagne. Elle traverse les chemins dans certaines légendes galiciennes. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "La Santa Compaña belongs to the legendary heritage of Spain. It walks along paths in some Galician legends. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje. Ze trekt over wegen in sommige Galicische legendes. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "La Santa Compaña gehört zum legendären Erbe von Spanien. Sie zieht in galicischen Legenden über Wege. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
     },
-    "questionType": "country",
+    "questionType": "riddle",
     "image": null,
     "showImageInQuestion": false
   },
   {
-    "id": "l013_what",
+    "id": "l020_tf",
     "mode": "legends",
-    "subjectKey": "legend_013",
+    "subjectKey": "legend_santa_compana",
     "traditionName": {
-      "fr": "Légende de Pologne",
-      "en": "Legend of Poland",
-      "nl": "Legende van Polen",
-      "de": "Legende aus Polen"
+      "fr": "La Santa Compaña",
+      "en": "La Santa Compaña",
+      "nl": "La Santa Compaña",
+      "de": "La Santa Compaña"
     },
     "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
+      "fr": "Espagne",
+      "en": "Spain",
+      "nl": "Spanje",
+      "de": "Spanien"
     },
     "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
+      "fr": "Galice",
+      "en": "Galicia",
+      "nl": "Galicië",
+      "de": "Galicien"
     },
     "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Pologne ?",
-      "en": "What are / what is Legend of Poland?",
-      "nl": "Wat zijn / wat is Legende van Polen?",
-      "de": "Was ist / was sind Legende aus Polen?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Pologne appartient au folklore de Pologne. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Poland belongs to the folklore of Poland. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Polen behoort tot de folklore van Polen. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Polen gehört zur Folklore von Polen. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l014_country",
-    "mode": "legends",
-    "subjectKey": "legend_014",
-    "traditionName": {
-      "fr": "Créature de Pologne",
-      "en": "Creature of Poland",
-      "nl": "Wezen van Polen",
-      "de": "Wesen aus Polen"
-    },
-    "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Pologne ?",
-      "en": "In which country is this legend mainly known: Creature of Poland?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Polen?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Polen?"
-    },
-    "answers": {
-      "fr": [
-        "Pologne",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Poland",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Polen",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Polen",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
-    },
-    "explanation": {
-      "fr": "Créature de Pologne appartient au folklore de Pologne. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Poland belongs to the folklore of Poland. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Polen behoort tot de folklore van Polen. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Polen gehört zur Folklore von Polen. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l014_what",
-    "mode": "legends",
-    "subjectKey": "legend_014",
-    "traditionName": {
-      "fr": "Créature de Pologne",
-      "en": "Creature of Poland",
-      "nl": "Wezen van Polen",
-      "de": "Wesen aus Polen"
-    },
-    "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Pologne ?",
-      "en": "What are / what is Creature of Poland?",
-      "nl": "Wat zijn / wat is Wezen van Polen?",
-      "de": "Was ist / was sind Wesen aus Polen?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Pologne appartient au folklore de Pologne. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Poland belongs to the folklore of Poland. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Polen behoort tot de folklore van Polen. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Polen gehört zur Folklore von Polen. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l015_country",
-    "mode": "legends",
-    "subjectKey": "legend_015",
-    "traditionName": {
-      "fr": "Légende de Portugal",
-      "en": "Legend of Portugal",
-      "nl": "Legende van Portugal",
-      "de": "Legende aus Portugal"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Portugal ?",
-      "en": "In which country is this legend mainly known: Legend of Portugal?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Portugal?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Portugal?"
-    },
-    "answers": {
-      "fr": [
-        "Portugal",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Portugal",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Portugal",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Portugal",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "explanation": {
-      "fr": "Légende de Portugal appartient au folklore de Portugal. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Portugal belongs to the folklore of Portugal. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Portugal behoort tot de folklore van Portugal. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Portugal gehört zur Folklore von Portugal. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l015_what",
-    "mode": "legends",
-    "subjectKey": "legend_015",
-    "traditionName": {
-      "fr": "Légende de Portugal",
-      "en": "Legend of Portugal",
-      "nl": "Legende van Portugal",
-      "de": "Legende aus Portugal"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Portugal ?",
-      "en": "What are / what is Legend of Portugal?",
-      "nl": "Wat zijn / wat is Legende van Portugal?",
-      "de": "Was ist / was sind Legende aus Portugal?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Portugal appartient au folklore de Portugal. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Portugal belongs to the folklore of Portugal. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Portugal behoort tot de folklore van Portugal. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Portugal gehört zur Folklore von Portugal. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l016_country",
-    "mode": "legends",
-    "subjectKey": "legend_016",
-    "traditionName": {
-      "fr": "Créature de Portugal",
-      "en": "Creature of Portugal",
-      "nl": "Wezen van Portugal",
-      "de": "Wesen aus Portugal"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Portugal ?",
-      "en": "In which country is this legend mainly known: Creature of Portugal?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Portugal?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Portugal?"
-    },
-    "answers": {
-      "fr": [
-        "Portugal",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Portugal",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Portugal",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Portugal",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "explanation": {
-      "fr": "Créature de Portugal appartient au folklore de Portugal. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Portugal belongs to the folklore of Portugal. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Portugal behoort tot de folklore van Portugal. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Portugal gehört zur Folklore von Portugal. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l016_what",
-    "mode": "legends",
-    "subjectKey": "legend_016",
-    "traditionName": {
-      "fr": "Créature de Portugal",
-      "en": "Creature of Portugal",
-      "nl": "Wezen van Portugal",
-      "de": "Wesen aus Portugal"
-    },
-    "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Portugal ?",
-      "en": "What are / what is Creature of Portugal?",
-      "nl": "Wat zijn / wat is Wezen van Portugal?",
-      "de": "Was ist / was sind Wesen aus Portugal?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Portugal appartient au folklore de Portugal. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Portugal belongs to the folklore of Portugal. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Portugal behoort tot de folklore van Portugal. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Portugal gehört zur Folklore von Portugal. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l017_country",
-    "mode": "legends",
-    "subjectKey": "legend_017",
-    "traditionName": {
-      "fr": "Légende de Roumanie",
-      "en": "Legend of Romania",
-      "nl": "Legende van Roemenië",
-      "de": "Legende aus Rumänien"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Roumanie ?",
-      "en": "In which country is this legend mainly known: Legend of Romania?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Roemenië?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Rumänien?"
-    },
-    "answers": {
-      "fr": [
-        "Roumanie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Romania",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Roemenië",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Rumänien",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "explanation": {
-      "fr": "Légende de Roumanie appartient au folklore de Roumanie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Romania belongs to the folklore of Romania. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Roemenië behoort tot de folklore van Roemenië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Rumänien gehört zur Folklore von Rumänien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l017_what",
-    "mode": "legends",
-    "subjectKey": "legend_017",
-    "traditionName": {
-      "fr": "Légende de Roumanie",
-      "en": "Legend of Romania",
-      "nl": "Legende van Roemenië",
-      "de": "Legende aus Rumänien"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Roumanie ?",
-      "en": "What are / what is Legend of Romania?",
-      "nl": "Wat zijn / wat is Legende van Roemenië?",
-      "de": "Was ist / was sind Legende aus Rumänien?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Roumanie appartient au folklore de Roumanie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Romania belongs to the folklore of Romania. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Roemenië behoort tot de folklore van Roemenië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Rumänien gehört zur Folklore von Rumänien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l018_country",
-    "mode": "legends",
-    "subjectKey": "legend_018",
-    "traditionName": {
-      "fr": "Créature de Roumanie",
-      "en": "Creature of Romania",
-      "nl": "Wezen van Roemenië",
-      "de": "Wesen aus Rumänien"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Roumanie ?",
-      "en": "In which country is this legend mainly known: Creature of Romania?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Roemenië?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Rumänien?"
-    },
-    "answers": {
-      "fr": [
-        "Roumanie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Romania",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Roemenië",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Rumänien",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "explanation": {
-      "fr": "Créature de Roumanie appartient au folklore de Roumanie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Romania belongs to the folklore of Romania. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Roemenië behoort tot de folklore van Roemenië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Rumänien gehört zur Folklore von Rumänien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l018_what",
-    "mode": "legends",
-    "subjectKey": "legend_018",
-    "traditionName": {
-      "fr": "Créature de Roumanie",
-      "en": "Creature of Romania",
-      "nl": "Wezen van Roemenië",
-      "de": "Wesen aus Rumänien"
-    },
-    "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Roumanie ?",
-      "en": "What are / what is Creature of Romania?",
-      "nl": "Wat zijn / wat is Wezen van Roemenië?",
-      "de": "Was ist / was sind Wesen aus Rumänien?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Roumanie appartient au folklore de Roumanie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Romania belongs to the folklore of Romania. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Roemenië behoort tot de folklore van Roemenië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Rumänien gehört zur Folklore von Rumänien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l019_country",
-    "mode": "legends",
-    "subjectKey": "legend_019",
-    "traditionName": {
-      "fr": "Légende de Finlande",
-      "en": "Legend of Finland",
-      "nl": "Legende van Finland",
-      "de": "Legende aus Finnland"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Finlande ?",
-      "en": "In which country is this legend mainly known: Legend of Finland?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Finland?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Finnland?"
-    },
-    "answers": {
-      "fr": [
-        "Finlande",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Finland",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Finland",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Finnland",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "explanation": {
-      "fr": "Légende de Finlande appartient au folklore de Finlande. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Finland belongs to the folklore of Finland. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Finland behoort tot de folklore van Finland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Finnland gehört zur Folklore von Finnland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l019_what",
-    "mode": "legends",
-    "subjectKey": "legend_019",
-    "traditionName": {
-      "fr": "Légende de Finlande",
-      "en": "Legend of Finland",
-      "nl": "Legende van Finland",
-      "de": "Legende aus Finnland"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Finlande ?",
-      "en": "What are / what is Legend of Finland?",
-      "nl": "Wat zijn / wat is Legende van Finland?",
-      "de": "Was ist / was sind Legende aus Finnland?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Finlande appartient au folklore de Finlande. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Finland belongs to the folklore of Finland. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Finland behoort tot de folklore van Finland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Finnland gehört zur Folklore von Finnland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l020_country",
-    "mode": "legends",
-    "subjectKey": "legend_020",
-    "traditionName": {
-      "fr": "Créature de Finlande",
-      "en": "Creature of Finland",
-      "nl": "Wezen van Finland",
-      "de": "Wesen aus Finnland"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Finlande ?",
-      "en": "In which country is this legend mainly known: Creature of Finland?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Finland?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Finnland?"
-    },
-    "answers": {
-      "fr": [
-        "Finlande",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Finland",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Finland",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Finnland",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "explanation": {
-      "fr": "Créature de Finlande appartient au folklore de Finlande. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Finland belongs to the folklore of Finland. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Finland behoort tot de folklore van Finland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Finnland gehört zur Folklore von Finnland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l020_what",
-    "mode": "legends",
-    "subjectKey": "legend_020",
-    "traditionName": {
-      "fr": "Créature de Finlande",
-      "en": "Creature of Finland",
-      "nl": "Wezen van Finland",
-      "de": "Wesen aus Finnland"
-    },
-    "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Finlande ?",
-      "en": "What are / what is Creature of Finland?",
-      "nl": "Wat zijn / wat is Wezen van Finland?",
-      "de": "Was ist / was sind Wesen aus Finnland?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Finlande appartient au folklore de Finlande. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Finland belongs to the folklore of Finland. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Finland behoort tot de folklore van Finland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Finnland gehört zur Folklore von Finnland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l021_country",
-    "mode": "legends",
-    "subjectKey": "legend_021",
-    "traditionName": {
-      "fr": "Légende de Grèce",
-      "en": "Legend of Greece",
-      "nl": "Legende van Griekenland",
-      "de": "Legende aus Griechenland"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Grèce ?",
-      "en": "In which country is this legend mainly known: Legend of Greece?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Griekenland?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Griechenland?"
-    },
-    "answers": {
-      "fr": [
-        "Grèce",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Greece",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Griekenland",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Griechenland",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "explanation": {
-      "fr": "Légende de Grèce appartient au folklore de Grèce. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Greece belongs to the folklore of Greece. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Griekenland behoort tot de folklore van Griekenland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Griechenland gehört zur Folklore von Griechenland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l021_what",
-    "mode": "legends",
-    "subjectKey": "legend_021",
-    "traditionName": {
-      "fr": "Légende de Grèce",
-      "en": "Legend of Greece",
-      "nl": "Legende van Griekenland",
-      "de": "Legende aus Griechenland"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Grèce ?",
-      "en": "What are / what is Legend of Greece?",
-      "nl": "Wat zijn / wat is Legende van Griekenland?",
-      "de": "Was ist / was sind Legende aus Griechenland?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Grèce appartient au folklore de Grèce. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Greece belongs to the folklore of Greece. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Griekenland behoort tot de folklore van Griekenland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Griechenland gehört zur Folklore von Griechenland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l022_country",
-    "mode": "legends",
-    "subjectKey": "legend_022",
-    "traditionName": {
-      "fr": "Créature de Grèce",
-      "en": "Creature of Greece",
-      "nl": "Wezen van Griekenland",
-      "de": "Wesen aus Griechenland"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Grèce ?",
-      "en": "In which country is this legend mainly known: Creature of Greece?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Griekenland?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Griechenland?"
-    },
-    "answers": {
-      "fr": [
-        "Grèce",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Greece",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Griekenland",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Griechenland",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "explanation": {
-      "fr": "Créature de Grèce appartient au folklore de Grèce. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Greece belongs to the folklore of Greece. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Griekenland behoort tot de folklore van Griekenland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Griechenland gehört zur Folklore von Griechenland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l022_what",
-    "mode": "legends",
-    "subjectKey": "legend_022",
-    "traditionName": {
-      "fr": "Créature de Grèce",
-      "en": "Creature of Greece",
-      "nl": "Wezen van Griekenland",
-      "de": "Wesen aus Griechenland"
-    },
-    "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Grèce ?",
-      "en": "What are / what is Creature of Greece?",
-      "nl": "Wat zijn / wat is Wezen van Griekenland?",
-      "de": "Was ist / was sind Wesen aus Griechenland?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Grèce appartient au folklore de Grèce. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Greece belongs to the folklore of Greece. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Griekenland behoort tot de folklore van Griekenland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Griechenland gehört zur Folklore von Griechenland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l023_country",
-    "mode": "legends",
-    "subjectKey": "legend_023",
-    "traditionName": {
-      "fr": "Légende de Pays-Bas",
-      "en": "Legend of Netherlands",
-      "nl": "Legende van Nederland",
-      "de": "Legende aus Niederlande"
-    },
-    "country": {
-      "fr": "Pays-Bas",
-      "en": "Netherlands",
-      "nl": "Nederland",
-      "de": "Niederlande"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Pays-Bas ?",
-      "en": "In which country is this legend mainly known: Legend of Netherlands?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Nederland?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Niederlande?"
-    },
-    "answers": {
-      "fr": [
-        "Pays-Bas",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Netherlands",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Nederland",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Niederlande",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Pays-Bas",
-      "en": "Netherlands",
-      "nl": "Nederland",
-      "de": "Niederlande"
-    },
-    "explanation": {
-      "fr": "Légende de Pays-Bas appartient au folklore de Pays-Bas. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Netherlands belongs to the folklore of Netherlands. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Nederland behoort tot de folklore van Nederland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Niederlande gehört zur Folklore von Niederlande. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l023_what",
-    "mode": "legends",
-    "subjectKey": "legend_023",
-    "traditionName": {
-      "fr": "Légende de Pays-Bas",
-      "en": "Legend of Netherlands",
-      "nl": "Legende van Nederland",
-      "de": "Legende aus Niederlande"
-    },
-    "country": {
-      "fr": "Pays-Bas",
-      "en": "Netherlands",
-      "nl": "Nederland",
-      "de": "Niederlande"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Pays-Bas ?",
-      "en": "What are / what is Legend of Netherlands?",
-      "nl": "Wat zijn / wat is Legende van Nederland?",
-      "de": "Was ist / was sind Legende aus Niederlande?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Pays-Bas appartient au folklore de Pays-Bas. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Netherlands belongs to the folklore of Netherlands. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Nederland behoort tot de folklore van Nederland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Niederlande gehört zur Folklore von Niederlande. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l024_country",
-    "mode": "legends",
-    "subjectKey": "legend_024",
-    "traditionName": {
-      "fr": "Créature de Pays-Bas",
-      "en": "Creature of Netherlands",
-      "nl": "Wezen van Nederland",
-      "de": "Wesen aus Niederlande"
-    },
-    "country": {
-      "fr": "Pays-Bas",
-      "en": "Netherlands",
-      "nl": "Nederland",
-      "de": "Niederlande"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Pays-Bas ?",
-      "en": "In which country is this legend mainly known: Creature of Netherlands?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Nederland?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Niederlande?"
-    },
-    "answers": {
-      "fr": [
-        "Pays-Bas",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Netherlands",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Nederland",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Niederlande",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Pays-Bas",
-      "en": "Netherlands",
-      "nl": "Nederland",
-      "de": "Niederlande"
-    },
-    "explanation": {
-      "fr": "Créature de Pays-Bas appartient au folklore de Pays-Bas. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Netherlands belongs to the folklore of Netherlands. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Nederland behoort tot de folklore van Nederland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Niederlande gehört zur Folklore von Niederlande. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l024_what",
-    "mode": "legends",
-    "subjectKey": "legend_024",
-    "traditionName": {
-      "fr": "Créature de Pays-Bas",
-      "en": "Creature of Netherlands",
-      "nl": "Wezen van Nederland",
-      "de": "Wesen aus Niederlande"
-    },
-    "country": {
-      "fr": "Pays-Bas",
-      "en": "Netherlands",
-      "nl": "Nederland",
-      "de": "Niederlande"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Pays-Bas ?",
-      "en": "What are / what is Creature of Netherlands?",
-      "nl": "Wat zijn / wat is Wezen van Nederland?",
-      "de": "Was ist / was sind Wesen aus Niederlande?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Pays-Bas appartient au folklore de Pays-Bas. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Netherlands belongs to the folklore of Netherlands. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Nederland behoort tot de folklore van Nederland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Niederlande gehört zur Folklore von Niederlande. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l025_country",
-    "mode": "legends",
-    "subjectKey": "legend_025",
-    "traditionName": {
-      "fr": "Légende de Malte",
-      "en": "Legend of Malta",
-      "nl": "Legende van Malta",
-      "de": "Legende aus Malta"
-    },
-    "country": {
-      "fr": "Malte",
-      "en": "Malta",
-      "nl": "Malta",
-      "de": "Malta"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Malte ?",
-      "en": "In which country is this legend mainly known: Legend of Malta?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Malta?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Malta?"
-    },
-    "answers": {
-      "fr": [
-        "Malte",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Malta",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Malta",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Malta",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Malte",
-      "en": "Malta",
-      "nl": "Malta",
-      "de": "Malta"
-    },
-    "explanation": {
-      "fr": "Légende de Malte appartient au folklore de Malte. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Malta belongs to the folklore of Malta. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Malta behoort tot de folklore van Malta. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Malta gehört zur Folklore von Malta. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l025_what",
-    "mode": "legends",
-    "subjectKey": "legend_025",
-    "traditionName": {
-      "fr": "Légende de Malte",
-      "en": "Legend of Malta",
-      "nl": "Legende van Malta",
-      "de": "Legende aus Malta"
-    },
-    "country": {
-      "fr": "Malte",
-      "en": "Malta",
-      "nl": "Malta",
-      "de": "Malta"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Malte ?",
-      "en": "What are / what is Legend of Malta?",
-      "nl": "Wat zijn / wat is Legende van Malta?",
-      "de": "Was ist / was sind Legende aus Malta?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Malte appartient au folklore de Malte. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Malta belongs to the folklore of Malta. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Malta behoort tot de folklore van Malta. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Malta gehört zur Folklore von Malta. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l026_country",
-    "mode": "legends",
-    "subjectKey": "legend_026",
-    "traditionName": {
-      "fr": "Créature de Malte",
-      "en": "Creature of Malta",
-      "nl": "Wezen van Malta",
-      "de": "Wesen aus Malta"
-    },
-    "country": {
-      "fr": "Malte",
-      "en": "Malta",
-      "nl": "Malta",
-      "de": "Malta"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Malte ?",
-      "en": "In which country is this legend mainly known: Creature of Malta?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Malta?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Malta?"
-    },
-    "answers": {
-      "fr": [
-        "Malte",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Malta",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Malta",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Malta",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Malte",
-      "en": "Malta",
-      "nl": "Malta",
-      "de": "Malta"
-    },
-    "explanation": {
-      "fr": "Créature de Malte appartient au folklore de Malte. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Malta belongs to the folklore of Malta. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Malta behoort tot de folklore van Malta. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Malta gehört zur Folklore von Malta. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l026_what",
-    "mode": "legends",
-    "subjectKey": "legend_026",
-    "traditionName": {
-      "fr": "Créature de Malte",
-      "en": "Creature of Malta",
-      "nl": "Wezen van Malta",
-      "de": "Wesen aus Malta"
-    },
-    "country": {
-      "fr": "Malte",
-      "en": "Malta",
-      "nl": "Malta",
-      "de": "Malta"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Malte ?",
-      "en": "What are / what is Creature of Malta?",
-      "nl": "Wat zijn / wat is Wezen van Malta?",
-      "de": "Was ist / was sind Wesen aus Malta?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Malte appartient au folklore de Malte. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Malta belongs to the folklore of Malta. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Malta behoort tot de folklore van Malta. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Malta gehört zur Folklore von Malta. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l027_country",
-    "mode": "legends",
-    "subjectKey": "legend_027",
-    "traditionName": {
-      "fr": "Légende de Danemark",
-      "en": "Legend of Denmark",
-      "nl": "Legende van Denemarken",
-      "de": "Legende aus Dänemark"
-    },
-    "country": {
-      "fr": "Danemark",
-      "en": "Denmark",
-      "nl": "Denemarken",
-      "de": "Dänemark"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Danemark ?",
-      "en": "In which country is this legend mainly known: Legend of Denmark?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Denemarken?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Dänemark?"
-    },
-    "answers": {
-      "fr": [
-        "Danemark",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Denmark",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Denemarken",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Dänemark",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Danemark",
-      "en": "Denmark",
-      "nl": "Denemarken",
-      "de": "Dänemark"
-    },
-    "explanation": {
-      "fr": "Légende de Danemark appartient au folklore de Danemark. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Denmark belongs to the folklore of Denmark. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Denemarken behoort tot de folklore van Denemarken. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Dänemark gehört zur Folklore von Dänemark. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l027_what",
-    "mode": "legends",
-    "subjectKey": "legend_027",
-    "traditionName": {
-      "fr": "Légende de Danemark",
-      "en": "Legend of Denmark",
-      "nl": "Legende van Denemarken",
-      "de": "Legende aus Dänemark"
-    },
-    "country": {
-      "fr": "Danemark",
-      "en": "Denmark",
-      "nl": "Denemarken",
-      "de": "Dänemark"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Danemark ?",
-      "en": "What are / what is Legend of Denmark?",
-      "nl": "Wat zijn / wat is Legende van Denemarken?",
-      "de": "Was ist / was sind Legende aus Dänemark?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Danemark appartient au folklore de Danemark. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Denmark belongs to the folklore of Denmark. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Denemarken behoort tot de folklore van Denemarken. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Dänemark gehört zur Folklore von Dänemark. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l028_country",
-    "mode": "legends",
-    "subjectKey": "legend_028",
-    "traditionName": {
-      "fr": "Créature de Danemark",
-      "en": "Creature of Denmark",
-      "nl": "Wezen van Denemarken",
-      "de": "Wesen aus Dänemark"
-    },
-    "country": {
-      "fr": "Danemark",
-      "en": "Denmark",
-      "nl": "Denemarken",
-      "de": "Dänemark"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Danemark ?",
-      "en": "In which country is this legend mainly known: Creature of Denmark?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Denemarken?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Dänemark?"
-    },
-    "answers": {
-      "fr": [
-        "Danemark",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Denmark",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Denemarken",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Dänemark",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Danemark",
-      "en": "Denmark",
-      "nl": "Denemarken",
-      "de": "Dänemark"
-    },
-    "explanation": {
-      "fr": "Créature de Danemark appartient au folklore de Danemark. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Denmark belongs to the folklore of Denmark. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Denemarken behoort tot de folklore van Denemarken. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Dänemark gehört zur Folklore von Dänemark. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l028_what",
-    "mode": "legends",
-    "subjectKey": "legend_028",
-    "traditionName": {
-      "fr": "Créature de Danemark",
-      "en": "Creature of Denmark",
-      "nl": "Wezen van Denemarken",
-      "de": "Wesen aus Dänemark"
-    },
-    "country": {
-      "fr": "Danemark",
-      "en": "Denmark",
-      "nl": "Denemarken",
-      "de": "Dänemark"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Danemark ?",
-      "en": "What are / what is Creature of Denmark?",
-      "nl": "Wat zijn / wat is Wezen van Denemarken?",
-      "de": "Was ist / was sind Wesen aus Dänemark?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Danemark appartient au folklore de Danemark. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Denmark belongs to the folklore of Denmark. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Denemarken behoort tot de folklore van Denemarken. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Dänemark gehört zur Folklore von Dänemark. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l029_country",
-    "mode": "legends",
-    "subjectKey": "legend_029",
-    "traditionName": {
-      "fr": "Légende de Lettonie",
-      "en": "Legend of Latvia",
-      "nl": "Legende van Letland",
-      "de": "Legende aus Lettland"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Lettonie ?",
-      "en": "In which country is this legend mainly known: Legend of Latvia?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Letland?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Lettland?"
-    },
-    "answers": {
-      "fr": [
-        "Lettonie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Latvia",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Letland",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Lettland",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "explanation": {
-      "fr": "Légende de Lettonie appartient au folklore de Lettonie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Latvia belongs to the folklore of Latvia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Letland behoort tot de folklore van Letland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Lettland gehört zur Folklore von Lettland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l029_what",
-    "mode": "legends",
-    "subjectKey": "legend_029",
-    "traditionName": {
-      "fr": "Légende de Lettonie",
-      "en": "Legend of Latvia",
-      "nl": "Legende van Letland",
-      "de": "Legende aus Lettland"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Lettonie ?",
-      "en": "What are / what is Legend of Latvia?",
-      "nl": "Wat zijn / wat is Legende van Letland?",
-      "de": "Was ist / was sind Legende aus Lettland?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Lettonie appartient au folklore de Lettonie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Latvia belongs to the folklore of Latvia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Letland behoort tot de folklore van Letland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Lettland gehört zur Folklore von Lettland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l030_country",
-    "mode": "legends",
-    "subjectKey": "legend_030",
-    "traditionName": {
-      "fr": "Créature de Lettonie",
-      "en": "Creature of Latvia",
-      "nl": "Wezen van Letland",
-      "de": "Wesen aus Lettland"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Lettonie ?",
-      "en": "In which country is this legend mainly known: Creature of Latvia?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Letland?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Lettland?"
-    },
-    "answers": {
-      "fr": [
-        "Lettonie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Latvia",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Letland",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Lettland",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "explanation": {
-      "fr": "Créature de Lettonie appartient au folklore de Lettonie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Latvia belongs to the folklore of Latvia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Letland behoort tot de folklore van Letland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Lettland gehört zur Folklore von Lettland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l030_what",
-    "mode": "legends",
-    "subjectKey": "legend_030",
-    "traditionName": {
-      "fr": "Créature de Lettonie",
-      "en": "Creature of Latvia",
-      "nl": "Wezen van Letland",
-      "de": "Wesen aus Lettland"
-    },
-    "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Lettonie ?",
-      "en": "What are / what is Creature of Latvia?",
-      "nl": "Wat zijn / wat is Wezen van Letland?",
-      "de": "Was ist / was sind Wesen aus Lettland?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Lettonie appartient au folklore de Lettonie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Latvia belongs to the folklore of Latvia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Letland behoort tot de folklore van Letland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Lettland gehört zur Folklore von Lettland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l031_country",
-    "mode": "legends",
-    "subjectKey": "legend_031",
-    "traditionName": {
-      "fr": "Légende de Lituanie",
-      "en": "Legend of Lithuania",
-      "nl": "Legende van Litouwen",
-      "de": "Legende aus Litauen"
-    },
-    "country": {
-      "fr": "Lituanie",
-      "en": "Lithuania",
-      "nl": "Litouwen",
-      "de": "Litauen"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Lituanie ?",
-      "en": "In which country is this legend mainly known: Legend of Lithuania?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Litouwen?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Litauen?"
-    },
-    "answers": {
-      "fr": [
-        "Lituanie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Lithuania",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Litouwen",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Litauen",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Lituanie",
-      "en": "Lithuania",
-      "nl": "Litouwen",
-      "de": "Litauen"
-    },
-    "explanation": {
-      "fr": "Légende de Lituanie appartient au folklore de Lituanie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Lithuania belongs to the folklore of Lithuania. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Litouwen behoort tot de folklore van Litouwen. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Litauen gehört zur Folklore von Litauen. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l031_what",
-    "mode": "legends",
-    "subjectKey": "legend_031",
-    "traditionName": {
-      "fr": "Légende de Lituanie",
-      "en": "Legend of Lithuania",
-      "nl": "Legende van Litouwen",
-      "de": "Legende aus Litauen"
-    },
-    "country": {
-      "fr": "Lituanie",
-      "en": "Lithuania",
-      "nl": "Litouwen",
-      "de": "Litauen"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Lituanie ?",
-      "en": "What are / what is Legend of Lithuania?",
-      "nl": "Wat zijn / wat is Legende van Litouwen?",
-      "de": "Was ist / was sind Legende aus Litauen?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Lituanie appartient au folklore de Lituanie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Lithuania belongs to the folklore of Lithuania. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Litouwen behoort tot de folklore van Litouwen. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Litauen gehört zur Folklore von Litauen. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l032_country",
-    "mode": "legends",
-    "subjectKey": "legend_032",
-    "traditionName": {
-      "fr": "Créature de Lituanie",
-      "en": "Creature of Lithuania",
-      "nl": "Wezen van Litouwen",
-      "de": "Wesen aus Litauen"
-    },
-    "country": {
-      "fr": "Lituanie",
-      "en": "Lithuania",
-      "nl": "Litouwen",
-      "de": "Litauen"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Lituanie ?",
-      "en": "In which country is this legend mainly known: Creature of Lithuania?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Litouwen?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Litauen?"
-    },
-    "answers": {
-      "fr": [
-        "Lituanie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Lithuania",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Litouwen",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Litauen",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Lituanie",
-      "en": "Lithuania",
-      "nl": "Litouwen",
-      "de": "Litauen"
-    },
-    "explanation": {
-      "fr": "Créature de Lituanie appartient au folklore de Lituanie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Lithuania belongs to the folklore of Lithuania. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Litouwen behoort tot de folklore van Litouwen. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Litauen gehört zur Folklore von Litauen. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l032_what",
-    "mode": "legends",
-    "subjectKey": "legend_032",
-    "traditionName": {
-      "fr": "Créature de Lituanie",
-      "en": "Creature of Lithuania",
-      "nl": "Wezen van Litouwen",
-      "de": "Wesen aus Litauen"
-    },
-    "country": {
-      "fr": "Lituanie",
-      "en": "Lithuania",
-      "nl": "Litouwen",
-      "de": "Litauen"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Lituanie ?",
-      "en": "What are / what is Creature of Lithuania?",
-      "nl": "Wat zijn / wat is Wezen van Litouwen?",
-      "de": "Was ist / was sind Wesen aus Litauen?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Lituanie appartient au folklore de Lituanie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Lithuania belongs to the folklore of Lithuania. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Litouwen behoort tot de folklore van Litouwen. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Litauen gehört zur Folklore von Litauen. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l033_country",
-    "mode": "legends",
-    "subjectKey": "legend_033",
-    "traditionName": {
-      "fr": "Légende de Hongrie",
-      "en": "Legend of Hungary",
-      "nl": "Legende van Hongarije",
-      "de": "Legende aus Ungarn"
-    },
-    "country": {
-      "fr": "Hongrie",
-      "en": "Hungary",
-      "nl": "Hongarije",
-      "de": "Ungarn"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Hongrie ?",
-      "en": "In which country is this legend mainly known: Legend of Hungary?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Hongarije?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Ungarn?"
-    },
-    "answers": {
-      "fr": [
-        "Hongrie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Hungary",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Hongarije",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Ungarn",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Hongrie",
-      "en": "Hungary",
-      "nl": "Hongarije",
-      "de": "Ungarn"
-    },
-    "explanation": {
-      "fr": "Légende de Hongrie appartient au folklore de Hongrie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Hungary belongs to the folklore of Hungary. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Hongarije behoort tot de folklore van Hongarije. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Ungarn gehört zur Folklore von Ungarn. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l033_what",
-    "mode": "legends",
-    "subjectKey": "legend_033",
-    "traditionName": {
-      "fr": "Légende de Hongrie",
-      "en": "Legend of Hungary",
-      "nl": "Legende van Hongarije",
-      "de": "Legende aus Ungarn"
-    },
-    "country": {
-      "fr": "Hongrie",
-      "en": "Hungary",
-      "nl": "Hongarije",
-      "de": "Ungarn"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Hongrie ?",
-      "en": "What are / what is Legend of Hungary?",
-      "nl": "Wat zijn / wat is Legende van Hongarije?",
-      "de": "Was ist / was sind Legende aus Ungarn?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Hongrie appartient au folklore de Hongrie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Hungary belongs to the folklore of Hungary. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Hongarije behoort tot de folklore van Hongarije. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Ungarn gehört zur Folklore von Ungarn. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l034_country",
-    "mode": "legends",
-    "subjectKey": "legend_034",
-    "traditionName": {
-      "fr": "Créature de Hongrie",
-      "en": "Creature of Hungary",
-      "nl": "Wezen van Hongarije",
-      "de": "Wesen aus Ungarn"
-    },
-    "country": {
-      "fr": "Hongrie",
-      "en": "Hungary",
-      "nl": "Hongarije",
-      "de": "Ungarn"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Hongrie ?",
-      "en": "In which country is this legend mainly known: Creature of Hungary?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Hongarije?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Ungarn?"
-    },
-    "answers": {
-      "fr": [
-        "Hongrie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Hungary",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Hongarije",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Ungarn",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Hongrie",
-      "en": "Hungary",
-      "nl": "Hongarije",
-      "de": "Ungarn"
-    },
-    "explanation": {
-      "fr": "Créature de Hongrie appartient au folklore de Hongrie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Hungary belongs to the folklore of Hungary. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Hongarije behoort tot de folklore van Hongarije. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Ungarn gehört zur Folklore von Ungarn. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l034_what",
-    "mode": "legends",
-    "subjectKey": "legend_034",
-    "traditionName": {
-      "fr": "Créature de Hongrie",
-      "en": "Creature of Hungary",
-      "nl": "Wezen van Hongarije",
-      "de": "Wesen aus Ungarn"
-    },
-    "country": {
-      "fr": "Hongrie",
-      "en": "Hungary",
-      "nl": "Hongarije",
-      "de": "Ungarn"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Hongrie ?",
-      "en": "What are / what is Creature of Hungary?",
-      "nl": "Wat zijn / wat is Wezen van Hongarije?",
-      "de": "Was ist / was sind Wesen aus Ungarn?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Hongrie appartient au folklore de Hongrie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Hungary belongs to the folklore of Hungary. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Hongarije behoort tot de folklore van Hongarije. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Ungarn gehört zur Folklore von Ungarn. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l035_country",
-    "mode": "legends",
-    "subjectKey": "legend_035",
-    "traditionName": {
-      "fr": "Légende de Estonie",
-      "en": "Legend of Estonia",
-      "nl": "Legende van Estland",
-      "de": "Legende aus Estland"
-    },
-    "country": {
-      "fr": "Estonie",
-      "en": "Estonia",
-      "nl": "Estland",
-      "de": "Estland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Estonie ?",
-      "en": "In which country is this legend mainly known: Legend of Estonia?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Estland?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Estland?"
-    },
-    "answers": {
-      "fr": [
-        "Estonie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Estonia",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Estland",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Estland",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Estonie",
-      "en": "Estonia",
-      "nl": "Estland",
-      "de": "Estland"
-    },
-    "explanation": {
-      "fr": "Légende de Estonie appartient au folklore de Estonie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Estonia belongs to the folklore of Estonia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Estland behoort tot de folklore van Estland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Estland gehört zur Folklore von Estland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l035_what",
-    "mode": "legends",
-    "subjectKey": "legend_035",
-    "traditionName": {
-      "fr": "Légende de Estonie",
-      "en": "Legend of Estonia",
-      "nl": "Legende van Estland",
-      "de": "Legende aus Estland"
-    },
-    "country": {
-      "fr": "Estonie",
-      "en": "Estonia",
-      "nl": "Estland",
-      "de": "Estland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Estonie ?",
-      "en": "What are / what is Legend of Estonia?",
-      "nl": "Wat zijn / wat is Legende van Estland?",
-      "de": "Was ist / was sind Legende aus Estland?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Estonie appartient au folklore de Estonie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Estonia belongs to the folklore of Estonia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Estland behoort tot de folklore van Estland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Estland gehört zur Folklore von Estland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l036_country",
-    "mode": "legends",
-    "subjectKey": "legend_036",
-    "traditionName": {
-      "fr": "Créature de Estonie",
-      "en": "Creature of Estonia",
-      "nl": "Wezen van Estland",
-      "de": "Wesen aus Estland"
-    },
-    "country": {
-      "fr": "Estonie",
-      "en": "Estonia",
-      "nl": "Estland",
-      "de": "Estland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Estonie ?",
-      "en": "In which country is this legend mainly known: Creature of Estonia?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Estland?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Estland?"
-    },
-    "answers": {
-      "fr": [
-        "Estonie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Estonia",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Estland",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Estland",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Estonie",
-      "en": "Estonia",
-      "nl": "Estland",
-      "de": "Estland"
-    },
-    "explanation": {
-      "fr": "Créature de Estonie appartient au folklore de Estonie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Estonia belongs to the folklore of Estonia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Estland behoort tot de folklore van Estland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Estland gehört zur Folklore von Estland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l036_what",
-    "mode": "legends",
-    "subjectKey": "legend_036",
-    "traditionName": {
-      "fr": "Créature de Estonie",
-      "en": "Creature of Estonia",
-      "nl": "Wezen van Estland",
-      "de": "Wesen aus Estland"
-    },
-    "country": {
-      "fr": "Estonie",
-      "en": "Estonia",
-      "nl": "Estland",
-      "de": "Estland"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Estonie ?",
-      "en": "What are / what is Creature of Estonia?",
-      "nl": "Wat zijn / wat is Wezen van Estland?",
-      "de": "Was ist / was sind Wesen aus Estland?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Estonie appartient au folklore de Estonie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Estonia belongs to the folklore of Estonia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Estland behoort tot de folklore van Estland. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Estland gehört zur Folklore von Estland. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l037_country",
-    "mode": "legends",
-    "subjectKey": "legend_037",
-    "traditionName": {
-      "fr": "Légende de Croatie",
-      "en": "Legend of Croatia",
-      "nl": "Legende van Kroatië",
-      "de": "Legende aus Kroatien"
-    },
-    "country": {
-      "fr": "Croatie",
-      "en": "Croatia",
-      "nl": "Kroatië",
-      "de": "Kroatien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Croatie ?",
-      "en": "In which country is this legend mainly known: Legend of Croatia?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Kroatië?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Kroatien?"
-    },
-    "answers": {
-      "fr": [
-        "Croatie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Croatia",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Kroatië",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Kroatien",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Croatie",
-      "en": "Croatia",
-      "nl": "Kroatië",
-      "de": "Kroatien"
-    },
-    "explanation": {
-      "fr": "Légende de Croatie appartient au folklore de Croatie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Croatia belongs to the folklore of Croatia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Kroatië behoort tot de folklore van Kroatië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Kroatien gehört zur Folklore von Kroatien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l037_what",
-    "mode": "legends",
-    "subjectKey": "legend_037",
-    "traditionName": {
-      "fr": "Légende de Croatie",
-      "en": "Legend of Croatia",
-      "nl": "Legende van Kroatië",
-      "de": "Legende aus Kroatien"
-    },
-    "country": {
-      "fr": "Croatie",
-      "en": "Croatia",
-      "nl": "Kroatië",
-      "de": "Kroatien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Croatie ?",
-      "en": "What are / what is Legend of Croatia?",
-      "nl": "Wat zijn / wat is Legende van Kroatië?",
-      "de": "Was ist / was sind Legende aus Kroatien?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Croatie appartient au folklore de Croatie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Croatia belongs to the folklore of Croatia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Kroatië behoort tot de folklore van Kroatië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Kroatien gehört zur Folklore von Kroatien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l038_country",
-    "mode": "legends",
-    "subjectKey": "legend_038",
-    "traditionName": {
-      "fr": "Créature de Croatie",
-      "en": "Creature of Croatia",
-      "nl": "Wezen van Kroatië",
-      "de": "Wesen aus Kroatien"
-    },
-    "country": {
-      "fr": "Croatie",
-      "en": "Croatia",
-      "nl": "Kroatië",
-      "de": "Kroatien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Croatie ?",
-      "en": "In which country is this legend mainly known: Creature of Croatia?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Kroatië?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Kroatien?"
-    },
-    "answers": {
-      "fr": [
-        "Croatie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Croatia",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Kroatië",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Kroatien",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Croatie",
-      "en": "Croatia",
-      "nl": "Kroatië",
-      "de": "Kroatien"
-    },
-    "explanation": {
-      "fr": "Créature de Croatie appartient au folklore de Croatie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Croatia belongs to the folklore of Croatia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Kroatië behoort tot de folklore van Kroatië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Kroatien gehört zur Folklore von Kroatien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l038_what",
-    "mode": "legends",
-    "subjectKey": "legend_038",
-    "traditionName": {
-      "fr": "Créature de Croatie",
-      "en": "Creature of Croatia",
-      "nl": "Wezen van Kroatië",
-      "de": "Wesen aus Kroatien"
-    },
-    "country": {
-      "fr": "Croatie",
-      "en": "Croatia",
-      "nl": "Kroatië",
-      "de": "Kroatien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Croatie ?",
-      "en": "What are / what is Creature of Croatia?",
-      "nl": "Wat zijn / wat is Wezen van Kroatië?",
-      "de": "Was ist / was sind Wesen aus Kroatien?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Croatie appartient au folklore de Croatie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Croatia belongs to the folklore of Croatia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Kroatië behoort tot de folklore van Kroatië. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Kroatien gehört zur Folklore von Kroatien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l039_country",
-    "mode": "legends",
-    "subjectKey": "legend_039",
-    "traditionName": {
-      "fr": "Légende de Bulgarie",
-      "en": "Legend of Bulgaria",
-      "nl": "Legende van Bulgarije",
-      "de": "Legende aus Bulgarien"
-    },
-    "country": {
-      "fr": "Bulgarie",
-      "en": "Bulgaria",
-      "nl": "Bulgarije",
-      "de": "Bulgarien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Bulgarie ?",
-      "en": "In which country is this legend mainly known: Legend of Bulgaria?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Bulgarije?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Bulgarien?"
-    },
-    "answers": {
-      "fr": [
-        "Bulgarie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Bulgaria",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Bulgarije",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Bulgarien",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Bulgarie",
-      "en": "Bulgaria",
-      "nl": "Bulgarije",
-      "de": "Bulgarien"
-    },
-    "explanation": {
-      "fr": "Légende de Bulgarie appartient au folklore de Bulgarie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Bulgaria belongs to the folklore of Bulgaria. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Bulgarije behoort tot de folklore van Bulgarije. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Bulgarien gehört zur Folklore von Bulgarien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l039_what",
-    "mode": "legends",
-    "subjectKey": "legend_039",
-    "traditionName": {
-      "fr": "Légende de Bulgarie",
-      "en": "Legend of Bulgaria",
-      "nl": "Legende van Bulgarije",
-      "de": "Legende aus Bulgarien"
-    },
-    "country": {
-      "fr": "Bulgarie",
-      "en": "Bulgaria",
-      "nl": "Bulgarije",
-      "de": "Bulgarien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Bulgarie ?",
-      "en": "What are / what is Legend of Bulgaria?",
-      "nl": "Wat zijn / wat is Legende van Bulgarije?",
-      "de": "Was ist / was sind Legende aus Bulgarien?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Bulgarie appartient au folklore de Bulgarie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Bulgaria belongs to the folklore of Bulgaria. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Bulgarije behoort tot de folklore van Bulgarije. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Bulgarien gehört zur Folklore von Bulgarien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l040_country",
-    "mode": "legends",
-    "subjectKey": "legend_040",
-    "traditionName": {
-      "fr": "Créature de Bulgarie",
-      "en": "Creature of Bulgaria",
-      "nl": "Wezen van Bulgarije",
-      "de": "Wesen aus Bulgarien"
-    },
-    "country": {
-      "fr": "Bulgarie",
-      "en": "Bulgaria",
-      "nl": "Bulgarije",
-      "de": "Bulgarien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Bulgarie ?",
-      "en": "In which country is this legend mainly known: Creature of Bulgaria?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Bulgarije?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Bulgarien?"
-    },
-    "answers": {
-      "fr": [
-        "Bulgarie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Bulgaria",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Bulgarije",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Bulgarien",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Bulgarie",
-      "en": "Bulgaria",
-      "nl": "Bulgarije",
-      "de": "Bulgarien"
-    },
-    "explanation": {
-      "fr": "Créature de Bulgarie appartient au folklore de Bulgarie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Bulgaria belongs to the folklore of Bulgaria. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Bulgarije behoort tot de folklore van Bulgarije. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Bulgarien gehört zur Folklore von Bulgarien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l040_what",
-    "mode": "legends",
-    "subjectKey": "legend_040",
-    "traditionName": {
-      "fr": "Créature de Bulgarie",
-      "en": "Creature of Bulgaria",
-      "nl": "Wezen van Bulgarije",
-      "de": "Wesen aus Bulgarien"
-    },
-    "country": {
-      "fr": "Bulgarie",
-      "en": "Bulgaria",
-      "nl": "Bulgarije",
-      "de": "Bulgarien"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Bulgarie ?",
-      "en": "What are / what is Creature of Bulgaria?",
-      "nl": "Wat zijn / wat is Wezen van Bulgarije?",
-      "de": "Was ist / was sind Wesen aus Bulgarien?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Bulgarie appartient au folklore de Bulgarie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Bulgaria belongs to the folklore of Bulgaria. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Bulgarije behoort tot de folklore van Bulgarije. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Bulgarien gehört zur Folklore von Bulgarien. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l041_country",
-    "mode": "legends",
-    "subjectKey": "legend_041",
-    "traditionName": {
-      "fr": "Légende de Chypre",
-      "en": "Legend of Cyprus",
-      "nl": "Legende van Cyprus",
-      "de": "Legende aus Zypern"
-    },
-    "country": {
-      "fr": "Chypre",
-      "en": "Cyprus",
-      "nl": "Cyprus",
-      "de": "Zypern"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Chypre ?",
-      "en": "In which country is this legend mainly known: Legend of Cyprus?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Cyprus?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Zypern?"
-    },
-    "answers": {
-      "fr": [
-        "Chypre",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Cyprus",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Cyprus",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Zypern",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Chypre",
-      "en": "Cyprus",
-      "nl": "Cyprus",
-      "de": "Zypern"
-    },
-    "explanation": {
-      "fr": "Légende de Chypre appartient au folklore de Chypre. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Cyprus belongs to the folklore of Cyprus. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Cyprus behoort tot de folklore van Cyprus. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Zypern gehört zur Folklore von Zypern. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l041_what",
-    "mode": "legends",
-    "subjectKey": "legend_041",
-    "traditionName": {
-      "fr": "Légende de Chypre",
-      "en": "Legend of Cyprus",
-      "nl": "Legende van Cyprus",
-      "de": "Legende aus Zypern"
-    },
-    "country": {
-      "fr": "Chypre",
-      "en": "Cyprus",
-      "nl": "Cyprus",
-      "de": "Zypern"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Chypre ?",
-      "en": "What are / what is Legend of Cyprus?",
-      "nl": "Wat zijn / wat is Legende van Cyprus?",
-      "de": "Was ist / was sind Legende aus Zypern?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Chypre appartient au folklore de Chypre. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Cyprus belongs to the folklore of Cyprus. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Cyprus behoort tot de folklore van Cyprus. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Zypern gehört zur Folklore von Zypern. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l042_country",
-    "mode": "legends",
-    "subjectKey": "legend_042",
-    "traditionName": {
-      "fr": "Créature de Chypre",
-      "en": "Creature of Cyprus",
-      "nl": "Wezen van Cyprus",
-      "de": "Wesen aus Zypern"
-    },
-    "country": {
-      "fr": "Chypre",
-      "en": "Cyprus",
-      "nl": "Cyprus",
-      "de": "Zypern"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Chypre ?",
-      "en": "In which country is this legend mainly known: Creature of Cyprus?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Cyprus?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Zypern?"
-    },
-    "answers": {
-      "fr": [
-        "Chypre",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Cyprus",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Cyprus",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Zypern",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Chypre",
-      "en": "Cyprus",
-      "nl": "Cyprus",
-      "de": "Zypern"
-    },
-    "explanation": {
-      "fr": "Créature de Chypre appartient au folklore de Chypre. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Cyprus belongs to the folklore of Cyprus. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Cyprus behoort tot de folklore van Cyprus. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Zypern gehört zur Folklore von Zypern. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l042_what",
-    "mode": "legends",
-    "subjectKey": "legend_042",
-    "traditionName": {
-      "fr": "Créature de Chypre",
-      "en": "Creature of Cyprus",
-      "nl": "Wezen van Cyprus",
-      "de": "Wesen aus Zypern"
-    },
-    "country": {
-      "fr": "Chypre",
-      "en": "Cyprus",
-      "nl": "Cyprus",
-      "de": "Zypern"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Chypre ?",
-      "en": "What are / what is Creature of Cyprus?",
-      "nl": "Wat zijn / wat is Wezen van Cyprus?",
-      "de": "Was ist / was sind Wesen aus Zypern?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Chypre appartient au folklore de Chypre. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Cyprus belongs to the folklore of Cyprus. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Cyprus behoort tot de folklore van Cyprus. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Zypern gehört zur Folklore von Zypern. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l043_country",
-    "mode": "legends",
-    "subjectKey": "legend_043",
-    "traditionName": {
-      "fr": "Légende de Luxembourg",
-      "en": "Legend of Luxembourg",
-      "nl": "Legende van Luxemburg",
-      "de": "Legende aus Luxemburg"
-    },
-    "country": {
-      "fr": "Luxembourg",
-      "en": "Luxembourg",
-      "nl": "Luxemburg",
-      "de": "Luxemburg"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Luxembourg ?",
-      "en": "In which country is this legend mainly known: Legend of Luxembourg?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Luxemburg?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Luxemburg?"
-    },
-    "answers": {
-      "fr": [
-        "Luxembourg",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Luxembourg",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Luxemburg",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Luxemburg",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Luxembourg",
-      "en": "Luxembourg",
-      "nl": "Luxemburg",
-      "de": "Luxemburg"
-    },
-    "explanation": {
-      "fr": "Légende de Luxembourg appartient au folklore de Luxembourg. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Luxembourg belongs to the folklore of Luxembourg. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Luxemburg behoort tot de folklore van Luxemburg. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Luxemburg gehört zur Folklore von Luxemburg. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l043_what",
-    "mode": "legends",
-    "subjectKey": "legend_043",
-    "traditionName": {
-      "fr": "Légende de Luxembourg",
-      "en": "Legend of Luxembourg",
-      "nl": "Legende van Luxemburg",
-      "de": "Legende aus Luxemburg"
-    },
-    "country": {
-      "fr": "Luxembourg",
-      "en": "Luxembourg",
-      "nl": "Luxemburg",
-      "de": "Luxemburg"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Luxembourg ?",
-      "en": "What are / what is Legend of Luxembourg?",
-      "nl": "Wat zijn / wat is Legende van Luxemburg?",
-      "de": "Was ist / was sind Legende aus Luxemburg?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Luxembourg appartient au folklore de Luxembourg. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Luxembourg belongs to the folklore of Luxembourg. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Luxemburg behoort tot de folklore van Luxemburg. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Luxemburg gehört zur Folklore von Luxemburg. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l044_country",
-    "mode": "legends",
-    "subjectKey": "legend_044",
-    "traditionName": {
-      "fr": "Créature de Luxembourg",
-      "en": "Creature of Luxembourg",
-      "nl": "Wezen van Luxemburg",
-      "de": "Wesen aus Luxemburg"
-    },
-    "country": {
-      "fr": "Luxembourg",
-      "en": "Luxembourg",
-      "nl": "Luxemburg",
-      "de": "Luxemburg"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Luxembourg ?",
-      "en": "In which country is this legend mainly known: Creature of Luxembourg?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Luxemburg?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Luxemburg?"
-    },
-    "answers": {
-      "fr": [
-        "Luxembourg",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Luxembourg",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Luxemburg",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Luxemburg",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Luxembourg",
-      "en": "Luxembourg",
-      "nl": "Luxemburg",
-      "de": "Luxemburg"
-    },
-    "explanation": {
-      "fr": "Créature de Luxembourg appartient au folklore de Luxembourg. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Luxembourg belongs to the folklore of Luxembourg. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Luxemburg behoort tot de folklore van Luxemburg. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Luxemburg gehört zur Folklore von Luxemburg. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l044_what",
-    "mode": "legends",
-    "subjectKey": "legend_044",
-    "traditionName": {
-      "fr": "Créature de Luxembourg",
-      "en": "Creature of Luxembourg",
-      "nl": "Wezen van Luxemburg",
-      "de": "Wesen aus Luxemburg"
-    },
-    "country": {
-      "fr": "Luxembourg",
-      "en": "Luxembourg",
-      "nl": "Luxemburg",
-      "de": "Luxemburg"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Luxembourg ?",
-      "en": "What are / what is Creature of Luxembourg?",
-      "nl": "Wat zijn / wat is Wezen van Luxemburg?",
-      "de": "Was ist / was sind Wesen aus Luxemburg?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Créature de Luxembourg appartient au folklore de Luxembourg. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Luxembourg belongs to the folklore of Luxembourg. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Luxemburg behoort tot de folklore van Luxemburg. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Luxemburg gehört zur Folklore von Luxemburg. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l045_country",
-    "mode": "legends",
-    "subjectKey": "legend_045",
-    "traditionName": {
-      "fr": "Légende de Slovaquie",
-      "en": "Legend of Slovakia",
-      "nl": "Legende van Slowakije",
-      "de": "Legende aus Slowakei"
-    },
-    "country": {
-      "fr": "Slovaquie",
-      "en": "Slovakia",
-      "nl": "Slowakije",
-      "de": "Slowakei"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Légende de Slovaquie ?",
-      "en": "In which country is this legend mainly known: Legend of Slovakia?",
-      "nl": "In welk land is deze legende vooral bekend: Legende van Slowakije?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Legende aus Slowakei?"
-    },
-    "answers": {
-      "fr": [
-        "Slovaquie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Slovakia",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Slowakije",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Slowakei",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Slovaquie",
-      "en": "Slovakia",
-      "nl": "Slowakije",
-      "de": "Slowakei"
-    },
-    "explanation": {
-      "fr": "Légende de Slovaquie appartient au folklore de Slovaquie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Slovakia belongs to the folklore of Slovakia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Slowakije behoort tot de folklore van Slowakije. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Slowakei gehört zur Folklore von Slowakei. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l045_what",
-    "mode": "legends",
-    "subjectKey": "legend_045",
-    "traditionName": {
-      "fr": "Légende de Slovaquie",
-      "en": "Legend of Slovakia",
-      "nl": "Legende van Slowakije",
-      "de": "Legende aus Slowakei"
-    },
-    "country": {
-      "fr": "Slovaquie",
-      "en": "Slovakia",
-      "nl": "Slowakije",
-      "de": "Slowakei"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Que sont / qu’est-ce que Légende de Slovaquie ?",
-      "en": "What are / what is Legend of Slovakia?",
-      "nl": "Wat zijn / wat is Legende van Slowakije?",
-      "de": "Was ist / was sind Legende aus Slowakei?"
-    },
-    "answers": {
-      "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
-      ],
-      "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
-      ],
-      "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
-      ],
-      "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
-    },
-    "explanation": {
-      "fr": "Légende de Slovaquie appartient au folklore de Slovaquie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Legend of Slovakia belongs to the folklore of Slovakia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Legende van Slowakije behoort tot de folklore van Slowakije. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Legende aus Slowakei gehört zur Folklore von Slowakei. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "what",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l046_country",
-    "mode": "legends",
-    "subjectKey": "legend_046",
-    "traditionName": {
-      "fr": "Créature de Slovaquie",
-      "en": "Creature of Slovakia",
-      "nl": "Wezen van Slowakije",
-      "de": "Wesen aus Slowakei"
-    },
-    "country": {
-      "fr": "Slovaquie",
-      "en": "Slovakia",
-      "nl": "Slowakije",
-      "de": "Slowakei"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
-    },
-    "question": {
-      "fr": "Dans quel pays cette légende est-elle surtout connue : Créature de Slovaquie ?",
-      "en": "In which country is this legend mainly known: Creature of Slovakia?",
-      "nl": "In welk land is deze legende vooral bekend: Wezen van Slowakije?",
-      "de": "In welchem Land ist diese Legende vor allem bekannt: Wesen aus Slowakei?"
-    },
-    "answers": {
-      "fr": [
-        "Slovaquie",
-        "Belgique",
-        "Autriche",
-        "Tchéquie"
-      ],
-      "en": [
-        "Slovakia",
-        "Belgium",
-        "Austria",
-        "Czechia"
-      ],
-      "nl": [
-        "Slowakije",
-        "België",
-        "Oostenrijk",
-        "Tsjechië"
-      ],
-      "de": [
-        "Slowakei",
-        "Belgien",
-        "Österreich",
-        "Tschechien"
-      ]
-    },
-    "correctAnswer": {
-      "fr": "Slovaquie",
-      "en": "Slovakia",
-      "nl": "Slowakije",
-      "de": "Slowakei"
-    },
-    "explanation": {
-      "fr": "Créature de Slovaquie appartient au folklore de Slovaquie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Slovakia belongs to the folklore of Slovakia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Slowakije behoort tot de folklore van Slowakije. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Slowakei gehört zur Folklore von Slowakei. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
-    },
-    "questionType": "country",
-    "image": null,
-    "showImageInQuestion": false
-  },
-  {
-    "id": "l046_what",
-    "mode": "legends",
-    "subjectKey": "legend_046",
-    "traditionName": {
-      "fr": "Créature de Slovaquie",
-      "en": "Creature of Slovakia",
-      "nl": "Wezen van Slowakije",
-      "de": "Wesen aus Slowakei"
-    },
-    "country": {
-      "fr": "Slovaquie",
-      "en": "Slovakia",
-      "nl": "Slowakije",
-      "de": "Slowakei"
-    },
-    "region": {
-      "fr": "Folklore national ou régional",
-      "en": "National or regional folklore",
-      "nl": "Nationale of regionale folklore",
-      "de": "Nationaler oder regionaler Volksglaube"
-    },
-    "scenario": {
-      "fr": "",
-      "en": "",
-      "nl": "",
-      "de": ""
+      "fr": "La Santa Compaña est associé à Espagne.",
+      "en": "La Santa Compaña is associated with Spain.",
+      "nl": "La Santa Compaña is verbonden met Spanje.",
+      "de": "La Santa Compaña ist mit Spanien verbunden."
     },
     "question": {
-      "fr": "Que sont / qu’est-ce que Créature de Slovaquie ?",
-      "en": "What are / what is Creature of Slovakia?",
-      "nl": "Wat zijn / wat is Wezen van Slowakije?",
-      "de": "Was ist / was sind Wesen aus Slowakei?"
+      "fr": "Cette affirmation est-elle correcte ?",
+      "en": "Is this statement correct?",
+      "nl": "Klopt deze uitspraak?",
+      "de": "Ist diese Aussage richtig?"
     },
     "answers": {
       "fr": [
-        "Une figure ou créature du folklore",
-        "Une institution européenne",
-        "Une monnaie ancienne",
-        "Une recette moderne"
+        "Vrai",
+        "Faux",
+        "Impossible à dire",
+        "Nom inventé"
       ],
       "en": [
-        "A figure or creature from folklore",
-        "A European institution",
-        "An old currency",
-        "A modern recipe"
+        "True",
+        "False",
+        "Impossible to say",
+        "Invented name"
       ],
       "nl": [
-        "Een figuur of wezen uit de folklore",
-        "Een Europese instelling",
-        "Een oude munteenheid",
-        "Een modern recept"
+        "Waar",
+        "Onwaar",
+        "Niet te zeggen",
+        "Verzonnen naam"
       ],
       "de": [
-        "Eine Gestalt oder Kreatur der Folklore",
-        "Eine europäische Institution",
-        "Eine alte Währung",
-        "Ein modernes Rezept"
+        "Richtig",
+        "Falsch",
+        "Nicht zu sagen",
+        "Erfundener Name"
       ]
     },
     "correctAnswer": {
-      "fr": "Une figure ou créature du folklore",
-      "en": "A figure or creature from folklore",
-      "nl": "Een figuur of wezen uit de folklore",
-      "de": "Eine Gestalt oder Kreatur der Folklore"
+      "fr": "Vrai",
+      "en": "True",
+      "nl": "Waar",
+      "de": "Richtig"
     },
     "explanation": {
-      "fr": "Créature de Slovaquie appartient au folklore de Slovaquie. Cette entrée met en avant un détail précis du récit, son lieu d’origine et son rôle dans la mémoire locale.",
-      "en": "Creature of Slovakia belongs to the folklore of Slovakia. This entry highlights a specific detail of the story, its place of origin and its role in local memory.",
-      "nl": "Wezen van Slowakije behoort tot de folklore van Slowakije. Deze uitleg benadrukt een concreet detail van het verhaal, de oorsprong en de rol in het lokale geheugen.",
-      "de": "Wesen aus Slowakei gehört zur Folklore von Slowakei. Diese Erklärung betont ein konkretes Detail der Erzählung, ihren Ursprung und ihre Rolle im lokalen Gedächtnis."
+      "fr": "La Santa Compaña appartient au patrimoine légendaire de Espagne. Elle traverse les chemins dans certaines légendes galiciennes. Cette légende donne une couleur locale forte et transforme un lieu, un animal ou un personnage en repère culturel mémorable.",
+      "en": "La Santa Compaña belongs to the legendary heritage of Spain. It walks along paths in some Galician legends. This legend gives strong local colour and turns a place, animal or figure into a memorable cultural marker.",
+      "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje. Ze trekt over wegen in sommige Galicische legendes. Deze legende geeft veel lokale kleur en verandert een plaats, dier of figuur in een memorabel cultureel herkenningspunt.",
+      "de": "La Santa Compaña gehört zum legendären Erbe von Spanien. Sie zieht in galicischen Legenden über Wege. Diese Legende verleiht starke lokale Farbe und macht einen Ort, ein Tier oder eine Gestalt zu einem einprägsamen kulturellen Zeichen."
     },
-    "questionType": "what",
+    "questionType": "truefalse",
     "image": null,
     "showImageInQuestion": false
   }

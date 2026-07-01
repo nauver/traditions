@@ -1,1 +1,1 @@
-V10.4: culinary quiz converted into a real gastronomic culture game. 7 question types per dish, images restored, no duplicate dish in one session.
+V10.5: 20 fully-written real European legends, 5 question types each, no generic placeholders.

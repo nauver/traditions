@@ -2641,7 +2641,7 @@ const CULINARY_50=[
   {
     "id": "c004",
     "mode": "culinary",
-    "subjectKey": "food_hakarl",
+    "subjectKey": "food_hákarl",
     "traditionName": {
       "fr": "Hákarl",
       "en": "Hákarl",
@@ -2815,24 +2815,24 @@ const CULINARY_50=[
   {
     "id": "c006",
     "mode": "culinary",
-    "subjectKey": "food_blodplättar",
+    "subjectKey": "food_casu_marzu",
     "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar",
-      "de": "Blodplättar"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu",
+      "de": "Casu Marzu"
     },
     "country": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Zweden",
-      "de": "Finnland / Schweden"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Pays nordiques",
-      "en": "Nordic countries",
-      "nl": "Noordse landen",
-      "de": "Nordische Länder"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië",
+      "de": "Sardinien"
     },
     "scenario": {
       "fr": "",
@@ -2841,85 +2841,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Blodplättar ?",
-      "en": "What are Blodplättar?",
-      "nl": "Wat zijn Blodplättar?",
-      "de": "Was sind Blodplättar?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?",
+      "de": "Was sind Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Des crêpes au sang",
+        "Un fromage très fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Blood pancakes",
+        "A highly fermented cheese",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Bloedpannenkoeken",
+        "Een sterk gefermenteerde kaas",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Blutpfannkuchen",
+        "Ein stark fermentierter Käse",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Des crêpes au sang",
-      "en": "Blood pancakes",
-      "nl": "Bloedpannenkoeken",
-      "de": "Blutpfannkuchen"
+      "fr": "Un fromage très fermenté",
+      "en": "A highly fermented cheese",
+      "nl": "Een sterk gefermenteerde kaas",
+      "de": "Ein stark fermentierter Käse"
     },
     "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
-      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
+      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
+      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
+      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
+      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
     },
     "questionType": "food",
     "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Blodplättar",
-        "en": "Photo of the dish: Blodplättar",
-        "nl": "Foto van het gerecht: Blodplättar",
-        "de": "Foto des Gerichts: Blodplättar"
+        "fr": "Photo du plat : Casu Marzu",
+        "en": "Photo of the dish: Casu Marzu",
+        "nl": "Foto van het gerecht: Casu Marzu",
+        "de": "Foto des Gerichts: Casu Marzu"
       }
     }
   },
   {
     "id": "c007",
     "mode": "culinary",
-    "subjectKey": "food_andouillette",
+    "subjectKey": "food_haggis",
     "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette",
-      "de": "Andouillette"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis",
+      "de": "Haggis"
     },
     "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "scenario": {
       "fr": "",
@@ -2928,85 +2928,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Andouillette ?",
-      "en": "What are Andouillette?",
-      "nl": "Wat zijn Andouillette?",
-      "de": "Was sind Andouillette?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?",
+      "de": "Was sind Haggis?"
     },
     "answers": {
       "fr": [
-        "Une saucisse à base d’intestins",
+        "Un plat à base d’abats de mouton",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A sausage made with intestines",
+        "A dish made with sheep offal",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een worst gemaakt met darmen",
+        "Een gerecht met schapenorgaanvlees",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Eine Wurst aus Därmen",
+        "Ein Gericht aus Schafsinnereien",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une saucisse à base d’intestins",
-      "en": "A sausage made with intestines",
-      "nl": "Een worst gemaakt met darmen",
-      "de": "Eine Wurst aus Därmen"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees",
+      "de": "Ein Gericht aus Schafsinnereien"
     },
     "explanation": {
-      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
-      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
-      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
+      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
+      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
     },
     "questionType": "food",
     "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Andouillette",
-        "en": "Photo of the dish: Andouillette",
-        "nl": "Foto van het gerecht: Andouillette",
-        "de": "Foto des Gerichts: Andouillette"
+        "fr": "Photo du plat : Haggis",
+        "en": "Photo of the dish: Haggis",
+        "nl": "Foto van het gerecht: Haggis",
+        "de": "Foto des Gerichts: Haggis"
       }
     }
   },
   {
     "id": "c008",
     "mode": "culinary",
-    "subjectKey": "food_mämmi",
+    "subjectKey": "food_surströmming",
     "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi",
-      "de": "Mämmi"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming",
+      "de": "Surströmming"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
     },
     "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden",
+      "de": "Nordschweden"
     },
     "scenario": {
       "fr": "",
@@ -3015,85 +3015,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Mämmi ?",
-      "en": "What are Mämmi?",
-      "nl": "Wat zijn Mämmi?",
-      "de": "Was sind Mämmi?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?",
+      "de": "Was sind Surströmming?"
     },
     "answers": {
       "fr": [
-        "Un dessert de Pâques au seigle",
+        "Du hareng fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "An Easter dessert made with rye",
+        "Fermented herring",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een paasdessert met rogge",
+        "Gefermenteerde haring",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Osterdessert aus Roggen",
+        "Fermentierter Hering",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un dessert de Pâques au seigle",
-      "en": "An Easter dessert made with rye",
-      "nl": "Een paasdessert met rogge",
-      "de": "Ein Osterdessert aus Roggen"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring",
+      "de": "Fermentierter Hering"
     },
     "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
-      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
+      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
+      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
+      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
     },
     "questionType": "food",
     "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Mämmi",
-        "en": "Photo of the dish: Mämmi",
-        "nl": "Foto van het gerecht: Mämmi",
-        "de": "Foto des Gerichts: Mämmi"
+        "fr": "Photo du plat : Surströmming",
+        "en": "Photo of the dish: Surströmming",
+        "nl": "Foto van het gerecht: Surströmming",
+        "de": "Foto des Gerichts: Surströmming"
       }
     }
   },
   {
     "id": "c009",
     "mode": "culinary",
-    "subjectKey": "food_jellied_eels",
+    "subjectKey": "food_hákarl",
     "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels",
-      "de": "Jellied eels"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl",
+      "de": "Hákarl"
     },
     "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk",
-      "de": "Vereinigtes Königreich"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen",
-      "de": "London"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "scenario": {
       "fr": "",
@@ -3102,85 +3102,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Jellied eels ?",
-      "en": "What are Jellied eels?",
-      "nl": "Wat zijn Jellied eels?",
-      "de": "Was sind Jellied eels?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?",
+      "de": "Was sind Hákarl?"
     },
     "answers": {
       "fr": [
-        "Des anguilles en gelée",
+        "Du requin fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Eels in jelly",
+        "Fermented shark",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Paling in gelei",
+        "Gefermenteerde haai",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Aal in Gelee",
+        "Fermentierter Hai",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Des anguilles en gelée",
-      "en": "Eels in jelly",
-      "nl": "Paling in gelei",
-      "de": "Aal in Gelee"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai",
+      "de": "Fermentierter Hai"
     },
     "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
-      "en": "Jellied eels are a historic speciality of London’s East End.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
-      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
+      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
     },
     "questionType": "food",
     "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Jellied eels",
-        "en": "Photo of the dish: Jellied eels",
-        "nl": "Foto van het gerecht: Jellied eels",
-        "de": "Foto des Gerichts: Jellied eels"
+        "fr": "Photo du plat : Hákarl",
+        "en": "Photo of the dish: Hákarl",
+        "nl": "Foto van het gerecht: Hákarl",
+        "de": "Foto des Gerichts: Hákarl"
       }
     }
   },
   {
     "id": "c010",
     "mode": "culinary",
-    "subjectKey": "food_czernina",
+    "subjectKey": "food_smalahove",
     "traditionName": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina",
-      "de": "Czernina"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove",
+      "de": "Smalahove"
     },
     "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen",
+      "de": "Norwegen"
     },
     "region": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen",
+      "de": "Westnorwegen"
     },
     "scenario": {
       "fr": "",
@@ -3189,85 +3189,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Czernina ?",
-      "en": "What are Czernina?",
-      "nl": "Wat zijn Czernina?",
-      "de": "Was sind Czernina?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?",
+      "de": "Was sind Smalahove?"
     },
     "answers": {
       "fr": [
-        "Une soupe au sang de canard",
+        "Une tête de mouton traditionnelle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A duck-blood soup",
+        "A traditional sheep’s head",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een soep met eendenbloed",
+        "Een traditionele schapenkop",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Eine Suppe mit Entenblut",
+        "Ein traditioneller Schafskopf",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une soupe au sang de canard",
-      "en": "A duck-blood soup",
-      "nl": "Een soep met eendenbloed",
-      "de": "Eine Suppe mit Entenblut"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop",
+      "de": "Ein traditioneller Schafskopf"
     },
     "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard.",
-      "en": "Czernina is a traditional Polish duck-blood soup.",
-      "nl": "Czernina is een traditionele Poolse soep met eendenbloed.",
-      "de": "Czernina ist eine traditionelle polnische Suppe mit Entenblut."
+      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een hele of bijna hele schapenkop.",
+      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
     },
     "questionType": "food",
     "image": {
-      "file": "czernina.jpg",
-      "path": "assets/food/czernina.jpg",
-      "adobeStockId": "20264185",
-      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Czernina",
-        "en": "Photo of the dish: Czernina",
-        "nl": "Foto van het gerecht: Czernina",
-        "de": "Foto des Gerichts: Czernina"
+        "fr": "Photo du plat : Smalahove",
+        "en": "Photo of the dish: Smalahove",
+        "nl": "Foto van het gerecht: Smalahove",
+        "de": "Foto des Gerichts: Smalahove"
       }
     }
   },
   {
     "id": "c011",
     "mode": "culinary",
-    "subjectKey": "food_ciorbă_de_burtă",
+    "subjectKey": "food_casu_marzu",
     "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă",
-      "de": "Ciorbă de burtă"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu",
+      "de": "Casu Marzu"
     },
     "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië",
+      "de": "Sardinien"
     },
     "scenario": {
       "fr": "",
@@ -3276,85 +3276,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Ciorbă de burtă ?",
-      "en": "What are Ciorbă de burtă?",
-      "nl": "Wat zijn Ciorbă de burtă?",
-      "de": "Was sind Ciorbă de burtă?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?",
+      "de": "Was sind Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Une soupe de tripes",
+        "Un fromage très fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A tripe soup",
+        "A highly fermented cheese",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een penssoep",
+        "Een sterk gefermenteerde kaas",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Eine Kuttelsuppe",
+        "Ein stark fermentierter Käse",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une soupe de tripes",
-      "en": "A tripe soup",
-      "nl": "Een penssoep",
-      "de": "Eine Kuttelsuppe"
+      "fr": "Un fromage très fermenté",
+      "en": "A highly fermented cheese",
+      "nl": "Een sterk gefermenteerde kaas",
+      "de": "Ein stark fermentierter Käse"
     },
     "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep.",
-      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe."
+      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
+      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
+      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
+      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
     },
     "questionType": "food",
     "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Ciorbă de burtă",
-        "en": "Photo of the dish: Ciorbă de burtă",
-        "nl": "Foto van het gerecht: Ciorbă de burtă",
-        "de": "Foto des Gerichts: Ciorbă de burtă"
+        "fr": "Photo du plat : Casu Marzu",
+        "en": "Photo of the dish: Casu Marzu",
+        "nl": "Foto van het gerecht: Casu Marzu",
+        "de": "Foto des Gerichts: Casu Marzu"
       }
     }
   },
   {
     "id": "c012",
     "mode": "culinary",
-    "subjectKey": "food_kokoretsi",
+    "subjectKey": "food_haggis",
     "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi",
-      "de": "Kokoretsi"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis",
+      "de": "Haggis"
     },
     "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "region": {
-      "fr": "Grèce / Balkans",
-      "en": "Greece / Balkans",
-      "nl": "Griekenland / Balkan",
-      "de": "Griechenland / Balkan"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "scenario": {
       "fr": "",
@@ -3363,85 +3363,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Kokoretsi ?",
-      "en": "What are Kokoretsi?",
-      "nl": "Wat zijn Kokoretsi?",
-      "de": "Was sind Kokoretsi?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?",
+      "de": "Was sind Haggis?"
     },
     "answers": {
       "fr": [
-        "Une spécialité d’abats grillés",
+        "Un plat à base d’abats de mouton",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A grilled offal speciality",
+        "A dish made with sheep offal",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een specialiteit van gegrild orgaanvlees",
+        "Een gerecht met schapenorgaanvlees",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Eine Spezialität aus gegrillten Innereien",
+        "Ein Gericht aus Schafsinnereien",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une spécialité d’abats grillés",
-      "en": "A grilled offal speciality",
-      "nl": "Een specialiteit van gegrild orgaanvlees",
-      "de": "Eine Spezialität aus gegrillten Innereien"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees",
+      "de": "Ein Gericht aus Schafsinnereien"
     },
     "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
-      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
+      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
+      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
     },
     "questionType": "food",
     "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Kokoretsi",
-        "en": "Photo of the dish: Kokoretsi",
-        "nl": "Foto van het gerecht: Kokoretsi",
-        "de": "Foto des Gerichts: Kokoretsi"
+        "fr": "Photo du plat : Haggis",
+        "en": "Photo of the dish: Haggis",
+        "nl": "Foto van het gerecht: Haggis",
+        "de": "Foto des Gerichts: Haggis"
       }
     }
   },
   {
     "id": "c013",
     "mode": "culinary",
-    "subjectKey": "food_labskaus",
+    "subjectKey": "food_surströmming",
     "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus",
-      "de": "Labskaus"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming",
+      "de": "Surströmming"
     },
     "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland",
-      "de": "Deutschland"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
     },
     "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland",
-      "de": "Norddeutschland"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden",
+      "de": "Nordschweden"
     },
     "scenario": {
       "fr": "",
@@ -3450,85 +3450,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Labskaus ?",
-      "en": "What are Labskaus?",
-      "nl": "Wat zijn Labskaus?",
-      "de": "Was sind Labskaus?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?",
+      "de": "Was sind Surströmming?"
     },
     "answers": {
       "fr": [
-        "Un plat de marins à base de viande et pommes de terre",
+        "Du hareng fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A sailors’ dish with meat and potatoes",
+        "Fermented herring",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een zeemansgerecht met vlees en aardappelen",
+        "Gefermenteerde haring",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Seemannsgericht mit Fleisch und Kartoffeln",
+        "Fermentierter Hering",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat de marins à base de viande et pommes de terre",
-      "en": "A sailors’ dish with meat and potatoes",
-      "nl": "Een zeemansgerecht met vlees en aardappelen",
-      "de": "Ein Seemannsgericht mit Fleisch und Kartoffeln"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring",
+      "de": "Fermentierter Hering"
     },
     "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
-      "en": "Labskaus is a northern German dish associated with maritime culture.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
-      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
+      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
+      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
+      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
     },
     "questionType": "food",
     "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Labskaus",
-        "en": "Photo of the dish: Labskaus",
-        "nl": "Foto van het gerecht: Labskaus",
-        "de": "Foto des Gerichts: Labskaus"
+        "fr": "Photo du plat : Surströmming",
+        "en": "Photo of the dish: Surströmming",
+        "nl": "Foto van het gerecht: Surströmming",
+        "de": "Foto des Gerichts: Surströmming"
       }
     }
   },
   {
     "id": "c014",
     "mode": "culinary",
-    "subjectKey": "food_tripas_à_moda_do_porto",
+    "subjectKey": "food_hákarl",
     "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto",
-      "de": "Tripas à moda do Porto"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl",
+      "de": "Hákarl"
     },
     "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto",
-      "de": "Porto"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "scenario": {
       "fr": "",
@@ -3537,85 +3537,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Tripas à moda do Porto ?",
-      "en": "What are Tripas à moda do Porto?",
-      "nl": "Wat zijn Tripas à moda do Porto?",
-      "de": "Was sind Tripas à moda do Porto?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?",
+      "de": "Was sind Hákarl?"
     },
     "answers": {
       "fr": [
-        "Un plat de tripes portugais",
+        "Du requin fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A Portuguese tripe dish",
+        "Fermented shark",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een Portugees pensgerecht",
+        "Gefermenteerde haai",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein portugiesisches Kuttelgericht",
+        "Fermentierter Hai",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat de tripes portugais",
-      "en": "A Portuguese tripe dish",
-      "nl": "Een Portugees pensgerecht",
-      "de": "Ein portugiesisches Kuttelgericht"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai",
+      "de": "Fermentierter Hai"
     },
     "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
-      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
-      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
-      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
+      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
     },
     "questionType": "food",
     "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Tripas à moda do Porto",
-        "en": "Photo of the dish: Tripas à moda do Porto",
-        "nl": "Foto van het gerecht: Tripas à moda do Porto",
-        "de": "Foto des Gerichts: Tripas à moda do Porto"
+        "fr": "Photo du plat : Hákarl",
+        "en": "Photo of the dish: Hákarl",
+        "nl": "Foto van het gerecht: Hákarl",
+        "de": "Foto des Gerichts: Hákarl"
       }
     }
   },
   {
     "id": "c015",
     "mode": "culinary",
-    "subjectKey": "food_sklandrausis",
+    "subjectKey": "food_smalahove",
     "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis",
-      "de": "Sklandrausis"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove",
+      "de": "Smalahove"
     },
     "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen",
+      "de": "Norwegen"
     },
     "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen",
+      "de": "Westnorwegen"
     },
     "scenario": {
       "fr": "",
@@ -3624,61 +3624,61 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Sklandrausis ?",
-      "en": "What are Sklandrausis?",
-      "nl": "Wat zijn Sklandrausis?",
-      "de": "Was sind Sklandrausis?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?",
+      "de": "Was sind Smalahove?"
     },
     "answers": {
       "fr": [
-        "Une tartelette au seigle et aux légumes",
+        "Une tête de mouton traditionnelle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A rye and vegetable tartlet",
+        "A traditional sheep’s head",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een taartje met rogge en groenten",
+        "Een traditionele schapenkop",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Roggen-Gemüse-Törtchen",
+        "Ein traditioneller Schafskopf",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une tartelette au seigle et aux légumes",
-      "en": "A rye and vegetable tartlet",
-      "nl": "Een taartje met rogge en groenten",
-      "de": "Ein Roggen-Gemüse-Törtchen"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop",
+      "de": "Ein traditioneller Schafskopf"
     },
     "explanation": {
-      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
-      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
-      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
-      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
+      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een hele of bijna hele schapenkop.",
+      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
     },
     "questionType": "food",
     "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Sklandrausis",
-        "en": "Photo of the dish: Sklandrausis",
-        "nl": "Foto van het gerecht: Sklandrausis",
-        "de": "Foto des Gerichts: Sklandrausis"
+        "fr": "Photo du plat : Smalahove",
+        "en": "Photo of the dish: Smalahove",
+        "nl": "Foto van het gerecht: Smalahove",
+        "de": "Foto des Gerichts: Smalahove"
       }
     }
   },
@@ -3946,7 +3946,7 @@ const CULINARY_50=[
   {
     "id": "c019",
     "mode": "culinary",
-    "subjectKey": "food_hakarl",
+    "subjectKey": "food_hákarl",
     "traditionName": {
       "fr": "Hákarl",
       "en": "Hákarl",
@@ -4120,24 +4120,24 @@ const CULINARY_50=[
   {
     "id": "c021",
     "mode": "culinary",
-    "subjectKey": "food_blodplättar",
+    "subjectKey": "food_casu_marzu",
     "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar",
-      "de": "Blodplättar"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu",
+      "de": "Casu Marzu"
     },
     "country": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Zweden",
-      "de": "Finnland / Schweden"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Pays nordiques",
-      "en": "Nordic countries",
-      "nl": "Noordse landen",
-      "de": "Nordische Länder"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië",
+      "de": "Sardinien"
     },
     "scenario": {
       "fr": "",
@@ -4146,85 +4146,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Blodplättar ?",
-      "en": "What are Blodplättar?",
-      "nl": "Wat zijn Blodplättar?",
-      "de": "Was sind Blodplättar?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?",
+      "de": "Was sind Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Des crêpes au sang",
+        "Un fromage très fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Blood pancakes",
+        "A highly fermented cheese",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Bloedpannenkoeken",
+        "Een sterk gefermenteerde kaas",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Blutpfannkuchen",
+        "Ein stark fermentierter Käse",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Des crêpes au sang",
-      "en": "Blood pancakes",
-      "nl": "Bloedpannenkoeken",
-      "de": "Blutpfannkuchen"
+      "fr": "Un fromage très fermenté",
+      "en": "A highly fermented cheese",
+      "nl": "Een sterk gefermenteerde kaas",
+      "de": "Ein stark fermentierter Käse"
     },
     "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
-      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
+      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
+      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
+      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
+      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
     },
     "questionType": "food",
     "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Blodplättar",
-        "en": "Photo of the dish: Blodplättar",
-        "nl": "Foto van het gerecht: Blodplättar",
-        "de": "Foto des Gerichts: Blodplättar"
+        "fr": "Photo du plat : Casu Marzu",
+        "en": "Photo of the dish: Casu Marzu",
+        "nl": "Foto van het gerecht: Casu Marzu",
+        "de": "Foto des Gerichts: Casu Marzu"
       }
     }
   },
   {
     "id": "c022",
     "mode": "culinary",
-    "subjectKey": "food_andouillette",
+    "subjectKey": "food_haggis",
     "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette",
-      "de": "Andouillette"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis",
+      "de": "Haggis"
     },
     "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "scenario": {
       "fr": "",
@@ -4233,85 +4233,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Andouillette ?",
-      "en": "What are Andouillette?",
-      "nl": "Wat zijn Andouillette?",
-      "de": "Was sind Andouillette?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?",
+      "de": "Was sind Haggis?"
     },
     "answers": {
       "fr": [
-        "Une saucisse à base d’intestins",
+        "Un plat à base d’abats de mouton",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A sausage made with intestines",
+        "A dish made with sheep offal",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een worst gemaakt met darmen",
+        "Een gerecht met schapenorgaanvlees",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Eine Wurst aus Därmen",
+        "Ein Gericht aus Schafsinnereien",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une saucisse à base d’intestins",
-      "en": "A sausage made with intestines",
-      "nl": "Een worst gemaakt met darmen",
-      "de": "Eine Wurst aus Därmen"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees",
+      "de": "Ein Gericht aus Schafsinnereien"
     },
     "explanation": {
-      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
-      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
-      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
+      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
+      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
     },
     "questionType": "food",
     "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Andouillette",
-        "en": "Photo of the dish: Andouillette",
-        "nl": "Foto van het gerecht: Andouillette",
-        "de": "Foto des Gerichts: Andouillette"
+        "fr": "Photo du plat : Haggis",
+        "en": "Photo of the dish: Haggis",
+        "nl": "Foto van het gerecht: Haggis",
+        "de": "Foto des Gerichts: Haggis"
       }
     }
   },
   {
     "id": "c023",
     "mode": "culinary",
-    "subjectKey": "food_mämmi",
+    "subjectKey": "food_surströmming",
     "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi",
-      "de": "Mämmi"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming",
+      "de": "Surströmming"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
     },
     "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden",
+      "de": "Nordschweden"
     },
     "scenario": {
       "fr": "",
@@ -4320,85 +4320,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Mämmi ?",
-      "en": "What are Mämmi?",
-      "nl": "Wat zijn Mämmi?",
-      "de": "Was sind Mämmi?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?",
+      "de": "Was sind Surströmming?"
     },
     "answers": {
       "fr": [
-        "Un dessert de Pâques au seigle",
+        "Du hareng fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "An Easter dessert made with rye",
+        "Fermented herring",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een paasdessert met rogge",
+        "Gefermenteerde haring",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Osterdessert aus Roggen",
+        "Fermentierter Hering",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un dessert de Pâques au seigle",
-      "en": "An Easter dessert made with rye",
-      "nl": "Een paasdessert met rogge",
-      "de": "Ein Osterdessert aus Roggen"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring",
+      "de": "Fermentierter Hering"
     },
     "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
-      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
+      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
+      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
+      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
     },
     "questionType": "food",
     "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Mämmi",
-        "en": "Photo of the dish: Mämmi",
-        "nl": "Foto van het gerecht: Mämmi",
-        "de": "Foto des Gerichts: Mämmi"
+        "fr": "Photo du plat : Surströmming",
+        "en": "Photo of the dish: Surströmming",
+        "nl": "Foto van het gerecht: Surströmming",
+        "de": "Foto des Gerichts: Surströmming"
       }
     }
   },
   {
     "id": "c024",
     "mode": "culinary",
-    "subjectKey": "food_jellied_eels",
+    "subjectKey": "food_hákarl",
     "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels",
-      "de": "Jellied eels"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl",
+      "de": "Hákarl"
     },
     "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk",
-      "de": "Vereinigtes Königreich"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen",
-      "de": "London"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "scenario": {
       "fr": "",
@@ -4407,85 +4407,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Jellied eels ?",
-      "en": "What are Jellied eels?",
-      "nl": "Wat zijn Jellied eels?",
-      "de": "Was sind Jellied eels?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?",
+      "de": "Was sind Hákarl?"
     },
     "answers": {
       "fr": [
-        "Des anguilles en gelée",
+        "Du requin fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Eels in jelly",
+        "Fermented shark",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Paling in gelei",
+        "Gefermenteerde haai",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Aal in Gelee",
+        "Fermentierter Hai",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Des anguilles en gelée",
-      "en": "Eels in jelly",
-      "nl": "Paling in gelei",
-      "de": "Aal in Gelee"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai",
+      "de": "Fermentierter Hai"
     },
     "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
-      "en": "Jellied eels are a historic speciality of London’s East End.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
-      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
+      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
     },
     "questionType": "food",
     "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Jellied eels",
-        "en": "Photo of the dish: Jellied eels",
-        "nl": "Foto van het gerecht: Jellied eels",
-        "de": "Foto des Gerichts: Jellied eels"
+        "fr": "Photo du plat : Hákarl",
+        "en": "Photo of the dish: Hákarl",
+        "nl": "Foto van het gerecht: Hákarl",
+        "de": "Foto des Gerichts: Hákarl"
       }
     }
   },
   {
     "id": "c025",
     "mode": "culinary",
-    "subjectKey": "food_czernina",
+    "subjectKey": "food_smalahove",
     "traditionName": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina",
-      "de": "Czernina"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove",
+      "de": "Smalahove"
     },
     "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen",
+      "de": "Norwegen"
     },
     "region": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen",
+      "de": "Westnorwegen"
     },
     "scenario": {
       "fr": "",
@@ -4494,85 +4494,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Czernina ?",
-      "en": "What are Czernina?",
-      "nl": "Wat zijn Czernina?",
-      "de": "Was sind Czernina?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?",
+      "de": "Was sind Smalahove?"
     },
     "answers": {
       "fr": [
-        "Une soupe au sang de canard",
+        "Une tête de mouton traditionnelle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A duck-blood soup",
+        "A traditional sheep’s head",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een soep met eendenbloed",
+        "Een traditionele schapenkop",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Eine Suppe mit Entenblut",
+        "Ein traditioneller Schafskopf",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une soupe au sang de canard",
-      "en": "A duck-blood soup",
-      "nl": "Een soep met eendenbloed",
-      "de": "Eine Suppe mit Entenblut"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop",
+      "de": "Ein traditioneller Schafskopf"
     },
     "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard.",
-      "en": "Czernina is a traditional Polish duck-blood soup.",
-      "nl": "Czernina is een traditionele Poolse soep met eendenbloed.",
-      "de": "Czernina ist eine traditionelle polnische Suppe mit Entenblut."
+      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een hele of bijna hele schapenkop.",
+      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
     },
     "questionType": "food",
     "image": {
-      "file": "czernina.jpg",
-      "path": "assets/food/czernina.jpg",
-      "adobeStockId": "20264185",
-      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Czernina",
-        "en": "Photo of the dish: Czernina",
-        "nl": "Foto van het gerecht: Czernina",
-        "de": "Foto des Gerichts: Czernina"
+        "fr": "Photo du plat : Smalahove",
+        "en": "Photo of the dish: Smalahove",
+        "nl": "Foto van het gerecht: Smalahove",
+        "de": "Foto des Gerichts: Smalahove"
       }
     }
   },
   {
     "id": "c026",
     "mode": "culinary",
-    "subjectKey": "food_ciorbă_de_burtă",
+    "subjectKey": "food_casu_marzu",
     "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă",
-      "de": "Ciorbă de burtă"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu",
+      "de": "Casu Marzu"
     },
     "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië",
+      "de": "Sardinien"
     },
     "scenario": {
       "fr": "",
@@ -4581,85 +4581,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Ciorbă de burtă ?",
-      "en": "What are Ciorbă de burtă?",
-      "nl": "Wat zijn Ciorbă de burtă?",
-      "de": "Was sind Ciorbă de burtă?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?",
+      "de": "Was sind Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Une soupe de tripes",
+        "Un fromage très fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A tripe soup",
+        "A highly fermented cheese",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een penssoep",
+        "Een sterk gefermenteerde kaas",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Eine Kuttelsuppe",
+        "Ein stark fermentierter Käse",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une soupe de tripes",
-      "en": "A tripe soup",
-      "nl": "Een penssoep",
-      "de": "Eine Kuttelsuppe"
+      "fr": "Un fromage très fermenté",
+      "en": "A highly fermented cheese",
+      "nl": "Een sterk gefermenteerde kaas",
+      "de": "Ein stark fermentierter Käse"
     },
     "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep.",
-      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe."
+      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
+      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
+      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
+      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
     },
     "questionType": "food",
     "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Ciorbă de burtă",
-        "en": "Photo of the dish: Ciorbă de burtă",
-        "nl": "Foto van het gerecht: Ciorbă de burtă",
-        "de": "Foto des Gerichts: Ciorbă de burtă"
+        "fr": "Photo du plat : Casu Marzu",
+        "en": "Photo of the dish: Casu Marzu",
+        "nl": "Foto van het gerecht: Casu Marzu",
+        "de": "Foto des Gerichts: Casu Marzu"
       }
     }
   },
   {
     "id": "c027",
     "mode": "culinary",
-    "subjectKey": "food_kokoretsi",
+    "subjectKey": "food_haggis",
     "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi",
-      "de": "Kokoretsi"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis",
+      "de": "Haggis"
     },
     "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "region": {
-      "fr": "Grèce / Balkans",
-      "en": "Greece / Balkans",
-      "nl": "Griekenland / Balkan",
-      "de": "Griechenland / Balkan"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "scenario": {
       "fr": "",
@@ -4668,85 +4668,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Kokoretsi ?",
-      "en": "What are Kokoretsi?",
-      "nl": "Wat zijn Kokoretsi?",
-      "de": "Was sind Kokoretsi?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?",
+      "de": "Was sind Haggis?"
     },
     "answers": {
       "fr": [
-        "Une spécialité d’abats grillés",
+        "Un plat à base d’abats de mouton",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A grilled offal speciality",
+        "A dish made with sheep offal",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een specialiteit van gegrild orgaanvlees",
+        "Een gerecht met schapenorgaanvlees",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Eine Spezialität aus gegrillten Innereien",
+        "Ein Gericht aus Schafsinnereien",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une spécialité d’abats grillés",
-      "en": "A grilled offal speciality",
-      "nl": "Een specialiteit van gegrild orgaanvlees",
-      "de": "Eine Spezialität aus gegrillten Innereien"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees",
+      "de": "Ein Gericht aus Schafsinnereien"
     },
     "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
-      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
+      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
+      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
     },
     "questionType": "food",
     "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Kokoretsi",
-        "en": "Photo of the dish: Kokoretsi",
-        "nl": "Foto van het gerecht: Kokoretsi",
-        "de": "Foto des Gerichts: Kokoretsi"
+        "fr": "Photo du plat : Haggis",
+        "en": "Photo of the dish: Haggis",
+        "nl": "Foto van het gerecht: Haggis",
+        "de": "Foto des Gerichts: Haggis"
       }
     }
   },
   {
     "id": "c028",
     "mode": "culinary",
-    "subjectKey": "food_labskaus",
+    "subjectKey": "food_surströmming",
     "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus",
-      "de": "Labskaus"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming",
+      "de": "Surströmming"
     },
     "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland",
-      "de": "Deutschland"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
     },
     "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland",
-      "de": "Norddeutschland"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden",
+      "de": "Nordschweden"
     },
     "scenario": {
       "fr": "",
@@ -4755,85 +4755,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Labskaus ?",
-      "en": "What are Labskaus?",
-      "nl": "Wat zijn Labskaus?",
-      "de": "Was sind Labskaus?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?",
+      "de": "Was sind Surströmming?"
     },
     "answers": {
       "fr": [
-        "Un plat de marins à base de viande et pommes de terre",
+        "Du hareng fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A sailors’ dish with meat and potatoes",
+        "Fermented herring",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een zeemansgerecht met vlees en aardappelen",
+        "Gefermenteerde haring",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Seemannsgericht mit Fleisch und Kartoffeln",
+        "Fermentierter Hering",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat de marins à base de viande et pommes de terre",
-      "en": "A sailors’ dish with meat and potatoes",
-      "nl": "Een zeemansgerecht met vlees en aardappelen",
-      "de": "Ein Seemannsgericht mit Fleisch und Kartoffeln"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring",
+      "de": "Fermentierter Hering"
     },
     "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
-      "en": "Labskaus is a northern German dish associated with maritime culture.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
-      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
+      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
+      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
+      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
     },
     "questionType": "food",
     "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Labskaus",
-        "en": "Photo of the dish: Labskaus",
-        "nl": "Foto van het gerecht: Labskaus",
-        "de": "Foto des Gerichts: Labskaus"
+        "fr": "Photo du plat : Surströmming",
+        "en": "Photo of the dish: Surströmming",
+        "nl": "Foto van het gerecht: Surströmming",
+        "de": "Foto des Gerichts: Surströmming"
       }
     }
   },
   {
     "id": "c029",
     "mode": "culinary",
-    "subjectKey": "food_tripas_à_moda_do_porto",
+    "subjectKey": "food_hákarl",
     "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto",
-      "de": "Tripas à moda do Porto"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl",
+      "de": "Hákarl"
     },
     "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto",
-      "de": "Porto"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "scenario": {
       "fr": "",
@@ -4842,85 +4842,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Tripas à moda do Porto ?",
-      "en": "What are Tripas à moda do Porto?",
-      "nl": "Wat zijn Tripas à moda do Porto?",
-      "de": "Was sind Tripas à moda do Porto?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?",
+      "de": "Was sind Hákarl?"
     },
     "answers": {
       "fr": [
-        "Un plat de tripes portugais",
+        "Du requin fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A Portuguese tripe dish",
+        "Fermented shark",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een Portugees pensgerecht",
+        "Gefermenteerde haai",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein portugiesisches Kuttelgericht",
+        "Fermentierter Hai",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat de tripes portugais",
-      "en": "A Portuguese tripe dish",
-      "nl": "Een Portugees pensgerecht",
-      "de": "Ein portugiesisches Kuttelgericht"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai",
+      "de": "Fermentierter Hai"
     },
     "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
-      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
-      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
-      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
+      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
     },
     "questionType": "food",
     "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Tripas à moda do Porto",
-        "en": "Photo of the dish: Tripas à moda do Porto",
-        "nl": "Foto van het gerecht: Tripas à moda do Porto",
-        "de": "Foto des Gerichts: Tripas à moda do Porto"
+        "fr": "Photo du plat : Hákarl",
+        "en": "Photo of the dish: Hákarl",
+        "nl": "Foto van het gerecht: Hákarl",
+        "de": "Foto des Gerichts: Hákarl"
       }
     }
   },
   {
     "id": "c030",
     "mode": "culinary",
-    "subjectKey": "food_sklandrausis",
+    "subjectKey": "food_smalahove",
     "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis",
-      "de": "Sklandrausis"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove",
+      "de": "Smalahove"
     },
     "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen",
+      "de": "Norwegen"
     },
     "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen",
+      "de": "Westnorwegen"
     },
     "scenario": {
       "fr": "",
@@ -4929,61 +4929,61 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Sklandrausis ?",
-      "en": "What are Sklandrausis?",
-      "nl": "Wat zijn Sklandrausis?",
-      "de": "Was sind Sklandrausis?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?",
+      "de": "Was sind Smalahove?"
     },
     "answers": {
       "fr": [
-        "Une tartelette au seigle et aux légumes",
+        "Une tête de mouton traditionnelle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A rye and vegetable tartlet",
+        "A traditional sheep’s head",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een taartje met rogge en groenten",
+        "Een traditionele schapenkop",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Roggen-Gemüse-Törtchen",
+        "Ein traditioneller Schafskopf",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une tartelette au seigle et aux légumes",
-      "en": "A rye and vegetable tartlet",
-      "nl": "Een taartje met rogge en groenten",
-      "de": "Ein Roggen-Gemüse-Törtchen"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop",
+      "de": "Ein traditioneller Schafskopf"
     },
     "explanation": {
-      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
-      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
-      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
-      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
+      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een hele of bijna hele schapenkop.",
+      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
     },
     "questionType": "food",
     "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Sklandrausis",
-        "en": "Photo of the dish: Sklandrausis",
-        "nl": "Foto van het gerecht: Sklandrausis",
-        "de": "Foto des Gerichts: Sklandrausis"
+        "fr": "Photo du plat : Smalahove",
+        "en": "Photo of the dish: Smalahove",
+        "nl": "Foto van het gerecht: Smalahove",
+        "de": "Foto des Gerichts: Smalahove"
       }
     }
   },
@@ -5251,7 +5251,7 @@ const CULINARY_50=[
   {
     "id": "c034",
     "mode": "culinary",
-    "subjectKey": "food_hakarl",
+    "subjectKey": "food_hákarl",
     "traditionName": {
       "fr": "Hákarl",
       "en": "Hákarl",
@@ -5425,24 +5425,24 @@ const CULINARY_50=[
   {
     "id": "c036",
     "mode": "culinary",
-    "subjectKey": "food_blodplättar",
+    "subjectKey": "food_casu_marzu",
     "traditionName": {
-      "fr": "Blodplättar",
-      "en": "Blodplättar",
-      "nl": "Blodplättar",
-      "de": "Blodplättar"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu",
+      "de": "Casu Marzu"
     },
     "country": {
-      "fr": "Finlande / Suède",
-      "en": "Finland / Sweden",
-      "nl": "Finland / Zweden",
-      "de": "Finnland / Schweden"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Pays nordiques",
-      "en": "Nordic countries",
-      "nl": "Noordse landen",
-      "de": "Nordische Länder"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië",
+      "de": "Sardinien"
     },
     "scenario": {
       "fr": "",
@@ -5451,85 +5451,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Blodplättar ?",
-      "en": "What are Blodplättar?",
-      "nl": "Wat zijn Blodplättar?",
-      "de": "Was sind Blodplättar?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?",
+      "de": "Was sind Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Des crêpes au sang",
+        "Un fromage très fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Blood pancakes",
+        "A highly fermented cheese",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Bloedpannenkoeken",
+        "Een sterk gefermenteerde kaas",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Blutpfannkuchen",
+        "Ein stark fermentierter Käse",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Des crêpes au sang",
-      "en": "Blood pancakes",
-      "nl": "Bloedpannenkoeken",
-      "de": "Blutpfannkuchen"
+      "fr": "Un fromage très fermenté",
+      "en": "A highly fermented cheese",
+      "nl": "Een sterk gefermenteerde kaas",
+      "de": "Ein stark fermentierter Käse"
     },
     "explanation": {
-      "fr": "Les Blodplättar sont des crêpes au sang consommées dans plusieurs traditions nordiques.",
-      "en": "Blodplättar are blood pancakes found in several Nordic food traditions.",
-      "nl": "Blodplättar zijn bloedpannenkoeken uit verschillende Noordse eetculturen.",
-      "de": "Blodplättar sind Blutpfannkuchen aus nordischen Esstraditionen."
+      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
+      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
+      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
+      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
     },
     "questionType": "food",
     "image": {
-      "file": "blodplattar.jpg",
-      "path": "assets/food/blodplattar.jpg",
-      "adobeStockId": "411401459",
-      "credit": "© Paula / Adobe Stock / Stock photo ID: 411401459",
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Blodplättar",
-        "en": "Photo of the dish: Blodplättar",
-        "nl": "Foto van het gerecht: Blodplättar",
-        "de": "Foto des Gerichts: Blodplättar"
+        "fr": "Photo du plat : Casu Marzu",
+        "en": "Photo of the dish: Casu Marzu",
+        "nl": "Foto van het gerecht: Casu Marzu",
+        "de": "Foto des Gerichts: Casu Marzu"
       }
     }
   },
   {
     "id": "c037",
     "mode": "culinary",
-    "subjectKey": "food_andouillette",
+    "subjectKey": "food_haggis",
     "traditionName": {
-      "fr": "Andouillette",
-      "en": "Andouillette",
-      "nl": "Andouillette",
-      "de": "Andouillette"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis",
+      "de": "Haggis"
     },
     "country": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "region": {
-      "fr": "France",
-      "en": "France",
-      "nl": "Frankrijk",
-      "de": "Frankreich"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "scenario": {
       "fr": "",
@@ -5538,85 +5538,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Andouillette ?",
-      "en": "What are Andouillette?",
-      "nl": "Wat zijn Andouillette?",
-      "de": "Was sind Andouillette?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?",
+      "de": "Was sind Haggis?"
     },
     "answers": {
       "fr": [
-        "Une saucisse à base d’intestins",
+        "Un plat à base d’abats de mouton",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A sausage made with intestines",
+        "A dish made with sheep offal",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een worst gemaakt met darmen",
+        "Een gerecht met schapenorgaanvlees",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Eine Wurst aus Därmen",
+        "Ein Gericht aus Schafsinnereien",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une saucisse à base d’intestins",
-      "en": "A sausage made with intestines",
-      "nl": "Een worst gemaakt met darmen",
-      "de": "Eine Wurst aus Därmen"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees",
+      "de": "Ein Gericht aus Schafsinnereien"
     },
     "explanation": {
-      "fr": "L’Andouillette est une charcuterie française au goût très reconnaissable.",
-      "en": "Andouillette is a French charcuterie speciality with a very recognisable flavour.",
-      "nl": "Andouillette is een Franse vleeswarenspecialiteit met een uitgesproken smaak.",
-      "de": "Andouillette ist eine französische Wurstspezialität mit sehr erkennbarem Geschmack."
+      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
+      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
     },
     "questionType": "food",
     "image": {
-      "file": "andouillette.jpg",
-      "path": "assets/food/andouillette.jpg",
-      "adobeStockId": "233753049",
-      "credit": "© pixelwebphoto / Adobe Stock / Stock photo ID: 233753049",
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Andouillette",
-        "en": "Photo of the dish: Andouillette",
-        "nl": "Foto van het gerecht: Andouillette",
-        "de": "Foto des Gerichts: Andouillette"
+        "fr": "Photo du plat : Haggis",
+        "en": "Photo of the dish: Haggis",
+        "nl": "Foto van het gerecht: Haggis",
+        "de": "Foto des Gerichts: Haggis"
       }
     }
   },
   {
     "id": "c038",
     "mode": "culinary",
-    "subjectKey": "food_mämmi",
+    "subjectKey": "food_surströmming",
     "traditionName": {
-      "fr": "Mämmi",
-      "en": "Mämmi",
-      "nl": "Mämmi",
-      "de": "Mämmi"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming",
+      "de": "Surströmming"
     },
     "country": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
     },
     "region": {
-      "fr": "Finlande",
-      "en": "Finland",
-      "nl": "Finland",
-      "de": "Finnland"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden",
+      "de": "Nordschweden"
     },
     "scenario": {
       "fr": "",
@@ -5625,85 +5625,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Mämmi ?",
-      "en": "What are Mämmi?",
-      "nl": "Wat zijn Mämmi?",
-      "de": "Was sind Mämmi?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?",
+      "de": "Was sind Surströmming?"
     },
     "answers": {
       "fr": [
-        "Un dessert de Pâques au seigle",
+        "Du hareng fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "An Easter dessert made with rye",
+        "Fermented herring",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een paasdessert met rogge",
+        "Gefermenteerde haring",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Osterdessert aus Roggen",
+        "Fermentierter Hering",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un dessert de Pâques au seigle",
-      "en": "An Easter dessert made with rye",
-      "nl": "Een paasdessert met rogge",
-      "de": "Ein Osterdessert aus Roggen"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring",
+      "de": "Fermentierter Hering"
     },
     "explanation": {
-      "fr": "Le Mämmi est un dessert finlandais de Pâques préparé avec du seigle et du malt.",
-      "en": "Mämmi is a Finnish Easter dessert made with rye and malt.",
-      "nl": "Mämmi is een Fins paasdessert gemaakt met rogge en mout.",
-      "de": "Mämmi ist ein finnisches Osterdessert aus Roggen und Malz."
+      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
+      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
+      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
     },
     "questionType": "food",
     "image": {
-      "file": "mammi.jpg",
-      "path": "assets/food/mammi.jpg",
-      "adobeStockId": "485041926",
-      "credit": "© Jidia / Adobe Stock / Stock photo ID: 485041926",
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Mämmi",
-        "en": "Photo of the dish: Mämmi",
-        "nl": "Foto van het gerecht: Mämmi",
-        "de": "Foto des Gerichts: Mämmi"
+        "fr": "Photo du plat : Surströmming",
+        "en": "Photo of the dish: Surströmming",
+        "nl": "Foto van het gerecht: Surströmming",
+        "de": "Foto des Gerichts: Surströmming"
       }
     }
   },
   {
     "id": "c039",
     "mode": "culinary",
-    "subjectKey": "food_jellied_eels",
+    "subjectKey": "food_hákarl",
     "traditionName": {
-      "fr": "Jellied eels",
-      "en": "Jellied eels",
-      "nl": "Jellied eels",
-      "de": "Jellied eels"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl",
+      "de": "Hákarl"
     },
     "country": {
-      "fr": "Royaume-Uni",
-      "en": "United Kingdom",
-      "nl": "Verenigd Koninkrijk",
-      "de": "Vereinigtes Königreich"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "region": {
-      "fr": "Londres",
-      "en": "London",
-      "nl": "Londen",
-      "de": "London"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "scenario": {
       "fr": "",
@@ -5712,85 +5712,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Jellied eels ?",
-      "en": "What are Jellied eels?",
-      "nl": "Wat zijn Jellied eels?",
-      "de": "Was sind Jellied eels?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?",
+      "de": "Was sind Hákarl?"
     },
     "answers": {
       "fr": [
-        "Des anguilles en gelée",
+        "Du requin fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "Eels in jelly",
+        "Fermented shark",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Paling in gelei",
+        "Gefermenteerde haai",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Aal in Gelee",
+        "Fermentierter Hai",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Des anguilles en gelée",
-      "en": "Eels in jelly",
-      "nl": "Paling in gelei",
-      "de": "Aal in Gelee"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai",
+      "de": "Fermentierter Hai"
     },
     "explanation": {
-      "fr": "Les Jellied eels sont une spécialité historique de l’East End londonien.",
-      "en": "Jellied eels are a historic speciality of London’s East End.",
-      "nl": "Jellied eels zijn een historische specialiteit uit East End Londen.",
-      "de": "Jellied eels sind eine historische Spezialität aus dem Londoner East End."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
+      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
     },
     "questionType": "food",
     "image": {
-      "file": "jellied-eels.jpg",
-      "path": "assets/food/jellied-eels.jpg",
-      "adobeStockId": "1254168402",
-      "credit": "© Ambrosiniv / Adobe Stock / Stock photo ID: 1254168402",
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Jellied eels",
-        "en": "Photo of the dish: Jellied eels",
-        "nl": "Foto van het gerecht: Jellied eels",
-        "de": "Foto des Gerichts: Jellied eels"
+        "fr": "Photo du plat : Hákarl",
+        "en": "Photo of the dish: Hákarl",
+        "nl": "Foto van het gerecht: Hákarl",
+        "de": "Foto des Gerichts: Hákarl"
       }
     }
   },
   {
     "id": "c040",
     "mode": "culinary",
-    "subjectKey": "food_czernina",
+    "subjectKey": "food_smalahove",
     "traditionName": {
-      "fr": "Czernina",
-      "en": "Czernina",
-      "nl": "Czernina",
-      "de": "Czernina"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove",
+      "de": "Smalahove"
     },
     "country": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen",
+      "de": "Norwegen"
     },
     "region": {
-      "fr": "Pologne",
-      "en": "Poland",
-      "nl": "Polen",
-      "de": "Polen"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen",
+      "de": "Westnorwegen"
     },
     "scenario": {
       "fr": "",
@@ -5799,85 +5799,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Czernina ?",
-      "en": "What are Czernina?",
-      "nl": "Wat zijn Czernina?",
-      "de": "Was sind Czernina?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?",
+      "de": "Was sind Smalahove?"
     },
     "answers": {
       "fr": [
-        "Une soupe au sang de canard",
+        "Une tête de mouton traditionnelle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A duck-blood soup",
+        "A traditional sheep’s head",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een soep met eendenbloed",
+        "Een traditionele schapenkop",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Eine Suppe mit Entenblut",
+        "Ein traditioneller Schafskopf",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une soupe au sang de canard",
-      "en": "A duck-blood soup",
-      "nl": "Een soep met eendenbloed",
-      "de": "Eine Suppe mit Entenblut"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop",
+      "de": "Ein traditioneller Schafskopf"
     },
     "explanation": {
-      "fr": "La Czernina est une soupe polonaise traditionnelle au sang de canard.",
-      "en": "Czernina is a traditional Polish duck-blood soup.",
-      "nl": "Czernina is een traditionele Poolse soep met eendenbloed.",
-      "de": "Czernina ist eine traditionelle polnische Suppe mit Entenblut."
+      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een hele of bijna hele schapenkop.",
+      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
     },
     "questionType": "food",
     "image": {
-      "file": "czernina.jpg",
-      "path": "assets/food/czernina.jpg",
-      "adobeStockId": "20264185",
-      "credit": "© Elzbieta Sekowska / Adobe Stock / Stock photo ID: 20264185",
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Czernina",
-        "en": "Photo of the dish: Czernina",
-        "nl": "Foto van het gerecht: Czernina",
-        "de": "Foto des Gerichts: Czernina"
+        "fr": "Photo du plat : Smalahove",
+        "en": "Photo of the dish: Smalahove",
+        "nl": "Foto van het gerecht: Smalahove",
+        "de": "Foto des Gerichts: Smalahove"
       }
     }
   },
   {
     "id": "c041",
     "mode": "culinary",
-    "subjectKey": "food_ciorbă_de_burtă",
+    "subjectKey": "food_casu_marzu",
     "traditionName": {
-      "fr": "Ciorbă de burtă",
-      "en": "Ciorbă de burtă",
-      "nl": "Ciorbă de burtă",
-      "de": "Ciorbă de burtă"
+      "fr": "Casu Marzu",
+      "en": "Casu Marzu",
+      "nl": "Casu Marzu",
+      "de": "Casu Marzu"
     },
     "country": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
+      "fr": "Italie",
+      "en": "Italy",
+      "nl": "Italië",
+      "de": "Italien"
     },
     "region": {
-      "fr": "Roumanie",
-      "en": "Romania",
-      "nl": "Roemenië",
-      "de": "Rumänien"
+      "fr": "Sardaigne",
+      "en": "Sardinia",
+      "nl": "Sardinië",
+      "de": "Sardinien"
     },
     "scenario": {
       "fr": "",
@@ -5886,85 +5886,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Ciorbă de burtă ?",
-      "en": "What are Ciorbă de burtă?",
-      "nl": "Wat zijn Ciorbă de burtă?",
-      "de": "Was sind Ciorbă de burtă?"
+      "fr": "Que sont les Casu Marzu ?",
+      "en": "What are Casu Marzu?",
+      "nl": "Wat zijn Casu Marzu?",
+      "de": "Was sind Casu Marzu?"
     },
     "answers": {
       "fr": [
-        "Une soupe de tripes",
+        "Un fromage très fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A tripe soup",
+        "A highly fermented cheese",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een penssoep",
+        "Een sterk gefermenteerde kaas",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Eine Kuttelsuppe",
+        "Ein stark fermentierter Käse",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une soupe de tripes",
-      "en": "A tripe soup",
-      "nl": "Een penssoep",
-      "de": "Eine Kuttelsuppe"
+      "fr": "Un fromage très fermenté",
+      "en": "A highly fermented cheese",
+      "nl": "Een sterk gefermenteerde kaas",
+      "de": "Ein stark fermentierter Käse"
     },
     "explanation": {
-      "fr": "La Ciorbă de burtă est une soupe roumaine de tripes, souvent servie avec crème, ail ou vinaigre.",
-      "en": "Ciorbă de burtă is a Romanian tripe soup, often served with cream, garlic or vinegar.",
-      "nl": "Ciorbă de burtă is een Roemeense penssoep.",
-      "de": "Ciorbă de burtă ist eine rumänische Kuttelsuppe."
+      "fr": "Le Casu Marzu est un fromage sarde controversé connu pour sa fermentation très poussée.",
+      "en": "Casu Marzu is a controversial Sardinian cheese known for its advanced fermentation.",
+      "nl": "Casu Marzu is een controversiële Sardijnse kaas die bekendstaat om zijn sterke fermentatie.",
+      "de": "Casu Marzu ist ein umstrittener sardischer Käse, der für seine starke Fermentation bekannt ist."
     },
     "questionType": "food",
     "image": {
-      "file": "ciorba-de-burta.jpg",
-      "path": "assets/food/ciorba-de-burta.jpg",
-      "adobeStockId": "198001933",
-      "credit": "© Sebastian Studio / Adobe Stock / Stock photo ID: 198001933",
+      "file": "casu-marzu.jpg",
+      "path": "assets/food/casu-marzu.jpg",
+      "adobeStockId": "69736294",
+      "credit": "© ballylocci / Adobe Stock / Stock photo ID: 69736294",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Ciorbă de burtă",
-        "en": "Photo of the dish: Ciorbă de burtă",
-        "nl": "Foto van het gerecht: Ciorbă de burtă",
-        "de": "Foto des Gerichts: Ciorbă de burtă"
+        "fr": "Photo du plat : Casu Marzu",
+        "en": "Photo of the dish: Casu Marzu",
+        "nl": "Foto van het gerecht: Casu Marzu",
+        "de": "Foto des Gerichts: Casu Marzu"
       }
     }
   },
   {
     "id": "c042",
     "mode": "culinary",
-    "subjectKey": "food_kokoretsi",
+    "subjectKey": "food_haggis",
     "traditionName": {
-      "fr": "Kokoretsi",
-      "en": "Kokoretsi",
-      "nl": "Kokoretsi",
-      "de": "Kokoretsi"
+      "fr": "Haggis",
+      "en": "Haggis",
+      "nl": "Haggis",
+      "de": "Haggis"
     },
     "country": {
-      "fr": "Grèce",
-      "en": "Greece",
-      "nl": "Griekenland",
-      "de": "Griechenland"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "region": {
-      "fr": "Grèce / Balkans",
-      "en": "Greece / Balkans",
-      "nl": "Griekenland / Balkan",
-      "de": "Griechenland / Balkan"
+      "fr": "Écosse",
+      "en": "Scotland",
+      "nl": "Schotland",
+      "de": "Schottland"
     },
     "scenario": {
       "fr": "",
@@ -5973,85 +5973,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Kokoretsi ?",
-      "en": "What are Kokoretsi?",
-      "nl": "Wat zijn Kokoretsi?",
-      "de": "Was sind Kokoretsi?"
+      "fr": "Que sont les Haggis ?",
+      "en": "What are Haggis?",
+      "nl": "Wat zijn Haggis?",
+      "de": "Was sind Haggis?"
     },
     "answers": {
       "fr": [
-        "Une spécialité d’abats grillés",
+        "Un plat à base d’abats de mouton",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A grilled offal speciality",
+        "A dish made with sheep offal",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een specialiteit van gegrild orgaanvlees",
+        "Een gerecht met schapenorgaanvlees",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Eine Spezialität aus gegrillten Innereien",
+        "Ein Gericht aus Schafsinnereien",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une spécialité d’abats grillés",
-      "en": "A grilled offal speciality",
-      "nl": "Een specialiteit van gegrild orgaanvlees",
-      "de": "Eine Spezialität aus gegrillten Innereien"
+      "fr": "Un plat à base d’abats de mouton",
+      "en": "A dish made with sheep offal",
+      "nl": "Een gerecht met schapenorgaanvlees",
+      "de": "Ein Gericht aus Schafsinnereien"
     },
     "explanation": {
-      "fr": "Le Kokoretsi est une préparation grecque et balkanique à base d’abats grillés à la broche.",
-      "en": "Kokoretsi is a Greek and Balkan preparation made with offal grilled on a spit.",
-      "nl": "Kokoretsi is een Griekse en Balkanspecialiteit van gegrild orgaanvlees.",
-      "de": "Kokoretsi ist eine griechisch-balkanische Spezialität aus gegrillten Innereien."
+      "fr": "Le Haggis est un plat écossais préparé avec des abats, de l’avoine, des oignons et des épices.",
+      "en": "Haggis is a Scottish dish made with offal, oats, onions and spices.",
+      "nl": "Haggis is een Schots gerecht met orgaanvlees, haver, ui en kruiden.",
+      "de": "Haggis ist ein schottisches Gericht mit Innereien, Hafer, Zwiebeln und Gewürzen."
     },
     "questionType": "food",
     "image": {
-      "file": "kokoretsi.jpg",
-      "path": "assets/food/kokoretsi.jpg",
-      "adobeStockId": "271480410",
-      "credit": "© Rawf8 / Adobe Stock / Stock photo ID: 271480410",
+      "file": "haggis.jpg",
+      "path": "assets/food/haggis.jpg",
+      "adobeStockId": "422032025",
+      "credit": "© beataaldridge / Adobe Stock / Stock photo ID: 422032025",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Kokoretsi",
-        "en": "Photo of the dish: Kokoretsi",
-        "nl": "Foto van het gerecht: Kokoretsi",
-        "de": "Foto des Gerichts: Kokoretsi"
+        "fr": "Photo du plat : Haggis",
+        "en": "Photo of the dish: Haggis",
+        "nl": "Foto van het gerecht: Haggis",
+        "de": "Foto des Gerichts: Haggis"
       }
     }
   },
   {
     "id": "c043",
     "mode": "culinary",
-    "subjectKey": "food_labskaus",
+    "subjectKey": "food_surströmming",
     "traditionName": {
-      "fr": "Labskaus",
-      "en": "Labskaus",
-      "nl": "Labskaus",
-      "de": "Labskaus"
+      "fr": "Surströmming",
+      "en": "Surströmming",
+      "nl": "Surströmming",
+      "de": "Surströmming"
     },
     "country": {
-      "fr": "Allemagne",
-      "en": "Germany",
-      "nl": "Duitsland",
-      "de": "Deutschland"
+      "fr": "Suède",
+      "en": "Sweden",
+      "nl": "Zweden",
+      "de": "Schweden"
     },
     "region": {
-      "fr": "Nord de l’Allemagne",
-      "en": "Northern Germany",
-      "nl": "Noord-Duitsland",
-      "de": "Norddeutschland"
+      "fr": "Nord de la Suède",
+      "en": "Northern Sweden",
+      "nl": "Noord-Zweden",
+      "de": "Nordschweden"
     },
     "scenario": {
       "fr": "",
@@ -6060,85 +6060,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Labskaus ?",
-      "en": "What are Labskaus?",
-      "nl": "Wat zijn Labskaus?",
-      "de": "Was sind Labskaus?"
+      "fr": "Que sont les Surströmming ?",
+      "en": "What are Surströmming?",
+      "nl": "Wat zijn Surströmming?",
+      "de": "Was sind Surströmming?"
     },
     "answers": {
       "fr": [
-        "Un plat de marins à base de viande et pommes de terre",
+        "Du hareng fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A sailors’ dish with meat and potatoes",
+        "Fermented herring",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een zeemansgerecht met vlees en aardappelen",
+        "Gefermenteerde haring",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Seemannsgericht mit Fleisch und Kartoffeln",
+        "Fermentierter Hering",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat de marins à base de viande et pommes de terre",
-      "en": "A sailors’ dish with meat and potatoes",
-      "nl": "Een zeemansgerecht met vlees en aardappelen",
-      "de": "Ein Seemannsgericht mit Fleisch und Kartoffeln"
+      "fr": "Du hareng fermenté",
+      "en": "Fermented herring",
+      "nl": "Gefermenteerde haring",
+      "de": "Fermentierter Hering"
     },
     "explanation": {
-      "fr": "Le Labskaus est un plat du nord de l’Allemagne associé à la culture maritime.",
-      "en": "Labskaus is a northern German dish associated with maritime culture.",
-      "nl": "Labskaus is een Noord-Duits gerecht verbonden met de zeecultuur.",
-      "de": "Labskaus ist ein norddeutsches Gericht aus der Seefahrtskultur."
+      "fr": "Le Surströmming est du hareng fermenté, célèbre pour son odeur très puissante.",
+      "en": "Surströmming is fermented herring, famous for its extremely strong smell.",
+      "nl": "Surströmming is gefermenteerde haring, bekend om zijn zeer sterke geur.",
+      "de": "Surströmming ist fermentierter Hering, berühmt für seinen sehr starken Geruch."
     },
     "questionType": "food",
     "image": {
-      "file": "labskaus.jpg",
-      "path": "assets/food/labskaus.jpg",
-      "adobeStockId": "234422895",
-      "credit": "© FomaA / Adobe Stock / Stock photo ID: 234422895",
+      "file": "surstromming.jpg",
+      "path": "assets/food/surstromming.jpg",
+      "adobeStockId": "143413426",
+      "credit": "© seba tataru / Adobe Stock / Stock photo ID: 143413426",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Labskaus",
-        "en": "Photo of the dish: Labskaus",
-        "nl": "Foto van het gerecht: Labskaus",
-        "de": "Foto des Gerichts: Labskaus"
+        "fr": "Photo du plat : Surströmming",
+        "en": "Photo of the dish: Surströmming",
+        "nl": "Foto van het gerecht: Surströmming",
+        "de": "Foto des Gerichts: Surströmming"
       }
     }
   },
   {
     "id": "c044",
     "mode": "culinary",
-    "subjectKey": "food_tripas_à_moda_do_porto",
+    "subjectKey": "food_hákarl",
     "traditionName": {
-      "fr": "Tripas à moda do Porto",
-      "en": "Tripas à moda do Porto",
-      "nl": "Tripas à moda do Porto",
-      "de": "Tripas à moda do Porto"
+      "fr": "Hákarl",
+      "en": "Hákarl",
+      "nl": "Hákarl",
+      "de": "Hákarl"
     },
     "country": {
-      "fr": "Portugal",
-      "en": "Portugal",
-      "nl": "Portugal",
-      "de": "Portugal"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "region": {
-      "fr": "Porto",
-      "en": "Porto",
-      "nl": "Porto",
-      "de": "Porto"
+      "fr": "Islande",
+      "en": "Iceland",
+      "nl": "IJsland",
+      "de": "Island"
     },
     "scenario": {
       "fr": "",
@@ -6147,85 +6147,85 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Tripas à moda do Porto ?",
-      "en": "What are Tripas à moda do Porto?",
-      "nl": "Wat zijn Tripas à moda do Porto?",
-      "de": "Was sind Tripas à moda do Porto?"
+      "fr": "Que sont les Hákarl ?",
+      "en": "What are Hákarl?",
+      "nl": "Wat zijn Hákarl?",
+      "de": "Was sind Hákarl?"
     },
     "answers": {
       "fr": [
-        "Un plat de tripes portugais",
+        "Du requin fermenté",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A Portuguese tripe dish",
+        "Fermented shark",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een Portugees pensgerecht",
+        "Gefermenteerde haai",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein portugiesisches Kuttelgericht",
+        "Fermentierter Hai",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Un plat de tripes portugais",
-      "en": "A Portuguese tripe dish",
-      "nl": "Een Portugees pensgerecht",
-      "de": "Ein portugiesisches Kuttelgericht"
+      "fr": "Du requin fermenté",
+      "en": "Fermented shark",
+      "nl": "Gefermenteerde haai",
+      "de": "Fermentierter Hai"
     },
     "explanation": {
-      "fr": "Les Tripas à moda do Porto sont un plat portugais robuste associé à la ville de Porto.",
-      "en": "Tripas à moda do Porto is a hearty Portuguese dish associated with Porto.",
-      "nl": "Tripas à moda do Porto is een stevig Portugees gerecht uit Porto.",
-      "de": "Tripas à moda do Porto ist ein kräftiges portugiesisches Gericht aus Porto."
+      "fr": "Le Hákarl est une spécialité islandaise à base de requin fermenté puis séché, au goût très marqué.",
+      "en": "Hákarl is an Icelandic speciality made from fermented and dried shark, with a powerful taste.",
+      "nl": "Hákarl is een IJslandse specialiteit van gefermenteerde en gedroogde haai.",
+      "de": "Hákarl ist eine isländische Spezialität aus fermentiertem und getrocknetem Hai."
     },
     "questionType": "food",
     "image": {
-      "file": "tripas-porto.jpg",
-      "path": "assets/food/tripas-porto.jpg",
-      "adobeStockId": "649614974",
-      "credit": "© Natalia Mylova / Adobe Stock / Stock photo ID: 649614974",
+      "file": "hakarl.jpg",
+      "path": "assets/food/hakarl.jpg",
+      "adobeStockId": "124049250",
+      "credit": "© Marc Jedamus / Adobe Stock / Stock photo ID: 124049250",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Tripas à moda do Porto",
-        "en": "Photo of the dish: Tripas à moda do Porto",
-        "nl": "Foto van het gerecht: Tripas à moda do Porto",
-        "de": "Foto des Gerichts: Tripas à moda do Porto"
+        "fr": "Photo du plat : Hákarl",
+        "en": "Photo of the dish: Hákarl",
+        "nl": "Foto van het gerecht: Hákarl",
+        "de": "Foto des Gerichts: Hákarl"
       }
     }
   },
   {
     "id": "c045",
     "mode": "culinary",
-    "subjectKey": "food_sklandrausis",
+    "subjectKey": "food_smalahove",
     "traditionName": {
-      "fr": "Sklandrausis",
-      "en": "Sklandrausis",
-      "nl": "Sklandrausis",
-      "de": "Sklandrausis"
+      "fr": "Smalahove",
+      "en": "Smalahove",
+      "nl": "Smalahove",
+      "de": "Smalahove"
     },
     "country": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
+      "fr": "Norvège",
+      "en": "Norway",
+      "nl": "Noorwegen",
+      "de": "Norwegen"
     },
     "region": {
-      "fr": "Lettonie",
-      "en": "Latvia",
-      "nl": "Letland",
-      "de": "Lettland"
+      "fr": "Ouest de la Norvège",
+      "en": "Western Norway",
+      "nl": "West-Noorwegen",
+      "de": "Westnorwegen"
     },
     "scenario": {
       "fr": "",
@@ -6234,61 +6234,61 @@ const CULINARY_50=[
       "de": ""
     },
     "question": {
-      "fr": "Que sont les Sklandrausis ?",
-      "en": "What are Sklandrausis?",
-      "nl": "Wat zijn Sklandrausis?",
-      "de": "Was sind Sklandrausis?"
+      "fr": "Que sont les Smalahove ?",
+      "en": "What are Smalahove?",
+      "nl": "Wat zijn Smalahove?",
+      "de": "Was sind Smalahove?"
     },
     "answers": {
       "fr": [
-        "Une tartelette au seigle et aux légumes",
+        "Une tête de mouton traditionnelle",
         "Une soupe",
         "Un dessert",
         "Une boisson"
       ],
       "en": [
-        "A rye and vegetable tartlet",
+        "A traditional sheep’s head",
         "A soup",
         "A dessert",
         "A drink"
       ],
       "nl": [
-        "Een taartje met rogge en groenten",
+        "Een traditionele schapenkop",
         "Een soep",
         "Een dessert",
         "Een drank"
       ],
       "de": [
-        "Ein Roggen-Gemüse-Törtchen",
+        "Ein traditioneller Schafskopf",
         "Eine Suppe",
         "Ein Dessert",
         "Ein Getränk"
       ]
     },
     "correctAnswer": {
-      "fr": "Une tartelette au seigle et aux légumes",
-      "en": "A rye and vegetable tartlet",
-      "nl": "Een taartje met rogge en groenten",
-      "de": "Ein Roggen-Gemüse-Törtchen"
+      "fr": "Une tête de mouton traditionnelle",
+      "en": "A traditional sheep’s head",
+      "nl": "Een traditionele schapenkop",
+      "de": "Ein traditioneller Schafskopf"
     },
     "explanation": {
-      "fr": "Le Sklandrausis est une tartelette lettone à base de pâte de seigle, souvent garnie de carotte et de pomme de terre.",
-      "en": "Sklandrausis is a Latvian tartlet made with rye dough, often filled with carrot and potato.",
-      "nl": "Sklandrausis is een Lets taartje met roggebodem, vaak gevuld met wortel en aardappel.",
-      "de": "Sklandrausis ist ein lettisches Törtchen aus Roggenteig, oft mit Karotte und Kartoffel gefüllt."
+      "fr": "Le Smalahove est une tête de mouton préparée entière ou presque entière.",
+      "en": "Smalahove is a sheep’s head served whole or almost whole.",
+      "nl": "Smalahove is een hele of bijna hele schapenkop.",
+      "de": "Smalahove ist ein ganzer oder fast ganzer Schafskopf."
     },
     "questionType": "food",
     "image": {
-      "file": "sklandrausis.jpg",
-      "path": "assets/food/sklandrausis.jpg",
-      "adobeStockId": "387591373",
-      "credit": "© SHARKY PHOTOGRAPHY / Adobe Stock / Stock photo ID: 387591373",
+      "file": "smalahove.jpg",
+      "path": "assets/food/smalahove.jpg",
+      "adobeStockId": "213777525",
+      "credit": "© Oliver / Adobe Stock / Stock photo ID: 213777525",
       "aiGenerated": false,
       "alt": {
-        "fr": "Photo du plat : Sklandrausis",
-        "en": "Photo of the dish: Sklandrausis",
-        "nl": "Foto van het gerecht: Sklandrausis",
-        "de": "Foto des Gerichts: Sklandrausis"
+        "fr": "Photo du plat : Smalahove",
+        "en": "Photo of the dish: Smalahove",
+        "nl": "Foto van het gerecht: Smalahove",
+        "de": "Foto des Gerichts: Smalahove"
       }
     }
   },
@@ -6556,7 +6556,7 @@ const CULINARY_50=[
   {
     "id": "c049",
     "mode": "culinary",
-    "subjectKey": "food_hakarl",
+    "subjectKey": "food_hákarl",
     "traditionName": {
       "fr": "Hákarl",
       "en": "Hákarl",
@@ -6796,10 +6796,10 @@ const LEGENDS_BANK=[
       "de": "Österreich"
     },
     "explanation": {
-      "fr": "Krampus fait partie du patrimoine légendaire de Autriche. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Krampus is part of the legendary heritage of Austria. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Krampus behoort tot het legendarische erfgoed van Oostenrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Krampus gehört zum legendären Erbe von Österreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Krampus accompagne Saint Nicolas dans plusieurs régions alpines. Dans les défilés hivernaux, il apparaît avec cornes, fourrure et chaînes pour représenter la punition des enfants désobéissants.",
+      "en": "Krampus accompanies Saint Nicholas in several Alpine regions. In winter parades, Krampus appears with horns, fur and chains as the figure who punishes disobedient children.",
+      "nl": "Krampus begeleidt Sinterklaas in verschillende Alpenregio’s. In winterse optochten verschijnt Krampus met hoorns, pels en kettingen als figuur die ongehoorzame kinderen straft.",
+      "de": "Krampus begleitet den Nikolaus in mehreren Alpenregionen. Bei Winterumzügen erscheint Krampus mit Hörnern, Fell und Ketten als Figur, die unartige Kinder bestraft."
     },
     "questionType": "country",
     "image": null
@@ -6871,10 +6871,10 @@ const LEGENDS_BANK=[
       "de": "Ein übernatürliches Wesen"
     },
     "explanation": {
-      "fr": "Krampus fait partie du patrimoine légendaire de Autriche. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Krampus is part of the legendary heritage of Austria. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Krampus behoort tot het legendarische erfgoed van Oostenrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Krampus gehört zum legendären Erbe von Österreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Krampus accompagne Saint Nicolas dans plusieurs régions alpines. Dans les défilés hivernaux, il apparaît avec cornes, fourrure et chaînes pour représenter la punition des enfants désobéissants.",
+      "en": "Krampus accompanies Saint Nicholas in several Alpine regions. In winter parades, Krampus appears with horns, fur and chains as the figure who punishes disobedient children.",
+      "nl": "Krampus begeleidt Sinterklaas in verschillende Alpenregio’s. In winterse optochten verschijnt Krampus met hoorns, pels en kettingen als figuur die ongehoorzame kinderen straft.",
+      "de": "Krampus begleitet den Nikolaus in mehreren Alpenregionen. Bei Winterumzügen erscheint Krampus mit Hörnern, Fell und Ketten als Figur, die unartige Kinder bestraft."
     },
     "questionType": "what",
     "image": null
@@ -6946,10 +6946,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Krampus fait partie du patrimoine légendaire de Autriche. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Krampus is part of the legendary heritage of Austria. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Krampus behoort tot het legendarische erfgoed van Oostenrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Krampus gehört zum legendären Erbe von Österreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Krampus accompagne Saint Nicolas dans plusieurs régions alpines. Dans les défilés hivernaux, il apparaît avec cornes, fourrure et chaînes pour représenter la punition des enfants désobéissants.",
+      "en": "Krampus accompanies Saint Nicholas in several Alpine regions. In winter parades, Krampus appears with horns, fur and chains as the figure who punishes disobedient children.",
+      "nl": "Krampus begeleidt Sinterklaas in verschillende Alpenregio’s. In winterse optochten verschijnt Krampus met hoorns, pels en kettingen als figuur die ongehoorzame kinderen straft.",
+      "de": "Krampus begleitet den Nikolaus in mehreren Alpenregionen. Bei Winterumzügen erscheint Krampus mit Hörnern, Fell und Ketten als Figur, die unartige Kinder bestraft."
     },
     "questionType": "truefalse",
     "image": null
@@ -7021,10 +7021,10 @@ const LEGENDS_BANK=[
       "de": "Österreich"
     },
     "explanation": {
-      "fr": "Perchta fait partie du patrimoine légendaire de Autriche. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Perchta is part of the legendary heritage of Austria. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Perchta behoort tot het legendarische erfgoed van Oostenrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Perchta gehört zum legendären Erbe von Österreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Perchta appartient au folklore de Autriche. Cette figure intervient souvent comme juge moral, protectrice ou menace selon le comportement des humains. Elle donne au récit une dimension sociale et éducative.",
+      "en": "Perchta belongs to the folklore of Austria. This figure often acts as a moral judge, protector or threat depending on human behaviour. It gives the story a social and educational dimension.",
+      "nl": "Perchta behoort tot de folklore van Oostenrijk. Deze figuur treedt vaak op als morele rechter, beschermer of dreiging afhankelijk van menselijk gedrag. Daardoor krijgt het verhaal een sociale en opvoedkundige laag.",
+      "de": "Perchta gehört zur Folklore von Österreich. Diese Gestalt wirkt häufig als moralische Instanz, Schutzfigur oder Bedrohung, je nach Verhalten der Menschen. Dadurch erhält die Erzählung eine soziale und pädagogische Bedeutung."
     },
     "questionType": "country",
     "image": null
@@ -7096,10 +7096,10 @@ const LEGENDS_BANK=[
       "de": "Eine legendäre Gestalt"
     },
     "explanation": {
-      "fr": "Perchta fait partie du patrimoine légendaire de Autriche. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Perchta is part of the legendary heritage of Austria. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Perchta behoort tot het legendarische erfgoed van Oostenrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Perchta gehört zum legendären Erbe von Österreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Perchta appartient au folklore de Autriche. Cette figure intervient souvent comme juge moral, protectrice ou menace selon le comportement des humains. Elle donne au récit une dimension sociale et éducative.",
+      "en": "Perchta belongs to the folklore of Austria. This figure often acts as a moral judge, protector or threat depending on human behaviour. It gives the story a social and educational dimension.",
+      "nl": "Perchta behoort tot de folklore van Oostenrijk. Deze figuur treedt vaak op als morele rechter, beschermer of dreiging afhankelijk van menselijk gedrag. Daardoor krijgt het verhaal een sociale en opvoedkundige laag.",
+      "de": "Perchta gehört zur Folklore von Österreich. Diese Gestalt wirkt häufig als moralische Instanz, Schutzfigur oder Bedrohung, je nach Verhalten der Menschen. Dadurch erhält die Erzählung eine soziale und pädagogische Bedeutung."
     },
     "questionType": "what",
     "image": null
@@ -7171,10 +7171,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Perchta fait partie du patrimoine légendaire de Autriche. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Perchta is part of the legendary heritage of Austria. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Perchta behoort tot het legendarische erfgoed van Oostenrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Perchta gehört zum legendären Erbe von Österreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Perchta appartient au folklore de Autriche. Cette figure intervient souvent comme juge moral, protectrice ou menace selon le comportement des humains. Elle donne au récit une dimension sociale et éducative.",
+      "en": "Perchta belongs to the folklore of Austria. This figure often acts as a moral judge, protector or threat depending on human behaviour. It gives the story a social and educational dimension.",
+      "nl": "Perchta behoort tot de folklore van Oostenrijk. Deze figuur treedt vaak op als morele rechter, beschermer of dreiging afhankelijk van menselijk gedrag. Daardoor krijgt het verhaal een sociale en opvoedkundige laag.",
+      "de": "Perchta gehört zur Folklore von Österreich. Diese Gestalt wirkt häufig als moralische Instanz, Schutzfigur oder Bedrohung, je nach Verhalten der Menschen. Dadurch erhält die Erzählung eine soziale und pädagogische Bedeutung."
     },
     "questionType": "truefalse",
     "image": null
@@ -7246,10 +7246,10 @@ const LEGENDS_BANK=[
       "de": "Belgien"
     },
     "explanation": {
-      "fr": "Bayard, le cheval magique fait partie du patrimoine légendaire de Belgique. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Bayard, the magical horse is part of the legendary heritage of Belgium. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Bayard, het magische paard behoort tot het legendarische erfgoed van België. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Bayard, das magische Pferd gehört zum legendären Erbe von Belgien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Bayard, le cheval magique appartient au folklore de Belgique. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Bayard, the magical horse belongs to the folklore of Belgium. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Bayard, het magische paard behoort tot de folklore van België. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Bayard, das magische Pferd gehört zur Folklore von Belgien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -7321,10 +7321,10 @@ const LEGENDS_BANK=[
       "de": "Ein legendäres Tier"
     },
     "explanation": {
-      "fr": "Bayard, le cheval magique fait partie du patrimoine légendaire de Belgique. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Bayard, the magical horse is part of the legendary heritage of Belgium. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Bayard, het magische paard behoort tot het legendarische erfgoed van België. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Bayard, das magische Pferd gehört zum legendären Erbe von Belgien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Bayard, le cheval magique appartient au folklore de Belgique. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Bayard, the magical horse belongs to the folklore of Belgium. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Bayard, het magische paard behoort tot de folklore van België. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Bayard, das magische Pferd gehört zur Folklore von Belgien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -7396,10 +7396,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Bayard, le cheval magique fait partie du patrimoine légendaire de Belgique. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Bayard, the magical horse is part of the legendary heritage of Belgium. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Bayard, het magische paard behoort tot het legendarische erfgoed van België. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Bayard, das magische Pferd gehört zum legendären Erbe von Belgien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Bayard, le cheval magique appartient au folklore de Belgique. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Bayard, the magical horse belongs to the folklore of Belgium. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Bayard, het magische paard behoort tot de folklore van België. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Bayard, das magische Pferd gehört zur Folklore von Belgien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -7471,10 +7471,10 @@ const LEGENDS_BANK=[
       "de": "Belgien"
     },
     "explanation": {
-      "fr": "Les Nutons fait partie du patrimoine légendaire de Belgique. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Nutons is part of the legendary heritage of Belgium. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Nutons behoort tot het legendarische erfgoed van België. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Nutons gehört zum legendären Erbe von Belgien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Les Nutons sont de petits êtres du folklore wallon, souvent associés aux grottes et aux travaux nocturnes. Ils peuvent aider les humains à réparer ou fabriquer des objets, mais seulement si les humains restent discrets et respectueux.",
+      "en": "The Nutons are small beings from Walloon folklore, often linked to caves and night work. They may help humans repair or make objects, but only if people remain discreet and respectful.",
+      "nl": "De Nutons zijn kleine wezens uit de Waalse folklore, vaak verbonden met grotten en nachtelijk werk. Ze kunnen mensen helpen met herstellen of maken van voorwerpen, maar alleen als mensen discreet en respectvol blijven.",
+      "de": "Die Nutons sind kleine Wesen der wallonischen Folklore, oft mit Höhlen und nächtlicher Arbeit verbunden. Sie können Menschen beim Reparieren oder Herstellen von Dingen helfen, wenn diese diskret und respektvoll bleiben."
     },
     "questionType": "country",
     "image": null
@@ -7546,10 +7546,10 @@ const LEGENDS_BANK=[
       "de": "Kleine unterirdische Wesen der Folklore"
     },
     "explanation": {
-      "fr": "Les Nutons fait partie du patrimoine légendaire de Belgique. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Nutons is part of the legendary heritage of Belgium. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Nutons behoort tot het legendarische erfgoed van België. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Nutons gehört zum legendären Erbe von Belgien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Les Nutons sont de petits êtres du folklore wallon, souvent associés aux grottes et aux travaux nocturnes. Ils peuvent aider les humains à réparer ou fabriquer des objets, mais seulement si les humains restent discrets et respectueux.",
+      "en": "The Nutons are small beings from Walloon folklore, often linked to caves and night work. They may help humans repair or make objects, but only if people remain discreet and respectful.",
+      "nl": "De Nutons zijn kleine wezens uit de Waalse folklore, vaak verbonden met grotten en nachtelijk werk. Ze kunnen mensen helpen met herstellen of maken van voorwerpen, maar alleen als mensen discreet en respectvol blijven.",
+      "de": "Die Nutons sind kleine Wesen der wallonischen Folklore, oft mit Höhlen und nächtlicher Arbeit verbunden. Sie können Menschen beim Reparieren oder Herstellen von Dingen helfen, wenn diese diskret und respektvoll bleiben."
     },
     "questionType": "what",
     "image": null
@@ -7621,10 +7621,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Les Nutons fait partie du patrimoine légendaire de Belgique. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Nutons is part of the legendary heritage of Belgium. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Nutons behoort tot het legendarische erfgoed van België. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Nutons gehört zum legendären Erbe von Belgien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Les Nutons sont de petits êtres du folklore wallon, souvent associés aux grottes et aux travaux nocturnes. Ils peuvent aider les humains à réparer ou fabriquer des objets, mais seulement si les humains restent discrets et respectueux.",
+      "en": "The Nutons are small beings from Walloon folklore, often linked to caves and night work. They may help humans repair or make objects, but only if people remain discreet and respectful.",
+      "nl": "De Nutons zijn kleine wezens uit de Waalse folklore, vaak verbonden met grotten en nachtelijk werk. Ze kunnen mensen helpen met herstellen of maken van voorwerpen, maar alleen als mensen discreet en respectvol blijven.",
+      "de": "Die Nutons sind kleine Wesen der wallonischen Folklore, oft mit Höhlen und nächtlicher Arbeit verbunden. Sie können Menschen beim Reparieren oder Herstellen von Dingen helfen, wenn diese diskret und respektvoll bleiben."
     },
     "questionType": "truefalse",
     "image": null
@@ -7696,10 +7696,10 @@ const LEGENDS_BANK=[
       "de": "Bulgarien"
     },
     "explanation": {
-      "fr": "Samodiva fait partie du patrimoine légendaire de Bulgarie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Samodiva is part of the legendary heritage of Bulgaria. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Samodiva behoort tot het legendarische erfgoed van Bulgarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Samodiva gehört zum legendären Erbe von Bulgarien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Samodiva appartient au folklore de Bulgarie. Cette créature apparaît dans des récits où le merveilleux se mêle aux peurs du quotidien. Elle sert souvent à expliquer ce qu’il ne faut pas faire ou les dangers à éviter.",
+      "en": "Samodiva belongs to the folklore of Bulgaria. This creature appears in stories where wonder mixes with everyday fears. It often explains what should be avoided or which dangers must be respected.",
+      "nl": "Samodiva behoort tot de folklore van Bulgarije. Dit wezen verschijnt in verhalen waarin verwondering en dagelijkse angsten samenkomen. Het maakt duidelijk wat men best vermijdt of welke gevaren men moet respecteren.",
+      "de": "Samodiva gehört zur Folklore von Bulgarien. Dieses Wesen erscheint in Geschichten, in denen Wunderbares und Alltagsängste zusammentreffen. Es zeigt oft, was man vermeiden sollte oder welche Gefahren ernst zu nehmen sind."
     },
     "questionType": "country",
     "image": null
@@ -7771,10 +7771,10 @@ const LEGENDS_BANK=[
       "de": "Ein übernatürliches Wesen"
     },
     "explanation": {
-      "fr": "Samodiva fait partie du patrimoine légendaire de Bulgarie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Samodiva is part of the legendary heritage of Bulgaria. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Samodiva behoort tot het legendarische erfgoed van Bulgarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Samodiva gehört zum legendären Erbe von Bulgarien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Samodiva appartient au folklore de Bulgarie. Cette créature apparaît dans des récits où le merveilleux se mêle aux peurs du quotidien. Elle sert souvent à expliquer ce qu’il ne faut pas faire ou les dangers à éviter.",
+      "en": "Samodiva belongs to the folklore of Bulgaria. This creature appears in stories where wonder mixes with everyday fears. It often explains what should be avoided or which dangers must be respected.",
+      "nl": "Samodiva behoort tot de folklore van Bulgarije. Dit wezen verschijnt in verhalen waarin verwondering en dagelijkse angsten samenkomen. Het maakt duidelijk wat men best vermijdt of welke gevaren men moet respecteren.",
+      "de": "Samodiva gehört zur Folklore von Bulgarien. Dieses Wesen erscheint in Geschichten, in denen Wunderbares und Alltagsängste zusammentreffen. Es zeigt oft, was man vermeiden sollte oder welche Gefahren ernst zu nehmen sind."
     },
     "questionType": "what",
     "image": null
@@ -7846,10 +7846,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Samodiva fait partie du patrimoine légendaire de Bulgarie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Samodiva is part of the legendary heritage of Bulgaria. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Samodiva behoort tot het legendarische erfgoed van Bulgarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Samodiva gehört zum legendären Erbe von Bulgarien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Samodiva appartient au folklore de Bulgarie. Cette créature apparaît dans des récits où le merveilleux se mêle aux peurs du quotidien. Elle sert souvent à expliquer ce qu’il ne faut pas faire ou les dangers à éviter.",
+      "en": "Samodiva belongs to the folklore of Bulgaria. This creature appears in stories where wonder mixes with everyday fears. It often explains what should be avoided or which dangers must be respected.",
+      "nl": "Samodiva behoort tot de folklore van Bulgarije. Dit wezen verschijnt in verhalen waarin verwondering en dagelijkse angsten samenkomen. Het maakt duidelijk wat men best vermijdt of welke gevaren men moet respecteren.",
+      "de": "Samodiva gehört zur Folklore von Bulgarien. Dieses Wesen erscheint in Geschichten, in denen Wunderbares und Alltagsängste zusammentreffen. Es zeigt oft, was man vermeiden sollte oder welche Gefahren ernst zu nehmen sind."
     },
     "questionType": "truefalse",
     "image": null
@@ -7921,10 +7921,10 @@ const LEGENDS_BANK=[
       "de": "Bulgarien"
     },
     "explanation": {
-      "fr": "Zmey fait partie du patrimoine légendaire de Bulgarie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Zmey is part of the legendary heritage of Bulgaria. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Zmey behoort tot het legendarische erfgoed van Bulgarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Zmey gehört zum legendären Erbe von Bulgarien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Zmey appartient au folklore de Bulgarie. Le dragon représente une force dangereuse associée aux montagnes, aux villes ou aux trésors. Le vaincre demande souvent plus de ruse que de simple force physique.",
+      "en": "Zmey belongs to the folklore of Bulgaria. The dragon represents a dangerous force linked to mountains, cities or treasures. Defeating it often requires cleverness rather than brute strength.",
+      "nl": "Zmey behoort tot de folklore van Bulgarije. De draak staat voor een gevaarlijke kracht die verbonden is met bergen, steden of schatten. Hem verslaan vraagt vaak meer sluwheid dan brute kracht.",
+      "de": "Zmey gehört zur Folklore von Bulgarien. Der Drache steht für eine gefährliche Kraft, die mit Bergen, Städten oder Schätzen verbunden ist. Ihn zu besiegen verlangt oft eher Klugheit als rohe Kraft."
     },
     "questionType": "country",
     "image": null
@@ -7996,10 +7996,10 @@ const LEGENDS_BANK=[
       "de": "Ein Drache oder monströses Wesen der Folklore"
     },
     "explanation": {
-      "fr": "Zmey fait partie du patrimoine légendaire de Bulgarie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Zmey is part of the legendary heritage of Bulgaria. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Zmey behoort tot het legendarische erfgoed van Bulgarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Zmey gehört zum legendären Erbe von Bulgarien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Zmey appartient au folklore de Bulgarie. Le dragon représente une force dangereuse associée aux montagnes, aux villes ou aux trésors. Le vaincre demande souvent plus de ruse que de simple force physique.",
+      "en": "Zmey belongs to the folklore of Bulgaria. The dragon represents a dangerous force linked to mountains, cities or treasures. Defeating it often requires cleverness rather than brute strength.",
+      "nl": "Zmey behoort tot de folklore van Bulgarije. De draak staat voor een gevaarlijke kracht die verbonden is met bergen, steden of schatten. Hem verslaan vraagt vaak meer sluwheid dan brute kracht.",
+      "de": "Zmey gehört zur Folklore von Bulgarien. Der Drache steht für eine gefährliche Kraft, die mit Bergen, Städten oder Schätzen verbunden ist. Ihn zu besiegen verlangt oft eher Klugheit als rohe Kraft."
     },
     "questionType": "what",
     "image": null
@@ -8071,10 +8071,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Zmey fait partie du patrimoine légendaire de Bulgarie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Zmey is part of the legendary heritage of Bulgaria. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Zmey behoort tot het legendarische erfgoed van Bulgarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Zmey gehört zum legendären Erbe von Bulgarien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Zmey appartient au folklore de Bulgarie. Le dragon représente une force dangereuse associée aux montagnes, aux villes ou aux trésors. Le vaincre demande souvent plus de ruse que de simple force physique.",
+      "en": "Zmey belongs to the folklore of Bulgaria. The dragon represents a dangerous force linked to mountains, cities or treasures. Defeating it often requires cleverness rather than brute strength.",
+      "nl": "Zmey behoort tot de folklore van Bulgarije. De draak staat voor een gevaarlijke kracht die verbonden is met bergen, steden of schatten. Hem verslaan vraagt vaak meer sluwheid dan brute kracht.",
+      "de": "Zmey gehört zur Folklore von Bulgarien. Der Drache steht für eine gefährliche Kraft, die mit Bergen, Städten oder Schätzen verbunden ist. Ihn zu besiegen verlangt oft eher Klugheit als rohe Kraft."
     },
     "questionType": "truefalse",
     "image": null
@@ -8146,10 +8146,10 @@ const LEGENDS_BANK=[
       "de": "Kroatien"
     },
     "explanation": {
-      "fr": "La Sorcière de Zagreb fait partie du patrimoine légendaire de Croatie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Witch of Zagreb is part of the legendary heritage of Croatia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De heks van Zagreb behoort tot het legendarische erfgoed van Kroatië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Hexe von Zagreb gehört zum legendären Erbe von Kroatien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Sorcière de Zagreb appartient au folklore de Croatie. Cette figure intervient souvent comme juge moral, protectrice ou menace selon le comportement des humains. Elle donne au récit une dimension sociale et éducative.",
+      "en": "The Witch of Zagreb belongs to the folklore of Croatia. This figure often acts as a moral judge, protector or threat depending on human behaviour. It gives the story a social and educational dimension.",
+      "nl": "De heks van Zagreb behoort tot de folklore van Kroatië. Deze figuur treedt vaak op als morele rechter, beschermer of dreiging afhankelijk van menselijk gedrag. Daardoor krijgt het verhaal een sociale en opvoedkundige laag.",
+      "de": "Die Hexe von Zagreb gehört zur Folklore von Kroatien. Diese Gestalt wirkt häufig als moralische Instanz, Schutzfigur oder Bedrohung, je nach Verhalten der Menschen. Dadurch erhält die Erzählung eine soziale und pädagogische Bedeutung."
     },
     "questionType": "country",
     "image": null
@@ -8221,10 +8221,10 @@ const LEGENDS_BANK=[
       "de": "Eine legendäre Gestalt"
     },
     "explanation": {
-      "fr": "La Sorcière de Zagreb fait partie du patrimoine légendaire de Croatie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Witch of Zagreb is part of the legendary heritage of Croatia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De heks van Zagreb behoort tot het legendarische erfgoed van Kroatië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Hexe von Zagreb gehört zum legendären Erbe von Kroatien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Sorcière de Zagreb appartient au folklore de Croatie. Cette figure intervient souvent comme juge moral, protectrice ou menace selon le comportement des humains. Elle donne au récit une dimension sociale et éducative.",
+      "en": "The Witch of Zagreb belongs to the folklore of Croatia. This figure often acts as a moral judge, protector or threat depending on human behaviour. It gives the story a social and educational dimension.",
+      "nl": "De heks van Zagreb behoort tot de folklore van Kroatië. Deze figuur treedt vaak op als morele rechter, beschermer of dreiging afhankelijk van menselijk gedrag. Daardoor krijgt het verhaal een sociale en opvoedkundige laag.",
+      "de": "Die Hexe von Zagreb gehört zur Folklore von Kroatien. Diese Gestalt wirkt häufig als moralische Instanz, Schutzfigur oder Bedrohung, je nach Verhalten der Menschen. Dadurch erhält die Erzählung eine soziale und pädagogische Bedeutung."
     },
     "questionType": "what",
     "image": null
@@ -8296,10 +8296,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "La Sorcière de Zagreb fait partie du patrimoine légendaire de Croatie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Witch of Zagreb is part of the legendary heritage of Croatia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De heks van Zagreb behoort tot het legendarische erfgoed van Kroatië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Hexe von Zagreb gehört zum legendären Erbe von Kroatien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Sorcière de Zagreb appartient au folklore de Croatie. Cette figure intervient souvent comme juge moral, protectrice ou menace selon le comportement des humains. Elle donne au récit une dimension sociale et éducative.",
+      "en": "The Witch of Zagreb belongs to the folklore of Croatia. This figure often acts as a moral judge, protector or threat depending on human behaviour. It gives the story a social and educational dimension.",
+      "nl": "De heks van Zagreb behoort tot de folklore van Kroatië. Deze figuur treedt vaak op als morele rechter, beschermer of dreiging afhankelijk van menselijk gedrag. Daardoor krijgt het verhaal een sociale en opvoedkundige laag.",
+      "de": "Die Hexe von Zagreb gehört zur Folklore von Kroatien. Diese Gestalt wirkt häufig als moralische Instanz, Schutzfigur oder Bedrohung, je nach Verhalten der Menschen. Dadurch erhält die Erzählung eine soziale und pädagogische Bedeutung."
     },
     "questionType": "truefalse",
     "image": null
@@ -8371,10 +8371,10 @@ const LEGENDS_BANK=[
       "de": "Kroatien"
     },
     "explanation": {
-      "fr": "Veli Jože fait partie du patrimoine légendaire de Croatie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Veli Jože is part of the legendary heritage of Croatia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Veli Jože behoort tot het legendarische erfgoed van Kroatië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Veli Jože gehört zum legendären Erbe von Kroatien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Veli Jože appartient au folklore de Croatie. Le géant donne une échelle spectaculaire au récit : il déplace des pierres, marque le paysage ou symbolise une force ancienne. Ces histoires expliquent parfois l’origine de reliefs ou de lieux.",
+      "en": "Veli Jože belongs to the folklore of Croatia. The giant gives the story a spectacular scale: moving stones, shaping landscapes or symbolising an ancient force. Such tales sometimes explain the origin of terrain or landmarks.",
+      "nl": "Veli Jože behoort tot de folklore van Kroatië. De reus geeft het verhaal een spectaculaire schaal: stenen verplaatsen, landschappen vormen of een oude kracht symboliseren. Zulke verhalen verklaren soms het ontstaan van plaatsen.",
+      "de": "Veli Jože gehört zur Folklore von Kroatien. Der Riese verleiht der Erzählung eine spektakuläre Dimension: Steine bewegen, Landschaften formen oder alte Kräfte verkörpern. Solche Geschichten erklären manchmal Landschaftsformen."
     },
     "questionType": "country",
     "image": null
@@ -8446,10 +8446,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Veli Jože fait partie du patrimoine légendaire de Croatie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Veli Jože is part of the legendary heritage of Croatia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Veli Jože behoort tot het legendarische erfgoed van Kroatië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Veli Jože gehört zum legendären Erbe von Kroatien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Veli Jože appartient au folklore de Croatie. Le géant donne une échelle spectaculaire au récit : il déplace des pierres, marque le paysage ou symbolise une force ancienne. Ces histoires expliquent parfois l’origine de reliefs ou de lieux.",
+      "en": "Veli Jože belongs to the folklore of Croatia. The giant gives the story a spectacular scale: moving stones, shaping landscapes or symbolising an ancient force. Such tales sometimes explain the origin of terrain or landmarks.",
+      "nl": "Veli Jože behoort tot de folklore van Kroatië. De reus geeft het verhaal een spectaculaire schaal: stenen verplaatsen, landschappen vormen of een oude kracht symboliseren. Zulke verhalen verklaren soms het ontstaan van plaatsen.",
+      "de": "Veli Jože gehört zur Folklore von Kroatien. Der Riese verleiht der Erzählung eine spektakuläre Dimension: Steine bewegen, Landschaften formen oder alte Kräfte verkörpern. Solche Geschichten erklären manchmal Landschaftsformen."
     },
     "questionType": "what",
     "image": null
@@ -8521,10 +8521,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Veli Jože fait partie du patrimoine légendaire de Croatie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Veli Jože is part of the legendary heritage of Croatia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Veli Jože behoort tot het legendarische erfgoed van Kroatië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Veli Jože gehört zum legendären Erbe von Kroatien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Veli Jože appartient au folklore de Croatie. Le géant donne une échelle spectaculaire au récit : il déplace des pierres, marque le paysage ou symbolise une force ancienne. Ces histoires expliquent parfois l’origine de reliefs ou de lieux.",
+      "en": "Veli Jože belongs to the folklore of Croatia. The giant gives the story a spectacular scale: moving stones, shaping landscapes or symbolising an ancient force. Such tales sometimes explain the origin of terrain or landmarks.",
+      "nl": "Veli Jože behoort tot de folklore van Kroatië. De reus geeft het verhaal een spectaculaire schaal: stenen verplaatsen, landschappen vormen of een oude kracht symboliseren. Zulke verhalen verklaren soms het ontstaan van plaatsen.",
+      "de": "Veli Jože gehört zur Folklore von Kroatien. Der Riese verleiht der Erzählung eine spektakuläre Dimension: Steine bewegen, Landschaften formen oder alte Kräfte verkörpern. Solche Geschichten erklären manchmal Landschaftsformen."
     },
     "questionType": "truefalse",
     "image": null
@@ -8596,10 +8596,10 @@ const LEGENDS_BANK=[
       "de": "Zypern"
     },
     "explanation": {
-      "fr": "Aphrodite née de l’écume fait partie du patrimoine légendaire de Chypre. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Aphrodite born from the sea foam is part of the legendary heritage of Cyprus. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Aphrodite geboren uit het zeeschuim behoort tot het legendarische erfgoed van Cyprus. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Aphrodite, aus dem Meeresschaum geboren gehört zum legendären Erbe von Zypern. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Aphrodite née de l’écume appartient au folklore de Chypre. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Aphrodite born from the sea foam belongs to the folklore of Cyprus. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Aphrodite geboren uit het zeeschuim behoort tot de folklore van Cyprus. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Aphrodite, aus dem Meeresschaum geboren gehört zur Folklore von Zypern. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -8671,10 +8671,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Aphrodite née de l’écume fait partie du patrimoine légendaire de Chypre. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Aphrodite born from the sea foam is part of the legendary heritage of Cyprus. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Aphrodite geboren uit het zeeschuim behoort tot het legendarische erfgoed van Cyprus. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Aphrodite, aus dem Meeresschaum geboren gehört zum legendären Erbe von Zypern. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Aphrodite née de l’écume appartient au folklore de Chypre. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Aphrodite born from the sea foam belongs to the folklore of Cyprus. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Aphrodite geboren uit het zeeschuim behoort tot de folklore van Cyprus. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Aphrodite, aus dem Meeresschaum geboren gehört zur Folklore von Zypern. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -8746,10 +8746,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Aphrodite née de l’écume fait partie du patrimoine légendaire de Chypre. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Aphrodite born from the sea foam is part of the legendary heritage of Cyprus. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Aphrodite geboren uit het zeeschuim behoort tot het legendarische erfgoed van Cyprus. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Aphrodite, aus dem Meeresschaum geboren gehört zum legendären Erbe von Zypern. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Aphrodite née de l’écume appartient au folklore de Chypre. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Aphrodite born from the sea foam belongs to the folklore of Cyprus. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Aphrodite geboren uit het zeeschuim behoort tot de folklore van Cyprus. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Aphrodite, aus dem Meeresschaum geboren gehört zur Folklore von Zypern. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -8821,10 +8821,10 @@ const LEGENDS_BANK=[
       "de": "Zypern"
     },
     "explanation": {
-      "fr": "Digenis Akritas fait partie du patrimoine légendaire de Chypre. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Digenis Akritas is part of the legendary heritage of Cyprus. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Digenis Akritas behoort tot het legendarische erfgoed van Cyprus. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Digenis Akritas gehört zum legendären Erbe von Zypern. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Digenis Akritas appartient au folklore de Chypre. Ce héros incarne la force, la résistance ou la défense d’une communauté. Ses exploits relient souvent l’histoire locale à des paysages bien réels.",
+      "en": "Digenis Akritas belongs to the folklore of Cyprus. This hero embodies strength, resistance or the defence of a community. The exploits often connect local history with real landscapes.",
+      "nl": "Digenis Akritas behoort tot de folklore van Cyprus. Deze held belichaamt kracht, verzet of de bescherming van een gemeenschap. De heldendaden verbinden lokale geschiedenis vaak met echte landschappen.",
+      "de": "Digenis Akritas gehört zur Folklore von Zypern. Diese Heldengestalt verkörpert Stärke, Widerstand oder den Schutz einer Gemeinschaft. Taten werden oft mit realen Landschaften verbunden."
     },
     "questionType": "country",
     "image": null
@@ -8896,10 +8896,10 @@ const LEGENDS_BANK=[
       "de": "Eine Heldengestalt"
     },
     "explanation": {
-      "fr": "Digenis Akritas fait partie du patrimoine légendaire de Chypre. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Digenis Akritas is part of the legendary heritage of Cyprus. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Digenis Akritas behoort tot het legendarische erfgoed van Cyprus. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Digenis Akritas gehört zum legendären Erbe von Zypern. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Digenis Akritas appartient au folklore de Chypre. Ce héros incarne la force, la résistance ou la défense d’une communauté. Ses exploits relient souvent l’histoire locale à des paysages bien réels.",
+      "en": "Digenis Akritas belongs to the folklore of Cyprus. This hero embodies strength, resistance or the defence of a community. The exploits often connect local history with real landscapes.",
+      "nl": "Digenis Akritas behoort tot de folklore van Cyprus. Deze held belichaamt kracht, verzet of de bescherming van een gemeenschap. De heldendaden verbinden lokale geschiedenis vaak met echte landschappen.",
+      "de": "Digenis Akritas gehört zur Folklore von Zypern. Diese Heldengestalt verkörpert Stärke, Widerstand oder den Schutz einer Gemeinschaft. Taten werden oft mit realen Landschaften verbunden."
     },
     "questionType": "what",
     "image": null
@@ -8971,10 +8971,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Digenis Akritas fait partie du patrimoine légendaire de Chypre. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Digenis Akritas is part of the legendary heritage of Cyprus. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Digenis Akritas behoort tot het legendarische erfgoed van Cyprus. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Digenis Akritas gehört zum legendären Erbe von Zypern. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Digenis Akritas appartient au folklore de Chypre. Ce héros incarne la force, la résistance ou la défense d’une communauté. Ses exploits relient souvent l’histoire locale à des paysages bien réels.",
+      "en": "Digenis Akritas belongs to the folklore of Cyprus. This hero embodies strength, resistance or the defence of a community. The exploits often connect local history with real landscapes.",
+      "nl": "Digenis Akritas behoort tot de folklore van Cyprus. Deze held belichaamt kracht, verzet of de bescherming van een gemeenschap. De heldendaden verbinden lokale geschiedenis vaak met echte landschappen.",
+      "de": "Digenis Akritas gehört zur Folklore von Zypern. Diese Heldengestalt verkörpert Stärke, Widerstand oder den Schutz einer Gemeinschaft. Taten werden oft mit realen Landschaften verbunden."
     },
     "questionType": "truefalse",
     "image": null
@@ -9046,10 +9046,10 @@ const LEGENDS_BANK=[
       "de": "Tschechien"
     },
     "explanation": {
-      "fr": "Le Golem de Prague fait partie du patrimoine légendaire de Tchéquie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Golem of Prague is part of the legendary heritage of Czechia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Golem van Praag behoort tot het legendarische erfgoed van Tsjechië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Golem von Prag gehört zum legendären Erbe von Tschechien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le Golem de Prague est un géant d’argile qui aurait été animé pour protéger la communauté juive de Prague. La légende est liée au quartier juif et à l’idée qu’une créature protectrice peut devenir incontrôlable.",
+      "en": "The Golem of Prague is a clay giant said to have been animated to protect Prague’s Jewish community. The legend is linked to the Jewish Quarter and to the idea that a protective creature can become uncontrollable.",
+      "nl": "De Golem van Praag is een reus van klei die tot leven zou zijn gebracht om de Joodse gemeenschap van Praag te beschermen. De legende is verbonden met de Joodse wijk en met het idee dat een beschermer onbeheersbaar kan worden.",
+      "de": "Der Golem von Prag ist ein Lehmriese, der zum Schutz der jüdischen Gemeinde von Prag belebt worden sein soll. Die Legende ist mit dem jüdischen Viertel verbunden und zeigt, dass ein Beschützer unkontrollierbar werden kann."
     },
     "questionType": "country",
     "image": null
@@ -9121,10 +9121,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Le Golem de Prague fait partie du patrimoine légendaire de Tchéquie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Golem of Prague is part of the legendary heritage of Czechia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Golem van Praag behoort tot het legendarische erfgoed van Tsjechië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Golem von Prag gehört zum legendären Erbe von Tschechien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le Golem de Prague est un géant d’argile qui aurait été animé pour protéger la communauté juive de Prague. La légende est liée au quartier juif et à l’idée qu’une créature protectrice peut devenir incontrôlable.",
+      "en": "The Golem of Prague is a clay giant said to have been animated to protect Prague’s Jewish community. The legend is linked to the Jewish Quarter and to the idea that a protective creature can become uncontrollable.",
+      "nl": "De Golem van Praag is een reus van klei die tot leven zou zijn gebracht om de Joodse gemeenschap van Praag te beschermen. De legende is verbonden met de Joodse wijk en met het idee dat een beschermer onbeheersbaar kan worden.",
+      "de": "Der Golem von Prag ist ein Lehmriese, der zum Schutz der jüdischen Gemeinde von Prag belebt worden sein soll. Die Legende ist mit dem jüdischen Viertel verbunden und zeigt, dass ein Beschützer unkontrollierbar werden kann."
     },
     "questionType": "what",
     "image": null
@@ -9196,10 +9196,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Le Golem de Prague fait partie du patrimoine légendaire de Tchéquie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Golem of Prague is part of the legendary heritage of Czechia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Golem van Praag behoort tot het legendarische erfgoed van Tsjechië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Golem von Prag gehört zum legendären Erbe von Tschechien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le Golem de Prague est un géant d’argile qui aurait été animé pour protéger la communauté juive de Prague. La légende est liée au quartier juif et à l’idée qu’une créature protectrice peut devenir incontrôlable.",
+      "en": "The Golem of Prague is a clay giant said to have been animated to protect Prague’s Jewish community. The legend is linked to the Jewish Quarter and to the idea that a protective creature can become uncontrollable.",
+      "nl": "De Golem van Praag is een reus van klei die tot leven zou zijn gebracht om de Joodse gemeenschap van Praag te beschermen. De legende is verbonden met de Joodse wijk en met het idee dat een beschermer onbeheersbaar kan worden.",
+      "de": "Der Golem von Prag ist ein Lehmriese, der zum Schutz der jüdischen Gemeinde von Prag belebt worden sein soll. Die Legende ist mit dem jüdischen Viertel verbunden und zeigt, dass ein Beschützer unkontrollierbar werden kann."
     },
     "questionType": "truefalse",
     "image": null
@@ -9271,10 +9271,10 @@ const LEGENDS_BANK=[
       "de": "Tschechien"
     },
     "explanation": {
-      "fr": "Vodník fait partie du patrimoine légendaire de Tchéquie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Vodník is part of the legendary heritage of Czechia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Vodník behoort tot het legendarische erfgoed van Tsjechië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Vodník gehört zum legendären Erbe von Tschechien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Vodník appartient au folklore de Tchéquie. Cette créature aquatique rappelle que les rivières, étangs et lacs étaient perçus comme des lieux attirants mais dangereux. La légende sert aussi d’avertissement, surtout pour les enfants.",
+      "en": "Vodník belongs to the folklore of Czechia. This water creature shows how rivers, ponds and lakes were seen as attractive yet dangerous places. The legend also works as a warning, especially for children.",
+      "nl": "Vodník behoort tot de folklore van Tsjechië. Dit waterwezen toont hoe rivieren, vijvers en meren aantrekkelijk maar gevaarlijk konden lijken. De legende werkt ook als waarschuwing, vooral voor kinderen.",
+      "de": "Vodník gehört zur Folklore von Tschechien. Dieses Wasserwesen zeigt, wie Flüsse, Teiche und Seen als anziehend und zugleich gefährlich galten. Die Legende dient auch als Warnung, besonders für Kinder."
     },
     "questionType": "country",
     "image": null
@@ -9346,10 +9346,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Vodník fait partie du patrimoine légendaire de Tchéquie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Vodník is part of the legendary heritage of Czechia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Vodník behoort tot het legendarische erfgoed van Tsjechië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Vodník gehört zum legendären Erbe von Tschechien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Vodník appartient au folklore de Tchéquie. Cette créature aquatique rappelle que les rivières, étangs et lacs étaient perçus comme des lieux attirants mais dangereux. La légende sert aussi d’avertissement, surtout pour les enfants.",
+      "en": "Vodník belongs to the folklore of Czechia. This water creature shows how rivers, ponds and lakes were seen as attractive yet dangerous places. The legend also works as a warning, especially for children.",
+      "nl": "Vodník behoort tot de folklore van Tsjechië. Dit waterwezen toont hoe rivieren, vijvers en meren aantrekkelijk maar gevaarlijk konden lijken. De legende werkt ook als waarschuwing, vooral voor kinderen.",
+      "de": "Vodník gehört zur Folklore von Tschechien. Dieses Wasserwesen zeigt, wie Flüsse, Teiche und Seen als anziehend und zugleich gefährlich galten. Die Legende dient auch als Warnung, besonders für Kinder."
     },
     "questionType": "what",
     "image": null
@@ -9421,10 +9421,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Vodník fait partie du patrimoine légendaire de Tchéquie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Vodník is part of the legendary heritage of Czechia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Vodník behoort tot het legendarische erfgoed van Tsjechië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Vodník gehört zum legendären Erbe von Tschechien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Vodník appartient au folklore de Tchéquie. Cette créature aquatique rappelle que les rivières, étangs et lacs étaient perçus comme des lieux attirants mais dangereux. La légende sert aussi d’avertissement, surtout pour les enfants.",
+      "en": "Vodník belongs to the folklore of Czechia. This water creature shows how rivers, ponds and lakes were seen as attractive yet dangerous places. The legend also works as a warning, especially for children.",
+      "nl": "Vodník behoort tot de folklore van Tsjechië. Dit waterwezen toont hoe rivieren, vijvers en meren aantrekkelijk maar gevaarlijk konden lijken. De legende werkt ook als waarschuwing, vooral voor kinderen.",
+      "de": "Vodník gehört zur Folklore von Tschechien. Dieses Wasserwesen zeigt, wie Flüsse, Teiche und Seen als anziehend und zugleich gefährlich galten. Die Legende dient auch als Warnung, besonders für Kinder."
     },
     "questionType": "truefalse",
     "image": null
@@ -9496,10 +9496,10 @@ const LEGENDS_BANK=[
       "de": "Dänemark"
     },
     "explanation": {
-      "fr": "Holger Danske fait partie du patrimoine légendaire de Danemark. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Holger Danske is part of the legendary heritage of Denmark. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Holger Danske behoort tot het legendarische erfgoed van Denemarken. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Holger Danske gehört zum legendären Erbe von Dänemark. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Holger Danske appartient au folklore de Danemark. Ce héros incarne la force, la résistance ou la défense d’une communauté. Ses exploits relient souvent l’histoire locale à des paysages bien réels.",
+      "en": "Holger Danske belongs to the folklore of Denmark. This hero embodies strength, resistance or the defence of a community. The exploits often connect local history with real landscapes.",
+      "nl": "Holger Danske behoort tot de folklore van Denemarken. Deze held belichaamt kracht, verzet of de bescherming van een gemeenschap. De heldendaden verbinden lokale geschiedenis vaak met echte landschappen.",
+      "de": "Holger Danske gehört zur Folklore von Dänemark. Diese Heldengestalt verkörpert Stärke, Widerstand oder den Schutz einer Gemeinschaft. Taten werden oft mit realen Landschaften verbunden."
     },
     "questionType": "country",
     "image": null
@@ -9571,10 +9571,10 @@ const LEGENDS_BANK=[
       "de": "Eine Heldengestalt"
     },
     "explanation": {
-      "fr": "Holger Danske fait partie du patrimoine légendaire de Danemark. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Holger Danske is part of the legendary heritage of Denmark. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Holger Danske behoort tot het legendarische erfgoed van Denemarken. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Holger Danske gehört zum legendären Erbe von Dänemark. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Holger Danske appartient au folklore de Danemark. Ce héros incarne la force, la résistance ou la défense d’une communauté. Ses exploits relient souvent l’histoire locale à des paysages bien réels.",
+      "en": "Holger Danske belongs to the folklore of Denmark. This hero embodies strength, resistance or the defence of a community. The exploits often connect local history with real landscapes.",
+      "nl": "Holger Danske behoort tot de folklore van Denemarken. Deze held belichaamt kracht, verzet of de bescherming van een gemeenschap. De heldendaden verbinden lokale geschiedenis vaak met echte landschappen.",
+      "de": "Holger Danske gehört zur Folklore von Dänemark. Diese Heldengestalt verkörpert Stärke, Widerstand oder den Schutz einer Gemeinschaft. Taten werden oft mit realen Landschaften verbunden."
     },
     "questionType": "what",
     "image": null
@@ -9646,10 +9646,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Holger Danske fait partie du patrimoine légendaire de Danemark. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Holger Danske is part of the legendary heritage of Denmark. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Holger Danske behoort tot het legendarische erfgoed van Denemarken. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Holger Danske gehört zum legendären Erbe von Dänemark. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Holger Danske appartient au folklore de Danemark. Ce héros incarne la force, la résistance ou la défense d’une communauté. Ses exploits relient souvent l’histoire locale à des paysages bien réels.",
+      "en": "Holger Danske belongs to the folklore of Denmark. This hero embodies strength, resistance or the defence of a community. The exploits often connect local history with real landscapes.",
+      "nl": "Holger Danske behoort tot de folklore van Denemarken. Deze held belichaamt kracht, verzet of de bescherming van een gemeenschap. De heldendaden verbinden lokale geschiedenis vaak met echte landschappen.",
+      "de": "Holger Danske gehört zur Folklore von Dänemark. Diese Heldengestalt verkörpert Stärke, Widerstand oder den Schutz einer Gemeinschaft. Taten werden oft mit realen Landschaften verbunden."
     },
     "questionType": "truefalse",
     "image": null
@@ -9721,10 +9721,10 @@ const LEGENDS_BANK=[
       "de": "Dänemark"
     },
     "explanation": {
-      "fr": "La Dame de la mer fait partie du patrimoine légendaire de Danemark. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Lady of the Sea is part of the legendary heritage of Denmark. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Vrouw van de Zee behoort tot het legendarische erfgoed van Denemarken. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Frau des Meeres gehört zum legendären Erbe von Dänemark. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Dame de la mer appartient au folklore de Danemark. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Lady of the Sea belongs to the folklore of Denmark. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De Vrouw van de Zee behoort tot de folklore van Denemarken. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Die Frau des Meeres gehört zur Folklore von Dänemark. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -9796,10 +9796,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "La Dame de la mer fait partie du patrimoine légendaire de Danemark. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Lady of the Sea is part of the legendary heritage of Denmark. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Vrouw van de Zee behoort tot het legendarische erfgoed van Denemarken. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Frau des Meeres gehört zum legendären Erbe von Dänemark. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Dame de la mer appartient au folklore de Danemark. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Lady of the Sea belongs to the folklore of Denmark. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De Vrouw van de Zee behoort tot de folklore van Denemarken. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Die Frau des Meeres gehört zur Folklore von Dänemark. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -9871,10 +9871,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "La Dame de la mer fait partie du patrimoine légendaire de Danemark. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Lady of the Sea is part of the legendary heritage of Denmark. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Vrouw van de Zee behoort tot het legendarische erfgoed van Denemarken. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Frau des Meeres gehört zum legendären Erbe von Dänemark. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Dame de la mer appartient au folklore de Danemark. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Lady of the Sea belongs to the folklore of Denmark. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De Vrouw van de Zee behoort tot de folklore van Denemarken. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Die Frau des Meeres gehört zur Folklore von Dänemark. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -9946,10 +9946,10 @@ const LEGENDS_BANK=[
       "de": "Estland"
     },
     "explanation": {
-      "fr": "Kalevipoeg fait partie du patrimoine légendaire de Estonie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Kalevipoeg is part of the legendary heritage of Estonia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Kalevipoeg behoort tot het legendarische erfgoed van Estland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Kalevipoeg gehört zum legendären Erbe von Estland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Kalevipoeg appartient au folklore de Estonie. Le géant donne une échelle spectaculaire au récit : il déplace des pierres, marque le paysage ou symbolise une force ancienne. Ces histoires expliquent parfois l’origine de reliefs ou de lieux.",
+      "en": "Kalevipoeg belongs to the folklore of Estonia. The giant gives the story a spectacular scale: moving stones, shaping landscapes or symbolising an ancient force. Such tales sometimes explain the origin of terrain or landmarks.",
+      "nl": "Kalevipoeg behoort tot de folklore van Estland. De reus geeft het verhaal een spectaculaire schaal: stenen verplaatsen, landschappen vormen of een oude kracht symboliseren. Zulke verhalen verklaren soms het ontstaan van plaatsen.",
+      "de": "Kalevipoeg gehört zur Folklore von Estland. Der Riese verleiht der Erzählung eine spektakuläre Dimension: Steine bewegen, Landschaften formen oder alte Kräfte verkörpern. Solche Geschichten erklären manchmal Landschaftsformen."
     },
     "questionType": "country",
     "image": null
@@ -10021,10 +10021,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Kalevipoeg fait partie du patrimoine légendaire de Estonie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Kalevipoeg is part of the legendary heritage of Estonia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Kalevipoeg behoort tot het legendarische erfgoed van Estland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Kalevipoeg gehört zum legendären Erbe von Estland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Kalevipoeg appartient au folklore de Estonie. Le géant donne une échelle spectaculaire au récit : il déplace des pierres, marque le paysage ou symbolise une force ancienne. Ces histoires expliquent parfois l’origine de reliefs ou de lieux.",
+      "en": "Kalevipoeg belongs to the folklore of Estonia. The giant gives the story a spectacular scale: moving stones, shaping landscapes or symbolising an ancient force. Such tales sometimes explain the origin of terrain or landmarks.",
+      "nl": "Kalevipoeg behoort tot de folklore van Estland. De reus geeft het verhaal een spectaculaire schaal: stenen verplaatsen, landschappen vormen of een oude kracht symboliseren. Zulke verhalen verklaren soms het ontstaan van plaatsen.",
+      "de": "Kalevipoeg gehört zur Folklore von Estland. Der Riese verleiht der Erzählung eine spektakuläre Dimension: Steine bewegen, Landschaften formen oder alte Kräfte verkörpern. Solche Geschichten erklären manchmal Landschaftsformen."
     },
     "questionType": "what",
     "image": null
@@ -10096,10 +10096,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Kalevipoeg fait partie du patrimoine légendaire de Estonie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Kalevipoeg is part of the legendary heritage of Estonia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Kalevipoeg behoort tot het legendarische erfgoed van Estland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Kalevipoeg gehört zum legendären Erbe von Estland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Kalevipoeg appartient au folklore de Estonie. Le géant donne une échelle spectaculaire au récit : il déplace des pierres, marque le paysage ou symbolise une force ancienne. Ces histoires expliquent parfois l’origine de reliefs ou de lieux.",
+      "en": "Kalevipoeg belongs to the folklore of Estonia. The giant gives the story a spectacular scale: moving stones, shaping landscapes or symbolising an ancient force. Such tales sometimes explain the origin of terrain or landmarks.",
+      "nl": "Kalevipoeg behoort tot de folklore van Estland. De reus geeft het verhaal een spectaculaire schaal: stenen verplaatsen, landschappen vormen of een oude kracht symboliseren. Zulke verhalen verklaren soms het ontstaan van plaatsen.",
+      "de": "Kalevipoeg gehört zur Folklore von Estland. Der Riese verleiht der Erzählung eine spektakuläre Dimension: Steine bewegen, Landschaften formen oder alte Kräfte verkörpern. Solche Geschichten erklären manchmal Landschaftsformen."
     },
     "questionType": "truefalse",
     "image": null
@@ -10171,10 +10171,10 @@ const LEGENDS_BANK=[
       "de": "Estland"
     },
     "explanation": {
-      "fr": "Le trésor du lac Ülemiste fait partie du patrimoine légendaire de Estonie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The treasure of Lake Ülemiste is part of the legendary heritage of Estonia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De schat van het Ülemistemeer behoort tot het legendarische erfgoed van Estland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Schatz des Ülemiste-Sees gehört zum legendären Erbe von Estland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le trésor du lac Ülemiste appartient au folklore de Estonie. Ce récit transforme un lieu réel en paysage mystérieux. Il associe souvent un lac, une grotte ou un effondrement à une mémoire collective et à une explication morale.",
+      "en": "The treasure of Lake Ülemiste belongs to the folklore of Estonia. This story turns a real place into a mysterious landscape. It often links a lake, cave or collapse with collective memory and a moral explanation.",
+      "nl": "De schat van het Ülemistemeer behoort tot de folklore van Estland. Dit verhaal verandert een echte plaats in een mysterieus landschap. Het verbindt vaak een meer, grot of instorting met collectief geheugen en een morele verklaring.",
+      "de": "Der Schatz des Ülemiste-Sees gehört zur Folklore von Estland. Diese Erzählung verwandelt einen realen Ort in eine geheimnisvolle Landschaft. Oft verbindet sie See, Höhle oder Einsturz mit Erinnerung und moralischer Deutung."
     },
     "questionType": "country",
     "image": null
@@ -10246,10 +10246,10 @@ const LEGENDS_BANK=[
       "de": "Ein Ort, der mit einer Legende verbunden ist"
     },
     "explanation": {
-      "fr": "Le trésor du lac Ülemiste fait partie du patrimoine légendaire de Estonie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The treasure of Lake Ülemiste is part of the legendary heritage of Estonia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De schat van het Ülemistemeer behoort tot het legendarische erfgoed van Estland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Schatz des Ülemiste-Sees gehört zum legendären Erbe von Estland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le trésor du lac Ülemiste appartient au folklore de Estonie. Ce récit transforme un lieu réel en paysage mystérieux. Il associe souvent un lac, une grotte ou un effondrement à une mémoire collective et à une explication morale.",
+      "en": "The treasure of Lake Ülemiste belongs to the folklore of Estonia. This story turns a real place into a mysterious landscape. It often links a lake, cave or collapse with collective memory and a moral explanation.",
+      "nl": "De schat van het Ülemistemeer behoort tot de folklore van Estland. Dit verhaal verandert een echte plaats in een mysterieus landschap. Het verbindt vaak een meer, grot of instorting met collectief geheugen en een morele verklaring.",
+      "de": "Der Schatz des Ülemiste-Sees gehört zur Folklore von Estland. Diese Erzählung verwandelt einen realen Ort in eine geheimnisvolle Landschaft. Oft verbindet sie See, Höhle oder Einsturz mit Erinnerung und moralischer Deutung."
     },
     "questionType": "what",
     "image": null
@@ -10321,10 +10321,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Le trésor du lac Ülemiste fait partie du patrimoine légendaire de Estonie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The treasure of Lake Ülemiste is part of the legendary heritage of Estonia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De schat van het Ülemistemeer behoort tot het legendarische erfgoed van Estland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Schatz des Ülemiste-Sees gehört zum legendären Erbe von Estland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le trésor du lac Ülemiste appartient au folklore de Estonie. Ce récit transforme un lieu réel en paysage mystérieux. Il associe souvent un lac, une grotte ou un effondrement à une mémoire collective et à une explication morale.",
+      "en": "The treasure of Lake Ülemiste belongs to the folklore of Estonia. This story turns a real place into a mysterious landscape. It often links a lake, cave or collapse with collective memory and a moral explanation.",
+      "nl": "De schat van het Ülemistemeer behoort tot de folklore van Estland. Dit verhaal verandert een echte plaats in een mysterieus landschap. Het verbindt vaak een meer, grot of instorting met collectief geheugen en een morele verklaring.",
+      "de": "Der Schatz des Ülemiste-Sees gehört zur Folklore von Estland. Diese Erzählung verwandelt einen realen Ort in eine geheimnisvolle Landschaft. Oft verbindet sie See, Höhle oder Einsturz mit Erinnerung und moralischer Deutung."
     },
     "questionType": "truefalse",
     "image": null
@@ -10396,10 +10396,10 @@ const LEGENDS_BANK=[
       "de": "Finnland"
     },
     "explanation": {
-      "fr": "Väinämöinen fait partie du patrimoine légendaire de Finlande. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Väinämöinen is part of the legendary heritage of Finland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Väinämöinen gehört zum legendären Erbe von Finnland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Väinämöinen appartient au folklore de Finlande. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Väinämöinen belongs to the folklore of Finland. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Väinämöinen behoort tot de folklore van Finland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Väinämöinen gehört zur Folklore von Finnland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -10471,10 +10471,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Väinämöinen fait partie du patrimoine légendaire de Finlande. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Väinämöinen is part of the legendary heritage of Finland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Väinämöinen gehört zum legendären Erbe von Finnland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Väinämöinen appartient au folklore de Finlande. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Väinämöinen belongs to the folklore of Finland. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Väinämöinen behoort tot de folklore van Finland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Väinämöinen gehört zur Folklore von Finnland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -10546,10 +10546,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Väinämöinen fait partie du patrimoine légendaire de Finlande. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Väinämöinen is part of the legendary heritage of Finland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Väinämöinen gehört zum legendären Erbe von Finnland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Väinämöinen appartient au folklore de Finlande. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Väinämöinen belongs to the folklore of Finland. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Väinämöinen behoort tot de folklore van Finland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Väinämöinen gehört zur Folklore von Finnland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -10621,10 +10621,10 @@ const LEGENDS_BANK=[
       "de": "Finnland"
     },
     "explanation": {
-      "fr": "Hiisi fait partie du patrimoine légendaire de Finlande. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Hiisi is part of the legendary heritage of Finland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Hiisi behoort tot het legendarische erfgoed van Finland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Hiisi gehört zum legendären Erbe von Finnland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Hiisi appartient au folklore de Finlande. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Hiisi belongs to the folklore of Finland. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Hiisi behoort tot de folklore van Finland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Hiisi gehört zur Folklore von Finnland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -10696,10 +10696,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Hiisi fait partie du patrimoine légendaire de Finlande. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Hiisi is part of the legendary heritage of Finland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Hiisi behoort tot het legendarische erfgoed van Finland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Hiisi gehört zum legendären Erbe von Finnland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Hiisi appartient au folklore de Finlande. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Hiisi belongs to the folklore of Finland. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Hiisi behoort tot de folklore van Finland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Hiisi gehört zur Folklore von Finnland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -10771,10 +10771,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Hiisi fait partie du patrimoine légendaire de Finlande. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Hiisi is part of the legendary heritage of Finland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Hiisi behoort tot het legendarische erfgoed van Finland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Hiisi gehört zum legendären Erbe von Finnland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Hiisi appartient au folklore de Finlande. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Hiisi belongs to the folklore of Finland. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Hiisi behoort tot de folklore van Finland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Hiisi gehört zur Folklore von Finnland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -10846,10 +10846,10 @@ const LEGENDS_BANK=[
       "de": "Frankreich"
     },
     "explanation": {
-      "fr": "Mélusine fait partie du patrimoine légendaire de France. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Melusine is part of the legendary heritage of France. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Melusine gehört zum legendären Erbe von Frankreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Mélusine appartient au folklore de France. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Melusine belongs to the folklore of France. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Melusine behoort tot de folklore van Frankrijk. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Melusine gehört zur Folklore von Frankreich. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -10921,10 +10921,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Mélusine fait partie du patrimoine légendaire de France. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Melusine is part of the legendary heritage of France. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Melusine gehört zum legendären Erbe von Frankreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Mélusine appartient au folklore de France. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Melusine belongs to the folklore of France. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Melusine behoort tot de folklore van Frankrijk. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Melusine gehört zur Folklore von Frankreich. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -10996,10 +10996,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Mélusine fait partie du patrimoine légendaire de France. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Melusine is part of the legendary heritage of France. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Melusine gehört zum legendären Erbe von Frankreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Mélusine appartient au folklore de France. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Melusine belongs to the folklore of France. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Melusine behoort tot de folklore van Frankrijk. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Melusine gehört zur Folklore von Frankreich. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -11071,10 +11071,10 @@ const LEGENDS_BANK=[
       "de": "Frankreich"
     },
     "explanation": {
-      "fr": "La Bête du Gévaudan fait partie du patrimoine légendaire de France. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Beast of Gévaudan is part of the legendary heritage of France. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Het Beest van Gévaudan behoort tot het legendarische erfgoed van Frankrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Bestie des Gévaudan gehört zum legendären Erbe von Frankreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Bête du Gévaudan appartient au folklore de France. Le monstre cristallise la peur de l’inconnu : regard dangereux, animal insaisissable ou créature hybride. Le récit met en scène la tension entre panique collective et quête de protection.",
+      "en": "The Beast of Gévaudan belongs to the folklore of France. The monster concentrates fear of the unknown: a deadly gaze, elusive animal or hybrid creature. The story stages the tension between collective panic and the search for protection.",
+      "nl": "Het Beest van Gévaudan behoort tot de folklore van Frankrijk. Het monster bundelt de angst voor het onbekende: dodelijke blik, ongrijpbaar dier of hybride wezen. Het verhaal toont de spanning tussen collectieve paniek en bescherming.",
+      "de": "Die Bestie des Gévaudan gehört zur Folklore von Frankreich. Das Monster bündelt die Angst vor dem Unbekannten: gefährlicher Blick, schwer fassbares Tier oder Mischwesen. Die Geschichte zeigt die Spannung zwischen Panik und Schutzsuche."
     },
     "questionType": "country",
     "image": null
@@ -11146,10 +11146,10 @@ const LEGENDS_BANK=[
       "de": "Ein Monster der Legende"
     },
     "explanation": {
-      "fr": "La Bête du Gévaudan fait partie du patrimoine légendaire de France. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Beast of Gévaudan is part of the legendary heritage of France. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Het Beest van Gévaudan behoort tot het legendarische erfgoed van Frankrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Bestie des Gévaudan gehört zum legendären Erbe von Frankreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Bête du Gévaudan appartient au folklore de France. Le monstre cristallise la peur de l’inconnu : regard dangereux, animal insaisissable ou créature hybride. Le récit met en scène la tension entre panique collective et quête de protection.",
+      "en": "The Beast of Gévaudan belongs to the folklore of France. The monster concentrates fear of the unknown: a deadly gaze, elusive animal or hybrid creature. The story stages the tension between collective panic and the search for protection.",
+      "nl": "Het Beest van Gévaudan behoort tot de folklore van Frankrijk. Het monster bundelt de angst voor het onbekende: dodelijke blik, ongrijpbaar dier of hybride wezen. Het verhaal toont de spanning tussen collectieve paniek en bescherming.",
+      "de": "Die Bestie des Gévaudan gehört zur Folklore von Frankreich. Das Monster bündelt die Angst vor dem Unbekannten: gefährlicher Blick, schwer fassbares Tier oder Mischwesen. Die Geschichte zeigt die Spannung zwischen Panik und Schutzsuche."
     },
     "questionType": "what",
     "image": null
@@ -11221,10 +11221,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "La Bête du Gévaudan fait partie du patrimoine légendaire de France. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Beast of Gévaudan is part of the legendary heritage of France. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Het Beest van Gévaudan behoort tot het legendarische erfgoed van Frankrijk. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Bestie des Gévaudan gehört zum legendären Erbe von Frankreich. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Bête du Gévaudan appartient au folklore de France. Le monstre cristallise la peur de l’inconnu : regard dangereux, animal insaisissable ou créature hybride. Le récit met en scène la tension entre panique collective et quête de protection.",
+      "en": "The Beast of Gévaudan belongs to the folklore of France. The monster concentrates fear of the unknown: a deadly gaze, elusive animal or hybrid creature. The story stages the tension between collective panic and the search for protection.",
+      "nl": "Het Beest van Gévaudan behoort tot de folklore van Frankrijk. Het monster bundelt de angst voor het onbekende: dodelijke blik, ongrijpbaar dier of hybride wezen. Het verhaal toont de spanning tussen collectieve paniek en bescherming.",
+      "de": "Die Bestie des Gévaudan gehört zur Folklore von Frankreich. Das Monster bündelt die Angst vor dem Unbekannten: gefährlicher Blick, schwer fassbares Tier oder Mischwesen. Die Geschichte zeigt die Spannung zwischen Panik und Schutzsuche."
     },
     "questionType": "truefalse",
     "image": null
@@ -11296,10 +11296,10 @@ const LEGENDS_BANK=[
       "de": "Deutschland"
     },
     "explanation": {
-      "fr": "Lorelei fait partie du patrimoine légendaire de Allemagne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Lorelei is part of the legendary heritage of Germany. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Lorelei behoort tot het legendarische erfgoed van Duitsland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Lorelei gehört zum legendären Erbe von Deutschland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Lorelei est associée à un rocher dominant le Rhin. Son chant envoûtant aurait détourné l’attention des marins et les aurait attirés vers les dangers du fleuve.",
+      "en": "Lorelei is linked to a rock above the Rhine. Her enchanting song was said to distract sailors and draw them towards the river’s dangers.",
+      "nl": "Lorelei is verbonden met een rots boven de Rijn. Haar betoverende zang zou schippers hebben afgeleid en naar de gevaren van de rivier hebben gelokt.",
+      "de": "Lorelei ist mit einem Felsen am Rhein verbunden. Ihr betörender Gesang soll Schiffer abgelenkt und in die Gefahren des Flusses gelockt haben."
     },
     "questionType": "country",
     "image": null
@@ -11371,10 +11371,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Lorelei fait partie du patrimoine légendaire de Allemagne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Lorelei is part of the legendary heritage of Germany. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Lorelei behoort tot het legendarische erfgoed van Duitsland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Lorelei gehört zum legendären Erbe von Deutschland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Lorelei est associée à un rocher dominant le Rhin. Son chant envoûtant aurait détourné l’attention des marins et les aurait attirés vers les dangers du fleuve.",
+      "en": "Lorelei is linked to a rock above the Rhine. Her enchanting song was said to distract sailors and draw them towards the river’s dangers.",
+      "nl": "Lorelei is verbonden met een rots boven de Rijn. Haar betoverende zang zou schippers hebben afgeleid en naar de gevaren van de rivier hebben gelokt.",
+      "de": "Lorelei ist mit einem Felsen am Rhein verbunden. Ihr betörender Gesang soll Schiffer abgelenkt und in die Gefahren des Flusses gelockt haben."
     },
     "questionType": "what",
     "image": null
@@ -11446,10 +11446,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Lorelei fait partie du patrimoine légendaire de Allemagne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Lorelei is part of the legendary heritage of Germany. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Lorelei behoort tot het legendarische erfgoed van Duitsland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Lorelei gehört zum legendären Erbe von Deutschland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Lorelei est associée à un rocher dominant le Rhin. Son chant envoûtant aurait détourné l’attention des marins et les aurait attirés vers les dangers du fleuve.",
+      "en": "Lorelei is linked to a rock above the Rhine. Her enchanting song was said to distract sailors and draw them towards the river’s dangers.",
+      "nl": "Lorelei is verbonden met een rots boven de Rijn. Haar betoverende zang zou schippers hebben afgeleid en naar de gevaren van de rivier hebben gelokt.",
+      "de": "Lorelei ist mit einem Felsen am Rhein verbunden. Ihr betörender Gesang soll Schiffer abgelenkt und in die Gefahren des Flusses gelockt haben."
     },
     "questionType": "truefalse",
     "image": null
@@ -11521,10 +11521,10 @@ const LEGENDS_BANK=[
       "de": "Deutschland"
     },
     "explanation": {
-      "fr": "Le joueur de flûte de Hamelin fait partie du patrimoine légendaire de Allemagne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Pied Piper of Hamelin is part of the legendary heritage of Germany. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De rattenvanger van Hamelen behoort tot het legendarische erfgoed van Duitsland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Rattenfänger von Hameln gehört zum legendären Erbe von Deutschland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le joueur de flûte de Hamelin appartient au folklore de Allemagne. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Pied Piper of Hamelin belongs to the folklore of Germany. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De rattenvanger van Hamelen behoort tot de folklore van Duitsland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Der Rattenfänger von Hameln gehört zur Folklore von Deutschland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -11596,10 +11596,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Le joueur de flûte de Hamelin fait partie du patrimoine légendaire de Allemagne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Pied Piper of Hamelin is part of the legendary heritage of Germany. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De rattenvanger van Hamelen behoort tot het legendarische erfgoed van Duitsland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Rattenfänger von Hameln gehört zum legendären Erbe von Deutschland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le joueur de flûte de Hamelin appartient au folklore de Allemagne. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Pied Piper of Hamelin belongs to the folklore of Germany. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De rattenvanger van Hamelen behoort tot de folklore van Duitsland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Der Rattenfänger von Hameln gehört zur Folklore von Deutschland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -11671,10 +11671,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Le joueur de flûte de Hamelin fait partie du patrimoine légendaire de Allemagne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Pied Piper of Hamelin is part of the legendary heritage of Germany. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De rattenvanger van Hamelen behoort tot het legendarische erfgoed van Duitsland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Rattenfänger von Hameln gehört zum legendären Erbe von Deutschland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le joueur de flûte de Hamelin appartient au folklore de Allemagne. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Pied Piper of Hamelin belongs to the folklore of Germany. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De rattenvanger van Hamelen behoort tot de folklore van Duitsland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Der Rattenfänger von Hameln gehört zur Folklore von Deutschland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -11746,10 +11746,10 @@ const LEGENDS_BANK=[
       "de": "Griechenland"
     },
     "explanation": {
-      "fr": "Méduse fait partie du patrimoine légendaire de Grèce. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Medusa is part of the legendary heritage of Greece. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Medusa behoort tot het legendarische erfgoed van Griekenland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Medusa gehört zum legendären Erbe von Griechenland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Méduse appartient au folklore de Grèce. Le monstre cristallise la peur de l’inconnu : regard dangereux, animal insaisissable ou créature hybride. Le récit met en scène la tension entre panique collective et quête de protection.",
+      "en": "Medusa belongs to the folklore of Greece. The monster concentrates fear of the unknown: a deadly gaze, elusive animal or hybrid creature. The story stages the tension between collective panic and the search for protection.",
+      "nl": "Medusa behoort tot de folklore van Griekenland. Het monster bundelt de angst voor het onbekende: dodelijke blik, ongrijpbaar dier of hybride wezen. Het verhaal toont de spanning tussen collectieve paniek en bescherming.",
+      "de": "Medusa gehört zur Folklore von Griechenland. Das Monster bündelt die Angst vor dem Unbekannten: gefährlicher Blick, schwer fassbares Tier oder Mischwesen. Die Geschichte zeigt die Spannung zwischen Panik und Schutzsuche."
     },
     "questionType": "country",
     "image": null
@@ -11821,10 +11821,10 @@ const LEGENDS_BANK=[
       "de": "Ein Monster der Legende"
     },
     "explanation": {
-      "fr": "Méduse fait partie du patrimoine légendaire de Grèce. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Medusa is part of the legendary heritage of Greece. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Medusa behoort tot het legendarische erfgoed van Griekenland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Medusa gehört zum legendären Erbe von Griechenland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Méduse appartient au folklore de Grèce. Le monstre cristallise la peur de l’inconnu : regard dangereux, animal insaisissable ou créature hybride. Le récit met en scène la tension entre panique collective et quête de protection.",
+      "en": "Medusa belongs to the folklore of Greece. The monster concentrates fear of the unknown: a deadly gaze, elusive animal or hybrid creature. The story stages the tension between collective panic and the search for protection.",
+      "nl": "Medusa behoort tot de folklore van Griekenland. Het monster bundelt de angst voor het onbekende: dodelijke blik, ongrijpbaar dier of hybride wezen. Het verhaal toont de spanning tussen collectieve paniek en bescherming.",
+      "de": "Medusa gehört zur Folklore von Griechenland. Das Monster bündelt die Angst vor dem Unbekannten: gefährlicher Blick, schwer fassbares Tier oder Mischwesen. Die Geschichte zeigt die Spannung zwischen Panik und Schutzsuche."
     },
     "questionType": "what",
     "image": null
@@ -11896,10 +11896,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Méduse fait partie du patrimoine légendaire de Grèce. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Medusa is part of the legendary heritage of Greece. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Medusa behoort tot het legendarische erfgoed van Griekenland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Medusa gehört zum legendären Erbe von Griechenland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Méduse appartient au folklore de Grèce. Le monstre cristallise la peur de l’inconnu : regard dangereux, animal insaisissable ou créature hybride. Le récit met en scène la tension entre panique collective et quête de protection.",
+      "en": "Medusa belongs to the folklore of Greece. The monster concentrates fear of the unknown: a deadly gaze, elusive animal or hybrid creature. The story stages the tension between collective panic and the search for protection.",
+      "nl": "Medusa behoort tot de folklore van Griekenland. Het monster bundelt de angst voor het onbekende: dodelijke blik, ongrijpbaar dier of hybride wezen. Het verhaal toont de spanning tussen collectieve paniek en bescherming.",
+      "de": "Medusa gehört zur Folklore von Griechenland. Das Monster bündelt die Angst vor dem Unbekannten: gefährlicher Blick, schwer fassbares Tier oder Mischwesen. Die Geschichte zeigt die Spannung zwischen Panik und Schutzsuche."
     },
     "questionType": "truefalse",
     "image": null
@@ -11971,10 +11971,10 @@ const LEGENDS_BANK=[
       "de": "Griechenland"
     },
     "explanation": {
-      "fr": "Minotaure fait partie du patrimoine légendaire de Grèce. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Minotaur is part of the legendary heritage of Greece. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Minotaurus behoort tot het legendarische erfgoed van Griekenland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Minotaurus gehört zum legendären Erbe von Griechenland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Minotaure appartient au folklore de Grèce. Le monstre cristallise la peur de l’inconnu : regard dangereux, animal insaisissable ou créature hybride. Le récit met en scène la tension entre panique collective et quête de protection.",
+      "en": "Minotaur belongs to the folklore of Greece. The monster concentrates fear of the unknown: a deadly gaze, elusive animal or hybrid creature. The story stages the tension between collective panic and the search for protection.",
+      "nl": "Minotaurus behoort tot de folklore van Griekenland. Het monster bundelt de angst voor het onbekende: dodelijke blik, ongrijpbaar dier of hybride wezen. Het verhaal toont de spanning tussen collectieve paniek en bescherming.",
+      "de": "Minotaurus gehört zur Folklore von Griechenland. Das Monster bündelt die Angst vor dem Unbekannten: gefährlicher Blick, schwer fassbares Tier oder Mischwesen. Die Geschichte zeigt die Spannung zwischen Panik und Schutzsuche."
     },
     "questionType": "country",
     "image": null
@@ -12046,10 +12046,10 @@ const LEGENDS_BANK=[
       "de": "Ein Monster der Legende"
     },
     "explanation": {
-      "fr": "Minotaure fait partie du patrimoine légendaire de Grèce. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Minotaur is part of the legendary heritage of Greece. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Minotaurus behoort tot het legendarische erfgoed van Griekenland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Minotaurus gehört zum legendären Erbe von Griechenland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Minotaure appartient au folklore de Grèce. Le monstre cristallise la peur de l’inconnu : regard dangereux, animal insaisissable ou créature hybride. Le récit met en scène la tension entre panique collective et quête de protection.",
+      "en": "Minotaur belongs to the folklore of Greece. The monster concentrates fear of the unknown: a deadly gaze, elusive animal or hybrid creature. The story stages the tension between collective panic and the search for protection.",
+      "nl": "Minotaurus behoort tot de folklore van Griekenland. Het monster bundelt de angst voor het onbekende: dodelijke blik, ongrijpbaar dier of hybride wezen. Het verhaal toont de spanning tussen collectieve paniek en bescherming.",
+      "de": "Minotaurus gehört zur Folklore von Griechenland. Das Monster bündelt die Angst vor dem Unbekannten: gefährlicher Blick, schwer fassbares Tier oder Mischwesen. Die Geschichte zeigt die Spannung zwischen Panik und Schutzsuche."
     },
     "questionType": "what",
     "image": null
@@ -12121,10 +12121,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Minotaure fait partie du patrimoine légendaire de Grèce. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Minotaur is part of the legendary heritage of Greece. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Minotaurus behoort tot het legendarische erfgoed van Griekenland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Minotaurus gehört zum legendären Erbe von Griechenland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Minotaure appartient au folklore de Grèce. Le monstre cristallise la peur de l’inconnu : regard dangereux, animal insaisissable ou créature hybride. Le récit met en scène la tension entre panique collective et quête de protection.",
+      "en": "Minotaur belongs to the folklore of Greece. The monster concentrates fear of the unknown: a deadly gaze, elusive animal or hybrid creature. The story stages the tension between collective panic and the search for protection.",
+      "nl": "Minotaurus behoort tot de folklore van Griekenland. Het monster bundelt de angst voor het onbekende: dodelijke blik, ongrijpbaar dier of hybride wezen. Het verhaal toont de spanning tussen collectieve paniek en bescherming.",
+      "de": "Minotaurus gehört zur Folklore von Griechenland. Das Monster bündelt die Angst vor dem Unbekannten: gefährlicher Blick, schwer fassbares Tier oder Mischwesen. Die Geschichte zeigt die Spannung zwischen Panik und Schutzsuche."
     },
     "questionType": "truefalse",
     "image": null
@@ -12196,10 +12196,10 @@ const LEGENDS_BANK=[
       "de": "Ungarn"
     },
     "explanation": {
-      "fr": "Turul fait partie du patrimoine légendaire de Hongrie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Turul is part of the legendary heritage of Hungary. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Turul behoort tot het legendarische erfgoed van Hongarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Turul gehört zum legendären Erbe von Ungarn. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Turul appartient au folklore de Hongrie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Turul belongs to the folklore of Hungary. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Turul behoort tot de folklore van Hongarije. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Turul gehört zur Folklore von Ungarn. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -12271,10 +12271,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Turul fait partie du patrimoine légendaire de Hongrie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Turul is part of the legendary heritage of Hungary. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Turul behoort tot het legendarische erfgoed van Hongarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Turul gehört zum legendären Erbe von Ungarn. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Turul appartient au folklore de Hongrie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Turul belongs to the folklore of Hungary. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Turul behoort tot de folklore van Hongarije. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Turul gehört zur Folklore von Ungarn. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -12346,10 +12346,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Turul fait partie du patrimoine légendaire de Hongrie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Turul is part of the legendary heritage of Hungary. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Turul behoort tot het legendarische erfgoed van Hongarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Turul gehört zum legendären Erbe von Ungarn. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Turul appartient au folklore de Hongrie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Turul belongs to the folklore of Hungary. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Turul behoort tot de folklore van Hongarije. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Turul gehört zur Folklore von Ungarn. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -12421,10 +12421,10 @@ const LEGENDS_BANK=[
       "de": "Ungarn"
     },
     "explanation": {
-      "fr": "Csodaszarvas, le cerf miraculeux fait partie du patrimoine légendaire de Hongrie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Csodaszarvas, the miraculous stag is part of the legendary heritage of Hungary. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Csodaszarvas, het wonderhert behoort tot het legendarische erfgoed van Hongarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Csodaszarvas, der Wunderhirsch gehört zum legendären Erbe von Ungarn. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Csodaszarvas, le cerf miraculeux appartient au folklore de Hongrie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Csodaszarvas, the miraculous stag belongs to the folklore of Hungary. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Csodaszarvas, het wonderhert behoort tot de folklore van Hongarije. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Csodaszarvas, der Wunderhirsch gehört zur Folklore von Ungarn. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -12496,10 +12496,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Csodaszarvas, le cerf miraculeux fait partie du patrimoine légendaire de Hongrie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Csodaszarvas, the miraculous stag is part of the legendary heritage of Hungary. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Csodaszarvas, het wonderhert behoort tot het legendarische erfgoed van Hongarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Csodaszarvas, der Wunderhirsch gehört zum legendären Erbe von Ungarn. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Csodaszarvas, le cerf miraculeux appartient au folklore de Hongrie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Csodaszarvas, the miraculous stag belongs to the folklore of Hungary. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Csodaszarvas, het wonderhert behoort tot de folklore van Hongarije. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Csodaszarvas, der Wunderhirsch gehört zur Folklore von Ungarn. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -12571,10 +12571,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Csodaszarvas, le cerf miraculeux fait partie du patrimoine légendaire de Hongrie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Csodaszarvas, the miraculous stag is part of the legendary heritage of Hungary. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Csodaszarvas, het wonderhert behoort tot het legendarische erfgoed van Hongarije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Csodaszarvas, der Wunderhirsch gehört zum legendären Erbe von Ungarn. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Csodaszarvas, le cerf miraculeux appartient au folklore de Hongrie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Csodaszarvas, the miraculous stag belongs to the folklore of Hungary. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Csodaszarvas, het wonderhert behoort tot de folklore van Hongarije. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Csodaszarvas, der Wunderhirsch gehört zur Folklore von Ungarn. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -12646,10 +12646,10 @@ const LEGENDS_BANK=[
       "de": "Irland"
     },
     "explanation": {
-      "fr": "Banshee fait partie du patrimoine légendaire de Irlande. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Banshee is part of the legendary heritage of Ireland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Banshee behoort tot het legendarische erfgoed van Ierland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Banshee gehört zum legendären Erbe von Irland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Banshee est connue pour ses cris ou lamentations nocturnes annonçant une mort dans une famille. Elle n’est pas seulement effrayante : elle représente aussi le lien entre les vivants, les morts et la mémoire familiale.",
+      "en": "The Banshee is known for night cries or laments that announce a death in a family. The figure is not only frightening; it also represents the bond between the living, the dead and family memory.",
+      "nl": "De Banshee staat bekend om nachtelijke kreten of klaagzangen die een overlijden in een familie aankondigen. De figuur is niet alleen angstaanjagend, maar verbindt ook levenden, doden en familieherinnering.",
+      "de": "Die Banshee ist für nächtliche Schreie oder Klagen bekannt, die einen Todesfall in einer Familie ankündigen. Sie ist nicht nur furchterregend, sondern verbindet Lebende, Tote und Familiengedächtnis."
     },
     "questionType": "country",
     "image": null
@@ -12721,10 +12721,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Banshee fait partie du patrimoine légendaire de Irlande. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Banshee is part of the legendary heritage of Ireland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Banshee behoort tot het legendarische erfgoed van Ierland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Banshee gehört zum legendären Erbe von Irland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Banshee est connue pour ses cris ou lamentations nocturnes annonçant une mort dans une famille. Elle n’est pas seulement effrayante : elle représente aussi le lien entre les vivants, les morts et la mémoire familiale.",
+      "en": "The Banshee is known for night cries or laments that announce a death in a family. The figure is not only frightening; it also represents the bond between the living, the dead and family memory.",
+      "nl": "De Banshee staat bekend om nachtelijke kreten of klaagzangen die een overlijden in een familie aankondigen. De figuur is niet alleen angstaanjagend, maar verbindt ook levenden, doden en familieherinnering.",
+      "de": "Die Banshee ist für nächtliche Schreie oder Klagen bekannt, die einen Todesfall in einer Familie ankündigen. Sie ist nicht nur furchterregend, sondern verbindet Lebende, Tote und Familiengedächtnis."
     },
     "questionType": "what",
     "image": null
@@ -12796,10 +12796,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Banshee fait partie du patrimoine légendaire de Irlande. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Banshee is part of the legendary heritage of Ireland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Banshee behoort tot het legendarische erfgoed van Ierland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Banshee gehört zum legendären Erbe von Irland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Banshee est connue pour ses cris ou lamentations nocturnes annonçant une mort dans une famille. Elle n’est pas seulement effrayante : elle représente aussi le lien entre les vivants, les morts et la mémoire familiale.",
+      "en": "The Banshee is known for night cries or laments that announce a death in a family. The figure is not only frightening; it also represents the bond between the living, the dead and family memory.",
+      "nl": "De Banshee staat bekend om nachtelijke kreten of klaagzangen die een overlijden in een familie aankondigen. De figuur is niet alleen angstaanjagend, maar verbindt ook levenden, doden en familieherinnering.",
+      "de": "Die Banshee ist für nächtliche Schreie oder Klagen bekannt, die einen Todesfall in einer Familie ankündigen. Sie ist nicht nur furchterregend, sondern verbindet Lebende, Tote und Familiengedächtnis."
     },
     "questionType": "truefalse",
     "image": null
@@ -12871,10 +12871,10 @@ const LEGENDS_BANK=[
       "de": "Irland"
     },
     "explanation": {
-      "fr": "Leprechaun fait partie du patrimoine légendaire de Irlande. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Leprechaun is part of the legendary heritage of Ireland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Leprechaun gehört zum legendären Erbe von Irland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Leprechaun appartient au folklore de Irlande. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Leprechaun belongs to the folklore of Ireland. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Leprechaun behoort tot de folklore van Ierland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Leprechaun gehört zur Folklore von Irland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -12946,10 +12946,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Leprechaun fait partie du patrimoine légendaire de Irlande. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Leprechaun is part of the legendary heritage of Ireland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Leprechaun gehört zum legendären Erbe von Irland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Leprechaun appartient au folklore de Irlande. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Leprechaun belongs to the folklore of Ireland. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Leprechaun behoort tot de folklore van Ierland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Leprechaun gehört zur Folklore von Irland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -13021,10 +13021,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Leprechaun fait partie du patrimoine légendaire de Irlande. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Leprechaun is part of the legendary heritage of Ireland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Leprechaun gehört zum legendären Erbe von Irland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Leprechaun appartient au folklore de Irlande. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Leprechaun belongs to the folklore of Ireland. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Leprechaun behoort tot de folklore van Ierland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Leprechaun gehört zur Folklore von Irland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -13096,10 +13096,10 @@ const LEGENDS_BANK=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "La Befana fait partie du patrimoine légendaire de Italie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "La Befana is part of the legendary heritage of Italy. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "La Befana behoort tot het legendarische erfgoed van Italië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "La Befana gehört zum legendären Erbe von Italien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Befana est une vieille femme volante qui visite les enfants dans la nuit de l’Épiphanie. Elle apporte des cadeaux aux enfants sages et du charbon symbolique aux plus turbulents.",
+      "en": "La Befana is a flying old woman who visits children on Epiphany night. She brings gifts to well-behaved children and symbolic coal to more unruly ones.",
+      "nl": "La Befana is een vliegende oude vrouw die kinderen bezoekt in de nacht van Driekoningen. Ze brengt cadeaus aan brave kinderen en symbolische kool aan wie ondeugend was.",
+      "de": "La Befana ist eine fliegende alte Frau, die Kinder in der Nacht der Epiphanie besucht. Sie bringt braven Kindern Geschenke und unartigen symbolische Kohle."
     },
     "questionType": "country",
     "image": null
@@ -13171,10 +13171,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "La Befana fait partie du patrimoine légendaire de Italie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "La Befana is part of the legendary heritage of Italy. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "La Befana behoort tot het legendarische erfgoed van Italië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "La Befana gehört zum legendären Erbe von Italien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Befana est une vieille femme volante qui visite les enfants dans la nuit de l’Épiphanie. Elle apporte des cadeaux aux enfants sages et du charbon symbolique aux plus turbulents.",
+      "en": "La Befana is a flying old woman who visits children on Epiphany night. She brings gifts to well-behaved children and symbolic coal to more unruly ones.",
+      "nl": "La Befana is een vliegende oude vrouw die kinderen bezoekt in de nacht van Driekoningen. Ze brengt cadeaus aan brave kinderen en symbolische kool aan wie ondeugend was.",
+      "de": "La Befana ist eine fliegende alte Frau, die Kinder in der Nacht der Epiphanie besucht. Sie bringt braven Kindern Geschenke und unartigen symbolische Kohle."
     },
     "questionType": "what",
     "image": null
@@ -13246,10 +13246,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "La Befana fait partie du patrimoine légendaire de Italie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "La Befana is part of the legendary heritage of Italy. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "La Befana behoort tot het legendarische erfgoed van Italië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "La Befana gehört zum legendären Erbe von Italien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Befana est une vieille femme volante qui visite les enfants dans la nuit de l’Épiphanie. Elle apporte des cadeaux aux enfants sages et du charbon symbolique aux plus turbulents.",
+      "en": "La Befana is a flying old woman who visits children on Epiphany night. She brings gifts to well-behaved children and symbolic coal to more unruly ones.",
+      "nl": "La Befana is een vliegende oude vrouw die kinderen bezoekt in de nacht van Driekoningen. Ze brengt cadeaus aan brave kinderen en symbolische kool aan wie ondeugend was.",
+      "de": "La Befana ist eine fliegende alte Frau, die Kinder in der Nacht der Epiphanie besucht. Sie bringt braven Kindern Geschenke und unartigen symbolische Kohle."
     },
     "questionType": "truefalse",
     "image": null
@@ -13321,10 +13321,10 @@ const LEGENDS_BANK=[
       "de": "Italien"
     },
     "explanation": {
-      "fr": "Colapesce fait partie du patrimoine légendaire de Italie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Colapesce is part of the legendary heritage of Italy. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Colapesce behoort tot het legendarische erfgoed van Italië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Colapesce gehört zum legendären Erbe von Italien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Colapesce appartient au folklore de Italie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Colapesce belongs to the folklore of Italy. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Colapesce behoort tot de folklore van Italië. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Colapesce gehört zur Folklore von Italien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -13396,10 +13396,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Colapesce fait partie du patrimoine légendaire de Italie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Colapesce is part of the legendary heritage of Italy. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Colapesce behoort tot het legendarische erfgoed van Italië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Colapesce gehört zum legendären Erbe von Italien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Colapesce appartient au folklore de Italie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Colapesce belongs to the folklore of Italy. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Colapesce behoort tot de folklore van Italië. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Colapesce gehört zur Folklore von Italien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -13471,10 +13471,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Colapesce fait partie du patrimoine légendaire de Italie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Colapesce is part of the legendary heritage of Italy. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Colapesce behoort tot het legendarische erfgoed van Italië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Colapesce gehört zum legendären Erbe von Italien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Colapesce appartient au folklore de Italie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Colapesce belongs to the folklore of Italy. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Colapesce behoort tot de folklore van Italië. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Colapesce gehört zur Folklore von Italien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -13546,10 +13546,10 @@ const LEGENDS_BANK=[
       "de": "Lettland"
     },
     "explanation": {
-      "fr": "Lāčplēsis fait partie du patrimoine légendaire de Lettonie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Lāčplēsis is part of the legendary heritage of Latvia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Lāčplēsis gehört zum legendären Erbe von Lettland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Lāčplēsis appartient au folklore de Lettonie. Ce héros incarne la force, la résistance ou la défense d’une communauté. Ses exploits relient souvent l’histoire locale à des paysages bien réels.",
+      "en": "Lāčplēsis belongs to the folklore of Latvia. This hero embodies strength, resistance or the defence of a community. The exploits often connect local history with real landscapes.",
+      "nl": "Lāčplēsis behoort tot de folklore van Letland. Deze held belichaamt kracht, verzet of de bescherming van een gemeenschap. De heldendaden verbinden lokale geschiedenis vaak met echte landschappen.",
+      "de": "Lāčplēsis gehört zur Folklore von Lettland. Diese Heldengestalt verkörpert Stärke, Widerstand oder den Schutz einer Gemeinschaft. Taten werden oft mit realen Landschaften verbunden."
     },
     "questionType": "country",
     "image": null
@@ -13621,10 +13621,10 @@ const LEGENDS_BANK=[
       "de": "Eine Heldengestalt"
     },
     "explanation": {
-      "fr": "Lāčplēsis fait partie du patrimoine légendaire de Lettonie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Lāčplēsis is part of the legendary heritage of Latvia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Lāčplēsis gehört zum legendären Erbe von Lettland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Lāčplēsis appartient au folklore de Lettonie. Ce héros incarne la force, la résistance ou la défense d’une communauté. Ses exploits relient souvent l’histoire locale à des paysages bien réels.",
+      "en": "Lāčplēsis belongs to the folklore of Latvia. This hero embodies strength, resistance or the defence of a community. The exploits often connect local history with real landscapes.",
+      "nl": "Lāčplēsis behoort tot de folklore van Letland. Deze held belichaamt kracht, verzet of de bescherming van een gemeenschap. De heldendaden verbinden lokale geschiedenis vaak met echte landschappen.",
+      "de": "Lāčplēsis gehört zur Folklore von Lettland. Diese Heldengestalt verkörpert Stärke, Widerstand oder den Schutz einer Gemeinschaft. Taten werden oft mit realen Landschaften verbunden."
     },
     "questionType": "what",
     "image": null
@@ -13696,10 +13696,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Lāčplēsis fait partie du patrimoine légendaire de Lettonie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Lāčplēsis is part of the legendary heritage of Latvia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Lāčplēsis gehört zum legendären Erbe von Lettland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Lāčplēsis appartient au folklore de Lettonie. Ce héros incarne la force, la résistance ou la défense d’une communauté. Ses exploits relient souvent l’histoire locale à des paysages bien réels.",
+      "en": "Lāčplēsis belongs to the folklore of Latvia. This hero embodies strength, resistance or the defence of a community. The exploits often connect local history with real landscapes.",
+      "nl": "Lāčplēsis behoort tot de folklore van Letland. Deze held belichaamt kracht, verzet of de bescherming van een gemeenschap. De heldendaden verbinden lokale geschiedenis vaak met echte landschappen.",
+      "de": "Lāčplēsis gehört zur Folklore von Lettland. Diese Heldengestalt verkörpert Stärke, Widerstand oder den Schutz einer Gemeinschaft. Taten werden oft mit realen Landschaften verbunden."
     },
     "questionType": "truefalse",
     "image": null
@@ -13771,10 +13771,10 @@ const LEGENDS_BANK=[
       "de": "Lettland"
     },
     "explanation": {
-      "fr": "Lauma fait partie du patrimoine légendaire de Lettonie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Lauma is part of the legendary heritage of Latvia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Lauma behoort tot het legendarische erfgoed van Letland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Lauma gehört zum legendären Erbe von Lettland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Lauma appartient au folklore de Lettonie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Lauma belongs to the folklore of Latvia. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Lauma behoort tot de folklore van Letland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Lauma gehört zur Folklore von Lettland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -13846,10 +13846,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Lauma fait partie du patrimoine légendaire de Lettonie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Lauma is part of the legendary heritage of Latvia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Lauma behoort tot het legendarische erfgoed van Letland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Lauma gehört zum legendären Erbe von Lettland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Lauma appartient au folklore de Lettonie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Lauma belongs to the folklore of Latvia. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Lauma behoort tot de folklore van Letland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Lauma gehört zur Folklore von Lettland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -13921,10 +13921,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Lauma fait partie du patrimoine légendaire de Lettonie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Lauma is part of the legendary heritage of Latvia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Lauma behoort tot het legendarische erfgoed van Letland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Lauma gehört zum legendären Erbe von Lettland. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Lauma appartient au folklore de Lettonie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Lauma belongs to the folklore of Latvia. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Lauma behoort tot de folklore van Letland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Lauma gehört zur Folklore von Lettland. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -13996,10 +13996,10 @@ const LEGENDS_BANK=[
       "de": "Litauen"
     },
     "explanation": {
-      "fr": "Eglė, reine des serpents fait partie du patrimoine légendaire de Lituanie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Eglė, Queen of Serpents is part of the legendary heritage of Lithuania. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Eglė, koningin van de slangen behoort tot het legendarische erfgoed van Litouwen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Eglė, Königin der Schlangen gehört zum legendären Erbe von Litauen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Eglė, reine des serpents appartient au folklore de Lituanie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Eglė, Queen of Serpents belongs to the folklore of Lithuania. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Eglė, koningin van de slangen behoort tot de folklore van Litouwen. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Eglė, Königin der Schlangen gehört zur Folklore von Litauen. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -14071,10 +14071,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Eglė, reine des serpents fait partie du patrimoine légendaire de Lituanie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Eglė, Queen of Serpents is part of the legendary heritage of Lithuania. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Eglė, koningin van de slangen behoort tot het legendarische erfgoed van Litouwen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Eglė, Königin der Schlangen gehört zum legendären Erbe von Litauen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Eglė, reine des serpents appartient au folklore de Lituanie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Eglė, Queen of Serpents belongs to the folklore of Lithuania. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Eglė, koningin van de slangen behoort tot de folklore van Litouwen. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Eglė, Königin der Schlangen gehört zur Folklore von Litauen. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -14146,10 +14146,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Eglė, reine des serpents fait partie du patrimoine légendaire de Lituanie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Eglė, Queen of Serpents is part of the legendary heritage of Lithuania. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Eglė, koningin van de slangen behoort tot het legendarische erfgoed van Litouwen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Eglė, Königin der Schlangen gehört zum legendären Erbe von Litauen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Eglė, reine des serpents appartient au folklore de Lituanie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Eglė, Queen of Serpents belongs to the folklore of Lithuania. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Eglė, koningin van de slangen behoort tot de folklore van Litouwen. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Eglė, Königin der Schlangen gehört zur Folklore von Litauen. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -14221,10 +14221,10 @@ const LEGENDS_BANK=[
       "de": "Litauen"
     },
     "explanation": {
-      "fr": "Jūratė et Kastytis fait partie du patrimoine légendaire de Lituanie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Jūratė and Kastytis is part of the legendary heritage of Lithuania. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Jūratė und Kastytis gehört zum legendären Erbe von Litauen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Jūratė et Kastytis appartient au folklore de Lituanie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Jūratė and Kastytis belongs to the folklore of Lithuania. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Jūratė en Kastytis behoort tot de folklore van Litouwen. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Jūratė und Kastytis gehört zur Folklore von Litauen. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -14296,10 +14296,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Jūratė et Kastytis fait partie du patrimoine légendaire de Lituanie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Jūratė and Kastytis is part of the legendary heritage of Lithuania. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Jūratė und Kastytis gehört zum legendären Erbe von Litauen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Jūratė et Kastytis appartient au folklore de Lituanie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Jūratė and Kastytis belongs to the folklore of Lithuania. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Jūratė en Kastytis behoort tot de folklore van Litouwen. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Jūratė und Kastytis gehört zur Folklore von Litauen. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -14371,10 +14371,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Jūratė et Kastytis fait partie du patrimoine légendaire de Lituanie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Jūratė and Kastytis is part of the legendary heritage of Lithuania. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Jūratė und Kastytis gehört zum legendären Erbe von Litauen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Jūratė et Kastytis appartient au folklore de Lituanie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Jūratė and Kastytis belongs to the folklore of Lithuania. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Jūratė en Kastytis behoort tot de folklore van Litouwen. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Jūratė und Kastytis gehört zur Folklore von Litauen. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -14446,10 +14446,10 @@ const LEGENDS_BANK=[
       "de": "Luxemburg"
     },
     "explanation": {
-      "fr": "Mélusine de Luxembourg fait partie du patrimoine légendaire de Luxembourg. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Melusine of Luxembourg is part of the legendary heritage of Luxembourg. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Melusine van Luxemburg behoort tot het legendarische erfgoed van Luxemburg. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Melusine von Luxemburg gehört zum legendären Erbe von Luxemburg. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Mélusine de Luxembourg appartient au folklore de Luxembourg. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Melusine of Luxembourg belongs to the folklore of Luxembourg. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Melusine van Luxemburg behoort tot de folklore van Luxemburg. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Melusine von Luxemburg gehört zur Folklore von Luxemburg. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -14521,10 +14521,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Mélusine de Luxembourg fait partie du patrimoine légendaire de Luxembourg. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Melusine of Luxembourg is part of the legendary heritage of Luxembourg. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Melusine van Luxemburg behoort tot het legendarische erfgoed van Luxemburg. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Melusine von Luxemburg gehört zum legendären Erbe von Luxemburg. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Mélusine de Luxembourg appartient au folklore de Luxembourg. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Melusine of Luxembourg belongs to the folklore of Luxembourg. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Melusine van Luxemburg behoort tot de folklore van Luxemburg. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Melusine von Luxemburg gehört zur Folklore von Luxemburg. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -14596,10 +14596,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Mélusine de Luxembourg fait partie du patrimoine légendaire de Luxembourg. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Melusine of Luxembourg is part of the legendary heritage of Luxembourg. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Melusine van Luxemburg behoort tot het legendarische erfgoed van Luxemburg. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Melusine von Luxemburg gehört zum legendären Erbe von Luxemburg. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Mélusine de Luxembourg appartient au folklore de Luxembourg. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Melusine of Luxembourg belongs to the folklore of Luxembourg. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Melusine van Luxemburg behoort tot de folklore van Luxemburg. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Melusine von Luxemburg gehört zur Folklore von Luxemburg. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -14671,10 +14671,10 @@ const LEGENDS_BANK=[
       "de": "Luxemburg"
     },
     "explanation": {
-      "fr": "Kropemann fait partie du patrimoine légendaire de Luxembourg. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Kropemann is part of the legendary heritage of Luxembourg. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Kropemann behoort tot het legendarische erfgoed van Luxemburg. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Kropemann gehört zum legendären Erbe von Luxemburg. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Kropemann appartient au folklore de Luxembourg. Cette créature aquatique rappelle que les rivières, étangs et lacs étaient perçus comme des lieux attirants mais dangereux. La légende sert aussi d’avertissement, surtout pour les enfants.",
+      "en": "Kropemann belongs to the folklore of Luxembourg. This water creature shows how rivers, ponds and lakes were seen as attractive yet dangerous places. The legend also works as a warning, especially for children.",
+      "nl": "Kropemann behoort tot de folklore van Luxemburg. Dit waterwezen toont hoe rivieren, vijvers en meren aantrekkelijk maar gevaarlijk konden lijken. De legende werkt ook als waarschuwing, vooral voor kinderen.",
+      "de": "Kropemann gehört zur Folklore von Luxemburg. Dieses Wasserwesen zeigt, wie Flüsse, Teiche und Seen als anziehend und zugleich gefährlich galten. Die Legende dient auch als Warnung, besonders für Kinder."
     },
     "questionType": "country",
     "image": null
@@ -14746,10 +14746,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Kropemann fait partie du patrimoine légendaire de Luxembourg. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Kropemann is part of the legendary heritage of Luxembourg. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Kropemann behoort tot het legendarische erfgoed van Luxemburg. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Kropemann gehört zum legendären Erbe von Luxemburg. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Kropemann appartient au folklore de Luxembourg. Cette créature aquatique rappelle que les rivières, étangs et lacs étaient perçus comme des lieux attirants mais dangereux. La légende sert aussi d’avertissement, surtout pour les enfants.",
+      "en": "Kropemann belongs to the folklore of Luxembourg. This water creature shows how rivers, ponds and lakes were seen as attractive yet dangerous places. The legend also works as a warning, especially for children.",
+      "nl": "Kropemann behoort tot de folklore van Luxemburg. Dit waterwezen toont hoe rivieren, vijvers en meren aantrekkelijk maar gevaarlijk konden lijken. De legende werkt ook als waarschuwing, vooral voor kinderen.",
+      "de": "Kropemann gehört zur Folklore von Luxemburg. Dieses Wasserwesen zeigt, wie Flüsse, Teiche und Seen als anziehend und zugleich gefährlich galten. Die Legende dient auch als Warnung, besonders für Kinder."
     },
     "questionType": "what",
     "image": null
@@ -14821,10 +14821,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Kropemann fait partie du patrimoine légendaire de Luxembourg. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Kropemann is part of the legendary heritage of Luxembourg. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Kropemann behoort tot het legendarische erfgoed van Luxemburg. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Kropemann gehört zum legendären Erbe von Luxemburg. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Kropemann appartient au folklore de Luxembourg. Cette créature aquatique rappelle que les rivières, étangs et lacs étaient perçus comme des lieux attirants mais dangereux. La légende sert aussi d’avertissement, surtout pour les enfants.",
+      "en": "Kropemann belongs to the folklore of Luxembourg. This water creature shows how rivers, ponds and lakes were seen as attractive yet dangerous places. The legend also works as a warning, especially for children.",
+      "nl": "Kropemann behoort tot de folklore van Luxemburg. Dit waterwezen toont hoe rivieren, vijvers en meren aantrekkelijk maar gevaarlijk konden lijken. De legende werkt ook als waarschuwing, vooral voor kinderen.",
+      "de": "Kropemann gehört zur Folklore von Luxemburg. Dieses Wasserwesen zeigt, wie Flüsse, Teiche und Seen als anziehend und zugleich gefährlich galten. Die Legende dient auch als Warnung, besonders für Kinder."
     },
     "questionType": "truefalse",
     "image": null
@@ -14896,10 +14896,10 @@ const LEGENDS_BANK=[
       "de": "Malta"
     },
     "explanation": {
-      "fr": "Għar Dalam et les géants fait partie du patrimoine légendaire de Malte. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Għar Dalam and the giants is part of the legendary heritage of Malta. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Għar Dalam en de reuzen behoort tot het legendarische erfgoed van Malta. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Għar Dalam und die Riesen gehört zum legendären Erbe von Malta. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Għar Dalam et les géants appartient au folklore de Malte. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Għar Dalam and the giants belongs to the folklore of Malta. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Għar Dalam en de reuzen behoort tot de folklore van Malta. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Għar Dalam und die Riesen gehört zur Folklore von Malta. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -14971,10 +14971,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Għar Dalam et les géants fait partie du patrimoine légendaire de Malte. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Għar Dalam and the giants is part of the legendary heritage of Malta. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Għar Dalam en de reuzen behoort tot het legendarische erfgoed van Malta. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Għar Dalam und die Riesen gehört zum legendären Erbe von Malta. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Għar Dalam et les géants appartient au folklore de Malte. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Għar Dalam and the giants belongs to the folklore of Malta. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Għar Dalam en de reuzen behoort tot de folklore van Malta. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Għar Dalam und die Riesen gehört zur Folklore von Malta. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -15046,10 +15046,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Għar Dalam et les géants fait partie du patrimoine légendaire de Malte. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Għar Dalam and the giants is part of the legendary heritage of Malta. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Għar Dalam en de reuzen behoort tot het legendarische erfgoed van Malta. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Għar Dalam und die Riesen gehört zum legendären Erbe von Malta. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Għar Dalam et les géants appartient au folklore de Malte. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Għar Dalam and the giants belongs to the folklore of Malta. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Għar Dalam en de reuzen behoort tot de folklore van Malta. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Għar Dalam und die Riesen gehört zur Folklore von Malta. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -15121,10 +15121,10 @@ const LEGENDS_BANK=[
       "de": "Malta"
     },
     "explanation": {
-      "fr": "Il-Maqluba fait partie du patrimoine légendaire de Malte. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Il-Maqluba is part of the legendary heritage of Malta. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Il-Maqluba behoort tot het legendarische erfgoed van Malta. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Il-Maqluba gehört zum legendären Erbe von Malta. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Il-Maqluba appartient au folklore de Malte. Ce récit transforme un lieu réel en paysage mystérieux. Il associe souvent un lac, une grotte ou un effondrement à une mémoire collective et à une explication morale.",
+      "en": "Il-Maqluba belongs to the folklore of Malta. This story turns a real place into a mysterious landscape. It often links a lake, cave or collapse with collective memory and a moral explanation.",
+      "nl": "Il-Maqluba behoort tot de folklore van Malta. Dit verhaal verandert een echte plaats in een mysterieus landschap. Het verbindt vaak een meer, grot of instorting met collectief geheugen en een morele verklaring.",
+      "de": "Il-Maqluba gehört zur Folklore von Malta. Diese Erzählung verwandelt einen realen Ort in eine geheimnisvolle Landschaft. Oft verbindet sie See, Höhle oder Einsturz mit Erinnerung und moralischer Deutung."
     },
     "questionType": "country",
     "image": null
@@ -15196,10 +15196,10 @@ const LEGENDS_BANK=[
       "de": "Ein Ort, der mit einer Legende verbunden ist"
     },
     "explanation": {
-      "fr": "Il-Maqluba fait partie du patrimoine légendaire de Malte. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Il-Maqluba is part of the legendary heritage of Malta. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Il-Maqluba behoort tot het legendarische erfgoed van Malta. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Il-Maqluba gehört zum legendären Erbe von Malta. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Il-Maqluba appartient au folklore de Malte. Ce récit transforme un lieu réel en paysage mystérieux. Il associe souvent un lac, une grotte ou un effondrement à une mémoire collective et à une explication morale.",
+      "en": "Il-Maqluba belongs to the folklore of Malta. This story turns a real place into a mysterious landscape. It often links a lake, cave or collapse with collective memory and a moral explanation.",
+      "nl": "Il-Maqluba behoort tot de folklore van Malta. Dit verhaal verandert een echte plaats in een mysterieus landschap. Het verbindt vaak een meer, grot of instorting met collectief geheugen en een morele verklaring.",
+      "de": "Il-Maqluba gehört zur Folklore von Malta. Diese Erzählung verwandelt einen realen Ort in eine geheimnisvolle Landschaft. Oft verbindet sie See, Höhle oder Einsturz mit Erinnerung und moralischer Deutung."
     },
     "questionType": "what",
     "image": null
@@ -15271,10 +15271,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Il-Maqluba fait partie du patrimoine légendaire de Malte. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Il-Maqluba is part of the legendary heritage of Malta. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Il-Maqluba behoort tot het legendarische erfgoed van Malta. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Il-Maqluba gehört zum legendären Erbe von Malta. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Il-Maqluba appartient au folklore de Malte. Ce récit transforme un lieu réel en paysage mystérieux. Il associe souvent un lac, une grotte ou un effondrement à une mémoire collective et à une explication morale.",
+      "en": "Il-Maqluba belongs to the folklore of Malta. This story turns a real place into a mysterious landscape. It often links a lake, cave or collapse with collective memory and a moral explanation.",
+      "nl": "Il-Maqluba behoort tot de folklore van Malta. Dit verhaal verandert een echte plaats in een mysterieus landschap. Het verbindt vaak een meer, grot of instorting met collectief geheugen en een morele verklaring.",
+      "de": "Il-Maqluba gehört zur Folklore von Malta. Diese Erzählung verwandelt einen realen Ort in eine geheimnisvolle Landschaft. Oft verbindet sie See, Höhle oder Einsturz mit Erinnerung und moralischer Deutung."
     },
     "questionType": "truefalse",
     "image": null
@@ -15346,10 +15346,10 @@ const LEGENDS_BANK=[
       "de": "Niederlande"
     },
     "explanation": {
-      "fr": "Le Hollandais volant fait partie du patrimoine légendaire de Pays-Bas. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Flying Dutchman is part of the legendary heritage of Netherlands. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Fliegende Holländer gehört zum legendären Erbe von Niederlande. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le Hollandais volant appartient au folklore de Pays-Bas. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Flying Dutchman belongs to the folklore of Netherlands. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De Vliegende Hollander behoort tot de folklore van Nederland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Der Fliegende Holländer gehört zur Folklore von Niederlande. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -15421,10 +15421,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Le Hollandais volant fait partie du patrimoine légendaire de Pays-Bas. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Flying Dutchman is part of the legendary heritage of Netherlands. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Fliegende Holländer gehört zum legendären Erbe von Niederlande. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le Hollandais volant appartient au folklore de Pays-Bas. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Flying Dutchman belongs to the folklore of Netherlands. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De Vliegende Hollander behoort tot de folklore van Nederland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Der Fliegende Holländer gehört zur Folklore von Niederlande. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -15496,10 +15496,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Le Hollandais volant fait partie du patrimoine légendaire de Pays-Bas. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Flying Dutchman is part of the legendary heritage of Netherlands. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Fliegende Holländer gehört zum legendären Erbe von Niederlande. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le Hollandais volant appartient au folklore de Pays-Bas. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Flying Dutchman belongs to the folklore of Netherlands. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De Vliegende Hollander behoort tot de folklore van Nederland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Der Fliegende Holländer gehört zur Folklore von Niederlande. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -15571,10 +15571,10 @@ const LEGENDS_BANK=[
       "de": "Niederlande"
     },
     "explanation": {
-      "fr": "Les Witte Wieven fait partie du patrimoine légendaire de Pays-Bas. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Witte Wieven is part of the legendary heritage of Netherlands. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Witte Wieven behoort tot het legendarische erfgoed van Nederland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Witte Wieven gehört zum legendären Erbe von Niederlande. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Les Witte Wieven appartient au folklore de Pays-Bas. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Witte Wieven belongs to the folklore of Netherlands. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De Witte Wieven behoort tot de folklore van Nederland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Die Witte Wieven gehört zur Folklore von Niederlande. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -15646,10 +15646,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Les Witte Wieven fait partie du patrimoine légendaire de Pays-Bas. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Witte Wieven is part of the legendary heritage of Netherlands. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Witte Wieven behoort tot het legendarische erfgoed van Nederland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Witte Wieven gehört zum legendären Erbe von Niederlande. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Les Witte Wieven appartient au folklore de Pays-Bas. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Witte Wieven belongs to the folklore of Netherlands. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De Witte Wieven behoort tot de folklore van Nederland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Die Witte Wieven gehört zur Folklore von Niederlande. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -15721,10 +15721,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Les Witte Wieven fait partie du patrimoine légendaire de Pays-Bas. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Witte Wieven is part of the legendary heritage of Netherlands. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Witte Wieven behoort tot het legendarische erfgoed van Nederland. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Witte Wieven gehört zum legendären Erbe von Niederlande. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Les Witte Wieven appartient au folklore de Pays-Bas. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Witte Wieven belongs to the folklore of Netherlands. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De Witte Wieven behoort tot de folklore van Nederland. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Die Witte Wieven gehört zur Folklore von Niederlande. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -15796,10 +15796,10 @@ const LEGENDS_BANK=[
       "de": "Polen"
     },
     "explanation": {
-      "fr": "Le dragon du Wawel fait partie du patrimoine légendaire de Pologne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Wawel Dragon is part of the legendary heritage of Poland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Wawel-Drache gehört zum legendären Erbe von Polen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le dragon du Wawel appartient au folklore de Pologne. Le dragon représente une force dangereuse associée aux montagnes, aux villes ou aux trésors. Le vaincre demande souvent plus de ruse que de simple force physique.",
+      "en": "The Wawel Dragon belongs to the folklore of Poland. The dragon represents a dangerous force linked to mountains, cities or treasures. Defeating it often requires cleverness rather than brute strength.",
+      "nl": "De Wawel-draak behoort tot de folklore van Polen. De draak staat voor een gevaarlijke kracht die verbonden is met bergen, steden of schatten. Hem verslaan vraagt vaak meer sluwheid dan brute kracht.",
+      "de": "Der Wawel-Drache gehört zur Folklore von Polen. Der Drache steht für eine gefährliche Kraft, die mit Bergen, Städten oder Schätzen verbunden ist. Ihn zu besiegen verlangt oft eher Klugheit als rohe Kraft."
     },
     "questionType": "country",
     "image": null
@@ -15871,10 +15871,10 @@ const LEGENDS_BANK=[
       "de": "Ein Drache oder monströses Wesen der Folklore"
     },
     "explanation": {
-      "fr": "Le dragon du Wawel fait partie du patrimoine légendaire de Pologne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Wawel Dragon is part of the legendary heritage of Poland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Wawel-Drache gehört zum legendären Erbe von Polen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le dragon du Wawel appartient au folklore de Pologne. Le dragon représente une force dangereuse associée aux montagnes, aux villes ou aux trésors. Le vaincre demande souvent plus de ruse que de simple force physique.",
+      "en": "The Wawel Dragon belongs to the folklore of Poland. The dragon represents a dangerous force linked to mountains, cities or treasures. Defeating it often requires cleverness rather than brute strength.",
+      "nl": "De Wawel-draak behoort tot de folklore van Polen. De draak staat voor een gevaarlijke kracht die verbonden is met bergen, steden of schatten. Hem verslaan vraagt vaak meer sluwheid dan brute kracht.",
+      "de": "Der Wawel-Drache gehört zur Folklore von Polen. Der Drache steht für eine gefährliche Kraft, die mit Bergen, Städten oder Schätzen verbunden ist. Ihn zu besiegen verlangt oft eher Klugheit als rohe Kraft."
     },
     "questionType": "what",
     "image": null
@@ -15946,10 +15946,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Le dragon du Wawel fait partie du patrimoine légendaire de Pologne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Wawel Dragon is part of the legendary heritage of Poland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Wawel-Drache gehört zum legendären Erbe von Polen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le dragon du Wawel appartient au folklore de Pologne. Le dragon représente une force dangereuse associée aux montagnes, aux villes ou aux trésors. Le vaincre demande souvent plus de ruse que de simple force physique.",
+      "en": "The Wawel Dragon belongs to the folklore of Poland. The dragon represents a dangerous force linked to mountains, cities or treasures. Defeating it often requires cleverness rather than brute strength.",
+      "nl": "De Wawel-draak behoort tot de folklore van Polen. De draak staat voor een gevaarlijke kracht die verbonden is met bergen, steden of schatten. Hem verslaan vraagt vaak meer sluwheid dan brute kracht.",
+      "de": "Der Wawel-Drache gehört zur Folklore von Polen. Der Drache steht für eine gefährliche Kraft, die mit Bergen, Städten oder Schätzen verbunden ist. Ihn zu besiegen verlangt oft eher Klugheit als rohe Kraft."
     },
     "questionType": "truefalse",
     "image": null
@@ -16021,10 +16021,10 @@ const LEGENDS_BANK=[
       "de": "Polen"
     },
     "explanation": {
-      "fr": "Basilic de Varsovie fait partie du patrimoine légendaire de Pologne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Basilisk of Warsaw is part of the legendary heritage of Poland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De basilisk van Warschau behoort tot het legendarische erfgoed van Polen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Basilisk von Warschau gehört zum legendären Erbe von Polen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Basilic de Varsovie appartient au folklore de Pologne. Le monstre cristallise la peur de l’inconnu : regard dangereux, animal insaisissable ou créature hybride. Le récit met en scène la tension entre panique collective et quête de protection.",
+      "en": "The Basilisk of Warsaw belongs to the folklore of Poland. The monster concentrates fear of the unknown: a deadly gaze, elusive animal or hybrid creature. The story stages the tension between collective panic and the search for protection.",
+      "nl": "De basilisk van Warschau behoort tot de folklore van Polen. Het monster bundelt de angst voor het onbekende: dodelijke blik, ongrijpbaar dier of hybride wezen. Het verhaal toont de spanning tussen collectieve paniek en bescherming.",
+      "de": "Der Basilisk von Warschau gehört zur Folklore von Polen. Das Monster bündelt die Angst vor dem Unbekannten: gefährlicher Blick, schwer fassbares Tier oder Mischwesen. Die Geschichte zeigt die Spannung zwischen Panik und Schutzsuche."
     },
     "questionType": "country",
     "image": null
@@ -16096,10 +16096,10 @@ const LEGENDS_BANK=[
       "de": "Ein Monster der Legende"
     },
     "explanation": {
-      "fr": "Basilic de Varsovie fait partie du patrimoine légendaire de Pologne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Basilisk of Warsaw is part of the legendary heritage of Poland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De basilisk van Warschau behoort tot het legendarische erfgoed van Polen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Basilisk von Warschau gehört zum legendären Erbe von Polen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Basilic de Varsovie appartient au folklore de Pologne. Le monstre cristallise la peur de l’inconnu : regard dangereux, animal insaisissable ou créature hybride. Le récit met en scène la tension entre panique collective et quête de protection.",
+      "en": "The Basilisk of Warsaw belongs to the folklore of Poland. The monster concentrates fear of the unknown: a deadly gaze, elusive animal or hybrid creature. The story stages the tension between collective panic and the search for protection.",
+      "nl": "De basilisk van Warschau behoort tot de folklore van Polen. Het monster bundelt de angst voor het onbekende: dodelijke blik, ongrijpbaar dier of hybride wezen. Het verhaal toont de spanning tussen collectieve paniek en bescherming.",
+      "de": "Der Basilisk von Warschau gehört zur Folklore von Polen. Das Monster bündelt die Angst vor dem Unbekannten: gefährlicher Blick, schwer fassbares Tier oder Mischwesen. Die Geschichte zeigt die Spannung zwischen Panik und Schutzsuche."
     },
     "questionType": "what",
     "image": null
@@ -16171,10 +16171,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Basilic de Varsovie fait partie du patrimoine légendaire de Pologne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Basilisk of Warsaw is part of the legendary heritage of Poland. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De basilisk van Warschau behoort tot het legendarische erfgoed van Polen. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Basilisk von Warschau gehört zum legendären Erbe von Polen. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Basilic de Varsovie appartient au folklore de Pologne. Le monstre cristallise la peur de l’inconnu : regard dangereux, animal insaisissable ou créature hybride. Le récit met en scène la tension entre panique collective et quête de protection.",
+      "en": "The Basilisk of Warsaw belongs to the folklore of Poland. The monster concentrates fear of the unknown: a deadly gaze, elusive animal or hybrid creature. The story stages the tension between collective panic and the search for protection.",
+      "nl": "De basilisk van Warschau behoort tot de folklore van Polen. Het monster bundelt de angst voor het onbekende: dodelijke blik, ongrijpbaar dier of hybride wezen. Het verhaal toont de spanning tussen collectieve paniek en bescherming.",
+      "de": "Der Basilisk von Warschau gehört zur Folklore von Polen. Das Monster bündelt die Angst vor dem Unbekannten: gefährlicher Blick, schwer fassbares Tier oder Mischwesen. Die Geschichte zeigt die Spannung zwischen Panik und Schutzsuche."
     },
     "questionType": "truefalse",
     "image": null
@@ -16246,10 +16246,10 @@ const LEGENDS_BANK=[
       "de": "Portugal"
     },
     "explanation": {
-      "fr": "Bicho-Papão fait partie du patrimoine légendaire de Portugal. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Bicho-Papão is part of the legendary heritage of Portugal. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Bicho-Papão behoort tot het legendarische erfgoed van Portugal. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Bicho-Papão gehört zum legendären Erbe von Portugal. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Bicho-Papão appartient au folklore de Portugal. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Bicho-Papão belongs to the folklore of Portugal. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Bicho-Papão behoort tot de folklore van Portugal. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Bicho-Papão gehört zur Folklore von Portugal. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -16321,10 +16321,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Bicho-Papão fait partie du patrimoine légendaire de Portugal. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Bicho-Papão is part of the legendary heritage of Portugal. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Bicho-Papão behoort tot het legendarische erfgoed van Portugal. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Bicho-Papão gehört zum legendären Erbe von Portugal. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Bicho-Papão appartient au folklore de Portugal. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Bicho-Papão belongs to the folklore of Portugal. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Bicho-Papão behoort tot de folklore van Portugal. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Bicho-Papão gehört zur Folklore von Portugal. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -16396,10 +16396,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Bicho-Papão fait partie du patrimoine légendaire de Portugal. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Bicho-Papão is part of the legendary heritage of Portugal. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Bicho-Papão behoort tot het legendarische erfgoed van Portugal. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Bicho-Papão gehört zum legendären Erbe von Portugal. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Bicho-Papão appartient au folklore de Portugal. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Bicho-Papão belongs to the folklore of Portugal. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Bicho-Papão behoort tot de folklore van Portugal. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Bicho-Papão gehört zur Folklore von Portugal. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -16471,10 +16471,10 @@ const LEGENDS_BANK=[
       "de": "Portugal"
     },
     "explanation": {
-      "fr": "Le coq de Barcelos fait partie du patrimoine légendaire de Portugal. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Rooster of Barcelos is part of the legendary heritage of Portugal. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De haan van Barcelos behoort tot het legendarische erfgoed van Portugal. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Hahn von Barcelos gehört zum legendären Erbe von Portugal. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le coq de Barcelos appartient au folklore de Portugal. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Rooster of Barcelos belongs to the folklore of Portugal. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De haan van Barcelos behoort tot de folklore van Portugal. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Der Hahn von Barcelos gehört zur Folklore von Portugal. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -16546,10 +16546,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Le coq de Barcelos fait partie du patrimoine légendaire de Portugal. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Rooster of Barcelos is part of the legendary heritage of Portugal. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De haan van Barcelos behoort tot het legendarische erfgoed van Portugal. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Hahn von Barcelos gehört zum legendären Erbe von Portugal. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le coq de Barcelos appartient au folklore de Portugal. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Rooster of Barcelos belongs to the folklore of Portugal. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De haan van Barcelos behoort tot de folklore van Portugal. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Der Hahn von Barcelos gehört zur Folklore von Portugal. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -16621,10 +16621,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Le coq de Barcelos fait partie du patrimoine légendaire de Portugal. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Rooster of Barcelos is part of the legendary heritage of Portugal. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De haan van Barcelos behoort tot het legendarische erfgoed van Portugal. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Hahn von Barcelos gehört zum legendären Erbe von Portugal. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le coq de Barcelos appartient au folklore de Portugal. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Rooster of Barcelos belongs to the folklore of Portugal. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De haan van Barcelos behoort tot de folklore van Portugal. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Der Hahn von Barcelos gehört zur Folklore von Portugal. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -16696,10 +16696,10 @@ const LEGENDS_BANK=[
       "de": "Rumänien"
     },
     "explanation": {
-      "fr": "Strigoi fait partie du patrimoine légendaire de Roumanie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Strigoi is part of the legendary heritage of Romania. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Strigoi gehört zum legendären Erbe von Rumänien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Strigoi appartient au folklore de Roumanie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Strigoi belongs to the folklore of Romania. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Strigoi behoort tot de folklore van Roemenië. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Strigoi gehört zur Folklore von Rumänien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -16771,10 +16771,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Strigoi fait partie du patrimoine légendaire de Roumanie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Strigoi is part of the legendary heritage of Romania. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Strigoi gehört zum legendären Erbe von Rumänien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Strigoi appartient au folklore de Roumanie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Strigoi belongs to the folklore of Romania. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Strigoi behoort tot de folklore van Roemenië. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Strigoi gehört zur Folklore von Rumänien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -16846,10 +16846,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Strigoi fait partie du patrimoine légendaire de Roumanie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Strigoi is part of the legendary heritage of Romania. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Strigoi gehört zum legendären Erbe von Rumänien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Strigoi appartient au folklore de Roumanie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Strigoi belongs to the folklore of Romania. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Strigoi behoort tot de folklore van Roemenië. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Strigoi gehört zur Folklore von Rumänien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -16921,10 +16921,10 @@ const LEGENDS_BANK=[
       "de": "Rumänien"
     },
     "explanation": {
-      "fr": "Meșterul Manole fait partie du patrimoine légendaire de Roumanie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Meșterul Manole is part of the legendary heritage of Romania. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Meșterul Manole behoort tot het legendarische erfgoed van Roemenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Meșterul Manole gehört zum legendären Erbe von Rumänien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Meșterul Manole appartient au folklore de Roumanie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Meșterul Manole belongs to the folklore of Romania. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Meșterul Manole behoort tot de folklore van Roemenië. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Meșterul Manole gehört zur Folklore von Rumänien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -16996,10 +16996,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Meșterul Manole fait partie du patrimoine légendaire de Roumanie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Meșterul Manole is part of the legendary heritage of Romania. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Meșterul Manole behoort tot het legendarische erfgoed van Roemenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Meșterul Manole gehört zum legendären Erbe von Rumänien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Meșterul Manole appartient au folklore de Roumanie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Meșterul Manole belongs to the folklore of Romania. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Meșterul Manole behoort tot de folklore van Roemenië. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Meșterul Manole gehört zur Folklore von Rumänien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -17071,10 +17071,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Meșterul Manole fait partie du patrimoine légendaire de Roumanie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Meșterul Manole is part of the legendary heritage of Romania. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Meșterul Manole behoort tot het legendarische erfgoed van Roemenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Meșterul Manole gehört zum legendären Erbe von Rumänien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Meșterul Manole appartient au folklore de Roumanie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Meșterul Manole belongs to the folklore of Romania. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Meșterul Manole behoort tot de folklore van Roemenië. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Meșterul Manole gehört zur Folklore von Rumänien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -17146,10 +17146,10 @@ const LEGENDS_BANK=[
       "de": "Slowakei"
     },
     "explanation": {
-      "fr": "Juraj Jánošík fait partie du patrimoine légendaire de Slovaquie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Juraj Jánošík is part of the legendary heritage of Slovakia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Juraj Jánošík behoort tot het legendarische erfgoed van Slowakije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Juraj Jánošík gehört zum legendären Erbe von Slowakei. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Juraj Jánošík appartient au folklore de Slovaquie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Juraj Jánošík belongs to the folklore of Slovakia. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Juraj Jánošík behoort tot de folklore van Slowakije. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Juraj Jánošík gehört zur Folklore von Slowakei. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -17221,10 +17221,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Juraj Jánošík fait partie du patrimoine légendaire de Slovaquie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Juraj Jánošík is part of the legendary heritage of Slovakia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Juraj Jánošík behoort tot het legendarische erfgoed van Slowakije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Juraj Jánošík gehört zum legendären Erbe von Slowakei. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Juraj Jánošík appartient au folklore de Slovaquie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Juraj Jánošík belongs to the folklore of Slovakia. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Juraj Jánošík behoort tot de folklore van Slowakije. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Juraj Jánošík gehört zur Folklore von Slowakei. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -17296,10 +17296,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Juraj Jánošík fait partie du patrimoine légendaire de Slovaquie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Juraj Jánošík is part of the legendary heritage of Slovakia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Juraj Jánošík behoort tot het legendarische erfgoed van Slowakije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Juraj Jánošík gehört zum legendären Erbe von Slowakei. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Juraj Jánošík appartient au folklore de Slovaquie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Juraj Jánošík belongs to the folklore of Slovakia. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Juraj Jánošík behoort tot de folklore van Slowakije. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Juraj Jánošík gehört zur Folklore von Slowakei. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -17371,10 +17371,10 @@ const LEGENDS_BANK=[
       "de": "Slowakei"
     },
     "explanation": {
-      "fr": "Le dragon des Tatras fait partie du patrimoine légendaire de Slovaquie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The dragon of the Tatras is part of the legendary heritage of Slovakia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De draak van de Tatra behoort tot het legendarische erfgoed van Slowakije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Drache der Tatra gehört zum legendären Erbe von Slowakei. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le dragon des Tatras appartient au folklore de Slovaquie. Le dragon représente une force dangereuse associée aux montagnes, aux villes ou aux trésors. Le vaincre demande souvent plus de ruse que de simple force physique.",
+      "en": "The dragon of the Tatras belongs to the folklore of Slovakia. The dragon represents a dangerous force linked to mountains, cities or treasures. Defeating it often requires cleverness rather than brute strength.",
+      "nl": "De draak van de Tatra behoort tot de folklore van Slowakije. De draak staat voor een gevaarlijke kracht die verbonden is met bergen, steden of schatten. Hem verslaan vraagt vaak meer sluwheid dan brute kracht.",
+      "de": "Der Drache der Tatra gehört zur Folklore von Slowakei. Der Drache steht für eine gefährliche Kraft, die mit Bergen, Städten oder Schätzen verbunden ist. Ihn zu besiegen verlangt oft eher Klugheit als rohe Kraft."
     },
     "questionType": "country",
     "image": null
@@ -17446,10 +17446,10 @@ const LEGENDS_BANK=[
       "de": "Ein Drache oder monströses Wesen der Folklore"
     },
     "explanation": {
-      "fr": "Le dragon des Tatras fait partie du patrimoine légendaire de Slovaquie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The dragon of the Tatras is part of the legendary heritage of Slovakia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De draak van de Tatra behoort tot het legendarische erfgoed van Slowakije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Drache der Tatra gehört zum legendären Erbe von Slowakei. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le dragon des Tatras appartient au folklore de Slovaquie. Le dragon représente une force dangereuse associée aux montagnes, aux villes ou aux trésors. Le vaincre demande souvent plus de ruse que de simple force physique.",
+      "en": "The dragon of the Tatras belongs to the folklore of Slovakia. The dragon represents a dangerous force linked to mountains, cities or treasures. Defeating it often requires cleverness rather than brute strength.",
+      "nl": "De draak van de Tatra behoort tot de folklore van Slowakije. De draak staat voor een gevaarlijke kracht die verbonden is met bergen, steden of schatten. Hem verslaan vraagt vaak meer sluwheid dan brute kracht.",
+      "de": "Der Drache der Tatra gehört zur Folklore von Slowakei. Der Drache steht für eine gefährliche Kraft, die mit Bergen, Städten oder Schätzen verbunden ist. Ihn zu besiegen verlangt oft eher Klugheit als rohe Kraft."
     },
     "questionType": "what",
     "image": null
@@ -17521,10 +17521,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Le dragon des Tatras fait partie du patrimoine légendaire de Slovaquie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The dragon of the Tatras is part of the legendary heritage of Slovakia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De draak van de Tatra behoort tot het legendarische erfgoed van Slowakije. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Der Drache der Tatra gehört zum legendären Erbe von Slowakei. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Le dragon des Tatras appartient au folklore de Slovaquie. Le dragon représente une force dangereuse associée aux montagnes, aux villes ou aux trésors. Le vaincre demande souvent plus de ruse que de simple force physique.",
+      "en": "The dragon of the Tatras belongs to the folklore of Slovakia. The dragon represents a dangerous force linked to mountains, cities or treasures. Defeating it often requires cleverness rather than brute strength.",
+      "nl": "De draak van de Tatra behoort tot de folklore van Slowakije. De draak staat voor een gevaarlijke kracht die verbonden is met bergen, steden of schatten. Hem verslaan vraagt vaak meer sluwheid dan brute kracht.",
+      "de": "Der Drache der Tatra gehört zur Folklore von Slowakei. Der Drache steht für eine gefährliche Kraft, die mit Bergen, Städten oder Schätzen verbunden ist. Ihn zu besiegen verlangt oft eher Klugheit als rohe Kraft."
     },
     "questionType": "truefalse",
     "image": null
@@ -17596,10 +17596,10 @@ const LEGENDS_BANK=[
       "de": "Slowenien"
     },
     "explanation": {
-      "fr": "Zlatorog fait partie du patrimoine légendaire de Slovénie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Zlatorog is part of the legendary heritage of Slovenia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Zlatorog gehört zum legendären Erbe von Slowenien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Zlatorog est un bouquetin mythique aux cornes d’or associé aux Alpes juliennes. Il garde un trésor caché et symbolise à la fois la beauté fragile de la montagne et la cupidité humaine.",
+      "en": "Zlatorog is a mythical ibex with golden horns linked to the Julian Alps. It guards a hidden treasure and symbolises both the fragile beauty of the mountains and human greed.",
+      "nl": "Zlatorog is een mythische steenbok met gouden hoorns uit de Julische Alpen. Hij bewaakt een verborgen schat en symboliseert zowel de kwetsbare bergnatuur als menselijke hebzucht.",
+      "de": "Zlatorog ist ein mythischer Steinbock mit goldenen Hörnern aus den Julischen Alpen. Er bewacht einen verborgenen Schatz und steht für Bergschönheit und menschliche Gier."
     },
     "questionType": "country",
     "image": null
@@ -17671,10 +17671,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Zlatorog fait partie du patrimoine légendaire de Slovénie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Zlatorog is part of the legendary heritage of Slovenia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Zlatorog gehört zum legendären Erbe von Slowenien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Zlatorog est un bouquetin mythique aux cornes d’or associé aux Alpes juliennes. Il garde un trésor caché et symbolise à la fois la beauté fragile de la montagne et la cupidité humaine.",
+      "en": "Zlatorog is a mythical ibex with golden horns linked to the Julian Alps. It guards a hidden treasure and symbolises both the fragile beauty of the mountains and human greed.",
+      "nl": "Zlatorog is een mythische steenbok met gouden hoorns uit de Julische Alpen. Hij bewaakt een verborgen schat en symboliseert zowel de kwetsbare bergnatuur als menselijke hebzucht.",
+      "de": "Zlatorog ist ein mythischer Steinbock mit goldenen Hörnern aus den Julischen Alpen. Er bewacht einen verborgenen Schatz und steht für Bergschönheit und menschliche Gier."
     },
     "questionType": "what",
     "image": null
@@ -17746,10 +17746,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Zlatorog fait partie du patrimoine légendaire de Slovénie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Zlatorog is part of the legendary heritage of Slovenia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Zlatorog gehört zum legendären Erbe von Slowenien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Zlatorog est un bouquetin mythique aux cornes d’or associé aux Alpes juliennes. Il garde un trésor caché et symbolise à la fois la beauté fragile de la montagne et la cupidité humaine.",
+      "en": "Zlatorog is a mythical ibex with golden horns linked to the Julian Alps. It guards a hidden treasure and symbolises both the fragile beauty of the mountains and human greed.",
+      "nl": "Zlatorog is een mythische steenbok met gouden hoorns uit de Julische Alpen. Hij bewaakt een verborgen schat en symboliseert zowel de kwetsbare bergnatuur als menselijke hebzucht.",
+      "de": "Zlatorog ist ein mythischer Steinbock mit goldenen Hörnern aus den Julischen Alpen. Er bewacht einen verborgenen Schatz und steht für Bergschönheit und menschliche Gier."
     },
     "questionType": "truefalse",
     "image": null
@@ -17821,10 +17821,10 @@ const LEGENDS_BANK=[
       "de": "Slowenien"
     },
     "explanation": {
-      "fr": "Kurent fait partie du patrimoine légendaire de Slovénie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Kurent is part of the legendary heritage of Slovenia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Kurent gehört zum legendären Erbe von Slowenien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Kurent appartient au folklore de Slovénie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Kurent belongs to the folklore of Slovenia. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Kurent behoort tot de folklore van Slovenië. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Kurent gehört zur Folklore von Slowenien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -17896,10 +17896,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Kurent fait partie du patrimoine légendaire de Slovénie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Kurent is part of the legendary heritage of Slovenia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Kurent gehört zum legendären Erbe von Slowenien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Kurent appartient au folklore de Slovénie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Kurent belongs to the folklore of Slovenia. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Kurent behoort tot de folklore van Slovenië. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Kurent gehört zur Folklore von Slowenien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -17971,10 +17971,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Kurent fait partie du patrimoine légendaire de Slovénie. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Kurent is part of the legendary heritage of Slovenia. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Kurent gehört zum legendären Erbe von Slowenien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Kurent appartient au folklore de Slovénie. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Kurent belongs to the folklore of Slovenia. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Kurent behoort tot de folklore van Slovenië. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Kurent gehört zur Folklore von Slowenien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -18046,10 +18046,10 @@ const LEGENDS_BANK=[
       "de": "Spanien"
     },
     "explanation": {
-      "fr": "La Santa Compaña fait partie du patrimoine légendaire de Espagne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "La Santa Compaña is part of the legendary heritage of Spain. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "La Santa Compaña gehört zum legendären Erbe von Spanien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Santa Compaña appartient au folklore de Espagne. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "La Santa Compaña belongs to the folklore of Spain. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "La Santa Compaña behoort tot de folklore van Spanje. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "La Santa Compaña gehört zur Folklore von Spanien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -18121,10 +18121,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "La Santa Compaña fait partie du patrimoine légendaire de Espagne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "La Santa Compaña is part of the legendary heritage of Spain. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "La Santa Compaña gehört zum legendären Erbe von Spanien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Santa Compaña appartient au folklore de Espagne. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "La Santa Compaña belongs to the folklore of Spain. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "La Santa Compaña behoort tot de folklore van Spanje. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "La Santa Compaña gehört zur Folklore von Spanien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -18196,10 +18196,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "La Santa Compaña fait partie du patrimoine légendaire de Espagne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "La Santa Compaña is part of the legendary heritage of Spain. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "La Santa Compaña gehört zum legendären Erbe von Spanien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Santa Compaña appartient au folklore de Espagne. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "La Santa Compaña belongs to the folklore of Spain. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "La Santa Compaña behoort tot de folklore van Spanje. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "La Santa Compaña gehört zur Folklore von Spanien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -18271,10 +18271,10 @@ const LEGENDS_BANK=[
       "de": "Spanien"
     },
     "explanation": {
-      "fr": "La Dama de Elche fait partie du patrimoine légendaire de Espagne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Lady of Elche is part of the legendary heritage of Spain. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Dame van Elche behoort tot het legendarische erfgoed van Spanje. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Dame von Elche gehört zum legendären Erbe von Spanien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Dama de Elche appartient au folklore de Espagne. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Lady of Elche belongs to the folklore of Spain. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De Dame van Elche behoort tot de folklore van Spanje. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Die Dame von Elche gehört zur Folklore von Spanien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -18346,10 +18346,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "La Dama de Elche fait partie du patrimoine légendaire de Espagne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Lady of Elche is part of the legendary heritage of Spain. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Dame van Elche behoort tot het legendarische erfgoed van Spanje. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Dame von Elche gehört zum legendären Erbe von Spanien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Dama de Elche appartient au folklore de Espagne. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Lady of Elche belongs to the folklore of Spain. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De Dame van Elche behoort tot de folklore van Spanje. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Die Dame von Elche gehört zur Folklore von Spanien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -18421,10 +18421,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "La Dama de Elche fait partie du patrimoine légendaire de Espagne. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "The Lady of Elche is part of the legendary heritage of Spain. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "De Dame van Elche behoort tot het legendarische erfgoed van Spanje. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Die Dame von Elche gehört zum legendären Erbe von Spanien. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "La Dama de Elche appartient au folklore de Espagne. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "The Lady of Elche belongs to the folklore of Spain. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "De Dame van Elche behoort tot de folklore van Spanje. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Die Dame von Elche gehört zur Folklore von Spanien. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null
@@ -18496,10 +18496,10 @@ const LEGENDS_BANK=[
       "de": "Schweden"
     },
     "explanation": {
-      "fr": "Näcken fait partie du patrimoine légendaire de Suède. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Näcken is part of the legendary heritage of Sweden. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Näcken behoort tot het legendarische erfgoed van Zweden. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Näcken gehört zum legendären Erbe von Schweden. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Näcken est un esprit des eaux connu pour jouer du violon près des rivières et des lacs. Sa musique est belle mais dangereuse, car elle attire les voyageurs trop près de l’eau.",
+      "en": "Näcken is a water spirit known for playing the violin near rivers and lakes. The music is beautiful but dangerous, drawing travellers too close to the water.",
+      "nl": "Näcken is een watergeest die viool speelt bij rivieren en meren. De muziek is mooi maar gevaarlijk, omdat reizigers te dicht bij het water worden gelokt.",
+      "de": "Näcken ist ein Wassergeist, der an Flüssen und Seen Geige spielt. Seine Musik ist schön, aber gefährlich, weil sie Menschen zu nah ans Wasser lockt."
     },
     "questionType": "country",
     "image": null
@@ -18571,10 +18571,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Näcken fait partie du patrimoine légendaire de Suède. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Näcken is part of the legendary heritage of Sweden. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Näcken behoort tot het legendarische erfgoed van Zweden. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Näcken gehört zum legendären Erbe von Schweden. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Näcken est un esprit des eaux connu pour jouer du violon près des rivières et des lacs. Sa musique est belle mais dangereuse, car elle attire les voyageurs trop près de l’eau.",
+      "en": "Näcken is a water spirit known for playing the violin near rivers and lakes. The music is beautiful but dangerous, drawing travellers too close to the water.",
+      "nl": "Näcken is een watergeest die viool speelt bij rivieren en meren. De muziek is mooi maar gevaarlijk, omdat reizigers te dicht bij het water worden gelokt.",
+      "de": "Näcken ist ein Wassergeist, der an Flüssen und Seen Geige spielt. Seine Musik ist schön, aber gefährlich, weil sie Menschen zu nah ans Wasser lockt."
     },
     "questionType": "what",
     "image": null
@@ -18646,10 +18646,10 @@ const LEGENDS_BANK=[
       "de": "Falsch"
     },
     "explanation": {
-      "fr": "Näcken fait partie du patrimoine légendaire de Suède. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Näcken is part of the legendary heritage of Sweden. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Näcken behoort tot het legendarische erfgoed van Zweden. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Näcken gehört zum legendären Erbe von Schweden. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Näcken est un esprit des eaux connu pour jouer du violon près des rivières et des lacs. Sa musique est belle mais dangereuse, car elle attire les voyageurs trop près de l’eau.",
+      "en": "Näcken is a water spirit known for playing the violin near rivers and lakes. The music is beautiful but dangerous, drawing travellers too close to the water.",
+      "nl": "Näcken is een watergeest die viool speelt bij rivieren en meren. De muziek is mooi maar gevaarlijk, omdat reizigers te dicht bij het water worden gelokt.",
+      "de": "Näcken ist ein Wassergeist, der an Flüssen und Seen Geige spielt. Seine Musik ist schön, aber gefährlich, weil sie Menschen zu nah ans Wasser lockt."
     },
     "questionType": "truefalse",
     "image": null
@@ -18721,10 +18721,10 @@ const LEGENDS_BANK=[
       "de": "Schweden"
     },
     "explanation": {
-      "fr": "Tomte fait partie du patrimoine légendaire de Suède. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Tomte is part of the legendary heritage of Sweden. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Tomte behoort tot het legendarische erfgoed van Zweden. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Tomte gehört zum legendären Erbe von Schweden. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Tomte appartient au folklore de Suède. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Tomte belongs to the folklore of Sweden. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Tomte behoort tot de folklore van Zweden. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Tomte gehört zur Folklore von Schweden. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "country",
     "image": null
@@ -18796,10 +18796,10 @@ const LEGENDS_BANK=[
       "de": "Eine Legende, Gestalt oder Kreatur der europäischen Folklore"
     },
     "explanation": {
-      "fr": "Tomte fait partie du patrimoine légendaire de Suède. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Tomte is part of the legendary heritage of Sweden. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Tomte behoort tot het legendarische erfgoed van Zweden. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Tomte gehört zum legendären Erbe von Schweden. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Tomte appartient au folklore de Suède. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Tomte belongs to the folklore of Sweden. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Tomte behoort tot de folklore van Zweden. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Tomte gehört zur Folklore von Schweden. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "what",
     "image": null
@@ -18871,10 +18871,10 @@ const LEGENDS_BANK=[
       "de": "Richtig"
     },
     "explanation": {
-      "fr": "Tomte fait partie du patrimoine légendaire de Suède. Cette légende explore l’imaginaire européen à travers des héros, créatures, superstitions locales ou récits transmis par la tradition orale.",
-      "en": "Tomte is part of the legendary heritage of Sweden. This legend explores the European imagination through heroes, creatures, local superstitions or stories passed down through oral tradition.",
-      "nl": "Tomte behoort tot het legendarische erfgoed van Zweden. Deze legende verkent de Europese verbeelding via helden, wezens, lokale bijgeloven of mondeling overgeleverde verhalen.",
-      "de": "Tomte gehört zum legendären Erbe von Schweden. Diese Legende erkundet die europäische Vorstellungswelt durch Heldengestalten, geheimnisvolle Wesen, lokale Aberglauben oder mündlich überlieferte Geschichten."
+      "fr": "Tomte appartient au folklore de Suède. Cette légende est liée à des lieux, des rites ou des personnages très identifiables. Elle donne une couleur locale forte et aide à comprendre comment une communauté raconte son passé.",
+      "en": "Tomte belongs to the folklore of Sweden. This legend is tied to recognisable places, rituals or characters. It gives strong local colour and shows how a community tells its past.",
+      "nl": "Tomte behoort tot de folklore van Zweden. Deze legende is verbonden met herkenbare plaatsen, rituelen of personages. Ze geeft veel lokale kleur en toont hoe een gemeenschap haar verleden vertelt.",
+      "de": "Tomte gehört zur Folklore von Schweden. Diese Legende ist mit erkennbaren Orten, Riten oder Figuren verbunden. Sie verleiht lokale Farbe und zeigt, wie eine Gemeinschaft ihre Vergangenheit erzählt."
     },
     "questionType": "truefalse",
     "image": null

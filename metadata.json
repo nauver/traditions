@@ -1,5 +1,5 @@
 {
-  "version": "V10.2_final_images_restored",
+  "version": "V10.3_unique_legend_descriptions",
   "languages": [
     "fr",
     "en",
@@ -12,5 +12,5 @@
   "legendQuestions": 162,
   "legendSubjects": 54,
   "quizLength": 10,
-  "updated": "2026-07-01T14:55:36.586871+00:00"
+  "updated": "2026-07-01T15:13:47.741326+00:00"
 }

@@ -1,1 +1,1 @@
-V10.2 final: culinary images restored, 4 languages, translated title, correct logo, mixed legend question types, no duplicate legend subjects in one session.
+V10.3: unique legend descriptions, no repeated generic phrase, culinary images restored, 4 languages.

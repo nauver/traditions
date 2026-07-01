@@ -1,8 +1,9 @@
 {
-  "version": "V9.1_flags_timer_pulse",
+  "version": "V9.2_logo_flags_zoom_timer_up_legend_descriptions",
   "traditionsPool": 30,
   "culinaryPool": 50,
   "legendsPool": 54,
   "quizLength": 10,
-  "updated": "2026-07-01T13:34:47.417231+00:00"
+  "logoSource": "image.png",
+  "updated": "2026-07-01T13:56:45.633193+00:00"
 }

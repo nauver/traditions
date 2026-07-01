@@ -5583,9 +5583,9 @@ const LEGENDS_54=[
       "nl": "Oostenrijk"
     },
     "explanation": {
-      "fr": "Krampus appartient au patrimoine légendaire de Autriche.",
-      "en": "Krampus belongs to the legendary heritage of Austria.",
-      "nl": "Krampus behoort tot het legendarische erfgoed van Oostenrijk."
+      "fr": "Krampus est une figure ou un récit du folklore de Autriche. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Krampus is a figure or story from the folklore of Austria. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Krampus is een figuur of verhaal uit de folklore van Oostenrijk. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -5644,9 +5644,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Perchta appartient au patrimoine légendaire de Autriche.",
-      "en": "Perchta belongs to the legendary heritage of Austria.",
-      "nl": "Perchta behoort tot het legendarische erfgoed van Oostenrijk."
+      "fr": "Perchta est une figure ou un récit du folklore de Autriche. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Perchta is a figure or story from the folklore of Austria. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Perchta is een figuur of verhaal uit de folklore van Oostenrijk. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -5705,9 +5705,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Bayard, le cheval magique appartient au patrimoine légendaire de Belgique.",
-      "en": "Bayard, the magical horse belongs to the legendary heritage of Belgium.",
-      "nl": "Bayard, het magische paard behoort tot het legendarische erfgoed van België."
+      "fr": "Bayard, le cheval magique est une figure ou un récit du folklore de Belgique. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Bayard, the magical horse is a figure or story from the folklore of Belgium. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Bayard, het magische paard is een figuur of verhaal uit de folklore van België. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -5766,9 +5766,9 @@ const LEGENDS_54=[
       "nl": "België"
     },
     "explanation": {
-      "fr": "Les Nutons appartient au patrimoine légendaire de Belgique.",
-      "en": "The Nutons belongs to the legendary heritage of Belgium.",
-      "nl": "De Nutons behoort tot het legendarische erfgoed van België."
+      "fr": "Les Nutons est une figure ou un récit du folklore de Belgique. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The Nutons is a figure or story from the folklore of Belgium. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De Nutons is een figuur of verhaal uit de folklore van België. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -5827,9 +5827,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Samodiva appartient au patrimoine légendaire de Bulgarie.",
-      "en": "Samodiva belongs to the legendary heritage of Bulgaria.",
-      "nl": "Samodiva behoort tot het legendarische erfgoed van Bulgarije."
+      "fr": "Samodiva est une figure ou un récit du folklore de Bulgarie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Samodiva is a figure or story from the folklore of Bulgaria. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Samodiva is een figuur of verhaal uit de folklore van Bulgarije. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -5888,9 +5888,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Zmey appartient au patrimoine légendaire de Bulgarie.",
-      "en": "Zmey belongs to the legendary heritage of Bulgaria.",
-      "nl": "Zmey behoort tot het legendarische erfgoed van Bulgarije."
+      "fr": "Zmey est une figure ou un récit du folklore de Bulgarie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Zmey is a figure or story from the folklore of Bulgaria. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Zmey is een figuur of verhaal uit de folklore van Bulgarije. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -5949,9 +5949,9 @@ const LEGENDS_54=[
       "nl": "Kroatië"
     },
     "explanation": {
-      "fr": "La Sorcière de Zagreb appartient au patrimoine légendaire de Croatie.",
-      "en": "The Witch of Zagreb belongs to the legendary heritage of Croatia.",
-      "nl": "De heks van Zagreb behoort tot het legendarische erfgoed van Kroatië."
+      "fr": "La Sorcière de Zagreb est une figure ou un récit du folklore de Croatie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The Witch of Zagreb is a figure or story from the folklore of Croatia. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De heks van Zagreb is een figuur of verhaal uit de folklore van Kroatië. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6010,9 +6010,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Veli Jože appartient au patrimoine légendaire de Croatie.",
-      "en": "Veli Jože belongs to the legendary heritage of Croatia.",
-      "nl": "Veli Jože behoort tot het legendarische erfgoed van Kroatië."
+      "fr": "Veli Jože est une figure ou un récit du folklore de Croatie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Veli Jože is a figure or story from the folklore of Croatia. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Veli Jože is een figuur of verhaal uit de folklore van Kroatië. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6071,9 +6071,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Aphrodite née de l’écume appartient au patrimoine légendaire de Chypre.",
-      "en": "Aphrodite born from the sea foam belongs to the legendary heritage of Cyprus.",
-      "nl": "Aphrodite geboren uit het zeeschuim behoort tot het legendarische erfgoed van Cyprus."
+      "fr": "Aphrodite née de l’écume est une figure ou un récit du folklore de Chypre. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Aphrodite born from the sea foam is a figure or story from the folklore of Cyprus. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Aphrodite geboren uit het zeeschuim is een figuur of verhaal uit de folklore van Cyprus. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6132,9 +6132,9 @@ const LEGENDS_54=[
       "nl": "Cyprus"
     },
     "explanation": {
-      "fr": "Digenis Akritas appartient au patrimoine légendaire de Chypre.",
-      "en": "Digenis Akritas belongs to the legendary heritage of Cyprus.",
-      "nl": "Digenis Akritas behoort tot het legendarische erfgoed van Cyprus."
+      "fr": "Digenis Akritas est une figure ou un récit du folklore de Chypre. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Digenis Akritas is a figure or story from the folklore of Cyprus. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Digenis Akritas is een figuur of verhaal uit de folklore van Cyprus. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6193,9 +6193,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Le Golem de Prague appartient au patrimoine légendaire de Tchéquie.",
-      "en": "The Golem of Prague belongs to the legendary heritage of Czechia.",
-      "nl": "De Golem van Praag behoort tot het legendarische erfgoed van Tsjechië."
+      "fr": "Le Golem de Prague est une figure ou un récit du folklore de Tchéquie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The Golem of Prague is a figure or story from the folklore of Czechia. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De Golem van Praag is een figuur of verhaal uit de folklore van Tsjechië. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6254,9 +6254,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Vodník appartient au patrimoine légendaire de Tchéquie.",
-      "en": "Vodník belongs to the legendary heritage of Czechia.",
-      "nl": "Vodník behoort tot het legendarische erfgoed van Tsjechië."
+      "fr": "Vodník est une figure ou un récit du folklore de Tchéquie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Vodník is a figure or story from the folklore of Czechia. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Vodník is een figuur of verhaal uit de folklore van Tsjechië. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6315,9 +6315,9 @@ const LEGENDS_54=[
       "nl": "Denemarken"
     },
     "explanation": {
-      "fr": "Holger Danske appartient au patrimoine légendaire de Danemark.",
-      "en": "Holger Danske belongs to the legendary heritage of Denmark.",
-      "nl": "Holger Danske behoort tot het legendarische erfgoed van Denemarken."
+      "fr": "Holger Danske est une figure ou un récit du folklore de Danemark. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Holger Danske is a figure or story from the folklore of Denmark. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Holger Danske is een figuur of verhaal uit de folklore van Denemarken. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6376,9 +6376,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "La Dame de la mer appartient au patrimoine légendaire de Danemark.",
-      "en": "The Lady of the Sea belongs to the legendary heritage of Denmark.",
-      "nl": "De Vrouw van de Zee behoort tot het legendarische erfgoed van Denemarken."
+      "fr": "La Dame de la mer est une figure ou un récit du folklore de Danemark. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The Lady of the Sea is a figure or story from the folklore of Denmark. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De Vrouw van de Zee is een figuur of verhaal uit de folklore van Denemarken. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6437,9 +6437,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Kalevipoeg appartient au patrimoine légendaire de Estonie.",
-      "en": "Kalevipoeg belongs to the legendary heritage of Estonia.",
-      "nl": "Kalevipoeg behoort tot het legendarische erfgoed van Estland."
+      "fr": "Kalevipoeg est une figure ou un récit du folklore de Estonie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Kalevipoeg is a figure or story from the folklore of Estonia. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Kalevipoeg is een figuur of verhaal uit de folklore van Estland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6498,9 +6498,9 @@ const LEGENDS_54=[
       "nl": "Estland"
     },
     "explanation": {
-      "fr": "Le trésor du lac Ülemiste appartient au patrimoine légendaire de Estonie.",
-      "en": "The treasure of Lake Ülemiste belongs to the legendary heritage of Estonia.",
-      "nl": "De schat van het Ülemistemeer behoort tot het legendarische erfgoed van Estland."
+      "fr": "Le trésor du lac Ülemiste est une figure ou un récit du folklore de Estonie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The treasure of Lake Ülemiste is a figure or story from the folklore of Estonia. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De schat van het Ülemistemeer is een figuur of verhaal uit de folklore van Estland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6559,9 +6559,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Väinämöinen appartient au patrimoine légendaire de Finlande.",
-      "en": "Väinämöinen belongs to the legendary heritage of Finland.",
-      "nl": "Väinämöinen behoort tot het legendarische erfgoed van Finland."
+      "fr": "Väinämöinen est une figure ou un récit du folklore de Finlande. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Väinämöinen is a figure or story from the folklore of Finland. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Väinämöinen is een figuur of verhaal uit de folklore van Finland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6620,9 +6620,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Hiisi appartient au patrimoine légendaire de Finlande.",
-      "en": "Hiisi belongs to the legendary heritage of Finland.",
-      "nl": "Hiisi behoort tot het legendarische erfgoed van Finland."
+      "fr": "Hiisi est une figure ou un récit du folklore de Finlande. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Hiisi is a figure or story from the folklore of Finland. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Hiisi is een figuur of verhaal uit de folklore van Finland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6681,9 +6681,9 @@ const LEGENDS_54=[
       "nl": "Frankrijk"
     },
     "explanation": {
-      "fr": "Mélusine appartient au patrimoine légendaire de France.",
-      "en": "Melusine belongs to the legendary heritage of France.",
-      "nl": "Melusine behoort tot het legendarische erfgoed van Frankrijk."
+      "fr": "Mélusine est une figure ou un récit du folklore de France. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Melusine is a figure or story from the folklore of France. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Melusine is een figuur of verhaal uit de folklore van Frankrijk. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6742,9 +6742,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "La Bête du Gévaudan appartient au patrimoine légendaire de France.",
-      "en": "The Beast of Gévaudan belongs to the legendary heritage of France.",
-      "nl": "Het Beest van Gévaudan behoort tot het legendarische erfgoed van Frankrijk."
+      "fr": "La Bête du Gévaudan est une figure ou un récit du folklore de France. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The Beast of Gévaudan is a figure or story from the folklore of France. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Het Beest van Gévaudan is een figuur of verhaal uit de folklore van Frankrijk. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6803,9 +6803,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Lorelei appartient au patrimoine légendaire de Allemagne.",
-      "en": "Lorelei belongs to the legendary heritage of Germany.",
-      "nl": "Lorelei behoort tot het legendarische erfgoed van Duitsland."
+      "fr": "Lorelei est une figure ou un récit du folklore de Allemagne. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Lorelei is a figure or story from the folklore of Germany. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Lorelei is een figuur of verhaal uit de folklore van Duitsland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6864,9 +6864,9 @@ const LEGENDS_54=[
       "nl": "Duitsland"
     },
     "explanation": {
-      "fr": "Le joueur de flûte de Hamelin appartient au patrimoine légendaire de Allemagne.",
-      "en": "The Pied Piper of Hamelin belongs to the legendary heritage of Germany.",
-      "nl": "De rattenvanger van Hamelen behoort tot het legendarische erfgoed van Duitsland."
+      "fr": "Le joueur de flûte de Hamelin est une figure ou un récit du folklore de Allemagne. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The Pied Piper of Hamelin is a figure or story from the folklore of Germany. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De rattenvanger van Hamelen is een figuur of verhaal uit de folklore van Duitsland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6925,9 +6925,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Méduse appartient au patrimoine légendaire de Grèce.",
-      "en": "Medusa belongs to the legendary heritage of Greece.",
-      "nl": "Medusa behoort tot het legendarische erfgoed van Griekenland."
+      "fr": "Méduse est une figure ou un récit du folklore de Grèce. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Medusa is a figure or story from the folklore of Greece. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Medusa is een figuur of verhaal uit de folklore van Griekenland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -6986,9 +6986,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Minotaure appartient au patrimoine légendaire de Grèce.",
-      "en": "Minotaur belongs to the legendary heritage of Greece.",
-      "nl": "Minotaurus behoort tot het legendarische erfgoed van Griekenland."
+      "fr": "Minotaure est une figure ou un récit du folklore de Grèce. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Minotaur is a figure or story from the folklore of Greece. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Minotaurus is een figuur of verhaal uit de folklore van Griekenland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7047,9 +7047,9 @@ const LEGENDS_54=[
       "nl": "Hongarije"
     },
     "explanation": {
-      "fr": "Turul appartient au patrimoine légendaire de Hongrie.",
-      "en": "Turul belongs to the legendary heritage of Hungary.",
-      "nl": "Turul behoort tot het legendarische erfgoed van Hongarije."
+      "fr": "Turul est une figure ou un récit du folklore de Hongrie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Turul is a figure or story from the folklore of Hungary. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Turul is een figuur of verhaal uit de folklore van Hongarije. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7108,9 +7108,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Csodaszarvas, le cerf miraculeux appartient au patrimoine légendaire de Hongrie.",
-      "en": "Csodaszarvas, the miraculous stag belongs to the legendary heritage of Hungary.",
-      "nl": "Csodaszarvas, het wonderhert behoort tot het legendarische erfgoed van Hongarije."
+      "fr": "Csodaszarvas, le cerf miraculeux est une figure ou un récit du folklore de Hongrie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Csodaszarvas, the miraculous stag is a figure or story from the folklore of Hungary. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Csodaszarvas, het wonderhert is een figuur of verhaal uit de folklore van Hongarije. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7169,9 +7169,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Banshee appartient au patrimoine légendaire de Irlande.",
-      "en": "Banshee belongs to the legendary heritage of Ireland.",
-      "nl": "Banshee behoort tot het legendarische erfgoed van Ierland."
+      "fr": "Banshee est une figure ou un récit du folklore de Irlande. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Banshee is a figure or story from the folklore of Ireland. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Banshee is een figuur of verhaal uit de folklore van Ierland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7230,9 +7230,9 @@ const LEGENDS_54=[
       "nl": "Ierland"
     },
     "explanation": {
-      "fr": "Leprechaun appartient au patrimoine légendaire de Irlande.",
-      "en": "Leprechaun belongs to the legendary heritage of Ireland.",
-      "nl": "Leprechaun behoort tot het legendarische erfgoed van Ierland."
+      "fr": "Leprechaun est une figure ou un récit du folklore de Irlande. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Leprechaun is a figure or story from the folklore of Ireland. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Leprechaun is een figuur of verhaal uit de folklore van Ierland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7291,9 +7291,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "La Befana appartient au patrimoine légendaire de Italie.",
-      "en": "La Befana belongs to the legendary heritage of Italy.",
-      "nl": "La Befana behoort tot het legendarische erfgoed van Italië."
+      "fr": "La Befana est une figure ou un récit du folklore de Italie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "La Befana is a figure or story from the folklore of Italy. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "La Befana is een figuur of verhaal uit de folklore van Italië. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7352,9 +7352,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Colapesce appartient au patrimoine légendaire de Italie.",
-      "en": "Colapesce belongs to the legendary heritage of Italy.",
-      "nl": "Colapesce behoort tot het legendarische erfgoed van Italië."
+      "fr": "Colapesce est une figure ou un récit du folklore de Italie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Colapesce is a figure or story from the folklore of Italy. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Colapesce is een figuur of verhaal uit de folklore van Italië. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7413,9 +7413,9 @@ const LEGENDS_54=[
       "nl": "Letland"
     },
     "explanation": {
-      "fr": "Lāčplēsis appartient au patrimoine légendaire de Lettonie.",
-      "en": "Lāčplēsis belongs to the legendary heritage of Latvia.",
-      "nl": "Lāčplēsis behoort tot het legendarische erfgoed van Letland."
+      "fr": "Lāčplēsis est une figure ou un récit du folklore de Lettonie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Lāčplēsis is a figure or story from the folklore of Latvia. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Lāčplēsis is een figuur of verhaal uit de folklore van Letland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7474,9 +7474,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Lauma appartient au patrimoine légendaire de Lettonie.",
-      "en": "Lauma belongs to the legendary heritage of Latvia.",
-      "nl": "Lauma behoort tot het legendarische erfgoed van Letland."
+      "fr": "Lauma est une figure ou un récit du folklore de Lettonie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Lauma is a figure or story from the folklore of Latvia. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Lauma is een figuur of verhaal uit de folklore van Letland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7535,9 +7535,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Eglė, reine des serpents appartient au patrimoine légendaire de Lituanie.",
-      "en": "Eglė, Queen of Serpents belongs to the legendary heritage of Lithuania.",
-      "nl": "Eglė, koningin van de slangen behoort tot het legendarische erfgoed van Litouwen."
+      "fr": "Eglė, reine des serpents est une figure ou un récit du folklore de Lituanie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Eglė, Queen of Serpents is a figure or story from the folklore of Lithuania. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Eglė, koningin van de slangen is een figuur of verhaal uit de folklore van Litouwen. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7596,9 +7596,9 @@ const LEGENDS_54=[
       "nl": "Litouwen"
     },
     "explanation": {
-      "fr": "Jūratė et Kastytis appartient au patrimoine légendaire de Lituanie.",
-      "en": "Jūratė and Kastytis belongs to the legendary heritage of Lithuania.",
-      "nl": "Jūratė en Kastytis behoort tot het legendarische erfgoed van Litouwen."
+      "fr": "Jūratė et Kastytis est une figure ou un récit du folklore de Lituanie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Jūratė and Kastytis is a figure or story from the folklore of Lithuania. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Jūratė en Kastytis is een figuur of verhaal uit de folklore van Litouwen. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7657,9 +7657,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Mélusine de Luxembourg appartient au patrimoine légendaire de Luxembourg.",
-      "en": "Melusine of Luxembourg belongs to the legendary heritage of Luxembourg.",
-      "nl": "Melusine van Luxemburg behoort tot het legendarische erfgoed van Luxemburg."
+      "fr": "Mélusine de Luxembourg est une figure ou un récit du folklore de Luxembourg. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Melusine of Luxembourg is a figure or story from the folklore of Luxembourg. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Melusine van Luxemburg is een figuur of verhaal uit de folklore van Luxemburg. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7718,9 +7718,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Kropemann appartient au patrimoine légendaire de Luxembourg.",
-      "en": "Kropemann belongs to the legendary heritage of Luxembourg.",
-      "nl": "Kropemann behoort tot het legendarische erfgoed van Luxemburg."
+      "fr": "Kropemann est une figure ou un récit du folklore de Luxembourg. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Kropemann is a figure or story from the folklore of Luxembourg. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Kropemann is een figuur of verhaal uit de folklore van Luxemburg. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7779,9 +7779,9 @@ const LEGENDS_54=[
       "nl": "Malta"
     },
     "explanation": {
-      "fr": "Għar Dalam et les géants appartient au patrimoine légendaire de Malte.",
-      "en": "Għar Dalam and the giants belongs to the legendary heritage of Malta.",
-      "nl": "Għar Dalam en de reuzen behoort tot het legendarische erfgoed van Malta."
+      "fr": "Għar Dalam et les géants est une figure ou un récit du folklore de Malte. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Għar Dalam and the giants is a figure or story from the folklore of Malta. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Għar Dalam en de reuzen is een figuur of verhaal uit de folklore van Malta. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7840,9 +7840,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Il-Maqluba appartient au patrimoine légendaire de Malte.",
-      "en": "Il-Maqluba belongs to the legendary heritage of Malta.",
-      "nl": "Il-Maqluba behoort tot het legendarische erfgoed van Malta."
+      "fr": "Il-Maqluba est une figure ou un récit du folklore de Malte. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Il-Maqluba is a figure or story from the folklore of Malta. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Il-Maqluba is een figuur of verhaal uit de folklore van Malta. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7901,9 +7901,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Le Hollandais volant appartient au patrimoine légendaire de Pays-Bas.",
-      "en": "The Flying Dutchman belongs to the legendary heritage of Netherlands.",
-      "nl": "De Vliegende Hollander behoort tot het legendarische erfgoed van Nederland."
+      "fr": "Le Hollandais volant est une figure ou un récit du folklore de Pays-Bas. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The Flying Dutchman is a figure or story from the folklore of Netherlands. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De Vliegende Hollander is een figuur of verhaal uit de folklore van Nederland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -7962,9 +7962,9 @@ const LEGENDS_54=[
       "nl": "Nederland"
     },
     "explanation": {
-      "fr": "Les Witte Wieven appartient au patrimoine légendaire de Pays-Bas.",
-      "en": "The Witte Wieven belongs to the legendary heritage of Netherlands.",
-      "nl": "De Witte Wieven behoort tot het legendarische erfgoed van Nederland."
+      "fr": "Les Witte Wieven est une figure ou un récit du folklore de Pays-Bas. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The Witte Wieven is a figure or story from the folklore of Netherlands. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De Witte Wieven is een figuur of verhaal uit de folklore van Nederland. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8023,9 +8023,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Le dragon du Wawel appartient au patrimoine légendaire de Pologne.",
-      "en": "The Wawel Dragon belongs to the legendary heritage of Poland.",
-      "nl": "De Wawel-draak behoort tot het legendarische erfgoed van Polen."
+      "fr": "Le dragon du Wawel est une figure ou un récit du folklore de Pologne. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The Wawel Dragon is a figure or story from the folklore of Poland. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De Wawel-draak is een figuur of verhaal uit de folklore van Polen. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8084,9 +8084,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Basilic de Varsovie appartient au patrimoine légendaire de Pologne.",
-      "en": "The Basilisk of Warsaw belongs to the legendary heritage of Poland.",
-      "nl": "De basilisk van Warschau behoort tot het legendarische erfgoed van Polen."
+      "fr": "Basilic de Varsovie est une figure ou un récit du folklore de Pologne. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The Basilisk of Warsaw is a figure or story from the folklore of Poland. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De basilisk van Warschau is een figuur of verhaal uit de folklore van Polen. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8145,9 +8145,9 @@ const LEGENDS_54=[
       "nl": "Portugal"
     },
     "explanation": {
-      "fr": "Bicho-Papão appartient au patrimoine légendaire de Portugal.",
-      "en": "Bicho-Papão belongs to the legendary heritage of Portugal.",
-      "nl": "Bicho-Papão behoort tot het legendarische erfgoed van Portugal."
+      "fr": "Bicho-Papão est une figure ou un récit du folklore de Portugal. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Bicho-Papão is a figure or story from the folklore of Portugal. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Bicho-Papão is een figuur of verhaal uit de folklore van Portugal. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8206,9 +8206,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Le coq de Barcelos appartient au patrimoine légendaire de Portugal.",
-      "en": "The Rooster of Barcelos belongs to the legendary heritage of Portugal.",
-      "nl": "De haan van Barcelos behoort tot het legendarische erfgoed van Portugal."
+      "fr": "Le coq de Barcelos est une figure ou un récit du folklore de Portugal. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The Rooster of Barcelos is a figure or story from the folklore of Portugal. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De haan van Barcelos is een figuur of verhaal uit de folklore van Portugal. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8267,9 +8267,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Strigoi appartient au patrimoine légendaire de Roumanie.",
-      "en": "Strigoi belongs to the legendary heritage of Romania.",
-      "nl": "Strigoi behoort tot het legendarische erfgoed van Roemenië."
+      "fr": "Strigoi est une figure ou un récit du folklore de Roumanie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Strigoi is a figure or story from the folklore of Romania. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Strigoi is een figuur of verhaal uit de folklore van Roemenië. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8328,9 +8328,9 @@ const LEGENDS_54=[
       "nl": "Roemenië"
     },
     "explanation": {
-      "fr": "Meșterul Manole appartient au patrimoine légendaire de Roumanie.",
-      "en": "Meșterul Manole belongs to the legendary heritage of Romania.",
-      "nl": "Meșterul Manole behoort tot het legendarische erfgoed van Roemenië."
+      "fr": "Meșterul Manole est une figure ou un récit du folklore de Roumanie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Meșterul Manole is a figure or story from the folklore of Romania. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Meșterul Manole is een figuur of verhaal uit de folklore van Roemenië. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8389,9 +8389,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Juraj Jánošík appartient au patrimoine légendaire de Slovaquie.",
-      "en": "Juraj Jánošík belongs to the legendary heritage of Slovakia.",
-      "nl": "Juraj Jánošík behoort tot het legendarische erfgoed van Slowakije."
+      "fr": "Juraj Jánošík est une figure ou un récit du folklore de Slovaquie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Juraj Jánošík is a figure or story from the folklore of Slovakia. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Juraj Jánošík is een figuur of verhaal uit de folklore van Slowakije. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8450,9 +8450,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Le dragon des Tatras appartient au patrimoine légendaire de Slovaquie.",
-      "en": "The dragon of the Tatras belongs to the legendary heritage of Slovakia.",
-      "nl": "De draak van de Tatra behoort tot het legendarische erfgoed van Slowakije."
+      "fr": "Le dragon des Tatras est une figure ou un récit du folklore de Slovaquie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The dragon of the Tatras is a figure or story from the folklore of Slovakia. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De draak van de Tatra is een figuur of verhaal uit de folklore van Slowakije. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8511,9 +8511,9 @@ const LEGENDS_54=[
       "nl": "Slovenië"
     },
     "explanation": {
-      "fr": "Zlatorog appartient au patrimoine légendaire de Slovénie.",
-      "en": "Zlatorog belongs to the legendary heritage of Slovenia.",
-      "nl": "Zlatorog behoort tot het legendarische erfgoed van Slovenië."
+      "fr": "Zlatorog est une figure ou un récit du folklore de Slovénie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Zlatorog is a figure or story from the folklore of Slovenia. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Zlatorog is een figuur of verhaal uit de folklore van Slovenië. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8572,9 +8572,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Kurent appartient au patrimoine légendaire de Slovénie.",
-      "en": "Kurent belongs to the legendary heritage of Slovenia.",
-      "nl": "Kurent behoort tot het legendarische erfgoed van Slovenië."
+      "fr": "Kurent est une figure ou un récit du folklore de Slovénie. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Kurent is a figure or story from the folklore of Slovenia. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Kurent is een figuur of verhaal uit de folklore van Slovenië. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8633,9 +8633,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "La Santa Compaña appartient au patrimoine légendaire de Espagne.",
-      "en": "La Santa Compaña belongs to the legendary heritage of Spain.",
-      "nl": "La Santa Compaña behoort tot het legendarische erfgoed van Spanje."
+      "fr": "La Santa Compaña est une figure ou un récit du folklore de Espagne. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "La Santa Compaña is a figure or story from the folklore of Spain. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "La Santa Compaña is een figuur of verhaal uit de folklore van Spanje. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8694,9 +8694,9 @@ const LEGENDS_54=[
       "nl": "Spanje"
     },
     "explanation": {
-      "fr": "La Dama de Elche appartient au patrimoine légendaire de Espagne.",
-      "en": "The Lady of Elche belongs to the legendary heritage of Spain.",
-      "nl": "De Dame van Elche behoort tot het legendarische erfgoed van Spanje."
+      "fr": "La Dama de Elche est une figure ou un récit du folklore de Espagne. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "The Lady of Elche is a figure or story from the folklore of Spain. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "De Dame van Elche is een figuur of verhaal uit de folklore van Spanje. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8755,9 +8755,9 @@ const LEGENDS_54=[
       "nl": "Waar"
     },
     "explanation": {
-      "fr": "Näcken appartient au patrimoine légendaire de Suède.",
-      "en": "Näcken belongs to the legendary heritage of Sweden.",
-      "nl": "Näcken behoort tot het legendarische erfgoed van Zweden."
+      "fr": "Näcken est une figure ou un récit du folklore de Suède. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Näcken is a figure or story from the folklore of Sweden. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Näcken is een figuur of verhaal uit de folklore van Zweden. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   },
@@ -8816,9 +8816,9 @@ const LEGENDS_54=[
       "nl": "Een legende, figuur of wezen uit de Europese folklore"
     },
     "explanation": {
-      "fr": "Tomte appartient au patrimoine légendaire de Suède.",
-      "en": "Tomte belongs to the legendary heritage of Sweden.",
-      "nl": "Tomte behoort tot het legendarische erfgoed van Zweden."
+      "fr": "Tomte est une figure ou un récit du folklore de Suède. Cette légende met en scène les peurs, les paysages, les croyances ou les valeurs populaires transmis par la tradition orale.",
+      "en": "Tomte is a figure or story from the folklore of Sweden. This legend reflects popular fears, landscapes, beliefs or values passed down through oral tradition.",
+      "nl": "Tomte is een figuur of verhaal uit de folklore van Zweden. Deze legende weerspiegelt volksangsten, landschappen, overtuigingen of waarden die via mondelinge traditie zijn doorgegeven."
     },
     "image": null
   }

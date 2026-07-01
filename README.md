@@ -1,1 +1,1 @@
-V9.2: replaced logo, added flag zoom effect, moved the timer higher, retained pulse from 5 seconds, and added multilingual legend descriptions.
+V10 final: four languages FR/EN/NL/DE.
